@@ -70,6 +70,18 @@ PARAM_DEFINE_INT32(PE_VEL_DELAY_MS, 230);
  */
 PARAM_DEFINE_INT32(PE_POS_DELAY_MS, 210);
 
+
+/**
+ * Position estimate delay
+ *
+ * The delay in milliseconds of the position estimate from ground vehicle Camera.
+ *
+ * @min 0
+ * @max 1000
+ * @group Position Estimator
+ */
+PARAM_DEFINE_INT32(CAM_Z_DELAY_MS, 400);
+
 /**
  * Height estimate delay
  *
@@ -125,7 +137,24 @@ PARAM_DEFINE_FLOAT(PE_GPS_ALT_WGT, 0.9f);
  * @max 5.0
  * @group Position Estimator
  */
+
+
 PARAM_DEFINE_FLOAT(PE_EAS_NOISE, 1.4f);
+
+
+/**
+ * camera position z measurement noise.
+ *
+ * Increasing this value will make the filter trust this sensor
+ * less and trust other sensors more.
+ *
+ * @min 0.1
+ * @max 1.0
+ * @group Position Estimator
+ */
+
+PARAM_DEFINE_FLOAT(Z_CAM_NOISE, 0.5f);
+
 
 /**
  * Velocity measurement noise in north-east (horizontal) direction.
@@ -147,7 +176,7 @@ PARAM_DEFINE_FLOAT(PE_VELNE_NOISE, 0.3f);
  * @max 5.0
  * @group Position Estimator
  */
-PARAM_DEFINE_FLOAT(PE_VELD_NOISE, 0.5f);
+PARAM_DEFINE_FLOAT(PE_VELD_NOISE, 0.7f);
 
 /**
  * Position noise in north-east (horizontal) direction
@@ -169,7 +198,7 @@ PARAM_DEFINE_FLOAT(PE_POSNE_NOISE, 0.5f);
  * @max 10.0
  * @group Position Estimator
  */
-PARAM_DEFINE_FLOAT(PE_POSD_NOISE, 0.5f);
+PARAM_DEFINE_FLOAT(PE_POSD_NOISE, 1.0f);
 
 /**
  * Magnetometer measurement noise

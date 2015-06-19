@@ -59,6 +59,7 @@ struct baro_report {
 	float temperature;
 	uint64_t timestamp;
 	uint64_t error_count;
+	float height;
 };
 
 /*

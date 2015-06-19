@@ -5,6 +5,8 @@
 #  NOTE: COMMENT LINES ARE REMOVED BEFORE STORED IN ROMFS.
 #
 
+# Start log when armed = -a , start direct = -e
+sdlog2 start -r 200 -e -b 22 -t
 #
 # Start CDC/ACM serial driver
 #
@@ -433,10 +435,15 @@ then
 		else
 			# Start MAVLink on default port: ttyS1
 			set MAVLINK_F "-r 1000"
+			#set MAVLINK_F "-r 1000"
 		fi
 	fi
 
 	mavlink start $MAVLINK_F
+	mavlink stream -d /dev/ttyS1 -s ATTITUDE -r 20
+	mavlink stream -d /dev/ttyS1 -s RC_CHANNELS_RAW -r 20
+	mavlink stream -d /dev/ttyS1 -s VISION_POSITION_ESTIMATE -r 20
+	mavlink stream -d /dev/ttyS1 -s ATTITUDE_QUATERNION -r 20
 	unset MAVLINK_F
 
 	#

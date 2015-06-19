@@ -101,6 +101,7 @@ struct ekf_status_report {
     bool velHealth;
     bool posHealth;
     bool hgtHealth;
+    bool hgtHealth2;
     bool velTimeout;
     bool posTimeout;
     bool hgtTimeout;

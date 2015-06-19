@@ -32,7 +32,7 @@
 ############################################################################
 
 #
-# Main EKF Attitude and Position Estimator
+# Main EKF Attitude and Position Estimator Modified with fusion from several sensors
 #
 
 MODULE_COMMAND	= ekf_att_pos_estimator

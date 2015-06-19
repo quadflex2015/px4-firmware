@@ -39,7 +39,6 @@
  * @author Lorenz Meier <lm@inf.ethz.ch>
  * @author Johan Jansen <jnsn.johan@gmail.com>
  */
-
 #include "AttitudePositionEstimatorEKF.h"
 #include "estimator_22states.h"
 
@@ -123,6 +122,7 @@ AttitudePositionEstimatorEKF::AttitudePositionEstimatorEKF() :
 	_home_sub(-1),
 	_landDetectorSub(-1),
 	_armedSub(-1),
+	_visionGrnd_sub(-1),
 
 /* publications */
 	_att_pub(-1),
@@ -145,6 +145,8 @@ AttitudePositionEstimatorEKF::AttitudePositionEstimatorEKF() :
      _distance {},
      _landDetector {},
      _armed {},
+     _cam_pos({}),
+
 
      _gyro_offsets({}),
      _accel_offsets({}),
@@ -166,6 +168,7 @@ AttitudePositionEstimatorEKF::AttitudePositionEstimatorEKF() :
      _perf_baro(perf_alloc(PC_INTERVAL, "ekf_att_pos_baro_upd")),
      _perf_airspeed(perf_alloc(PC_INTERVAL, "ekf_att_pos_aspd_upd")),
      _perf_reset(perf_alloc(PC_COUNT, "ekf_att_pos_reset")),
+     _perf_cam(perf_alloc(PC_INTERVAL, "ekf_att_pos_cam_upd")),
 
      /* states */
      _gps_alt_filt(0.0f),
@@ -187,12 +190,17 @@ AttitudePositionEstimatorEKF::AttitudePositionEstimatorEKF() :
      _mag_main(0),
      _ekf_logging(true),
      _debug(0),
+     //_cam_alt(0.0f),
 
      _newDataGps(false),
      _newHgtData(false),
      _newAdsData(false),
      _newDataMag(false),
      _newRangeData(false),
+     _newCamData(false),
+     _newCamPosData(false),
+	 _newCamHgtData(false),
+	 _newSonarData(false),
 
      _mavlink_fd(-1),
      _parameters {},
@@ -203,6 +211,7 @@ AttitudePositionEstimatorEKF::AttitudePositionEstimatorEKF() :
 
 	_parameter_handles.vel_delay_ms = param_find("PE_VEL_DELAY_MS");
 	_parameter_handles.pos_delay_ms = param_find("PE_POS_DELAY_MS");
+	_parameter_handles.cam_z_delay_ms = param_find("CAM_Z_DELAY_MS");
 	_parameter_handles.height_delay_ms = param_find("PE_HGT_DELAY_MS");
 	_parameter_handles.mag_delay_ms = param_find("PE_MAG_DELAY_MS");
 	_parameter_handles.tas_delay_ms = param_find("PE_TAS_DELAY_MS");
@@ -219,6 +228,7 @@ AttitudePositionEstimatorEKF::AttitudePositionEstimatorEKF() :
 	_parameter_handles.magb_pnoise = param_find("PE_MAGB_PNOISE");
 	_parameter_handles.eas_noise = param_find("PE_EAS_NOISE");
 	_parameter_handles.pos_stddev_threshold = param_find("PE_POSDEV_INIT");
+	_parameter_handles.z_cam_noise = param_find("Z_CAM_NOISE");
 
 	/* fetch initial parameter values */
 	parameters_update();
@@ -305,6 +315,7 @@ int AttitudePositionEstimatorEKF::parameters_update()
 
 	param_get(_parameter_handles.vel_delay_ms, &(_parameters.vel_delay_ms));
 	param_get(_parameter_handles.pos_delay_ms, &(_parameters.pos_delay_ms));
+	param_get(_parameter_handles.cam_z_delay_ms, &(_parameters.cam_z_delay_ms));
 	param_get(_parameter_handles.height_delay_ms, &(_parameters.height_delay_ms));
 	param_get(_parameter_handles.mag_delay_ms, &(_parameters.mag_delay_ms));
 	param_get(_parameter_handles.tas_delay_ms, &(_parameters.tas_delay_ms));
@@ -321,6 +332,7 @@ int AttitudePositionEstimatorEKF::parameters_update()
 	param_get(_parameter_handles.magb_pnoise, &(_parameters.magb_pnoise));
 	param_get(_parameter_handles.eas_noise, &(_parameters.eas_noise));
 	param_get(_parameter_handles.pos_stddev_threshold, &(_parameters.pos_stddev_threshold));
+	param_get(_parameter_handles.z_cam_noise, &(_parameters.z_cam_noise));
 
 	if (_ekf) {
 		// _ekf->yawVarScale = 1.0f;
@@ -334,6 +346,7 @@ int AttitudePositionEstimatorEKF::parameters_update()
 		_ekf->vdSigma = _parameters.veld_noise;
 		_ekf->posNeSigma = _parameters.posne_noise;
 		_ekf->posDSigma = _parameters.posd_noise;
+		_ekf->camSigma = _parameters.z_cam_noise;
 		_ekf->magMeasurementSigma = _parameters.mag_noise;
 		_ekf->gyroProcessNoise = _parameters.gyro_pnoise;
 		_ekf->accelProcessNoise = _parameters.acc_pnoise;
@@ -430,6 +443,7 @@ int AttitudePositionEstimatorEKF::check_filter_state()
 		rep.health_flags |= (((uint8_t)ekf_report.staticMode)	<< 5);
 		rep.health_flags |= (((uint8_t)ekf_report.useCompass)	<< 6);
 		rep.health_flags |= (((uint8_t)ekf_report.useAirspeed)	<< 7);
+		rep.health_flags |= (((uint8_t)ekf_report.hgtHealth2)	<< 8);
 
 		rep.timeout_flags |= (((uint8_t)ekf_report.velTimeout)	<< 0);
 		rep.timeout_flags |= (((uint8_t)ekf_report.posTimeout)	<< 1);
@@ -506,7 +520,7 @@ void AttitudePositionEstimatorEKF::task_main()
 	_home_sub = orb_subscribe(ORB_ID(home_position));
 	_landDetectorSub = orb_subscribe(ORB_ID(vehicle_land_detected));
 	_armedSub = orb_subscribe(ORB_ID(actuator_armed));
-
+	_visionGrnd_sub = orb_subscribe(ORB_ID(vision_position_estimate)); // subscribe to the grnd vehicle camera
 	/* rate limit vehicle status updates to 5Hz */
 	orb_set_interval(_vstatus_sub, 200);
 
@@ -668,8 +682,10 @@ void AttitudePositionEstimatorEKF::task_main()
 					}
 
 					//Run EKF data fusion steps
-					updateSensorFusion(_newDataGps, _newDataMag, _newRangeData, _newHgtData, _newAdsData);
+					updateSensorFusion(_newDataGps, _newDataMag, _newRangeData, _newHgtData, _newAdsData, _newCamPosData, _newCamHgtData, _newSonarData);
 
+					_att.height = 1.5;
+					// Fuse cameraYaw here?
 					//Publish attitude estimations
 					publishAttitude();
 
@@ -744,6 +760,7 @@ void AttitudePositionEstimatorEKF::initializeGPS()
 
 	map_projection_init(&_pos_ref, lat, lon);
 	mavlink_log_info(_mavlink_fd, "[ekf] ref: LA %.4f,LO %.4f,ALT %.2f", lat, lon, (double)gps_alt);
+	mavlink_log_info(_mavlink_fd, "[ekf] Mag Declination: %.3f", (double)declination);
 
 #if 0
 	warnx("HOME/REF: LA %8.4f,LO %8.4f,ALT %8.2f V: %8.4f %8.4f %8.4f", lat, lon, (double)gps_alt,
@@ -756,6 +773,21 @@ void AttitudePositionEstimatorEKF::initializeGPS()
 
 	_gps_initialized = true;
 }
+/*
+void AttitudePositionEstimatorEKF::publishcamData()
+{
+	//to publish the cam data
+
+	if (_att_pub > 0) {
+		// publish the attitude setpoint 
+		orb_publish(ORB_ID(vehicle_attitude), _att_pub, &_att);
+
+	} else {
+		// advertise and publish 
+		_att_pub = orb_advertise(ORB_ID(vehicle_attitude), &_att);
+	}
+} */
+
 
 void AttitudePositionEstimatorEKF::publishAttitude()
 {
@@ -781,8 +813,10 @@ void AttitudePositionEstimatorEKF::publishAttitude()
 	_att.timestamp = _last_sensor_timestamp;
 	_att.roll = euler(0);
 	_att.pitch = euler(1);
-	_att.yaw = euler(2);
-
+	_att.yaw = euler(2); 
+	//mavlink_log_info(_mavlink_fd, "[ekf] 1: %.3f", (double)_att.height);
+	//mavlink_log_info(_mavlink_fd, "[ekf] 2: %.3f", (double)_att.height);
+    _att.height = 1.0f * (_ekf->baroHgt - _baro_ref);
 	_att.rollspeed = _ekf->angRate.x - _ekf->states[10] / _ekf->dtIMU;
 	_att.pitchspeed = _ekf->angRate.y - _ekf->states[11] / _ekf->dtIMU;
 	_att.yawspeed = _ekf->angRate.z - _ekf->states[12] / _ekf->dtIMU;
@@ -811,6 +845,7 @@ void AttitudePositionEstimatorEKF::publishLocalPosition()
 
 	// XXX need to announce change of Z reference somehow elegantly
 	_local_pos.z = _ekf->states[9] - _baro_ref_offset;
+	//_local_pos.z = _ekf->_baro_ref_offset;
 
 	_local_pos.vx = _ekf->states[4];
 	_local_pos.vy = _ekf->states[5];
@@ -908,9 +943,12 @@ void AttitudePositionEstimatorEKF::publishWindEstimate()
 }
 
 void AttitudePositionEstimatorEKF::updateSensorFusion(const bool fuseGPS, const bool fuseMag,
-		const bool fuseRangeSensor,
-		const bool fuseBaro, const bool fuseAirSpeed)
+		const bool fuseRangeSensor, const bool fuseBaro, const bool fuseAirSpeed, 
+		const bool fuseCamPos, const bool fuseCamHgt, const bool fuseSonar)
 {
+	bool debugHgt = false;
+	bool debugPos = false;
+
 	// Run the strapdown INS equations every IMU update
 	_ekf->UpdateStrapdownEquationsNED();
 
@@ -932,23 +970,30 @@ void AttitudePositionEstimatorEKF::updateSensorFusion(const bool fuseGPS, const 
 		_covariancePredictionDt = 0.0f;
 	}
 
+	_ekf->fusionFlagBaro = 0;
+	_ekf->fusionFlagCamD = 0;
+	_ekf->fusionFlagCamNE = 0;
+	_ekf->fusionFlagSonar = 0;
+
+	// print sigmas
+	//mavlink_log_info(_mavlink_fd, "[ekf] SigmaBaro:%.4f SigmaCam:%.4f", (double)_ekf->sigmaBARO, (double)_ekf->sigmaCAM);
+
 	// Fuse GPS Measurements
 	if (fuseGPS && _gps_initialized) {
-		// Convert GPS measurements to Pos NE, hgt and Vel NED
-
 		// set fusion flags
 		_ekf->fuseVelData = true;
 		_ekf->fusePosData = true;
-
+		
 		// recall states stored at time of measurement after adjusting for delays
 		_ekf->RecallStates(_ekf->statesAtVelTime, (IMUmsec - _parameters.vel_delay_ms));
 		_ekf->RecallStates(_ekf->statesAtPosTime, (IMUmsec - _parameters.pos_delay_ms));
 
 		// run the fusion step
 		_ekf->FuseVelposNED();
-
+		_ekf->fuseVelData = false;
+		_ekf->fusePosData = false;
+	
 	} else if (!_gps_initialized) {
-
 		// force static mode
 		_ekf->staticMode = true;
 
@@ -963,45 +1008,89 @@ void AttitudePositionEstimatorEKF::updateSensorFusion(const bool fuseGPS, const 
 		// set fusion flags
 		_ekf->fuseVelData = true;
 		_ekf->fusePosData = true;
-
-		// recall states stored at time of measurement after adjusting for delays
+		
+		// recall stFuseVelposNEDates stored at time of measurement after adjusting for delays
 		_ekf->RecallStates(_ekf->statesAtVelTime, (IMUmsec - _parameters.vel_delay_ms));
 		_ekf->RecallStates(_ekf->statesAtPosTime, (IMUmsec - _parameters.pos_delay_ms));
 
 		// run the fusion step
 		_ekf->FuseVelposNED();
-
+		_ekf->fuseVelData = false;
+		_ekf->fusePosData = false;
 	} else {
 		_ekf->fuseVelData = false;
 		_ekf->fusePosData = false;
 	}
 
-	if (fuseBaro) {
-		// Could use a blend of GPS and baro alt data if desired
-		_ekf->hgtMea = 1.0f * (_ekf->baroHgt - _baro_ref);
-		_ekf->fuseHgtData = true;
-
+	if (fuseCamPos) {
+		_ekf->fuseCamPosData = true;
+		//_ekf->posNEcam[0] = 0.0f;
+		//_ekf->posNEcam[1] = 0.0f;
 		// recall states stored at time of measurement after adjusting for delays
 		_ekf->RecallStates(_ekf->statesAtHgtTime, (IMUmsec - _parameters.height_delay_ms));
 
 		// run the fusion step
 		_ekf->FuseVelposNED();
+		if (debugPos) mavlink_log_info(_mavlink_fd, "[ekf] C:%d", _ekf->fusionFlagCamNE);
+		_ekf->fuseCamPosData = false;
+	} else {
+		_ekf->fuseCamPosData = false;
+	}
 
+	if (fuseBaro) {
+		_ekf->hgtMea = 1.0f * (_ekf->baroHgt - _baro_ref);
+		_ekf->fuseHgtData = true;
+		//mavlink_log_info(_mavlink_fd, "[ekf] %.3f", (double)_ekf->hgtMea);
+		// recall states stored at time of measurement after adjusting for delays
+		_ekf->RecallStates(_ekf->statesAtHgtTime, (IMUmsec - _parameters.height_delay_ms));
+		
+		// run the fusion step
+		_ekf->FuseVelposNED();
+		if (debugHgt) mavlink_log_info(_mavlink_fd, "[ekf] B:%d C:%d S:%d", _ekf->fusionFlagBaro, _ekf->fusionFlagCamD, _ekf->fusionFlagSonar);
+		_ekf->fuseHgtData = false;
 	} else {
 		_ekf->fuseHgtData = false;
+	}
+
+	//Fuse Camera Measurements
+	if(fuseCamHgt){
+		_ekf->hgtMeaCam = 1.0f * _ekf->camHgt;
+		_ekf->fuseCamHgtData = true;
+
+		//recall the states at time of measurement
+		_ekf->RecallStates(_ekf->statesAtCamTime,(IMUmsec - _parameters.cam_z_delay_ms));
+
+		//run the fusion
+		_ekf->FuseVelposNED();
+		if (debugHgt) mavlink_log_info(_mavlink_fd, "[ekf] B:%d C:%d S:%d", _ekf->fusionFlagBaro, _ekf->fusionFlagCamD, _ekf->fusionFlagSonar);
+		_ekf->fuseCamHgtData = false;
+	} else {
+		_ekf->fuseCamHgtData = false;
+	}
+
+	// Fuse Rangefinder Measurements
+	if (fuseSonar) {
+		_ekf->fuseSonarData = true;
+
+		//recall the states at time of measurement
+		_ekf->RecallStates(_ekf->statesAtRngTime, (IMUmsec - 100.0f));
+
+		//run the fusion
+		_ekf->FuseVelposNED();
+		if (debugHgt) mavlink_log_info(_mavlink_fd, "[ekf] B:%d C:%d S:%d", _ekf->fusionFlagBaro, _ekf->fusionFlagCamD, _ekf->fusionFlagSonar);
+		_ekf->fuseSonarData = false;
+	} else {
+		_ekf->fuseSonarData = false;
 	}
 
 	// Fuse Magnetometer Measurements
 	if (fuseMag) {
 		_ekf->fuseMagData = true;
-		_ekf->RecallStates(_ekf->statesAtMagMeasTime,
-				   (IMUmsec - _parameters.mag_delay_ms)); // Assume 50 msec avg delay for magnetometer data
-
+		_ekf->RecallStates(_ekf->statesAtMagMeasTime,(IMUmsec - _parameters.mag_delay_ms)); // Assume 50 msec avg delay for magnetometer data
 		_ekf->magstate.obsIndex = 0;
 		_ekf->FuseMagnetometer();
 		_ekf->FuseMagnetometer();
 		_ekf->FuseMagnetometer();
-
 	} else {
 		_ekf->fuseMagData = false;
 	}
@@ -1009,10 +1098,8 @@ void AttitudePositionEstimatorEKF::updateSensorFusion(const bool fuseGPS, const 
 	// Fuse Airspeed Measurements
 	if (fuseAirSpeed && _ekf->VtasMeas > 7.0f) {
 		_ekf->fuseVtasData = true;
-		_ekf->RecallStates(_ekf->statesAtVtasMeasTime,
-				   (IMUmsec - _parameters.tas_delay_ms)); // assume 100 msec avg delay for airspeed data
+		_ekf->RecallStates(_ekf->statesAtVtasMeasTime, (IMUmsec - _parameters.tas_delay_ms)); // assume 100 msec avg delay for airspeed data
 		_ekf->FuseAirspeed();
-
 	} else {
 		_ekf->fuseVtasData = false;
 	}
@@ -1028,6 +1115,11 @@ void AttitudePositionEstimatorEKF::updateSensorFusion(const bool fuseGPS, const 
 			_ekf->fuseRngData = false;
 		}
 	}
+	// // print flags only if something is fused
+	// if (_ekf->fusionFlagBaro == 1 || _ekf->fusionFlagCamD == 1 || _ekf->fusionFlagSonar == 1) 
+	// {
+	// 	mavlink_log_info(_mavlink_fd, "[ekf] B:%d C:%d S:%d", _ekf->fusionFlagBaro, _ekf->fusionFlagCamD, _ekf->fusionFlagSonar);
+	// }
 }
 
 int AttitudePositionEstimatorEKF::start()
@@ -1145,7 +1237,6 @@ void AttitudePositionEstimatorEKF::pollData()
 	}
 
 	last_accel = _sensor_combined.accelerometer_timestamp;
-
 
 	// Copy gyro and accel
 	_last_sensor_timestamp = _sensor_combined.timestamp;
@@ -1335,24 +1426,7 @@ void AttitudePositionEstimatorEKF::pollData()
 				}
 			}
 
-			//warnx("gps alt: %6.1f, interval: %6.3f", (double)_ekf->gpsHgt, (double)dtGoodGPS);
-
-			// if (_gps.s_variance_m_s > 0.25f && _gps.s_variance_m_s < 100.0f * 100.0f) {
-			// 	_ekf->vneSigma = sqrtf(_gps.s_variance_m_s);
-			// } else {
-			// 	_ekf->vneSigma = _parameters.velne_noise;
-			// }
-
-			// if (_gps.p_variance_m > 0.25f && _gps.p_variance_m < 100.0f * 100.0f) {
-			// 	_ekf->posNeSigma = sqrtf(_gps.p_variance_m);
-			// } else {
-			// 	_ekf->posNeSigma = _parameters.posne_noise;
-			// }
-
-			// warnx("vel: %8.4f pos: %8.4f", _gps.s_variance_m_s, _gps.p_variance_m);
-
 			_previousGPSTimestamp = _gps.timestamp_position;
-
 		} else {
 			//Too poor GPS fix to use
 			_newDataGps = false;
@@ -1387,6 +1461,29 @@ void AttitudePositionEstimatorEKF::pollData()
 		}
 	}
 
+	//Update camera
+	orb_check(_visionGrnd_sub, &_newCamData);
+
+	if(_newCamData) {
+		orb_copy(ORB_ID(vision_position_estimate),_visionGrnd_sub, &_cam_pos);
+		perf_count(_perf_cam);
+
+		_ekf->posNEcam[0] = _cam_pos.y; // TODO: Make sure these are not mixed up!
+		_ekf->posNEcam[1] = _cam_pos.x; // TODO: Make sure these are not mixed up!
+		_ekf->camHgt = _cam_pos.z;
+		_ekf->camYaw = _cam_pos.yaw;
+		//_cam_pos.height = 1.0f * (_ekf->baroHgt - _baro_ref);
+		//mavlink_log_info(_mavlink_fd, "[ekf] CamPos2: %.3f", (double)_cam_pos.height);
+		_newCamData = true;
+		_newCamPosData = true;
+		_newCamHgtData = true;
+		//mavlink_log_info(_mavlink_fd, "[ekf] CAM: x:%.3f y:%.3f z:%.3f yaw:%.3f", (double)_cam_pos.x, (double)_cam_pos.y, (double)_cam_pos.z, (double)_cam_pos.yaw);
+	} else {
+		_newCamData = false;
+		_newCamHgtData = false;
+		_newCamPosData = false;
+	}
+
 	//Update barometer
 	orb_check(_baro_sub, &_newHgtData);
 
@@ -1407,9 +1504,13 @@ void AttitudePositionEstimatorEKF::pollData()
 
 		baro_last = _baro.timestamp;
 
+
 		_ekf->updateDtHgtFilt(math::constrain(baro_elapsed, 0.001f, 0.1f));
 
 		_ekf->baroHgt = _baro.altitude;
+
+
+		//mavlink_log_info(_mavlink_fd, "[ekf] Baro: %.3f", (double)_baro.altitude);
 		_baro_alt_filt += (baro_elapsed / (rc + baro_elapsed)) * (_baro.altitude - _baro_alt_filt);
 
 		if (!_baro_init) {
@@ -1418,10 +1519,17 @@ void AttitudePositionEstimatorEKF::pollData()
 			warnx("ALT REF INIT");
 		}
 
+
+		
+		// mavlink_log_info(_mavlink_fd, "[ekf] CamPos1: %.3f", (double)_cam_pos.height);
 		perf_count(_perf_baro);
 
 		_newHgtData = true;
+		//mavlink_log_info(_mavlink_fd, "[ekf] baro:%.4f ", (double)baro_elapsed);
+		//mavlink_log_info(_mavlink_fd, "Received Baro measurement");		
 	}
+
+
 
 	//Update Magnetometer
 	if (_newDataMag) {
@@ -1464,17 +1572,19 @@ void AttitudePositionEstimatorEKF::pollData()
 	}
 
 	//Update range data
-	orb_check(_distance_sub, &_newRangeData);
+	orb_check(_distance_sub, &_newSonarData);
 
-	if (_newRangeData) {
+	if (_newSonarData) {
+
+		// static hrt_abstime sonar_last = 0;
 		orb_copy(ORB_ID(sensor_range_finder), _distance_sub, &_distance);
 
-		if (_distance.valid) {
+		// check for proper distance measurement
+		if (_distance.distance > 0.2f) {
 			_ekf->rngMea = _distance.distance;
-			_distance_last_valid = _distance.timestamp;
-
+			_newSonarData = true;
 		} else {
-			_newRangeData = false;
+			_newSonarData = false;
 		}
 	}
 }

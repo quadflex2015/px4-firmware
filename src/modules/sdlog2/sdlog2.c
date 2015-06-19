@@ -1451,6 +1451,7 @@ int sdlog2_thread_main(int argc, char *argv[])
 			log_msg.body.log_ATT.gx = buf.att.g_comp[0];
 			log_msg.body.log_ATT.gy = buf.att.g_comp[1];
 			log_msg.body.log_ATT.gz = buf.att.g_comp[2];
+			log_msg.body.log_ATT.height = buf.att.height;
 			LOGBUFFER_WRITE_AND_COUNT(ATT);
 		}
 
@@ -1597,13 +1598,14 @@ int sdlog2_thread_main(int argc, char *argv[])
 			log_msg.body.log_VISN.x = buf.vision_pos.x;
 			log_msg.body.log_VISN.y = buf.vision_pos.y;
 			log_msg.body.log_VISN.z = buf.vision_pos.z;
-			log_msg.body.log_VISN.vx = buf.vision_pos.vx;
-			log_msg.body.log_VISN.vy = buf.vision_pos.vy;
-			log_msg.body.log_VISN.vz = buf.vision_pos.vz;
-			log_msg.body.log_VISN.qx = buf.vision_pos.q[0];
-			log_msg.body.log_VISN.qy = buf.vision_pos.q[1];
-			log_msg.body.log_VISN.qz = buf.vision_pos.q[2];
-			log_msg.body.log_VISN.qw = buf.vision_pos.q[3];
+			log_msg.body.log_VISN.yaw = buf.vision_pos.yaw;
+			log_msg.body.log_VISN.height = buf.vision_pos.height;
+			// log_msg.body.log_VISN.vy = buf.vision_pos.vy;
+			// log_msg.body.log_VISN.vz = buf.vision_pos.vz;
+			// log_msg.body.log_VISN.qx = buf.vision_pos.q[0];
+			// log_msg.body.log_VISN.qy = buf.vision_pos.q[1];
+			// log_msg.body.log_VISN.qz = buf.vision_pos.q[2];
+			// log_msg.body.log_VISN.qw = buf.vision_pos.q[3];
 			LOGBUFFER_WRITE_AND_COUNT(VISN);
 		}
 

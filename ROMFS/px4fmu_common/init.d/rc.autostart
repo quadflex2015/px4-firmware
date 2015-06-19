@@ -1,5 +1,5 @@
 #
-# SYS_AUTOSTART = 0 means no autostart (default)
+# SYS_AUTOSTART = 0
 #
 # AUTOSTART PARTITION:
 #  0   	..	 999		Reserved (historical)
@@ -165,6 +165,11 @@ fi
 if param compare SYS_AUTOSTART 5001
 then
 	sh /etc/init.d/5001_quad_+
+fi
+
+if param compare SYS_AUTOSTART 5002
+then
+	sh /etc/init.d/5002_mk_quad_x
 fi
 
 #

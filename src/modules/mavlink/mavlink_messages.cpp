@@ -710,7 +710,7 @@ protected:
 			msg.rollspeed = att.rollspeed;
 			msg.pitchspeed = att.pitchspeed;
 			msg.yawspeed = att.yawspeed;
-
+	
 			_mavlink->send_message(MAVLINK_MSG_ID_ATTITUDE, &msg);
 		}
 	}

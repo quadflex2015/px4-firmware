@@ -65,6 +65,7 @@ AttPosEKF::AttPosEKF() :
     vdSigma(0.0f),
     posNeSigma(0.0f),
     posDSigma(0.0f),
+    camSigma(0.0f),
     magMeasurementSigma(0.0f),
     airspeedMeasurementSigma(0.0f),
     gyroProcessNoise(0.0f),
@@ -84,6 +85,7 @@ AttPosEKF::AttPosEKF() :
     statesAtVelTime{},
     statesAtPosTime{},
     statesAtHgtTime{},
+    statesAtCamTime{},
     statesAtMagMeasTime{},
     statesAtVtasMeasTime{},
     statesAtRngTime{},
@@ -111,9 +113,12 @@ AttPosEKF::AttPosEKF() :
     fusionModeGPS(0),
     innovVelPos{},
     varInnovVelPos{},
+    varInnovPos{0.0f},
     velNED{},
     posNE{},
+    posNEcam{},
     hgtMea(0.0f),
+    hgtMeaCam(0.0f),
     baroHgtOffset(0.0f),
     rngMea(0.0f),
     innovMag{},
@@ -140,15 +145,34 @@ AttPosEKF::AttPosEKF() :
     gpsHgt(0.0f),
     GPSstatus(0),
     baroHgt(0.0f),
+    camX(0.0f),
+    camY(0.0f),
+    camHgt(0.0f),
+    camYaw(0.0f),
+    sigmaBARO(0.0f),
+    sigmaCAM(0.0f),
+    
+
+    n_hgtMeas(0), //added for a kind of a flag for how many measurements
+    fusionFlagBaro(false),
+    fusionFlagCamD(false),
+    fusionFlagCamNE(false),
+    fusionFlagSonar(false),
     statesInitialised(false),
+  
+
+    fuseOptFlowData(false),
     fuseVelData(false),
     fusePosData(false),
     fuseHgtData(false),
+    
     fuseMagData(false),
     fuseVtasData(false),
     fuseRngData(false),
-    fuseOptFlowData(false),
-
+    fuseCamPosData(false),
+    fuseCamHgtData(false),
+    fuseSonarData(false),
+   
     inhibitWindStates(true),
     inhibitMagStates(true),
     inhibitGndState(true),
@@ -156,7 +180,7 @@ AttPosEKF::AttPosEKF() :
 
     staticMode(true),
     useGPS(false),
-    useAirspeed(true),
+    useAirspeed(false), //changed from true
     useCompass(true),
     useRangeFinder(true),
     useOpticalFlow(false),
@@ -188,6 +212,7 @@ AttPosEKF::AttPosEKF() :
     _isFixedWing(false),
     _onGround(true),
     _accNavMagHorizontal(0.0f)
+
 {
 
     memset(&last_ekf_error, 0, sizeof(last_ekf_error));
@@ -1044,11 +1069,11 @@ void AttPosEKF::updateDtVelPosFilt(float dt)
     dtVelPosFilt = ConstrainFloat(dt, 0.0005f, 2.0f) * 0.05f + dtVelPosFilt * 0.95f;
 }
 
-void AttPosEKF::FuseVelposNED()
+void AttPosEKF::FuseVelposNED() 
 {
 
     // declare variables used by fault isolation logic
-    uint32_t gpsRetryTime = 3000; // time in msec before GPS fusion will be retried following innovation consistency failure
+    //uint32_t gpsRetryTime = 3000; // time in msec before GPS fusion will be retried following innovation consistency failure
     uint32_t gpsRetryTimeNoTAS = 500; // retry time if no TAS measurement available
     uint32_t hgtRetryTime = 500; // height measurement retry time
     uint32_t horizRetryTime;
@@ -1057,9 +1082,8 @@ void AttPosEKF::FuseVelposNED()
     float velInnov[3] = {0.0f,0.0f,0.0f};
     float posInnov[2] = {0.0f,0.0f};
     float hgtInnov = 0.0f;
-
     // declare variables used to control access to arrays
-    bool fuseData[6] = {false,false,false,false,false,false};
+    bool fuseData[10] = {false,false,false,false,false,false,false,false,false,false};
     uint8_t stateIndex;
     uint8_t obsIndex;
     uint8_t indexLimit = 21;
@@ -1067,18 +1091,20 @@ void AttPosEKF::FuseVelposNED()
     // declare variables used by state and covariance update calculations
     float velErr;
     float posErr;
-    float R_OBS[6];
-    float observation[6];
+    float R_OBS[10];
+
+    float observation[10];
     float SK;
     float quatMag;
 
+    
     // Perform sequential fusion of GPS measurements. This assumes that the
     // errors in the different velocity and position components are
     // uncorrelated which is not true, however in the absence of covariance
     // data from the GPS receiver it is the only assumption we can make
     // so we might as well take advantage of the computational efficiencies
     // associated with sequential fusion
-    if (fuseVelData || fusePosData || fuseHgtData)
+    if (fuseVelData || fusePosData || fuseHgtData || fuseCamHgtData || fuseCamPosData || fuseSonarData)
     {
         uint64_t tNow = getMicros();
         updateDtVelPosFilt((tNow - lastVelPosFusion) / 1e6f);
@@ -1090,16 +1116,26 @@ void AttPosEKF::FuseVelposNED()
 
         // scaler according to the number of repetitions of the
         // same measurement in one fusion step
-        float hgtVarianceScaler = dtHgtFilt / dtVelPosFilt;
+        
+
+        //float hgtVarianceScaler = dtHgtFilt / dtVelPosFilt;
 
         // set the GPS data timeout depending on whether airspeed data is present
+        uint32_t gpsRetryTime = 3000; // time in msec before GPS fusion will be retried following innovation consistency failure
+
         if (useAirspeed) horizRetryTime = gpsRetryTime;
         else horizRetryTime = gpsRetryTimeNoTAS;
-
+        horizRetryTime = gpsRetryTimeNoTAS;
         // Form the observation vector
         for (uint8_t i=0; i <=2; i++) observation[i] = velNED[i];
         for (uint8_t i=3; i <=4; i++) observation[i] = posNE[i-3];
+      
         observation[5] = -(hgtMea);
+        observation[6] = -(hgtMeaCam); 
+        observation[7] = posNEcam[0];
+        observation[8] = posNEcam[1];
+        observation[9] = -rngMea;
+        
 
         // Estimate the GPS Velocity, GPS horiz position and height measurement variances.
         velErr = 0.2f*accNavMag; // additional error in GPS velocities caused by manoeuvring
@@ -1109,7 +1145,16 @@ void AttPosEKF::FuseVelposNED()
         R_OBS[2] = gpsVarianceScaler * sq(vdSigma) + sq(velErr);
         R_OBS[3] = gpsVarianceScaler * sq(posNeSigma) + sq(posErr);
         R_OBS[4] = R_OBS[3];
-        R_OBS[5] = hgtVarianceScaler * sq(posDSigma) + sq(posErr);
+        R_OBS[5] = camSigma; //hgtVarianceScaler * sq(posDSigma) + sq(posErr);
+        //expand the observation matrix with new data
+        R_OBS[6] = sq(camSigma); //camSigma; // height
+        R_OBS[7] = camSigma; // North
+        R_OBS[8] = camSigma; // East
+        R_OBS[9] = sq(0.1f); // TODO: Find proper sigma
+
+        sigmaBARO = R_OBS[5];
+        sigmaCAM = R_OBS[6];
+
 
         // calculate innovations and check GPS data validity using an innovation consistency check
         if (fuseVelData)
@@ -1132,14 +1177,48 @@ void AttPosEKF::FuseVelposNED()
             } else if (current_ekf_state.velTimeout || !current_ekf_state.posHealth) {
                 current_ekf_state.velHealth = true;
                 ResetVelocity();
-
                 // do not fuse bad data
                 fuseVelData = false;
-            }
-            else
-            {
+            } else {
                 current_ekf_state.velHealth = false;
             }
+        }
+
+        if (fuseHgtData)
+        {
+            hgtInnov = statesAtHgtTime[9] + hgtMea;
+            varInnovPos = P[9][9] + R_OBS[5];
+            //check height health
+            current_ekf_state.hgtHealth = sq(hgtInnov) < 100.0f*varInnovPos;
+            current_ekf_state.hgtTimeout = (millis() - current_ekf_state.hgtFailTime) > hgtRetryTime;
+            if (current_ekf_state.hgtHealth || current_ekf_state.hgtTimeout || staticMode)
+            {
+                current_ekf_state.hgtHealth = true;
+                current_ekf_state.hgtFailTime = millis();
+
+                // if we just reset from a timeout, do not fuse
+                // the height data, but reset height and stored states
+                if (current_ekf_state.hgtTimeout) {
+                    ResetHeight();
+                    fuseHgtData = false;
+                }
+            } else {
+                current_ekf_state.hgtHealth = false;
+            }
+        }
+
+        if (fuseCamHgtData)
+        {
+            hgtInnov = statesAtHgtTime[9] + hgtMeaCam;
+            varInnovPos = P[9][9] + R_OBS[6];
+            current_ekf_state.hgtHealth = sq(hgtInnov) < 100.0f*varInnovPos;
+        }
+
+        if (fuseSonarData)
+        {
+            hgtInnov = statesAtHgtTime[9] + rngMea;
+            varInnovPos = P[9][9] + R_OBS[9];
+            current_ekf_state.hgtHealth = sq(hgtInnov) < 100.0f*varInnovPos;
         }
 
         if (fusePosData)
@@ -1149,6 +1228,7 @@ void AttPosEKF::FuseVelposNED()
             posInnov[1] = statesAtPosTime[8] - posNE[1];
             varInnovVelPos[3] = P[7][7] + R_OBS[3];
             varInnovVelPos[4] = P[8][8] + R_OBS[4];
+            
             // apply a 10-sigma threshold
             current_ekf_state.posHealth = (sq(posInnov[0]) + sq(posInnov[1])) < 100.0f*(varInnovVelPos[3] + varInnovVelPos[4]);
             current_ekf_state.posTimeout = (millis() - current_ekf_state.posFailTime) > horizRetryTime;
@@ -1171,31 +1251,18 @@ void AttPosEKF::FuseVelposNED()
             }
         }
 
-        // test height measurements
-        if (fuseHgtData)
+        if (fuseCamPosData)
         {
-            hgtInnov = statesAtHgtTime[9] + hgtMea;
-            varInnovVelPos[5] = P[9][9] + R_OBS[5];
-            // apply a 10-sigma threshold
-            current_ekf_state.hgtHealth = sq(hgtInnov) < 100.0f*varInnovVelPos[5];
-            current_ekf_state.hgtTimeout = (millis() - current_ekf_state.hgtFailTime) > hgtRetryTime;
-            if (current_ekf_state.hgtHealth || current_ekf_state.hgtTimeout || staticMode)
-            {
-                current_ekf_state.hgtHealth = true;
-                current_ekf_state.hgtFailTime = millis();
+            // test horizontal position measurements
+            posInnov[0] = statesAtPosTime[7] - posNEcam[0];
+            posInnov[1] = statesAtPosTime[8] - posNEcam[1];
+            varInnovVelPos[3] = P[7][7] + R_OBS[7];
+            varInnovVelPos[4] = P[8][8] + R_OBS[8];
 
-                // if we just reset from a timeout, do not fuse
-                // the height data, but reset height and stored states
-                if (current_ekf_state.hgtTimeout) {
-                    ResetHeight();
-                    fuseHgtData = false;
-                }
-            }
-            else
-            {
-                current_ekf_state.hgtHealth = false;
-            }
+            // apply a 10-sigma threshold
+            current_ekf_state.posHealth = (sq(posInnov[0]) + sq(posInnov[1])) < 100.0f*(varInnovVelPos[3] + varInnovVelPos[4]);
         }
+
         // Set range for sequential fusion of velocity and position measurements depending
         // on which data is available and its health
         if (fuseVelData && fusionModeGPS == 0 && current_ekf_state.velHealth)
@@ -1214,29 +1281,72 @@ void AttPosEKF::FuseVelposNED()
             fuseData[3] = true;
             fuseData[4] = true;
         }
+        
         if (fuseHgtData && current_ekf_state.hgtHealth)
         {
             fuseData[5] = true;
         }
+        if (fuseCamHgtData && current_ekf_state.hgtHealth)
+        {
+            fuseData[6] = true;
+        }
+        if (fuseCamPosData && current_ekf_state.posHealth)
+        {
+            fuseData[7] = true;
+            fuseData[8] = true;
+        }
+        if (fuseSonarData && current_ekf_state.hgtHealth)
+        {
+            fuseData[9] = true;
+        }
         // Fuse measurements sequentially
-        for (obsIndex=0; obsIndex<=5; obsIndex++)
+        // obsIndex=0;
+        // while(obsIndex<=n_hgtMeas)
+        for (obsIndex=0; obsIndex<=9; obsIndex++)
         {
             if (fuseData[obsIndex])
             {
                 stateIndex = 4 + obsIndex;
+                
+                if(obsIndex == 7) { // cam N
+                    stateIndex = 7;
+                }
+                if(obsIndex == 8) { // cam E
+                    stateIndex = 8;
+                }
+
                 // Calculate the measurement innovation, using states from a
                 // different time coordinate if fusing height data
-                if (obsIndex <= 2)
-                {
+                if (obsIndex <= 2) 
+                {   // stateIndex = 4,5,6
                     innovVelPos[obsIndex] = statesAtVelTime[stateIndex] - observation[obsIndex];
                 }
                 else if (obsIndex == 3 || obsIndex == 4)
-                {
+                {   // stateIndex = 7,8  (NE GPS)
                     innovVelPos[obsIndex] = statesAtPosTime[stateIndex] - observation[obsIndex];
                 }
+
                 else if (obsIndex == 5)
-                {
+                {   // stateIndex = 9 (D baro)
                     innovVelPos[obsIndex] = statesAtHgtTime[stateIndex] - observation[obsIndex];
+                    fusionFlagBaro = true;
+                }
+                else if (obsIndex == 6)
+                {   // (D cam)
+                    stateIndex = 9;
+                    innovVelPos[obsIndex] = statesAtHgtTime[stateIndex] - observation[obsIndex];
+                    fusionFlagCamD = true;
+                }
+                else if (obsIndex == 7 || obsIndex == 8)
+                {   // stateIndex = 7,8 (NE Cam)
+                    innovVelPos[obsIndex] = statesAtPosTime[stateIndex] - observation[obsIndex];
+                    fusionFlagCamNE = true;
+                }
+                else if (obsIndex == 9)
+                {   // stateIndex = 9 (D Sonar)
+                    stateIndex = 9;
+                    innovVelPos[obsIndex] = statesAtHgtTime[stateIndex] - observation[obsIndex];
+                    fusionFlagSonar = true;
                 }
                 // Calculate the Kalman Gain
                 // Calculate innovation variances - also used for data logging
@@ -1294,7 +1404,7 @@ void AttPosEKF::FuseVelposNED()
                         P[i][j] = P[i][j] - KHP[i][j];
                     }
                 }
-            }
+            } 
         }
     }
 
@@ -1354,7 +1464,7 @@ void AttPosEKF::FuseMagnetometer()
             magZbias = statesAtMagMeasTime[21];
 
             // rotate predicted earth components into body axes and calculate
-            // predicted measurments
+            // predicted measurments R_b-n
             DCM.x.x = q0*q0 + q1*q1 - q2*q2 - q3*q3;
             DCM.x.y = 2*(q1*q2 + q0*q3);
             DCM.x.z = 2*(q1*q3-q0*q2);
@@ -1364,7 +1474,7 @@ void AttPosEKF::FuseMagnetometer()
             DCM.z.x = 2*(q1*q3 + q0*q2);
             DCM.z.y = 2*(q2*q3 - q0*q1);
             DCM.z.z = q0*q0 - q1*q1 - q2*q2 + q3*q3;
-            MagPred[0] = DCM.x.x*magN + DCM.x.y*magE  + DCM.x.z*magD + magXbias;
+            MagPred[0] = DCM.x.x*magN + DCM.x.y*magE  + DCM.x.z*magrate_offsets[0]D + magXbias;
             MagPred[1] = DCM.y.x*magN + DCM.y.y*magE  + DCM.y.z*magD + magYbias;
             MagPred[2] = DCM.z.x*magN + DCM.z.y*magE  + DCM.z.z*magD + magZbias;
 
@@ -3142,7 +3252,8 @@ void AttPosEKF::InitializeDynamic(float (&initvelNED)[3], float declination)
     current_ekf_state.velHealth = true;
     current_ekf_state.posHealth = true;
     current_ekf_state.hgtHealth = true;
-    
+    current_ekf_state.hgtHealth2 = true;
+
     current_ekf_state.velTimeout = false;
     current_ekf_state.posTimeout = false;
     current_ekf_state.hgtTimeout = false;
@@ -3150,8 +3261,12 @@ void AttPosEKF::InitializeDynamic(float (&initvelNED)[3], float declination)
     fuseVelData = false;
     fusePosData = false;
     fuseHgtData = false;
+    fuseCamPosData = false;
+    fuseCamHgtData = false;
     fuseMagData = false;
     fuseVtasData = false;
+
+
 
     // Fill variables with valid data
     velNED[0] = initvelNED[0];

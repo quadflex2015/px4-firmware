@@ -133,6 +133,8 @@ struct sensor_combined_s {
 	float baro_alt_meter;			/**< Altitude, already temp. comp.                */
 	float baro_temp_celcius;		/**< Temperature in degrees celsius               */
 	uint64_t baro_timestamp;		/**< Barometer timestamp        */
+	float height;
+	float baro_height;
 
 	float baro1_pres_mbar;			/**< Barometric pressure, already temp. comp.     */
 	float baro1_alt_meter;			/**< Altitude, already temp. comp.                */

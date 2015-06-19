@@ -1,0 +1,15 @@
+#!nsh
+#
+# Mikrokopter Quad x geometry
+#
+
+sh /etc/init.d/rc.mc_defaults
+
+set MIXER quad_x
+
+set PWM_OUT 1234
+
+# new commands here
+
+set OUTPUT_MODE mkblctrl
+set MKBLCTRL_MODE x

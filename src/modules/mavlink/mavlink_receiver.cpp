@@ -730,19 +730,19 @@ MavlinkReceiver::handle_message_vision_position_estimate(mavlink_message_t *msg)
 	vision_position.x = pos.x;
 	vision_position.y = pos.y;
 	vision_position.z = pos.z;
+	vision_position.yaw = pos.yaw;
 
-	// XXX fix this
-	vision_position.vx = 0.0f;
-	vision_position.vy = 0.0f;
-	vision_position.vz = 0.0f;
+	vision_position.height = pos.height;
+	// vision_position.vy = 0.0f;
+	// vision_position.vz = 0.0f;
 
-	math::Quaternion q;
-	q.from_euler(pos.roll, pos.pitch, pos.yaw);
+	// math::Quaternion q;
+	// q.from_euler(pos.roll, pos.pitch, pos.yaw);
 
-	vision_position.q[0] = q(0);
-	vision_position.q[1] = q(1);
-	vision_position.q[2] = q(2);
-	vision_position.q[3] = q(3);
+	//vision_position.q[0] = 1;
+	// vision_position.q[1] = q(1);
+	// vision_position.q[2] = q(2);
+	// vision_position.q[3] = q(3);
 
 	if (_vision_position_pub < 0) {
 		_vision_position_pub = orb_advertise(ORB_ID(vision_position_estimate), &vision_position);
@@ -1128,6 +1128,7 @@ MavlinkReceiver::handle_message_hil_sensor(mavlink_message_t *msg)
 		baro.pressure = imu.abs_pressure;
 		baro.altitude = imu.pressure_alt;
 		baro.temperature = imu.temperature;
+		baro.height = imu.height;
 
 		if (_baro_pub < 0) {
 			_baro_pub = orb_advertise(ORB_ID(sensor_baro), &baro);
@@ -1180,6 +1181,7 @@ MavlinkReceiver::handle_message_hil_sensor(mavlink_message_t *msg)
 		hil_sensors.baro_alt_meter = imu.pressure_alt;
 		hil_sensors.baro_temp_celcius = imu.temperature;
 		hil_sensors.baro_timestamp = timestamp;
+		hil_sensors.height = imu.height;
 
 		hil_sensors.differential_pressure_pa = imu.diff_pressure * 1e2f; //from hPa to Pa
 		hil_sensors.differential_pressure_timestamp = timestamp;
