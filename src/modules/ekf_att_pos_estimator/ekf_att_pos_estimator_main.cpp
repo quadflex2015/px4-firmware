@@ -684,7 +684,7 @@ void AttitudePositionEstimatorEKF::task_main()
 					//Run EKF data fusion steps
 					updateSensorFusion(_newDataGps, _newDataMag, _newRangeData, _newHgtData, _newAdsData, _newCamPosData, _newCamHgtData, _newSonarData);
 
-					_att.height = 1.5;
+					//_att.height = 1.5;
 					// Fuse cameraYaw here?
 					//Publish attitude estimations
 					publishAttitude();
