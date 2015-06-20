@@ -76,6 +76,7 @@ static constexpr float POS_RESET_THRESHOLD = 5.0f; 				///< Seconds before we si
  *
  * @ingroup apps
  */
+ // KALMAN FILTER NR1 ONLY WITH BARO READINGS
 extern "C" __EXPORT int ekf_att_pos_estimator_main(int argc, char *argv[]);
 
 __EXPORT uint32_t millis();
@@ -687,18 +688,18 @@ void AttitudePositionEstimatorEKF::task_main()
 					//_att.height = 1.5;
 					// Fuse cameraYaw here?
 					//Publish attitude estimations
-					publishAttitude();
+					//publishAttitude();
 
 					//Publish Local Position estimations
-					publishLocalPosition();
+					//publishLocalPosition();
 
 					//Publish Global Position, but only if it's any good
-					if (_gps_initialized && (_gpsIsGood || _global_pos.dead_reckoning)) {
+					//if (_gps_initialized && (_gpsIsGood || _global_pos.dead_reckoning)) {
 						publishGlobalPosition();
 					}
 
 					//Publish wind estimates
-					if (hrt_elapsed_time(&_wind.timestamp) > 99000) {
+					//if (hrt_elapsed_time(&_wind.timestamp) > 99000) {
 						publishWindEstimate();
 					}
 				}
@@ -1477,6 +1478,11 @@ void AttitudePositionEstimatorEKF::pollData()
 		_newCamData = true;
 		_newCamPosData = true;
 		_newCamHgtData = true;
+
+		//Set to false in this EKF1 because we only need baro readings
+		_newCamData = false;
+		_newCamPosData = false
+		_newCamHgtData = false;
 		//mavlink_log_info(_mavlink_fd, "[ekf] CAM: x:%.3f y:%.3f z:%.3f yaw:%.3f", (double)_cam_pos.x, (double)_cam_pos.y, (double)_cam_pos.z, (double)_cam_pos.yaw);
 	} else {
 		_newCamData = false;
@@ -1583,6 +1589,7 @@ void AttitudePositionEstimatorEKF::pollData()
 		if (_distance.distance > 0.2f) {
 			_ekf->rngMea = _distance.distance;
 			_newSonarData = true;
+			_newSonarData = false;
 		} else {
 			_newSonarData = false;
 		}
