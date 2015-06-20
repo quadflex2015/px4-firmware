@@ -1,0 +1,1033 @@
+
+Discarded input sections
+
+ .group         0x00000000        0x8 logbuffer.c.o
+ .group         0x00000000        0x8 logbuffer.c.o
+ .group         0x00000000        0x8 logbuffer.c.o
+ .group         0x00000000        0x8 logbuffer.c.o
+ .group         0x00000000        0x8 logbuffer.c.o
+ .group         0x00000000        0x8 logbuffer.c.o
+ .group         0x00000000        0x8 logbuffer.c.o
+ .group         0x00000000        0x8 logbuffer.c.o
+ .group         0x00000000        0x8 logbuffer.c.o
+ .group         0x00000000        0x8 logbuffer.c.o
+ .group         0x00000000        0x8 logbuffer.c.o
+ .group         0x00000000        0x8 logbuffer.c.o
+ .debug_macro   0x00000000      0x81a logbuffer.c.o
+ .debug_macro   0x00000000       0x22 logbuffer.c.o
+ .debug_macro   0x00000000      0x8a6 logbuffer.c.o
+ .debug_macro   0x00000000       0xc9 logbuffer.c.o
+ .debug_macro   0x00000000       0x10 logbuffer.c.o
+ .debug_macro   0x00000000       0x88 logbuffer.c.o
+ .debug_macro   0x00000000      0x14e logbuffer.c.o
+ .debug_macro   0x00000000      0x125 logbuffer.c.o
+ .debug_macro   0x00000000       0x69 logbuffer.c.o
+ .debug_macro   0x00000000       0x22 logbuffer.c.o
+ .debug_macro   0x00000000       0x5e logbuffer.c.o
+ .debug_macro   0x00000000       0x22 logbuffer.c.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD sdlog2.c.o
+LOAD logbuffer.c.o
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+
+.rela.text
+ *(.rela.text)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rel.data.rel.ro
+ *(.rel.data.rel.ro)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rel.data
+ *(.rel.data)
+
+.rela.data
+ *(.rela.data)
+
+.rel.tdata
+ *(.rel.tdata)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rel.tbss
+ *(.rel.tbss)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.iplt
+ *(.rel.iplt)
+
+.rela.iplt
+ *(.rela.iplt)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(.init)
+
+.plt
+ *(.plt)
+
+.iplt
+ *(.iplt)
+
+.text           0x00000000        0x0
+ *(.text .stub)
+ .text          0x00000000        0x0 sdlog2.c.o
+ .text          0x00000000        0x0 logbuffer.c.o
+ *(.gnu.warning)
+
+.text.sdlog2_usage
+                0x00000000       0x24
+ .text.sdlog2_usage
+                0x00000000       0x24 sdlog2.c.o
+
+.text.sdlog2_status
+                0x00000000       0xe4
+ .text.sdlog2_status
+                0x00000000       0xe4 sdlog2.c.o
+
+.text.check_free_space
+                0x00000000       0xec
+ .text.check_free_space
+                0x00000000       0xec sdlog2.c.o
+
+.text.open_perf_file
+                0x00000000      0x188
+ .text.open_perf_file
+                0x00000000      0x188 sdlog2.c.o
+
+.text.sdlog2_start_log
+                0x00000000      0x260
+ .text.sdlog2_start_log
+                0x00000000      0x260 sdlog2.c.o
+
+.text.copy_if_updated
+                0x00000000       0x28
+ .text.copy_if_updated
+                0x00000000       0x28 sdlog2.c.o
+
+.text.sdlog2_stop_log
+                0x00000000       0xd8
+ .text.sdlog2_stop_log
+                0x00000000       0xd8 sdlog2.c.o
+
+.text.sdlog2_thread_main
+                0x00000000     0x16a8
+ .text.sdlog2_thread_main
+                0x00000000     0x16a8 sdlog2.c.o
+                0x00000000                sdlog2_thread_main
+
+.text.logwriter_thread
+                0x00000000      0x410
+ .text.logwriter_thread
+                0x00000000      0x410 sdlog2.c.o
+
+.text.telemetry_status_orb_id_lookup
+                0x00000000        0xc
+ .text.telemetry_status_orb_id_lookup
+                0x00000000        0xc sdlog2.c.o
+                0x00000000                telemetry_status_orb_id_lookup
+
+.text.sdlog2_main
+                0x00000000       0xc4
+ .text.sdlog2_main
+                0x00000000       0xc4 sdlog2.c.o
+                0x00000000                sdlog2_main
+
+.text.logbuffer_init
+                0x00000000       0x20
+ .text.logbuffer_init
+                0x00000000       0x20 logbuffer.c.o
+                0x00000000                logbuffer_init
+
+.text.logbuffer_count
+                0x00000000        0xe
+ .text.logbuffer_count
+                0x00000000        0xe logbuffer.c.o
+                0x00000000                logbuffer_count
+
+.text.logbuffer_is_empty
+                0x00000000        0xa
+ .text.logbuffer_is_empty
+                0x00000000        0xa logbuffer.c.o
+                0x00000000                logbuffer_is_empty
+
+.text.logbuffer_write
+                0x00000000       0x5e
+ .text.logbuffer_write
+                0x00000000       0x5e logbuffer.c.o
+                0x00000000                logbuffer_write
+
+.text.logbuffer_get_ptr
+                0x00000000       0x2e
+ .text.logbuffer_get_ptr
+                0x00000000       0x2e logbuffer.c.o
+                0x00000000                logbuffer_get_ptr
+
+.text.logbuffer_mark_read
+                0x00000000       0x12
+ .text.logbuffer_mark_read
+                0x00000000       0x12 logbuffer.c.o
+                0x00000000                logbuffer_mark_read
+
+.fini
+ *(.fini)
+
+.rodata
+ *(.rodata)
+
+.rodata.log_formats
+                0x00000000      0xec8
+ .rodata.log_formats
+                0x00000000      0xec8 sdlog2.c.o
+
+.rodata.str1.1  0x00000000      0x6d6
+ .rodata.str1.1
+                0x00000000      0x6d6 sdlog2.c.o
+
+__param         0x00000000       0x18
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                PROVIDE (__start___param, ABSOLUTE (.))
+ __param        0x00000000       0x18 sdlog2.c.o
+                0x00000018                PROVIDE (__stop___param, .)
+
+.rodata.telemetry_status_orb_id
+                0x00000000       0x10
+ .rodata.telemetry_status_orb_id
+                0x00000000       0x10 sdlog2.c.o
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab
+ *(.ARM.extab)
+
+.ARM.exidx
+ *(.ARM.exidx)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got.plt)
+ *(.igot.plt)
+ *(.got)
+ *(.igot)
+
+.data           0x00000000        0x0
+ *(.data)
+ .data          0x00000000        0x0 sdlog2.c.o
+ .data          0x00000000        0x0 logbuffer.c.o
+
+.data.mavlink_fd
+                0x00000000        0x4
+ .data.mavlink_fd
+                0x00000000        0x4 sdlog2.c.o
+
+.data1
+ *(.data1)
+
+.bss            0x00000000        0x0
+ *(.dynbss)
+ *(.bss)
+ .bss           0x00000000        0x0 sdlog2.c.o
+ .bss           0x00000000        0x0 logbuffer.c.o
+ *(COMMON)
+
+.bss.logwriter_should_exit
+                0x00000000        0x1
+ .bss.logwriter_should_exit
+                0x00000000        0x1 sdlog2.c.o
+
+.bss.log_dir    0x00000000       0x20
+ .bss.log_dir   0x00000000       0x20 sdlog2.c.o
+
+.bss.gps_time   0x00000000        0x8
+ .bss.gps_time  0x00000000        0x8 sdlog2.c.o
+
+.bss.logbuffer_mutex
+                0x00000000       0x10
+ .bss.logbuffer_mutex
+                0x00000000       0x10 sdlog2.c.o
+
+.bss.log_msgs_skipped
+                0x00000000        0x4
+ .bss.log_msgs_skipped
+                0x00000000        0x4 sdlog2.c.o
+
+.bss.deamon_task
+                0x00000000        0x4
+ .bss.deamon_task
+                0x00000000        0x4 sdlog2.c.o
+
+.bss.logging_enabled
+                0x00000000        0x1
+ .bss.logging_enabled
+                0x00000000        0x1 sdlog2.c.o
+
+.bss.lb         0x00000000       0x10
+ .bss.lb        0x00000000       0x10 sdlog2.c.o
+                0x00000000                lb
+
+.bss.log_bytes_written
+                0x00000000        0x4
+ .bss.log_bytes_written
+                0x00000000        0x4 sdlog2.c.o
+
+.bss._extended_logging
+                0x00000000        0x1
+ .bss._extended_logging
+                0x00000000        0x1 sdlog2.c.o
+
+.bss.perf_write
+                0x00000000        0x4
+ .bss.perf_write
+                0x00000000        0x4 sdlog2.c.o
+
+.bss.main_thread_should_exit
+                0x00000000        0x1
+ .bss.main_thread_should_exit
+                0x00000000        0x1 sdlog2.c.o
+
+.bss.logbuffer_cond
+                0x00000000        0xc
+ .bss.logbuffer_cond
+                0x00000000        0xc sdlog2.c.o
+
+.bss.logwriter_pthread
+                0x00000000        0x2
+ .bss.logwriter_pthread
+                0x00000000        0x2 sdlog2.c.o
+
+.bss.log_name_timestamp
+                0x00000000        0x1
+ .bss.log_name_timestamp
+                0x00000000        0x1 sdlog2.c.o
+
+.bss.log_msgs_written
+                0x00000000        0x4
+ .bss.log_msgs_written
+                0x00000000        0x4 sdlog2.c.o
+
+.bss.logwriter_attr
+                0x00000000        0x8
+ .bss.logwriter_attr
+                0x00000000        0x8 sdlog2.c.o
+
+.bss.last_checked_bytes_written
+                0x00000000        0x4
+ .bss.last_checked_bytes_written
+                0x00000000        0x4 sdlog2.c.o
+
+.bss.start_time
+                0x00000000        0x8
+ .bss.start_time
+                0x00000000        0x8 sdlog2.c.o
+
+.bss.space_warning_sent
+                0x00000000        0x1
+ .bss.space_warning_sent
+                0x00000000        0x1 sdlog2.c.o
+
+.bss.flag_system_armed
+                0x00000000        0x1
+ .bss.flag_system_armed
+                0x00000000        0x1 sdlog2.c.o
+
+.bss.thread_running
+                0x00000000        0x1
+ .bss.thread_running
+                0x00000000        0x1 sdlog2.c.o
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0xe2
+ *(.comment)
+ .comment       0x00000000       0x71 sdlog2.c.o
+ .comment       0x00000071       0x71 logbuffer.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 sdlog2.c.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0xb8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x70 sdlog2.c.o
+ .debug_aranges
+                0x00000070       0x48 logbuffer.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x80ce
+ *(.debug_info)
+ .debug_info    0x00000000     0x7d8b sdlog2.c.o
+ .debug_info    0x00007d8b      0x343 logbuffer.c.o
+
+.debug_abbrev   0x00000000      0x691
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x534 sdlog2.c.o
+ .debug_abbrev  0x00000534      0x15d logbuffer.c.o
+
+.debug_line     0x00000000     0x1c48
+ *(.debug_line)
+ .debug_line    0x00000000     0x1908 sdlog2.c.o
+ .debug_line    0x00001908      0x340 logbuffer.c.o
+
+.debug_frame    0x00000000      0x200
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x16c sdlog2.c.o
+ .debug_frame   0x0000016c       0x94 logbuffer.c.o
+
+.debug_str      0x00000000    0x18b7d
+ *(.debug_str)
+ .debug_str     0x00000000    0x134e8 sdlog2.c.o
+ .debug_str     0x000134e8     0x5695 logbuffer.c.o
+
+.debug_loc      0x00000000     0x19d7
+ *(.debug_loc)
+ .debug_loc     0x00000000     0x1687 sdlog2.c.o
+ .debug_loc     0x00001687      0x350 logbuffer.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x230
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x1f8 sdlog2.c.o
+ .debug_ranges  0x000001f8       0x38 logbuffer.c.o
+
+.stack
+ *(.stack)
+
+.ARM.attributes
+                0x00000000       0x37
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x37 sdlog2.c.o
+ .ARM.attributes
+                0x00000037       0x37 logbuffer.c.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+OUTPUT(/misc/shome/ex36/pixhawk/px4/Firmware/Build/px4fmu-v2_default.build//misc/shome/ex36/pixhawk/px4/Firmware/src/modules/sdlog2/module.pre.o elf32-littlearm)
+
+.debug_macro    0x00000000      0x538
+ .debug_macro   0x00000000      0x498 sdlog2.c.o
+ .debug_macro   0x00000498       0xa0 logbuffer.c.o
+
+.debug_macro    0x00000000      0x81a
+ .debug_macro   0x00000000      0x81a sdlog2.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 sdlog2.c.o
+
+.debug_macro    0x00000000      0x8a6
+ .debug_macro   0x00000000      0x8a6 sdlog2.c.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 sdlog2.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 sdlog2.c.o
+
+.debug_macro    0x00000000       0x88
+ .debug_macro   0x00000000       0x88 sdlog2.c.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e sdlog2.c.o
+
+.debug_macro    0x00000000      0x125
+ .debug_macro   0x00000000      0x125 sdlog2.c.o
+
+.debug_macro    0x00000000       0x69
+ .debug_macro   0x00000000       0x69 sdlog2.c.o
+
+.debug_macro    0x00000000       0x49
+ .debug_macro   0x00000000       0x49 sdlog2.c.o
+
+.debug_macro    0x00000000       0xcb
+ .debug_macro   0x00000000       0xcb sdlog2.c.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 sdlog2.c.o
+
+.debug_macro    0x00000000      0x138
+ .debug_macro   0x00000000      0x138 sdlog2.c.o
+
+.debug_macro    0x00000000      0x14d
+ .debug_macro   0x00000000      0x14d sdlog2.c.o
+
+.debug_macro    0x00000000      0x6c1
+ .debug_macro   0x00000000      0x6c1 sdlog2.c.o
+
+.debug_macro    0x00000000       0xd1
+ .debug_macro   0x00000000       0xd1 sdlog2.c.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 sdlog2.c.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c sdlog2.c.o
+
+.debug_macro    0x00000000      0x10c
+ .debug_macro   0x00000000      0x10c sdlog2.c.o
+
+.debug_macro    0x00000000       0x23
+ .debug_macro   0x00000000       0x23 sdlog2.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 sdlog2.c.o
+
+.debug_macro    0x00000000       0x98
+ .debug_macro   0x00000000       0x98 sdlog2.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 sdlog2.c.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 sdlog2.c.o
+
+.debug_macro    0x00000000      0x11b
+ .debug_macro   0x00000000      0x11b sdlog2.c.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 sdlog2.c.o
+
+.debug_macro    0x00000000      0x27f
+ .debug_macro   0x00000000      0x27f sdlog2.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 sdlog2.c.o
+
+.debug_macro    0x00000000      0x195
+ .debug_macro   0x00000000      0x195 sdlog2.c.o
+
+.debug_macro    0x00000000       0x8a
+ .debug_macro   0x00000000       0x8a sdlog2.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 sdlog2.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 sdlog2.c.o
+
+.debug_macro    0x00000000       0x39
+ .debug_macro   0x00000000       0x39 sdlog2.c.o
+
+.debug_macro    0x00000000       0xb4
+ .debug_macro   0x00000000       0xb4 sdlog2.c.o
+
+.debug_macro    0x00000000       0x41
+ .debug_macro   0x00000000       0x41 sdlog2.c.o
+
+.debug_macro    0x00000000       0x4d
+ .debug_macro   0x00000000       0x4d sdlog2.c.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 sdlog2.c.o
+
+.debug_macro    0x00000000       0x5e
+ .debug_macro   0x00000000       0x5e sdlog2.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 sdlog2.c.o
+
+.debug_macro    0x00000000       0xa4
+ .debug_macro   0x00000000       0xa4 sdlog2.c.o
+
+.debug_macro    0x00000000       0x18
+ .debug_macro   0x00000000       0x18 sdlog2.c.o
+
+.debug_macro    0x00000000       0x3a
+ .debug_macro   0x00000000       0x3a sdlog2.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 sdlog2.c.o
+
+.debug_macro    0x00000000       0x27
+ .debug_macro   0x00000000       0x27 sdlog2.c.o
+
+.debug_macro    0x00000000       0xa3
+ .debug_macro   0x00000000       0xa3 sdlog2.c.o
+
+.debug_macro    0x00000000      0x28f
+ .debug_macro   0x00000000      0x28f sdlog2.c.o
+
+.debug_macro    0x00000000       0x9a
+ .debug_macro   0x00000000       0x9a sdlog2.c.o
+
+.debug_macro    0x00000000      0x1cf
+ .debug_macro   0x00000000      0x1cf sdlog2.c.o
+
+.debug_macro    0x00000000      0x16c
+ .debug_macro   0x00000000      0x16c sdlog2.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 sdlog2.c.o
+
+.debug_macro    0x00000000       0x29
+ .debug_macro   0x00000000       0x29 sdlog2.c.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 sdlog2.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 sdlog2.c.o
+
+.debug_macro    0x00000000       0x88
+ .debug_macro   0x00000000       0x88 sdlog2.c.o
+
+.debug_macro    0x00000000       0x2e
+ .debug_macro   0x00000000       0x2e sdlog2.c.o
+
+.debug_macro    0x00000000      0x19c
+ .debug_macro   0x00000000      0x19c sdlog2.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 sdlog2.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 sdlog2.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 sdlog2.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 sdlog2.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 sdlog2.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 sdlog2.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 sdlog2.c.o
+
+.debug_macro    0x00000000       0x2b
+ .debug_macro   0x00000000       0x2b sdlog2.c.o
+
+.debug_macro    0x00000000      0x184
+ .debug_macro   0x00000000      0x184 sdlog2.c.o
+
+.debug_macro    0x00000000       0x30
+ .debug_macro   0x00000000       0x30 sdlog2.c.o
+
+.debug_macro    0x00000000       0x2e
+ .debug_macro   0x00000000       0x2e sdlog2.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 sdlog2.c.o
+
+.debug_macro    0x00000000       0x7c
+ .debug_macro   0x00000000       0x7c sdlog2.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 sdlog2.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 sdlog2.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 sdlog2.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 sdlog2.c.o
+
+.debug_macro    0x00000000       0x4d
+ .debug_macro   0x00000000       0x4d sdlog2.c.o
+
+.debug_macro    0x00000000       0x40
+ .debug_macro   0x00000000       0x40 sdlog2.c.o
+
+.debug_macro    0x00000000      0x136
+ .debug_macro   0x00000000      0x136 sdlog2.c.o

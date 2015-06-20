@@ -1,0 +1,1129 @@
+
+Discarded input sections
+
+ .group         0x00000000        0x8 bottle_drop_params.c.o
+ .group         0x00000000        0x8 bottle_drop_params.c.o
+ .group         0x00000000        0x8 bottle_drop_params.c.o
+ .group         0x00000000        0x8 bottle_drop_params.c.o
+ .group         0x00000000        0x8 bottle_drop_params.c.o
+ .debug_macro   0x00000000      0x8a6 bottle_drop_params.c.o
+ .debug_macro   0x00000000       0x10 bottle_drop_params.c.o
+ .debug_macro   0x00000000       0x88 bottle_drop_params.c.o
+ .debug_macro   0x00000000      0x14e bottle_drop_params.c.o
+ .debug_macro   0x00000000      0x125 bottle_drop_params.c.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD bottle_drop.cpp.o
+LOAD bottle_drop_params.c.o
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+
+.rela.text
+ *(.rela.text)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rel.data.rel.ro
+ *(.rel.data.rel.ro)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rel.data
+ *(.rel.data)
+
+.rela.data
+ *(.rela.data)
+
+.rel.tdata
+ *(.rel.tdata)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rel.tbss
+ *(.rel.tbss)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.iplt
+ *(.rel.iplt)
+
+.rela.iplt
+ *(.rela.iplt)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(.init)
+
+.plt
+ *(.plt)
+
+.iplt
+ *(.iplt)
+
+.text           0x00000000        0x0
+ *(.text .stub)
+ .text          0x00000000        0x0 bottle_drop.cpp.o
+ .text          0x00000000        0x0 bottle_drop_params.c.o
+ *(.gnu.warning)
+
+.text._ZN10BottleDrop14answer_commandEP17vehicle_command_s18VEHICLE_CMD_RESULT.part.1
+                0x00000000       0x14
+ .text._ZN10BottleDrop14answer_commandEP17vehicle_command_s18VEHICLE_CMD_RESULT.part.1
+                0x00000000       0x14 bottle_drop.cpp.o
+
+.text._ZN10BottleDropC2Ev
+                0x00000000       0xa0
+ .text._ZN10BottleDropC2Ev
+                0x00000000       0xa0 bottle_drop.cpp.o
+                0x00000000                BottleDrop::BottleDrop()
+                0x00000000                BottleDrop::BottleDrop()
+
+.text._ZN10BottleDropD2Ev
+                0x00000000       0x38
+ .text._ZN10BottleDropD2Ev
+                0x00000000       0x38 bottle_drop.cpp.o
+                0x00000000                BottleDrop::~BottleDrop()
+                0x00000000                BottleDrop::~BottleDrop()
+
+.text._ZN10BottleDrop5startEv
+                0x00000000       0x54
+ .text._ZN10BottleDrop5startEv
+                0x00000000       0x54 bottle_drop.cpp.o
+                0x00000000                BottleDrop::start()
+
+.text._ZN10BottleDrop6statusEv
+                0x00000000       0x10
+ .text._ZN10BottleDrop6statusEv
+                0x00000000       0x10 bottle_drop.cpp.o
+                0x00000000                BottleDrop::status()
+
+.text._ZN10BottleDrop17actuators_publishEv
+                0x00000000       0x3c
+ .text._ZN10BottleDrop17actuators_publishEv
+                0x00000000       0x3c bottle_drop.cpp.o
+                0x00000000                BottleDrop::actuators_publish()
+
+.text._ZN10BottleDrop12lock_releaseEv
+                0x00000000       0x20
+ .text._ZN10BottleDrop12lock_releaseEv
+                0x00000000       0x20 bottle_drop.cpp.o
+                0x00000000                BottleDrop::lock_release()
+
+.text._ZN10BottleDrop9close_bayEv
+                0x00000000       0x34
+ .text._ZN10BottleDrop9close_bayEv
+                0x00000000       0x34 bottle_drop.cpp.o
+                0x00000000                BottleDrop::close_bay()
+
+.text._ZN10BottleDrop8open_bayEv
+                0x00000000       0x48
+ .text._ZN10BottleDrop8open_bayEv
+                0x00000000       0x48 bottle_drop.cpp.o
+                0x00000000                BottleDrop::open_bay()
+
+.text._ZN10BottleDrop4dropEv
+                0x00000000       0x94
+ .text._ZN10BottleDrop4dropEv
+                0x00000000       0x94 bottle_drop.cpp.o
+                0x00000000                BottleDrop::drop()
+
+.text._ZN10BottleDrop14handle_commandEP17vehicle_command_s
+                0x00000000      0x1a4
+ .text._ZN10BottleDrop14handle_commandEP17vehicle_command_s
+                0x00000000      0x1a4 bottle_drop.cpp.o
+                0x00000000                BottleDrop::handle_command(vehicle_command_s*)
+
+.text._ZN10BottleDrop9task_mainEv
+                0x00000000      0x770
+ .text._ZN10BottleDrop9task_mainEv
+                0x00000000      0x770 bottle_drop.cpp.o
+                0x00000000                BottleDrop::task_main()
+
+.text._ZN10BottleDrop20task_main_trampolineEiPPc
+                0x00000000       0x10
+ .text._ZN10BottleDrop20task_main_trampolineEiPPc
+                0x00000000       0x10 bottle_drop.cpp.o
+                0x00000000                BottleDrop::task_main_trampoline(int, char**)
+
+.text._ZN10BottleDrop14answer_commandEP17vehicle_command_s18VEHICLE_CMD_RESULT
+                0x00000000       0x48
+ .text._ZN10BottleDrop14answer_commandEP17vehicle_command_s18VEHICLE_CMD_RESULT
+                0x00000000       0x48 bottle_drop.cpp.o
+                0x00000000                BottleDrop::answer_command(vehicle_command_s*, VEHICLE_CMD_RESULT)
+
+.text.bottle_drop_main
+                0x00000000      0x120
+ .text.bottle_drop_main
+                0x00000000      0x120 bottle_drop.cpp.o
+                0x00000000                bottle_drop_main
+
+.fini
+ *(.fini)
+
+.rodata
+ *(.rodata)
+
+.rodata.str1.1  0x00000000      0x3c9
+ .rodata.str1.1
+                0x00000000      0x37a bottle_drop.cpp.o
+ .rodata.str1.1
+                0x0000037a       0x4f bottle_drop_params.c.o
+
+__param         0x00000000       0x48
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                PROVIDE (__start___param, ABSOLUTE (.))
+ __param        0x00000000       0x48 bottle_drop_params.c.o
+                0x00000048                PROVIDE (__stop___param, .)
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab
+ *(.ARM.extab)
+
+.ARM.exidx
+ *(.ARM.exidx)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got.plt)
+ *(.igot.plt)
+ *(.got)
+ *(.igot)
+
+.data           0x00000000        0x0
+ *(.data)
+ .data          0x00000000        0x0 bottle_drop.cpp.o
+ .data          0x00000000        0x0 bottle_drop_params.c.o
+
+.data1
+ *(.data1)
+
+.bss            0x00000000        0x0
+ *(.dynbss)
+ *(.bss)
+ .bss           0x00000000        0x0 bottle_drop.cpp.o
+ .bss           0x00000000        0x0 bottle_drop_params.c.o
+ *(COMMON)
+
+.bss._ZN11bottle_drop13g_bottle_dropE
+                0x00000000        0x4
+ .bss._ZN11bottle_drop13g_bottle_dropE
+                0x00000000        0x4 bottle_drop.cpp.o
+                0x00000000                bottle_drop::g_bottle_drop
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0xe2
+ *(.comment)
+ .comment       0x00000000       0x71 bottle_drop.cpp.o
+ .comment       0x00000071       0x71 bottle_drop_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 bottle_drop_params.c.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0xa8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x90 bottle_drop.cpp.o
+ .debug_aranges
+                0x00000090       0x18 bottle_drop_params.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x97d0
+ *(.debug_info)
+ .debug_info    0x00000000     0x9635 bottle_drop.cpp.o
+ .debug_info    0x00009635      0x19b bottle_drop_params.c.o
+
+.debug_abbrev   0x00000000      0x8c7
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x80c bottle_drop.cpp.o
+ .debug_abbrev  0x0000080c       0xbb bottle_drop_params.c.o
+
+.debug_line     0x00000000     0x1ec4
+ *(.debug_line)
+ .debug_line    0x00000000     0x1bed bottle_drop.cpp.o
+ .debug_line    0x00001bed      0x2d7 bottle_drop_params.c.o
+
+.debug_frame    0x00000000      0x1bc
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x1bc bottle_drop.cpp.o
+
+.debug_str      0x00000000    0x52cec
+ *(.debug_str)
+ .debug_str     0x00000000    0x4d4fc bottle_drop.cpp.o
+ .debug_str     0x0004d4fc     0x57f0 bottle_drop_params.c.o
+
+.debug_loc      0x00000000      0xe23
+ *(.debug_loc)
+ .debug_loc     0x00000000      0xe23 bottle_drop.cpp.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000       0xf8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0xf8 bottle_drop.cpp.o
+
+.stack
+ *(.stack)
+
+.ARM.attributes
+                0x00000000       0x37
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x37 bottle_drop.cpp.o
+ .ARM.attributes
+                0x00000037       0x37 bottle_drop_params.c.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+OUTPUT(/misc/shome/ex36/pixhawk/px4/Firmware/Build/px4fmu-v2_default.build//misc/shome/ex36/pixhawk/px4/Firmware/src/modules/bottle_drop/module.pre.o elf32-littlearm)
+
+.debug_macro    0x00000000      0x76e
+ .debug_macro   0x00000000      0x6f1 bottle_drop.cpp.o
+ .debug_macro   0x000006f1       0x7d bottle_drop_params.c.o
+
+.debug_macro    0x00000000      0x838
+ .debug_macro   0x00000000      0x838 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x8a6
+ .debug_macro   0x00000000      0x8a6 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x88
+ .debug_macro   0x00000000       0x88 bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x125
+ .debug_macro   0x00000000      0x125 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x5d
+ .debug_macro   0x00000000       0x5d bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x49
+ .debug_macro   0x00000000       0x49 bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x106
+ .debug_macro   0x00000000      0x106 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x23
+ .debug_macro   0x00000000       0x23 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0xd1
+ .debug_macro   0x00000000       0xd1 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x98
+ .debug_macro   0x00000000       0x98 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x11b
+ .debug_macro   0x00000000      0x11b bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x27f
+ .debug_macro   0x00000000      0x27f bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x195
+ .debug_macro   0x00000000      0x195 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x8a
+ .debug_macro   0x00000000       0x8a bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x39
+ .debug_macro   0x00000000       0x39 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0xb4
+ .debug_macro   0x00000000       0xb4 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x41
+ .debug_macro   0x00000000       0x41 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x4d
+ .debug_macro   0x00000000       0x4d bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x5e
+ .debug_macro   0x00000000       0x5e bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x14d
+ .debug_macro   0x00000000      0x14d bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x6c1
+ .debug_macro   0x00000000      0x6c1 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x3a
+ .debug_macro   0x00000000       0x3a bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x27
+ .debug_macro   0x00000000       0x27 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0xa3
+ .debug_macro   0x00000000       0xa3 bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x281
+ .debug_macro   0x00000000      0x281 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x9a
+ .debug_macro   0x00000000       0x9a bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x1cf
+ .debug_macro   0x00000000      0x1cf bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x16c
+ .debug_macro   0x00000000      0x16c bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x18
+ .debug_macro   0x00000000       0x18 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x78
+ .debug_macro   0x00000000       0x78 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x6cb
+ .debug_macro   0x00000000      0x6cb bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x20a
+ .debug_macro   0x00000000      0x20a bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0xf6f
+ .debug_macro   0x00000000      0xf6f bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x2ab
+ .debug_macro   0x00000000      0x2ab bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x8b5
+ .debug_macro   0x00000000      0x8b5 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x78
+ .debug_macro   0x00000000       0x78 bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x7ca
+ .debug_macro   0x00000000      0x7ca bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0xff
+ .debug_macro   0x00000000       0xff bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0xae7
+ .debug_macro   0x00000000      0xae7 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x51
+ .debug_macro   0x00000000       0x51 bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x11a
+ .debug_macro   0x00000000      0x11a bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x1d
+ .debug_macro   0x00000000       0x1d bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x206
+ .debug_macro   0x00000000      0x206 bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x56a
+ .debug_macro   0x00000000      0x56a bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x9c
+ .debug_macro   0x00000000       0x9c bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x2bf
+ .debug_macro   0x00000000      0x2bf bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0xd3
+ .debug_macro   0x00000000       0xd3 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x34
+ .debug_macro   0x00000000       0x34 bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0xab0
+ .debug_macro   0x00000000      0xab0 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x17
+ .debug_macro   0x00000000       0x17 bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x6fa
+ .debug_macro   0x00000000      0x6fa bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x596
+ .debug_macro   0x00000000      0x596 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x29b
+ .debug_macro   0x00000000      0x29b bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 bottle_drop.cpp.o
+
+.debug_macro    0x00000000     0x15a4
+ .debug_macro   0x00000000     0x15a4 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x53
+ .debug_macro   0x00000000       0x53 bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x347
+ .debug_macro   0x00000000      0x347 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x96
+ .debug_macro   0x00000000       0x96 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x413
+ .debug_macro   0x00000000      0x413 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x5f
+ .debug_macro   0x00000000       0x5f bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x1d
+ .debug_macro   0x00000000       0x1d bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0xdf
+ .debug_macro   0x00000000       0xdf bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x13f
+ .debug_macro   0x00000000      0x13f bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0xdb4
+ .debug_macro   0x00000000      0xdb4 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x215
+ .debug_macro   0x00000000      0x215 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x29
+ .debug_macro   0x00000000       0x29 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x2b
+ .debug_macro   0x00000000       0x2b bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x168
+ .debug_macro   0x00000000      0x168 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x30
+ .debug_macro   0x00000000       0x30 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x20
+ .debug_macro   0x00000000       0x20 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x3b
+ .debug_macro   0x00000000       0x3b bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x2d
+ .debug_macro   0x00000000       0x2d bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x42
+ .debug_macro   0x00000000       0x42 bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0xac
+ .debug_macro   0x00000000       0xac bottle_drop.cpp.o
+
+.debug_macro    0x00000000       0x4d
+ .debug_macro   0x00000000       0x4d bottle_drop.cpp.o
+
+.debug_macro    0x00000000      0x81a
+ .debug_macro   0x00000000      0x81a bottle_drop_params.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 bottle_drop_params.c.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 bottle_drop_params.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 bottle_drop_params.c.o
+
+.debug_macro    0x00000000       0x6f
+ .debug_macro   0x00000000       0x6f bottle_drop_params.c.o
+
+.debug_macro    0x00000000       0x25
+ .debug_macro   0x00000000       0x25 bottle_drop_params.c.o

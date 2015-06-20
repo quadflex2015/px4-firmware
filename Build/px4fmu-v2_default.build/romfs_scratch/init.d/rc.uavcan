@@ -1,0 +1,11 @@
+if param compare UAVCAN_ENABLE 1
+then
+	if uavcan start
+	then
+		sleep 1
+		echo "[i] UAVCAN started"
+	else
+		echo "[i] ERROR: Could not start UAVCAN"
+		tone_alarm $TUNE_ERR
+	fi
+fi

@@ -1,0 +1,1837 @@
+
+Discarded input sections
+
+ .group         0x00000000        0x8 gps_helper.cpp.o
+ .group         0x00000000        0x8 gps_helper.cpp.o
+ .group         0x00000000        0x8 gps_helper.cpp.o
+ .group         0x00000000        0x8 gps_helper.cpp.o
+ .group         0x00000000        0x8 gps_helper.cpp.o
+ .group         0x00000000        0x8 gps_helper.cpp.o
+ .group         0x00000000        0x8 gps_helper.cpp.o
+ .group         0x00000000        0x8 gps_helper.cpp.o
+ .group         0x00000000        0x8 gps_helper.cpp.o
+ .group         0x00000000        0x8 gps_helper.cpp.o
+ .group         0x00000000        0x8 gps_helper.cpp.o
+ .group         0x00000000        0x8 gps_helper.cpp.o
+ .debug_macro   0x00000000      0x838 gps_helper.cpp.o
+ .debug_macro   0x00000000       0x22 gps_helper.cpp.o
+ .debug_macro   0x00000000      0x8a6 gps_helper.cpp.o
+ .debug_macro   0x00000000       0xc9 gps_helper.cpp.o
+ .debug_macro   0x00000000       0x10 gps_helper.cpp.o
+ .debug_macro   0x00000000       0x88 gps_helper.cpp.o
+ .debug_macro   0x00000000      0x14e gps_helper.cpp.o
+ .debug_macro   0x00000000      0x125 gps_helper.cpp.o
+ .debug_macro   0x00000000      0x6c1 gps_helper.cpp.o
+ .debug_macro   0x00000000       0x58 gps_helper.cpp.o
+ .debug_macro   0x00000000       0x4c gps_helper.cpp.o
+ .debug_macro   0x00000000       0x29 gps_helper.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .group         0x00000000        0x8 mtk.cpp.o
+ .debug_macro   0x00000000      0x838 mtk.cpp.o
+ .debug_macro   0x00000000       0x22 mtk.cpp.o
+ .debug_macro   0x00000000      0x8a6 mtk.cpp.o
+ .debug_macro   0x00000000       0xc9 mtk.cpp.o
+ .debug_macro   0x00000000       0x10 mtk.cpp.o
+ .debug_macro   0x00000000       0x88 mtk.cpp.o
+ .debug_macro   0x00000000      0x14e mtk.cpp.o
+ .debug_macro   0x00000000      0x125 mtk.cpp.o
+ .debug_macro   0x00000000       0x5d mtk.cpp.o
+ .debug_macro   0x00000000       0x58 mtk.cpp.o
+ .debug_macro   0x00000000       0x4c mtk.cpp.o
+ .debug_macro   0x00000000       0x49 mtk.cpp.o
+ .debug_macro   0x00000000       0x23 mtk.cpp.o
+ .debug_macro   0x00000000       0x28 mtk.cpp.o
+ .debug_macro   0x00000000       0x98 mtk.cpp.o
+ .debug_macro   0x00000000       0x16 mtk.cpp.o
+ .debug_macro   0x00000000       0x59 mtk.cpp.o
+ .debug_macro   0x00000000      0x11b mtk.cpp.o
+ .debug_macro   0x00000000       0x46 mtk.cpp.o
+ .debug_macro   0x00000000      0x27f mtk.cpp.o
+ .debug_macro   0x00000000       0x10 mtk.cpp.o
+ .debug_macro   0x00000000      0x195 mtk.cpp.o
+ .debug_macro   0x00000000       0x8a mtk.cpp.o
+ .debug_macro   0x00000000       0x10 mtk.cpp.o
+ .debug_macro   0x00000000       0x10 mtk.cpp.o
+ .debug_macro   0x00000000       0x39 mtk.cpp.o
+ .debug_macro   0x00000000       0xb4 mtk.cpp.o
+ .debug_macro   0x00000000       0x41 mtk.cpp.o
+ .debug_macro   0x00000000       0x4d mtk.cpp.o
+ .debug_macro   0x00000000       0x59 mtk.cpp.o
+ .debug_macro   0x00000000       0x3a mtk.cpp.o
+ .debug_macro   0x00000000       0x10 mtk.cpp.o
+ .debug_macro   0x00000000       0x27 mtk.cpp.o
+ .debug_macro   0x00000000       0xa3 mtk.cpp.o
+ .debug_macro   0x00000000      0x281 mtk.cpp.o
+ .debug_macro   0x00000000       0x22 mtk.cpp.o
+ .debug_macro   0x00000000       0x18 mtk.cpp.o
+ .debug_macro   0x00000000       0x29 mtk.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .group         0x00000000        0x8 ashtech.cpp.o
+ .text._ZN10GPS_HelperD2Ev
+                0x00000000        0xc ashtech.cpp.o
+ .text._ZN10GPS_HelperD0Ev
+                0x00000000       0x14 ashtech.cpp.o
+ .rodata._ZTV10GPS_Helper
+                0x00000000       0x18 ashtech.cpp.o
+ .debug_macro   0x00000000      0x838 ashtech.cpp.o
+ .debug_macro   0x00000000       0x22 ashtech.cpp.o
+ .debug_macro   0x00000000      0x8a6 ashtech.cpp.o
+ .debug_macro   0x00000000       0xc9 ashtech.cpp.o
+ .debug_macro   0x00000000       0x10 ashtech.cpp.o
+ .debug_macro   0x00000000       0x88 ashtech.cpp.o
+ .debug_macro   0x00000000      0x14e ashtech.cpp.o
+ .debug_macro   0x00000000      0x125 ashtech.cpp.o
+ .debug_macro   0x00000000       0x5d ashtech.cpp.o
+ .debug_macro   0x00000000       0x29 ashtech.cpp.o
+ .debug_macro   0x00000000       0xd1 ashtech.cpp.o
+ .debug_macro   0x00000000       0x5e ashtech.cpp.o
+ .debug_macro   0x00000000       0x58 ashtech.cpp.o
+ .debug_macro   0x00000000       0x4c ashtech.cpp.o
+ .debug_macro   0x00000000       0x49 ashtech.cpp.o
+ .debug_macro   0x00000000      0x106 ashtech.cpp.o
+ .debug_macro   0x00000000       0x23 ashtech.cpp.o
+ .debug_macro   0x00000000       0x28 ashtech.cpp.o
+ .debug_macro   0x00000000       0x98 ashtech.cpp.o
+ .debug_macro   0x00000000       0x16 ashtech.cpp.o
+ .debug_macro   0x00000000       0x59 ashtech.cpp.o
+ .debug_macro   0x00000000      0x11b ashtech.cpp.o
+ .debug_macro   0x00000000       0x46 ashtech.cpp.o
+ .debug_macro   0x00000000      0x27f ashtech.cpp.o
+ .debug_macro   0x00000000       0x10 ashtech.cpp.o
+ .debug_macro   0x00000000      0x195 ashtech.cpp.o
+ .debug_macro   0x00000000       0x8a ashtech.cpp.o
+ .debug_macro   0x00000000       0x10 ashtech.cpp.o
+ .debug_macro   0x00000000       0x10 ashtech.cpp.o
+ .debug_macro   0x00000000       0x39 ashtech.cpp.o
+ .debug_macro   0x00000000       0xb4 ashtech.cpp.o
+ .debug_macro   0x00000000       0x41 ashtech.cpp.o
+ .debug_macro   0x00000000       0x4d ashtech.cpp.o
+ .debug_macro   0x00000000       0x59 ashtech.cpp.o
+ .debug_macro   0x00000000       0x3a ashtech.cpp.o
+ .debug_macro   0x00000000       0x10 ashtech.cpp.o
+ .debug_macro   0x00000000       0x27 ashtech.cpp.o
+ .debug_macro   0x00000000       0xa3 ashtech.cpp.o
+ .debug_macro   0x00000000      0x281 ashtech.cpp.o
+ .debug_macro   0x00000000       0x22 ashtech.cpp.o
+ .debug_macro   0x00000000       0x10 ashtech.cpp.o
+ .debug_macro   0x00000000       0x18 ashtech.cpp.o
+ .debug_macro   0x00000000      0x14d ashtech.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .group         0x00000000        0x8 ubx.cpp.o
+ .text._ZN10GPS_HelperD2Ev
+                0x00000000        0xc ubx.cpp.o
+ .text._ZN10GPS_HelperD0Ev
+                0x00000000       0x14 ubx.cpp.o
+ .rodata._ZTV10GPS_Helper
+                0x00000000       0x18 ubx.cpp.o
+ .debug_macro   0x00000000      0x838 ubx.cpp.o
+ .debug_macro   0x00000000       0x22 ubx.cpp.o
+ .debug_macro   0x00000000       0xc9 ubx.cpp.o
+ .debug_macro   0x00000000      0x8a6 ubx.cpp.o
+ .debug_macro   0x00000000       0x10 ubx.cpp.o
+ .debug_macro   0x00000000       0x88 ubx.cpp.o
+ .debug_macro   0x00000000      0x14e ubx.cpp.o
+ .debug_macro   0x00000000      0x125 ubx.cpp.o
+ .debug_macro   0x00000000       0x3a ubx.cpp.o
+ .debug_macro   0x00000000       0x10 ubx.cpp.o
+ .debug_macro   0x00000000       0x27 ubx.cpp.o
+ .debug_macro   0x00000000       0xa3 ubx.cpp.o
+ .debug_macro   0x00000000      0x281 ubx.cpp.o
+ .debug_macro   0x00000000       0x23 ubx.cpp.o
+ .debug_macro   0x00000000       0x63 ubx.cpp.o
+ .debug_macro   0x00000000       0x58 ubx.cpp.o
+ .debug_macro   0x00000000       0x4c ubx.cpp.o
+ .debug_macro   0x00000000       0x49 ubx.cpp.o
+ .debug_macro   0x00000000      0x106 ubx.cpp.o
+ .debug_macro   0x00000000       0x28 ubx.cpp.o
+ .debug_macro   0x00000000       0xd1 ubx.cpp.o
+ .debug_macro   0x00000000       0x98 ubx.cpp.o
+ .debug_macro   0x00000000       0x16 ubx.cpp.o
+ .debug_macro   0x00000000      0x11b ubx.cpp.o
+ .debug_macro   0x00000000       0x46 ubx.cpp.o
+ .debug_macro   0x00000000      0x27f ubx.cpp.o
+ .debug_macro   0x00000000       0x10 ubx.cpp.o
+ .debug_macro   0x00000000      0x195 ubx.cpp.o
+ .debug_macro   0x00000000       0x8a ubx.cpp.o
+ .debug_macro   0x00000000       0x10 ubx.cpp.o
+ .debug_macro   0x00000000       0x10 ubx.cpp.o
+ .debug_macro   0x00000000       0x39 ubx.cpp.o
+ .debug_macro   0x00000000       0xb4 ubx.cpp.o
+ .debug_macro   0x00000000       0x41 ubx.cpp.o
+ .debug_macro   0x00000000       0x4d ubx.cpp.o
+ .debug_macro   0x00000000       0x22 ubx.cpp.o
+ .debug_macro   0x00000000       0x29 ubx.cpp.o
+ .debug_macro   0x00000000       0x10 ubx.cpp.o
+ .debug_macro   0x00000000       0x18 ubx.cpp.o
+ .debug_macro   0x00000000       0x10 ubx.cpp.o
+ .debug_macro   0x00000000      0x19b ubx.cpp.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD gps.cpp.o
+LOAD gps_helper.cpp.o
+LOAD mtk.cpp.o
+LOAD ashtech.cpp.o
+LOAD ubx.cpp.o
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+
+.rela.text
+ *(.rela.text)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rel.data.rel.ro
+ *(.rel.data.rel.ro)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rel.data
+ *(.rel.data)
+
+.rela.data
+ *(.rela.data)
+
+.rel.tdata
+ *(.rel.tdata)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rel.tbss
+ *(.rel.tbss)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.iplt
+ *(.rel.iplt)
+
+.rela.iplt
+ *(.rela.iplt)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(.init)
+
+.plt
+ *(.plt)
+
+.iplt
+ *(.iplt)
+
+.text           0x00000000        0x0
+ *(.text .stub)
+ .text          0x00000000        0x0 gps.cpp.o
+ .text          0x00000000        0x0 gps_helper.cpp.o
+ .text          0x00000000        0x0 mtk.cpp.o
+ .text          0x00000000        0x0 ashtech.cpp.o
+ .text          0x00000000        0x0 ubx.cpp.o
+ *(.gnu.warning)
+
+.text._ZN3GPSD2Ev
+                0x00000000       0x4c
+ .text._ZN3GPSD2Ev
+                0x00000000       0x4c gps.cpp.o
+                0x00000000                GPS::~GPS()
+                0x00000000                GPS::~GPS()
+
+.text._ZN3GPSD0Ev
+                0x00000000       0x12
+ .text._ZN3GPSD0Ev
+                0x00000000       0x12 gps.cpp.o
+                0x00000000                GPS::~GPS()
+
+.text._ZN6device6Device4lockEv
+                0x00000000       0x12
+ .text._ZN6device6Device4lockEv
+                0x00000000       0x12 gps.cpp.o
+                0x00000000                device::Device::lock()
+
+.text._ZN3GPSC2EPKcbb
+                0x00000000       0xa0
+ .text._ZN3GPSC2EPKcbb
+                0x00000000       0xa0 gps.cpp.o
+                0x00000000                GPS::GPS(char const*, bool, bool)
+                0x00000000                GPS::GPS(char const*, bool, bool)
+
+.text._ZN3GPS9task_mainEv
+                0x00000000      0x318
+ .text._ZN3GPS9task_mainEv
+                0x00000000      0x318 gps.cpp.o
+                0x00000000                GPS::task_main()
+
+.text._ZN3GPS20task_main_trampolineEPv
+                0x00000000       0x10
+ .text._ZN3GPS20task_main_trampolineEPv
+                0x00000000       0x10 gps.cpp.o
+                0x00000000                GPS::task_main_trampoline(void*)
+
+.text._ZN3GPS9cmd_resetEv
+                0x00000000        0x2
+ .text._ZN3GPS9cmd_resetEv
+                0x00000000        0x2 gps.cpp.o
+                0x00000000                GPS::cmd_reset()
+
+.text._ZN3GPS10print_infoEv
+                0x00000000      0x1b0
+ .text._ZN3GPS10print_infoEv
+                0x00000000      0x1b0 gps.cpp.o
+                0x00000000                GPS::print_info()
+
+.text._ZN3gps5startEPKcbb
+                0x00000000       0x84
+ .text._ZN3gps5startEPKcbb
+                0x00000000       0x84 gps.cpp.o
+                0x00000000                gps::start(char const*, bool, bool)
+
+.text._ZN3gps4stopEv
+                0x00000000       0x1c
+ .text._ZN3gps4stopEv
+                0x00000000       0x1c gps.cpp.o
+                0x00000000                gps::stop()
+
+.text._ZN3gps4testEv
+                0x00000000       0x10
+ .text._ZN3gps4testEv
+                0x00000000       0x10 gps.cpp.o
+                0x00000000                gps::test()
+
+.text._ZN3gps5resetEv
+                0x00000000       0x3c
+ .text._ZN3gps5resetEv
+                0x00000000       0x3c gps.cpp.o
+                0x00000000                gps::reset()
+
+.text._ZN3gps4infoEv
+                0x00000000       0x24
+ .text._ZN3gps4infoEv
+                0x00000000       0x24 gps.cpp.o
+                0x00000000                gps::info()
+
+.text.gps_main  0x00000000       0xdc
+ .text.gps_main
+                0x00000000       0xdc gps.cpp.o
+                0x00000000                gps_main
+
+.text._ZN3GPS5ioctlEP4fileim
+                0x00000000       0x34
+ .text._ZN3GPS5ioctlEP4fileim
+                0x00000000       0x34 gps.cpp.o
+                0x00000000                GPS::ioctl(file*, int, unsigned long)
+
+.text._ZN3GPS4initEv
+                0x00000000       0x58
+ .text._ZN3GPS4initEv
+                0x00000000       0x58 gps.cpp.o
+                0x00000000                GPS::init()
+
+.text._ZN10GPS_Helper24get_position_update_rateEv
+                0x00000000        0x6
+ .text._ZN10GPS_Helper24get_position_update_rateEv
+                0x00000000        0x6 gps_helper.cpp.o
+                0x00000000                GPS_Helper::get_position_update_rate()
+
+.text._ZN10GPS_Helper24get_velocity_update_rateEv
+                0x00000000        0x6
+ .text._ZN10GPS_Helper24get_velocity_update_rateEv
+                0x00000000        0x6 gps_helper.cpp.o
+                0x00000000                GPS_Helper::get_velocity_update_rate()
+
+.text._ZN10GPS_Helper18reset_update_ratesEv
+                0x00000000       0x14
+ .text._ZN10GPS_Helper18reset_update_ratesEv
+                0x00000000       0x14 gps_helper.cpp.o
+                0x00000000                GPS_Helper::reset_update_rates()
+
+.text._ZN10GPS_Helper18store_update_ratesEv
+                0x00000000       0x70
+ .text._ZN10GPS_Helper18store_update_ratesEv
+                0x00000000       0x70 gps_helper.cpp.o
+                0x00000000                GPS_Helper::store_update_rates()
+
+.text._ZN10GPS_Helper12set_baudrateERKij
+                0x00000000       0xa8
+ .text._ZN10GPS_Helper12set_baudrateERKij
+                0x00000000       0xa8 gps_helper.cpp.o
+                0x00000000                GPS_Helper::set_baudrate(int const&, unsigned int)
+
+.text._ZN10GPS_HelperD2Ev
+                0x00000000        0xc
+ .text._ZN10GPS_HelperD2Ev
+                0x00000000        0xc mtk.cpp.o
+                0x00000000                GPS_Helper::~GPS_Helper()
+                0x00000000                GPS_Helper::~GPS_Helper()
+
+.text._ZN3MTKD2Ev
+                0x00000000        0xc
+ .text._ZN3MTKD2Ev
+                0x00000000        0xc mtk.cpp.o
+                0x00000000                MTK::~MTK()
+                0x00000000                MTK::~MTK()
+
+.text._ZN3MTK9configureERj
+                0x00000000       0xb4
+ .text._ZN3MTK9configureERj
+                0x00000000       0xb4 mtk.cpp.o
+                0x00000000                MTK::configure(unsigned int&)
+
+.text._ZN3MTKD0Ev
+                0x00000000       0x14
+ .text._ZN3MTKD0Ev
+                0x00000000       0x14 mtk.cpp.o
+                0x00000000                MTK::~MTK()
+
+.text._ZN10GPS_HelperD0Ev
+                0x00000000       0x14
+ .text._ZN10GPS_HelperD0Ev
+                0x00000000       0x14 mtk.cpp.o
+                0x00000000                GPS_Helper::~GPS_Helper()
+
+.text._ZN3MTKC2ERKiP22vehicle_gps_position_s
+                0x00000000       0x2c
+ .text._ZN3MTKC2ERKiP22vehicle_gps_position_s
+                0x00000000       0x2c mtk.cpp.o
+                0x00000000                MTK::MTK(int const&, vehicle_gps_position_s*)
+                0x00000000                MTK::MTK(int const&, vehicle_gps_position_s*)
+
+.text._ZN3MTK11decode_initEv
+                0x00000000       0x12
+ .text._ZN3MTK11decode_initEv
+                0x00000000       0x12 mtk.cpp.o
+                0x00000000                MTK::decode_init()
+
+.text._ZN3MTK14handle_messageER16gps_mtk_packet_t
+                0x00000000      0x1c4
+ .text._ZN3MTK14handle_messageER16gps_mtk_packet_t
+                0x00000000      0x1c4 mtk.cpp.o
+                0x00000000                MTK::handle_message(gps_mtk_packet_t&)
+
+.text._ZN3MTK20add_byte_to_checksumEh
+                0x00000000       0x18
+ .text._ZN3MTK20add_byte_to_checksumEh
+                0x00000000       0x18 mtk.cpp.o
+                0x00000000                MTK::add_byte_to_checksum(unsigned char)
+
+.text._ZN3MTK10parse_charEhR16gps_mtk_packet_t
+                0x00000000       0xa4
+ .text._ZN3MTK10parse_charEhR16gps_mtk_packet_t
+                0x00000000       0xa4 mtk.cpp.o
+                0x00000000                MTK::parse_char(unsigned char, gps_mtk_packet_t&)
+
+.text._ZN3MTK7receiveEj
+                0x00000000       0x88
+ .text._ZN3MTK7receiveEj
+                0x00000000       0x88 mtk.cpp.o
+                0x00000000                MTK::receive(unsigned int)
+
+.text._ZN7ASHTECHD2Ev
+                0x00000000        0xc
+ .text._ZN7ASHTECHD2Ev
+                0x00000000        0xc ashtech.cpp.o
+                0x00000000                ASHTECH::~ASHTECH()
+                0x00000000                ASHTECH::~ASHTECH()
+
+.text._ZN7ASHTECH9configureERj
+                0x00000000       0x54
+ .text._ZN7ASHTECH9configureERj
+                0x00000000       0x54 ashtech.cpp.o
+                0x00000000                ASHTECH::configure(unsigned int&)
+
+.text._ZN7ASHTECHD0Ev
+                0x00000000       0x14
+ .text._ZN7ASHTECHD0Ev
+                0x00000000       0x14 ashtech.cpp.o
+                0x00000000                ASHTECH::~ASHTECH()
+
+.text._ZN7ASHTECHC2ERKiP22vehicle_gps_position_sP16satellite_info_s
+                0x00000000       0x28
+ .text._ZN7ASHTECHC2ERKiP22vehicle_gps_position_sP16satellite_info_s
+                0x00000000       0x28 ashtech.cpp.o
+                0x00000000                ASHTECH::ASHTECH(int const&, vehicle_gps_position_s*, satellite_info_s*)
+                0x00000000                ASHTECH::ASHTECH(int const&, vehicle_gps_position_s*, satellite_info_s*)
+
+.text._ZN7ASHTECH14handle_messageEi
+                0x00000000      0xbf0
+ .text._ZN7ASHTECH14handle_messageEi
+                0x00000000      0xbf0 ashtech.cpp.o
+                0x00000000                ASHTECH::handle_message(int)
+
+.text._ZN7ASHTECH10parse_charEh
+                0x00000000       0xec
+ .text._ZN7ASHTECH10parse_charEh
+                0x00000000       0xec ashtech.cpp.o
+                0x00000000                ASHTECH::parse_char(unsigned char)
+
+.text._ZN7ASHTECH7receiveEj
+                0x00000000       0x98
+ .text._ZN7ASHTECH7receiveEj
+                0x00000000       0x98 ashtech.cpp.o
+                0x00000000                ASHTECH::receive(unsigned int)
+
+.text._ZN7ASHTECH11decode_initEv
+                0x00000000        0x2
+ .text._ZN7ASHTECH11decode_initEv
+                0x00000000        0x2 ashtech.cpp.o
+                0x00000000                ASHTECH::decode_init()
+
+.text._ZN3UBXD2Ev
+                0x00000000        0xc
+ .text._ZN3UBXD2Ev
+                0x00000000        0xc ubx.cpp.o
+                0x00000000                UBX::~UBX()
+                0x00000000                UBX::~UBX()
+
+.text._ZN3UBXD0Ev
+                0x00000000       0x14
+ .text._ZN3UBXD0Ev
+                0x00000000       0x14 ubx.cpp.o
+                0x00000000                UBX::~UBX()
+
+.text._ZN3UBX12wait_for_ackEtjb
+                0x00000000       0x88
+ .text._ZN3UBX12wait_for_ackEtjb
+                0x00000000       0x88 ubx.cpp.o
+                0x00000000                UBX::wait_for_ack(unsigned short, unsigned int, bool)
+
+.text._ZN3UBX14payload_rx_addEh
+                0x00000000       0x1a
+ .text._ZN3UBX14payload_rx_addEh
+                0x00000000       0x1a ubx.cpp.o
+                0x00000000                UBX::payload_rx_add(unsigned char)
+
+.text._ZN3UBX25payload_rx_add_nav_svinfoEh
+                0x00000000       0xb4
+ .text._ZN3UBX25payload_rx_add_nav_svinfoEh
+                0x00000000       0xb4 ubx.cpp.o
+                0x00000000                UBX::payload_rx_add_nav_svinfo(unsigned char)
+
+.text._ZN3UBX15payload_rx_doneEv
+                0x00000000      0x4a0
+ .text._ZN3UBX15payload_rx_doneEv
+                0x00000000      0x4a0 ubx.cpp.o
+                0x00000000                UBX::payload_rx_done()
+
+.text._ZN3UBX11decode_initEv
+                0x00000000       0x14
+ .text._ZN3UBX11decode_initEv
+                0x00000000       0x14 ubx.cpp.o
+                0x00000000                UBX::decode_init()
+
+.text._ZN3UBXC2ERKiP22vehicle_gps_position_sP16satellite_info_s
+                0x00000000       0x48
+ .text._ZN3UBXC2ERKiP22vehicle_gps_position_sP16satellite_info_s
+                0x00000000       0x48 ubx.cpp.o
+                0x00000000                UBX::UBX(int const&, vehicle_gps_position_s*, satellite_info_s*)
+                0x00000000                UBX::UBX(int const&, vehicle_gps_position_s*, satellite_info_s*)
+
+.text._ZN3UBX20add_byte_to_checksumEh
+                0x00000000       0x18
+ .text._ZN3UBX20add_byte_to_checksumEh
+                0x00000000       0x18 ubx.cpp.o
+                0x00000000                UBX::add_byte_to_checksum(unsigned char)
+
+.text._ZN3UBX13calc_checksumEPKhtP14ubx_checksum_t
+                0x00000000       0x20
+ .text._ZN3UBX13calc_checksumEPKhtP14ubx_checksum_t
+                0x00000000       0x20 ubx.cpp.o
+                0x00000000                UBX::calc_checksum(unsigned char const*, unsigned short, ubx_checksum_t*)
+
+.text._ZN3UBX12send_messageEtPKht
+                0x00000000       0x68
+ .text._ZN3UBX12send_messageEtPKht
+                0x00000000       0x68 ubx.cpp.o
+                0x00000000                UBX::send_message(unsigned short, unsigned char const*, unsigned short)
+
+.text._ZN3UBX22configure_message_rateEth
+                0x00000000       0x18
+ .text._ZN3UBX22configure_message_rateEth
+                0x00000000       0x18 ubx.cpp.o
+                0x00000000                UBX::configure_message_rate(unsigned short, unsigned char)
+
+.text._ZN3UBX15payload_rx_initEv
+                0x00000000      0x17c
+ .text._ZN3UBX15payload_rx_initEv
+                0x00000000      0x17c ubx.cpp.o
+                0x00000000                UBX::payload_rx_init()
+
+.text._ZN3UBX9configureERj
+                0x00000000      0x2cc
+ .text._ZN3UBX9configureERj
+                0x00000000      0x2cc ubx.cpp.o
+                0x00000000                UBX::configure(unsigned int&)
+
+.text._ZN3UBX11fnv1_32_strEPhj
+                0x00000000       0x24
+ .text._ZN3UBX11fnv1_32_strEPhj
+                0x00000000       0x24 ubx.cpp.o
+                0x00000000                UBX::fnv1_32_str(unsigned char*, unsigned int)
+
+.text._ZN3UBX22payload_rx_add_mon_verEh
+                0x00000000       0x9c
+ .text._ZN3UBX22payload_rx_add_mon_verEh
+                0x00000000       0x9c ubx.cpp.o
+                0x00000000                UBX::payload_rx_add_mon_ver(unsigned char)
+
+.text._ZN3UBX10parse_charEh
+                0x00000000       0xf8
+ .text._ZN3UBX10parse_charEh
+                0x00000000       0xf8 ubx.cpp.o
+                0x00000000                UBX::parse_char(unsigned char)
+
+.text._ZN3UBX7receiveEj
+                0x00000000       0xcc
+ .text._ZN3UBX7receiveEj
+                0x00000000       0xcc ubx.cpp.o
+                0x00000000                UBX::receive(unsigned int)
+
+.fini
+ *(.fini)
+
+.rodata         0x00000000       0x28
+ *(.rodata)
+ .rodata        0x00000000       0x14 ashtech.cpp.o
+ .rodata        0x00000014       0x14 ubx.cpp.o
+
+.rodata.str1.1  0x00000000      0x56f
+ .rodata.str1.1
+                0x00000000      0x320 gps.cpp.o
+ .rodata.str1.1
+                0x00000320       0x56 gps_helper.cpp.o
+ .rodata.str1.1
+                0x00000376       0x9f mtk.cpp.o
+ .rodata.str1.1
+                0x00000415       0x39 ashtech.cpp.o
+ .rodata.str1.1
+                0x0000044e      0x121 ubx.cpp.o
+
+.rodata._ZTV3GPS
+                0x00000000       0x60
+ .rodata._ZTV3GPS
+                0x00000000       0x60 gps.cpp.o
+                0x00000000                vtable for GPS
+
+.rodata.CSWTCH.151
+                0x00000000        0xc
+ .rodata.CSWTCH.151
+                0x00000000        0xc gps.cpp.o
+
+.rodata._ZTV10GPS_Helper
+                0x00000000       0x18
+ .rodata._ZTV10GPS_Helper
+                0x00000000       0x18 mtk.cpp.o
+                0x00000000                vtable for GPS_Helper
+
+.rodata._ZTV3MTK
+                0x00000000       0x18
+ .rodata._ZTV3MTK
+                0x00000000       0x18 mtk.cpp.o
+                0x00000000                vtable for MTK
+
+.rodata._ZL4comm
+                0x00000000       0xa5
+ .rodata._ZL4comm
+                0x00000000       0xa5 ashtech.cpp.o
+
+.rodata._ZTV7ASHTECH
+                0x00000000       0x18
+ .rodata._ZTV7ASHTECH
+                0x00000000       0x18 ashtech.cpp.o
+                0x00000000                vtable for ASHTECH
+
+.rodata._ZTV3UBX
+                0x00000000       0x18
+ .rodata._ZTV3UBX
+                0x00000000       0x18 ubx.cpp.o
+                0x00000000                vtable for UBX
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab
+ *(.ARM.extab)
+
+.ARM.exidx
+ *(.ARM.exidx)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got.plt)
+ *(.igot.plt)
+ *(.got)
+ *(.igot)
+
+.data           0x00000000        0x0
+ *(.data)
+ .data          0x00000000        0x0 gps.cpp.o
+ .data          0x00000000        0x0 gps_helper.cpp.o
+ .data          0x00000000        0x0 mtk.cpp.o
+ .data          0x00000000        0x0 ashtech.cpp.o
+ .data          0x00000000        0x0 ubx.cpp.o
+
+.data1
+ *(.data1)
+
+.bss            0x00000000        0x0
+ *(.dynbss)
+ *(.bss)
+ .bss           0x00000000        0x0 gps.cpp.o
+ .bss           0x00000000        0x0 gps_helper.cpp.o
+ .bss           0x00000000        0x0 mtk.cpp.o
+ .bss           0x00000000        0x0 ashtech.cpp.o
+ .bss           0x00000000        0x0 ubx.cpp.o
+ *(COMMON)
+
+.bss._ZN12_GLOBAL__N_15g_devE
+                0x00000000        0x4
+ .bss._ZN12_GLOBAL__N_15g_devE
+                0x00000000        0x4 gps.cpp.o
+
+.bss._ZN3gps5g_devE
+                0x00000000        0x4
+ .bss._ZN3gps5g_devE
+                0x00000000        0x4 gps.cpp.o
+                0x00000000                gps::g_dev
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000      0x235
+ *(.comment)
+ .comment       0x00000000       0x71 gps.cpp.o
+ .comment       0x00000071       0x71 gps_helper.cpp.o
+ .comment       0x000000e2       0x71 mtk.cpp.o
+ .comment       0x00000153       0x71 ashtech.cpp.o
+ .comment       0x000001c4       0x71 ubx.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps_helper.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps_helper.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps_helper.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gps_helper.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtk.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtk.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtk.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtk.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtk.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtk.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ashtech.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ubx.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ubx.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ubx.cpp.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x268
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x98 gps.cpp.o
+ .debug_aranges
+                0x00000098       0x40 gps_helper.cpp.o
+ .debug_aranges
+                0x000000d8       0x70 mtk.cpp.o
+ .debug_aranges
+                0x00000148       0x68 ashtech.cpp.o
+ .debug_aranges
+                0x000001b0       0xb8 ubx.cpp.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xebba
+ *(.debug_info)
+ .debug_info    0x00000000     0x67c4 gps.cpp.o
+ .debug_info    0x000067c4      0x5d0 gps_helper.cpp.o
+ .debug_info    0x00006d94     0x1dc8 mtk.cpp.o
+ .debug_info    0x00008b5c     0x27a7 ashtech.cpp.o
+ .debug_info    0x0000b303     0x38b7 ubx.cpp.o
+
+.debug_abbrev   0x00000000     0x1a47
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x796 gps.cpp.o
+ .debug_abbrev  0x00000796      0x27c gps_helper.cpp.o
+ .debug_abbrev  0x00000a12      0x51c mtk.cpp.o
+ .debug_abbrev  0x00000f2e      0x533 ashtech.cpp.o
+ .debug_abbrev  0x00001461      0x5e6 ubx.cpp.o
+
+.debug_line     0x00000000     0x459a
+ *(.debug_line)
+ .debug_line    0x00000000     0x1981 gps.cpp.o
+ .debug_line    0x00001981      0x52c gps_helper.cpp.o
+ .debug_line    0x00001ead      0xafd mtk.cpp.o
+ .debug_line    0x000029aa      0xe70 ashtech.cpp.o
+ .debug_line    0x0000381a      0xd80 ubx.cpp.o
+
+.debug_frame    0x00000000      0x6b0
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x1d8 gps.cpp.o
+ .debug_frame   0x000001d8       0x84 gps_helper.cpp.o
+ .debug_frame   0x0000025c      0x114 mtk.cpp.o
+ .debug_frame   0x00000370      0x124 ashtech.cpp.o
+ .debug_frame   0x00000494      0x21c ubx.cpp.o
+
+.debug_str      0x00000000    0x752f3
+ *(.debug_str)
+ .debug_str     0x00000000    0x4c36c gps.cpp.o
+ .debug_str     0x0004c36c     0x7c2a gps_helper.cpp.o
+ .debug_str     0x00053f96     0xa7de mtk.cpp.o
+ .debug_str     0x0005e774     0xad49 ashtech.cpp.o
+ .debug_str     0x000694bd     0xbe36 ubx.cpp.o
+
+.debug_loc      0x00000000     0x391d
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x756 gps.cpp.o
+ .debug_loc     0x00000756      0x1e0 gps_helper.cpp.o
+ .debug_loc     0x00000936      0x536 mtk.cpp.o
+ .debug_loc     0x00000e6c     0x1d89 ashtech.cpp.o
+ .debug_loc     0x00002bf5      0xd28 ubx.cpp.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x700
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x120 gps.cpp.o
+ .debug_ranges  0x00000120       0x48 gps_helper.cpp.o
+ .debug_ranges  0x00000168      0x110 mtk.cpp.o
+ .debug_ranges  0x00000278      0x290 ashtech.cpp.o
+ .debug_ranges  0x00000508      0x1f8 ubx.cpp.o
+
+.stack
+ *(.stack)
+
+.ARM.attributes
+                0x00000000       0x37
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x37 gps.cpp.o
+ .ARM.attributes
+                0x00000037       0x37 gps_helper.cpp.o
+ .ARM.attributes
+                0x0000006e       0x37 mtk.cpp.o
+ .ARM.attributes
+                0x000000a5       0x37 ashtech.cpp.o
+ .ARM.attributes
+                0x000000dc       0x37 ubx.cpp.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+OUTPUT(/misc/shome/ex36/pixhawk/px4/Firmware/Build/px4fmu-v2_default.build//misc/shome/ex36/pixhawk/px4/Firmware/src/drivers/gps/module.pre.o elf32-littlearm)
+
+.debug_macro    0x00000000      0xf9e
+ .debug_macro   0x00000000      0x700 gps.cpp.o
+ .debug_macro   0x00000700      0x104 gps_helper.cpp.o
+ .debug_macro   0x00000804      0x269 mtk.cpp.o
+ .debug_macro   0x00000a6d      0x285 ashtech.cpp.o
+ .debug_macro   0x00000cf2      0x2ac ubx.cpp.o
+
+.debug_macro    0x00000000      0x838
+ .debug_macro   0x00000000      0x838 gps.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 gps.cpp.o
+
+.debug_macro    0x00000000      0x8a6
+ .debug_macro   0x00000000      0x8a6 gps.cpp.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 gps.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 gps.cpp.o
+
+.debug_macro    0x00000000       0x88
+ .debug_macro   0x00000000       0x88 gps.cpp.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e gps.cpp.o
+
+.debug_macro    0x00000000      0x125
+ .debug_macro   0x00000000      0x125 gps.cpp.o
+
+.debug_macro    0x00000000       0x63
+ .debug_macro   0x00000000       0x63 gps.cpp.o
+
+.debug_macro    0x00000000       0x43
+ .debug_macro   0x00000000       0x43 gps.cpp.o
+
+.debug_macro    0x00000000       0xbb
+ .debug_macro   0x00000000       0xbb gps.cpp.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 gps.cpp.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c gps.cpp.o
+
+.debug_macro    0x00000000      0x10c
+ .debug_macro   0x00000000      0x10c gps.cpp.o
+
+.debug_macro    0x00000000       0x23
+ .debug_macro   0x00000000       0x23 gps.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 gps.cpp.o
+
+.debug_macro    0x00000000       0xd1
+ .debug_macro   0x00000000       0xd1 gps.cpp.o
+
+.debug_macro    0x00000000       0x98
+ .debug_macro   0x00000000       0x98 gps.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 gps.cpp.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 gps.cpp.o
+
+.debug_macro    0x00000000      0x11b
+ .debug_macro   0x00000000      0x11b gps.cpp.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 gps.cpp.o
+
+.debug_macro    0x00000000      0x27f
+ .debug_macro   0x00000000      0x27f gps.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 gps.cpp.o
+
+.debug_macro    0x00000000      0x195
+ .debug_macro   0x00000000      0x195 gps.cpp.o
+
+.debug_macro    0x00000000       0x8a
+ .debug_macro   0x00000000       0x8a gps.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 gps.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 gps.cpp.o
+
+.debug_macro    0x00000000       0x39
+ .debug_macro   0x00000000       0x39 gps.cpp.o
+
+.debug_macro    0x00000000       0xb4
+ .debug_macro   0x00000000       0xb4 gps.cpp.o
+
+.debug_macro    0x00000000       0x41
+ .debug_macro   0x00000000       0x41 gps.cpp.o
+
+.debug_macro    0x00000000       0x4d
+ .debug_macro   0x00000000       0x4d gps.cpp.o
+
+.debug_macro    0x00000000       0x5e
+ .debug_macro   0x00000000       0x5e gps.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 gps.cpp.o
+
+.debug_macro    0x00000000      0x14d
+ .debug_macro   0x00000000      0x14d gps.cpp.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 gps.cpp.o
+
+.debug_macro    0x00000000      0x6c1
+ .debug_macro   0x00000000      0x6c1 gps.cpp.o
+
+.debug_macro    0x00000000       0x3a
+ .debug_macro   0x00000000       0x3a gps.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 gps.cpp.o
+
+.debug_macro    0x00000000       0x27
+ .debug_macro   0x00000000       0x27 gps.cpp.o
+
+.debug_macro    0x00000000       0xa3
+ .debug_macro   0x00000000       0xa3 gps.cpp.o
+
+.debug_macro    0x00000000      0x281
+ .debug_macro   0x00000000      0x281 gps.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 gps.cpp.o
+
+.debug_macro    0x00000000       0x19
+ .debug_macro   0x00000000       0x19 gps.cpp.o
+
+.debug_macro    0x00000000       0x78
+ .debug_macro   0x00000000       0x78 gps.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 gps.cpp.o
+
+.debug_macro    0x00000000      0x6cb
+ .debug_macro   0x00000000      0x6cb gps.cpp.o
+
+.debug_macro    0x00000000      0x20a
+ .debug_macro   0x00000000      0x20a gps.cpp.o
+
+.debug_macro    0x00000000      0xf6f
+ .debug_macro   0x00000000      0xf6f gps.cpp.o
+
+.debug_macro    0x00000000      0x2ab
+ .debug_macro   0x00000000      0x2ab gps.cpp.o
+
+.debug_macro    0x00000000      0x8b5
+ .debug_macro   0x00000000      0x8b5 gps.cpp.o
+
+.debug_macro    0x00000000       0x78
+ .debug_macro   0x00000000       0x78 gps.cpp.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e gps.cpp.o
+
+.debug_macro    0x00000000      0x7ca
+ .debug_macro   0x00000000      0x7ca gps.cpp.o
+
+.debug_macro    0x00000000       0xff
+ .debug_macro   0x00000000       0xff gps.cpp.o
+
+.debug_macro    0x00000000      0xae7
+ .debug_macro   0x00000000      0xae7 gps.cpp.o
+
+.debug_macro    0x00000000       0x51
+ .debug_macro   0x00000000       0x51 gps.cpp.o
+
+.debug_macro    0x00000000      0x11a
+ .debug_macro   0x00000000      0x11a gps.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 gps.cpp.o
+
+.debug_macro    0x00000000       0x1d
+ .debug_macro   0x00000000       0x1d gps.cpp.o
+
+.debug_macro    0x00000000      0x206
+ .debug_macro   0x00000000      0x206 gps.cpp.o
+
+.debug_macro    0x00000000      0x56a
+ .debug_macro   0x00000000      0x56a gps.cpp.o
+
+.debug_macro    0x00000000       0x9c
+ .debug_macro   0x00000000       0x9c gps.cpp.o
+
+.debug_macro    0x00000000      0x2bf
+ .debug_macro   0x00000000      0x2bf gps.cpp.o
+
+.debug_macro    0x00000000       0xd3
+ .debug_macro   0x00000000       0xd3 gps.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 gps.cpp.o
+
+.debug_macro    0x00000000       0x34
+ .debug_macro   0x00000000       0x34 gps.cpp.o
+
+.debug_macro    0x00000000      0xab0
+ .debug_macro   0x00000000      0xab0 gps.cpp.o
+
+.debug_macro    0x00000000       0x17
+ .debug_macro   0x00000000       0x17 gps.cpp.o
+
+.debug_macro    0x00000000      0x6fa
+ .debug_macro   0x00000000      0x6fa gps.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 gps.cpp.o
+
+.debug_macro    0x00000000      0x596
+ .debug_macro   0x00000000      0x596 gps.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 gps.cpp.o
+
+.debug_macro    0x00000000      0x29b
+ .debug_macro   0x00000000      0x29b gps.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 gps.cpp.o
+
+.debug_macro    0x00000000     0x15a4
+ .debug_macro   0x00000000     0x15a4 gps.cpp.o
+
+.debug_macro    0x00000000       0x53
+ .debug_macro   0x00000000       0x53 gps.cpp.o
+
+.debug_macro    0x00000000      0x347
+ .debug_macro   0x00000000      0x347 gps.cpp.o
+
+.debug_macro    0x00000000       0x96
+ .debug_macro   0x00000000       0x96 gps.cpp.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c gps.cpp.o
+
+.debug_macro    0x00000000       0x9a
+ .debug_macro   0x00000000       0x9a gps.cpp.o
+
+.debug_macro    0x00000000      0x1cf
+ .debug_macro   0x00000000      0x1cf gps.cpp.o
+
+.debug_macro    0x00000000      0x16c
+ .debug_macro   0x00000000      0x16c gps.cpp.o
+
+.debug_macro    0x00000000      0x413
+ .debug_macro   0x00000000      0x413 gps.cpp.o
+
+.debug_macro    0x00000000       0x5f
+ .debug_macro   0x00000000       0x5f gps.cpp.o
+
+.debug_macro    0x00000000       0x1d
+ .debug_macro   0x00000000       0x1d gps.cpp.o
+
+.debug_macro    0x00000000       0xdf
+ .debug_macro   0x00000000       0xdf gps.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 gps.cpp.o
+
+.debug_macro    0x00000000      0x13f
+ .debug_macro   0x00000000      0x13f gps.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 gps.cpp.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c gps.cpp.o
+
+.debug_macro    0x00000000      0xdb4
+ .debug_macro   0x00000000      0xdb4 gps.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 gps.cpp.o
+
+.debug_macro    0x00000000      0x215
+ .debug_macro   0x00000000      0x215 gps.cpp.o
+
+.debug_macro    0x00000000       0x18
+ .debug_macro   0x00000000       0x18 gps.cpp.o
+
+.debug_macro    0x00000000      0x168
+ .debug_macro   0x00000000      0x168 gps.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 gps.cpp.o
+
+.debug_macro    0x00000000       0x29
+ .debug_macro   0x00000000       0x29 gps.cpp.o
+
+.debug_macro    0x00000000       0x2b
+ .debug_macro   0x00000000       0x2b gps.cpp.o
+
+.debug_macro    0x00000000       0x30
+ .debug_macro   0x00000000       0x30 gps.cpp.o
+
+.debug_macro    0x00000000       0x34
+ .debug_macro   0x00000000       0x34 gps.cpp.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c gps.cpp.o
+
+.debug_macro    0x00000000      0x24d
+ .debug_macro   0x00000000      0x24d gps.cpp.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 gps.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 gps.cpp.o
+
+.debug_macro    0x00000000       0x88
+ .debug_macro   0x00000000       0x88 gps.cpp.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c gps.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 gps.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 gps.cpp.o
+
+.debug_macro    0x00000000      0x19b
+ .debug_macro   0x00000000      0x19b gps.cpp.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c gps.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 gps.cpp.o
+
+.debug_macro    0x00000000       0x5d
+ .debug_macro   0x00000000       0x5d gps_helper.cpp.o
+
+.debug_macro    0x00000000      0x32d
+ .debug_macro   0x00000000      0x32d gps_helper.cpp.o
+
+.debug_macro    0x00000000       0x12
+ .debug_macro   0x00000000       0x12 gps_helper.cpp.o
+
+.debug_macro    0x00000000       0x49
+ .debug_macro   0x00000000       0x49 gps_helper.cpp.o
+
+.debug_macro    0x00000000       0xcb
+ .debug_macro   0x00000000       0xcb mtk.cpp.o
+
+.debug_macro    0x00000000      0x106
+ .debug_macro   0x00000000      0x106 mtk.cpp.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 mtk.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 ashtech.cpp.o
+
+.debug_macro    0x00000000       0x53
+ .debug_macro   0x00000000       0x53 ubx.cpp.o
+
+.debug_macro    0x00000000       0x53
+ .debug_macro   0x00000000       0x53 ubx.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 ubx.cpp.o

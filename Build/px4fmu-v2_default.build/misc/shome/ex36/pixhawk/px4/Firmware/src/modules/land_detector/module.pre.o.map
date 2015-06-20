@@ -1,0 +1,1125 @@
+
+Discarded input sections
+
+ .group         0x00000000        0x8 land_detector_params.c.o
+ .group         0x00000000        0x8 land_detector_params.c.o
+ .group         0x00000000        0x8 land_detector_params.c.o
+ .group         0x00000000        0x8 land_detector_params.c.o
+ .group         0x00000000        0x8 land_detector_params.c.o
+ .debug_macro   0x00000000      0x8a6 land_detector_params.c.o
+ .debug_macro   0x00000000       0x10 land_detector_params.c.o
+ .debug_macro   0x00000000       0x88 land_detector_params.c.o
+ .debug_macro   0x00000000      0x14e land_detector_params.c.o
+ .debug_macro   0x00000000      0x125 land_detector_params.c.o
+ .group         0x00000000        0x8 LandDetector.cpp.o
+ .group         0x00000000        0x8 LandDetector.cpp.o
+ .group         0x00000000        0x8 LandDetector.cpp.o
+ .group         0x00000000        0x8 LandDetector.cpp.o
+ .group         0x00000000        0x8 LandDetector.cpp.o
+ .group         0x00000000        0x8 LandDetector.cpp.o
+ .group         0x00000000        0x8 LandDetector.cpp.o
+ .group         0x00000000        0x8 LandDetector.cpp.o
+ .group         0x00000000        0x8 LandDetector.cpp.o
+ .group         0x00000000        0x8 LandDetector.cpp.o
+ .group         0x00000000        0x8 LandDetector.cpp.o
+ .group         0x00000000        0x8 LandDetector.cpp.o
+ .debug_macro   0x00000000      0x838 LandDetector.cpp.o
+ .debug_macro   0x00000000       0x22 LandDetector.cpp.o
+ .debug_macro   0x00000000      0x8a6 LandDetector.cpp.o
+ .debug_macro   0x00000000       0xc9 LandDetector.cpp.o
+ .debug_macro   0x00000000       0x10 LandDetector.cpp.o
+ .debug_macro   0x00000000       0x88 LandDetector.cpp.o
+ .debug_macro   0x00000000      0x14e LandDetector.cpp.o
+ .debug_macro   0x00000000      0x125 LandDetector.cpp.o
+ .debug_macro   0x00000000       0x5d LandDetector.cpp.o
+ .debug_macro   0x00000000       0x29 LandDetector.cpp.o
+ .debug_macro   0x00000000       0x49 LandDetector.cpp.o
+ .debug_macro   0x00000000       0x4c LandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000      0x838 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0x22 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000      0x8a6 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0xc9 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0x10 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0x88 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000      0x14e MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000      0x125 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0x5d MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0x29 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0x16 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0x58 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0x2b MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000      0x168 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0x4c MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0x49 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000      0x106 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0x23 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0x28 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0xd1 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0x98 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0x16 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0x59 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000      0x11b MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0x46 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000      0x27f MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0x10 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000      0x195 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0x8a MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0x10 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0x10 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0x39 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0xb4 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0x41 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0x30 MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000000       0x12 MulticopterLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000      0x838 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x22 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000      0x8a6 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0xc9 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x10 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x88 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000      0x14e FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000      0x125 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x5d FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x29 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x16 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x58 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x2b FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000      0x168 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x4c FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x49 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000      0x106 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x23 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x28 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0xd1 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x98 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x16 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x59 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000      0x11b FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x46 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000      0x27f FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x10 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000      0x195 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x8a FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x10 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x10 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x39 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0xb4 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x41 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x30 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x3a FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x10 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x27 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0xa3 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000      0x281 FixedwingLandDetector.cpp.o
+ .debug_macro   0x00000000       0x12 FixedwingLandDetector.cpp.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD land_detector_main.cpp.o
+LOAD land_detector_params.c.o
+LOAD LandDetector.cpp.o
+LOAD MulticopterLandDetector.cpp.o
+LOAD FixedwingLandDetector.cpp.o
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+
+.rela.text
+ *(.rela.text)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rel.data.rel.ro
+ *(.rel.data.rel.ro)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rel.data
+ *(.rel.data)
+
+.rela.data
+ *(.rela.data)
+
+.rel.tdata
+ *(.rel.tdata)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rel.tbss
+ *(.rel.tbss)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.iplt
+ *(.rel.iplt)
+
+.rela.iplt
+ *(.rela.iplt)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(.init)
+
+.plt
+ *(.plt)
+
+.iplt
+ *(.iplt)
+
+.text           0x00000000        0x0
+ *(.text .stub)
+ .text          0x00000000        0x0 land_detector_main.cpp.o
+ .text          0x00000000        0x0 land_detector_params.c.o
+ .text          0x00000000        0x0 LandDetector.cpp.o
+ .text          0x00000000        0x0 MulticopterLandDetector.cpp.o
+ .text          0x00000000        0x0 FixedwingLandDetector.cpp.o
+ *(.gnu.warning)
+
+.text._ZL27land_detector_deamon_threadiPPc
+                0x00000000        0xc
+ .text._ZL27land_detector_deamon_threadiPPc
+                0x00000000        0xc land_detector_main.cpp.o
+
+.text.land_detector_main
+                0x00000000      0x1fc
+ .text.land_detector_main
+                0x00000000      0x1fc land_detector_main.cpp.o
+                0x00000000                land_detector_main
+
+.text._ZN12LandDetectorD2Ev
+                0x00000000       0x1c
+ .text._ZN12LandDetectorD2Ev
+                0x00000000       0x1c LandDetector.cpp.o
+                0x00000000                LandDetector::~LandDetector()
+                0x00000000                LandDetector::~LandDetector()
+
+.text._ZN12LandDetectorD0Ev
+                0x00000000       0x12
+ .text._ZN12LandDetectorD0Ev
+                0x00000000       0x12 LandDetector.cpp.o
+                0x00000000                LandDetector::~LandDetector()
+
+.text._ZN12LandDetectorC2Ev
+                0x00000000       0x20
+ .text._ZN12LandDetectorC2Ev
+                0x00000000       0x20 LandDetector.cpp.o
+                0x00000000                LandDetector::LandDetector()
+                0x00000000                LandDetector::LandDetector()
+
+.text._ZN12LandDetector8shutdownEv
+                0x00000000        0x6
+ .text._ZN12LandDetector8shutdownEv
+                0x00000000        0x6 LandDetector.cpp.o
+                0x00000000                LandDetector::shutdown()
+
+.text._ZN12LandDetector5startEv
+                0x00000000       0x70
+ .text._ZN12LandDetector5startEv
+                0x00000000       0x70 LandDetector.cpp.o
+                0x00000000                LandDetector::start()
+
+.text._ZN12LandDetector10orb_updateEPK12orb_metadataiPv
+                0x00000000       0x3c
+ .text._ZN12LandDetector10orb_updateEPK12orb_metadataiPv
+                0x00000000       0x3c LandDetector.cpp.o
+                0x00000000                LandDetector::orb_update(orb_metadata const*, int, void*)
+
+.text._ZN23MulticopterLandDetectorD2Ev
+                0x00000000       0x14
+ .text._ZN23MulticopterLandDetectorD2Ev
+                0x00000000       0x14 MulticopterLandDetector.cpp.o
+                0x00000000                MulticopterLandDetector::~MulticopterLandDetector()
+                0x00000000                MulticopterLandDetector::~MulticopterLandDetector()
+
+.text._ZN23MulticopterLandDetectorD0Ev
+                0x00000000       0x12
+ .text._ZN23MulticopterLandDetectorD0Ev
+                0x00000000       0x12 MulticopterLandDetector.cpp.o
+                0x00000000                MulticopterLandDetector::~MulticopterLandDetector()
+
+.text._ZN23MulticopterLandDetectorC2Ev
+                0x00000000       0xb8
+ .text._ZN23MulticopterLandDetectorC2Ev
+                0x00000000       0xb8 MulticopterLandDetector.cpp.o
+                0x00000000                MulticopterLandDetector::MulticopterLandDetector()
+                0x00000000                MulticopterLandDetector::MulticopterLandDetector()
+
+.text._ZN23MulticopterLandDetector19updateSubscriptionsEv
+                0x00000000       0x60
+ .text._ZN23MulticopterLandDetector19updateSubscriptionsEv
+                0x00000000       0x60 MulticopterLandDetector.cpp.o
+                0x00000000                MulticopterLandDetector::updateSubscriptions()
+
+.text._ZN23MulticopterLandDetector6updateEv
+                0x00000000       0xec
+ .text._ZN23MulticopterLandDetector6updateEv
+                0x00000000       0xec MulticopterLandDetector.cpp.o
+                0x00000000                MulticopterLandDetector::update()
+
+.text._ZN23MulticopterLandDetector20updateParameterCacheEb
+                0x00000000       0x68
+ .text._ZN23MulticopterLandDetector20updateParameterCacheEb
+                0x00000000       0x68 MulticopterLandDetector.cpp.o
+                0x00000000                MulticopterLandDetector::updateParameterCache(bool)
+
+.text._ZN23MulticopterLandDetector10initializeEv
+                0x00000000       0x58
+ .text._ZN23MulticopterLandDetector10initializeEv
+                0x00000000       0x58 MulticopterLandDetector.cpp.o
+                0x00000000                MulticopterLandDetector::initialize()
+
+.text._ZN21FixedwingLandDetectorD2Ev
+                0x00000000       0x14
+ .text._ZN21FixedwingLandDetectorD2Ev
+                0x00000000       0x14 FixedwingLandDetector.cpp.o
+                0x00000000                FixedwingLandDetector::~FixedwingLandDetector()
+                0x00000000                FixedwingLandDetector::~FixedwingLandDetector()
+
+.text._ZN21FixedwingLandDetectorD0Ev
+                0x00000000       0x12
+ .text._ZN21FixedwingLandDetectorD0Ev
+                0x00000000       0x12 FixedwingLandDetector.cpp.o
+                0x00000000                FixedwingLandDetector::~FixedwingLandDetector()
+
+.text._ZN21FixedwingLandDetectorC2Ev
+                0x00000000       0x84
+ .text._ZN21FixedwingLandDetectorC2Ev
+                0x00000000       0x84 FixedwingLandDetector.cpp.o
+                0x00000000                FixedwingLandDetector::FixedwingLandDetector()
+                0x00000000                FixedwingLandDetector::FixedwingLandDetector()
+
+.text._ZN21FixedwingLandDetector19updateSubscriptionsEv
+                0x00000000       0x2c
+ .text._ZN21FixedwingLandDetector19updateSubscriptionsEv
+                0x00000000       0x2c FixedwingLandDetector.cpp.o
+                0x00000000                FixedwingLandDetector::updateSubscriptions()
+
+.text._ZN21FixedwingLandDetector6updateEv
+                0x00000000       0xd0
+ .text._ZN21FixedwingLandDetector6updateEv
+                0x00000000       0xd0 FixedwingLandDetector.cpp.o
+                0x00000000                FixedwingLandDetector::update()
+
+.text._ZN21FixedwingLandDetector20updateParameterCacheEb
+                0x00000000       0x54
+ .text._ZN21FixedwingLandDetector20updateParameterCacheEb
+                0x00000000       0x54 FixedwingLandDetector.cpp.o
+                0x00000000                FixedwingLandDetector::updateParameterCache(bool)
+
+.text._ZN21FixedwingLandDetector10initializeEv
+                0x00000000       0x2c
+ .text._ZN21FixedwingLandDetector10initializeEv
+                0x00000000       0x2c FixedwingLandDetector.cpp.o
+                0x00000000                FixedwingLandDetector::initialize()
+
+.fini
+ *(.fini)
+
+.rodata
+ *(.rodata)
+
+.rodata.str1.1  0x00000000      0x1db
+ .rodata.str1.1
+                0x00000000      0x16c land_detector_main.cpp.o
+ .rodata.str1.1
+                0x0000016c       0x3d MulticopterLandDetector.cpp.o
+ .rodata.str1.1
+                0x000001a9       0x32 FixedwingLandDetector.cpp.o
+
+__param         0x00000000       0x54
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                PROVIDE (__start___param, ABSOLUTE (.))
+ __param        0x00000000       0x54 land_detector_params.c.o
+                0x00000054                PROVIDE (__stop___param, .)
+
+.rodata.str1.4  0x00000000       0x7c
+ .rodata.str1.4
+                0x00000000       0x7c land_detector_params.c.o
+
+.rodata._ZTV12LandDetector
+                0x00000000       0x18
+ .rodata._ZTV12LandDetector
+                0x00000000       0x18 LandDetector.cpp.o
+                0x00000000                vtable for LandDetector
+
+.rodata._ZTV23MulticopterLandDetector
+                0x00000000       0x18
+ .rodata._ZTV23MulticopterLandDetector
+                0x00000000       0x18 MulticopterLandDetector.cpp.o
+                0x00000000                vtable for MulticopterLandDetector
+
+.rodata._ZTV21FixedwingLandDetector
+                0x00000000       0x18
+ .rodata._ZTV21FixedwingLandDetector
+                0x00000000       0x18 FixedwingLandDetector.cpp.o
+                0x00000000                vtable for FixedwingLandDetector
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab
+ *(.ARM.extab)
+
+.ARM.exidx
+ *(.ARM.exidx)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got.plt)
+ *(.igot.plt)
+ *(.got)
+ *(.igot)
+
+.data           0x00000000        0x0
+ *(.data)
+ .data          0x00000000        0x0 land_detector_main.cpp.o
+ .data          0x00000000        0x0 land_detector_params.c.o
+ .data          0x00000000        0x0 LandDetector.cpp.o
+ .data          0x00000000        0x0 MulticopterLandDetector.cpp.o
+ .data          0x00000000        0x0 FixedwingLandDetector.cpp.o
+
+.data._ZL19_landDetectorTaskID
+                0x00000000        0x4
+ .data._ZL19_landDetectorTaskID
+                0x00000000        0x4 land_detector_main.cpp.o
+
+.data1
+ *(.data1)
+
+.bss            0x00000000        0x0
+ *(.dynbss)
+ *(.bss)
+ .bss           0x00000000        0x0 land_detector_main.cpp.o
+ .bss           0x00000000        0x0 land_detector_params.c.o
+ .bss           0x00000000        0x0 LandDetector.cpp.o
+ .bss           0x00000000        0x0 MulticopterLandDetector.cpp.o
+ .bss           0x00000000        0x0 FixedwingLandDetector.cpp.o
+ *(COMMON)
+
+.bss._ZL18land_detector_task
+                0x00000000        0x4
+ .bss._ZL18land_detector_task
+                0x00000000        0x4 land_detector_main.cpp.o
+
+.bss._ZL12_currentMode
+                0x00000000        0xc
+ .bss._ZL12_currentMode
+                0x00000000        0xc land_detector_main.cpp.o
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000      0x235
+ *(.comment)
+ .comment       0x00000000       0x71 land_detector_main.cpp.o
+ .comment       0x00000071       0x71 land_detector_params.c.o
+ .comment       0x000000e2       0x71 LandDetector.cpp.o
+ .comment       0x00000153       0x71 MulticopterLandDetector.cpp.o
+ .comment       0x000001c4       0x71 FixedwingLandDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 land_detector_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LandDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LandDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 MulticopterLandDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 FixedwingLandDetector.cpp.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x128
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x28 land_detector_main.cpp.o
+ .debug_aranges
+                0x00000028       0x18 land_detector_params.c.o
+ .debug_aranges
+                0x00000040       0x48 LandDetector.cpp.o
+ .debug_aranges
+                0x00000088       0x50 MulticopterLandDetector.cpp.o
+ .debug_aranges
+                0x000000d8       0x50 FixedwingLandDetector.cpp.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x11409
+ *(.debug_info)
+ .debug_info    0x00000000     0x54cb land_detector_main.cpp.o
+ .debug_info    0x000054cb      0x1ac land_detector_params.c.o
+ .debug_info    0x00005677      0x6cb LandDetector.cpp.o
+ .debug_info    0x00005d42     0x6dbb MulticopterLandDetector.cpp.o
+ .debug_info    0x0000cafd     0x490c FixedwingLandDetector.cpp.o
+
+.debug_abbrev   0x00000000     0x126e
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x482 land_detector_main.cpp.o
+ .debug_abbrev  0x00000482       0xbb land_detector_params.c.o
+ .debug_abbrev  0x0000053d      0x35f LandDetector.cpp.o
+ .debug_abbrev  0x0000089c      0x5a6 MulticopterLandDetector.cpp.o
+ .debug_abbrev  0x00000e42      0x42c FixedwingLandDetector.cpp.o
+
+.debug_line     0x00000000     0x3820
+ *(.debug_line)
+ .debug_line    0x00000000      0xe37 land_detector_main.cpp.o
+ .debug_line    0x00000e37      0x2db land_detector_params.c.o
+ .debug_line    0x00001112      0x4d7 LandDetector.cpp.o
+ .debug_line    0x000015e9     0x120a MulticopterLandDetector.cpp.o
+ .debug_line    0x000027f3     0x102d FixedwingLandDetector.cpp.o
+
+.debug_frame    0x00000000      0x27c
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x40 land_detector_main.cpp.o
+ .debug_frame   0x00000040       0xa0 LandDetector.cpp.o
+ .debug_frame   0x000000e0       0xcc MulticopterLandDetector.cpp.o
+ .debug_frame   0x000001ac       0xd0 FixedwingLandDetector.cpp.o
+
+.debug_str      0x00000000    0x362de
+ *(.debug_str)
+ .debug_str     0x00000000     0xde32 land_detector_main.cpp.o
+ .debug_str     0x0000de32     0x5809 land_detector_params.c.o
+ .debug_str     0x0001363b     0x5dd6 LandDetector.cpp.o
+ .debug_str     0x00019411     0xfda0 MulticopterLandDetector.cpp.o
+ .debug_str     0x000291b1     0xd12d FixedwingLandDetector.cpp.o
+
+.debug_loc      0x00000000      0x827
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x123 land_detector_main.cpp.o
+ .debug_loc     0x00000123      0x1cc LandDetector.cpp.o
+ .debug_loc     0x000002ef      0x2ee MulticopterLandDetector.cpp.o
+ .debug_loc     0x000005dd      0x24a FixedwingLandDetector.cpp.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x150
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x68 land_detector_main.cpp.o
+ .debug_ranges  0x00000068       0x50 LandDetector.cpp.o
+ .debug_ranges  0x000000b8       0x58 MulticopterLandDetector.cpp.o
+ .debug_ranges  0x00000110       0x40 FixedwingLandDetector.cpp.o
+
+.stack
+ *(.stack)
+
+.ARM.attributes
+                0x00000000       0x37
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x37 land_detector_main.cpp.o
+ .ARM.attributes
+                0x00000037       0x37 land_detector_params.c.o
+ .ARM.attributes
+                0x0000006e       0x37 LandDetector.cpp.o
+ .ARM.attributes
+                0x000000a5       0x37 MulticopterLandDetector.cpp.o
+ .ARM.attributes
+                0x000000dc       0x37 FixedwingLandDetector.cpp.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+OUTPUT(/misc/shome/ex36/pixhawk/px4/Firmware/Build/px4fmu-v2_default.build//misc/shome/ex36/pixhawk/px4/Firmware/src/modules/land_detector/module.pre.o elf32-littlearm)
+
+.debug_macro    0x00000000      0xb30
+ .debug_macro   0x00000000      0x30a land_detector_main.cpp.o
+ .debug_macro   0x0000030a       0x7d land_detector_params.c.o
+ .debug_macro   0x00000387       0xd8 LandDetector.cpp.o
+ .debug_macro   0x0000045f      0x3aa MulticopterLandDetector.cpp.o
+ .debug_macro   0x00000809      0x327 FixedwingLandDetector.cpp.o
+
+.debug_macro    0x00000000      0x838
+ .debug_macro   0x00000000      0x838 land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 land_detector_main.cpp.o
+
+.debug_macro    0x00000000      0x8a6
+ .debug_macro   0x00000000      0x8a6 land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x88
+ .debug_macro   0x00000000       0x88 land_detector_main.cpp.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e land_detector_main.cpp.o
+
+.debug_macro    0x00000000      0x125
+ .debug_macro   0x00000000      0x125 land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x5d
+ .debug_macro   0x00000000       0x5d land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0xcb
+ .debug_macro   0x00000000       0xcb land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x49
+ .debug_macro   0x00000000       0x49 land_detector_main.cpp.o
+
+.debug_macro    0x00000000      0x106
+ .debug_macro   0x00000000      0x106 land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x23
+ .debug_macro   0x00000000       0x23 land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x98
+ .debug_macro   0x00000000       0x98 land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 land_detector_main.cpp.o
+
+.debug_macro    0x00000000      0x11b
+ .debug_macro   0x00000000      0x11b land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 land_detector_main.cpp.o
+
+.debug_macro    0x00000000      0x27f
+ .debug_macro   0x00000000      0x27f land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 land_detector_main.cpp.o
+
+.debug_macro    0x00000000      0x195
+ .debug_macro   0x00000000      0x195 land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x8a
+ .debug_macro   0x00000000       0x8a land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x39
+ .debug_macro   0x00000000       0x39 land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0xb4
+ .debug_macro   0x00000000       0xb4 land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x41
+ .debug_macro   0x00000000       0x41 land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x4d
+ .debug_macro   0x00000000       0x4d land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x5e
+ .debug_macro   0x00000000       0x5e land_detector_main.cpp.o
+
+.debug_macro    0x00000000      0x6c1
+ .debug_macro   0x00000000      0x6c1 land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x18
+ .debug_macro   0x00000000       0x18 land_detector_main.cpp.o
+
+.debug_macro    0x00000000      0x168
+ .debug_macro   0x00000000      0x168 land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x29
+ .debug_macro   0x00000000       0x29 land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x2b
+ .debug_macro   0x00000000       0x2b land_detector_main.cpp.o
+
+.debug_macro    0x00000000       0x30
+ .debug_macro   0x00000000       0x30 land_detector_main.cpp.o
+
+.debug_macro    0x00000000      0x814
+ .debug_macro   0x00000000      0x814 land_detector_params.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 land_detector_params.c.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 land_detector_params.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 land_detector_params.c.o
+
+.debug_macro    0x00000000       0x6f
+ .debug_macro   0x00000000       0x6f land_detector_params.c.o
+
+.debug_macro    0x00000000       0x25
+ .debug_macro   0x00000000       0x25 land_detector_params.c.o
+
+.debug_macro    0x00000000       0xd1
+ .debug_macro   0x00000000       0xd1 LandDetector.cpp.o
+
+.debug_macro    0x00000000       0x12
+ .debug_macro   0x00000000       0x12 LandDetector.cpp.o
+
+.debug_macro    0x00000000       0x3a
+ .debug_macro   0x00000000       0x3a MulticopterLandDetector.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 MulticopterLandDetector.cpp.o
+
+.debug_macro    0x00000000       0x27
+ .debug_macro   0x00000000       0x27 MulticopterLandDetector.cpp.o
+
+.debug_macro    0x00000000       0xa3
+ .debug_macro   0x00000000       0xa3 MulticopterLandDetector.cpp.o
+
+.debug_macro    0x00000000      0x281
+ .debug_macro   0x00000000      0x281 MulticopterLandDetector.cpp.o
+
+.debug_macro    0x00000000       0x53
+ .debug_macro   0x00000000       0x53 MulticopterLandDetector.cpp.o
+
+.debug_macro    0x00000000       0x20
+ .debug_macro   0x00000000       0x20 MulticopterLandDetector.cpp.o
+
+.debug_macro    0x00000000       0x3b
+ .debug_macro   0x00000000       0x3b MulticopterLandDetector.cpp.o
+
+.debug_macro    0x00000000       0x2d
+ .debug_macro   0x00000000       0x2d MulticopterLandDetector.cpp.o
+
+.debug_macro    0x00000000       0x42
+ .debug_macro   0x00000000       0x42 MulticopterLandDetector.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 MulticopterLandDetector.cpp.o
+
+.debug_macro    0x00000000       0xa5
+ .debug_macro   0x00000000       0xa5 MulticopterLandDetector.cpp.o

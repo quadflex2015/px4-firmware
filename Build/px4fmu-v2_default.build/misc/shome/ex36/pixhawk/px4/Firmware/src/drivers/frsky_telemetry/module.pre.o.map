@@ -1,0 +1,790 @@
+
+Discarded input sections
+
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+ .debug_macro   0x00000000      0x81a frsky_telemetry.c.o
+ .debug_macro   0x00000000       0x22 frsky_telemetry.c.o
+ .debug_macro   0x00000000      0x8a6 frsky_telemetry.c.o
+ .debug_macro   0x00000000       0xc9 frsky_telemetry.c.o
+ .debug_macro   0x00000000       0x10 frsky_telemetry.c.o
+ .debug_macro   0x00000000       0x88 frsky_telemetry.c.o
+ .debug_macro   0x00000000      0x14e frsky_telemetry.c.o
+ .debug_macro   0x00000000      0x125 frsky_telemetry.c.o
+ .debug_macro   0x00000000       0x69 frsky_telemetry.c.o
+ .debug_macro   0x00000000       0x58 frsky_telemetry.c.o
+ .debug_macro   0x00000000       0x58 frsky_telemetry.c.o
+ .debug_macro   0x00000000       0x4c frsky_telemetry.c.o
+ .debug_macro   0x00000000       0x49 frsky_telemetry.c.o
+ .debug_macro   0x00000000      0x106 frsky_telemetry.c.o
+ .debug_macro   0x00000000       0x23 frsky_telemetry.c.o
+ .debug_macro   0x00000000       0x28 frsky_telemetry.c.o
+ .debug_macro   0x00000000       0x22 frsky_telemetry.c.o
+ .debug_macro   0x00000000       0xd1 frsky_telemetry.c.o
+ .debug_macro   0x00000000       0x98 frsky_telemetry.c.o
+ .debug_macro   0x00000000       0x16 frsky_telemetry.c.o
+ .debug_macro   0x00000000       0x59 frsky_telemetry.c.o
+ .debug_macro   0x00000000      0x11b frsky_telemetry.c.o
+ .debug_macro   0x00000000       0x46 frsky_telemetry.c.o
+ .debug_macro   0x00000000      0x27f frsky_telemetry.c.o
+ .debug_macro   0x00000000       0x10 frsky_telemetry.c.o
+ .debug_macro   0x00000000      0x195 frsky_telemetry.c.o
+ .debug_macro   0x00000000       0x8a frsky_telemetry.c.o
+ .debug_macro   0x00000000       0x10 frsky_telemetry.c.o
+ .debug_macro   0x00000000       0x10 frsky_telemetry.c.o
+ .debug_macro   0x00000000       0x39 frsky_telemetry.c.o
+ .debug_macro   0x00000000       0xb4 frsky_telemetry.c.o
+ .debug_macro   0x00000000       0x41 frsky_telemetry.c.o
+ .debug_macro   0x00000000       0x4d frsky_telemetry.c.o
+ .debug_macro   0x00000000       0x22 frsky_telemetry.c.o
+ .debug_macro   0x00000000      0x184 frsky_telemetry.c.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD frsky_data.c.o
+LOAD frsky_telemetry.c.o
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+
+.rela.text
+ *(.rela.text)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rel.data.rel.ro
+ *(.rel.data.rel.ro)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rel.data
+ *(.rel.data)
+
+.rela.data
+ *(.rela.data)
+
+.rel.tdata
+ *(.rel.tdata)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rel.tbss
+ *(.rel.tbss)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.iplt
+ *(.rel.iplt)
+
+.rela.iplt
+ *(.rela.iplt)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(.init)
+
+.plt
+ *(.plt)
+
+.iplt
+ *(.iplt)
+
+.text           0x00000000        0x0
+ *(.text .stub)
+ .text          0x00000000        0x0 frsky_data.c.o
+ .text          0x00000000        0x0 frsky_telemetry.c.o
+ *(.gnu.warning)
+
+.text.frsky_send_byte
+                0x00000000       0x3c
+ .text.frsky_send_byte
+                0x00000000       0x3c frsky_data.c.o
+
+.text.frsky_send_startstop
+                0x00000000        0xc
+ .text.frsky_send_startstop
+                0x00000000        0xc frsky_data.c.o
+
+.text.frsky_send_data
+                0x00000000       0x2a
+ .text.frsky_send_data
+                0x00000000       0x2a frsky_data.c.o
+
+.text.frsky_init
+                0x00000000       0x4c
+ .text.frsky_init
+                0x00000000       0x4c frsky_data.c.o
+                0x00000000                frsky_init
+
+.text.frsky_send_frame1
+                0x00000000      0x170
+ .text.frsky_send_frame1
+                0x00000000      0x170 frsky_data.c.o
+                0x00000000                frsky_send_frame1
+
+.text.frsky_send_frame2
+                0x00000000      0x2dc
+ .text.frsky_send_frame2
+                0x00000000      0x2dc frsky_data.c.o
+                0x00000000                frsky_send_frame2
+
+.text.frsky_send_frame3
+                0x00000000       0x84
+ .text.frsky_send_frame3
+                0x00000000       0x84 frsky_data.c.o
+                0x00000000                frsky_send_frame3
+
+.text.usage     0x00000000       0x1c
+ .text.usage    0x00000000       0x1c frsky_telemetry.c.o
+
+.text.frsky_telemetry_thread_main
+                0x00000000      0x140
+ .text.frsky_telemetry_thread_main
+                0x00000000      0x140 frsky_telemetry.c.o
+
+.text.frsky_telemetry_main
+                0x00000000       0xf4
+ .text.frsky_telemetry_main
+                0x00000000       0xf4 frsky_telemetry.c.o
+                0x00000000                frsky_telemetry_main
+
+.fini
+ *(.fini)
+
+.rodata         0x00000000        0x4
+ *(.rodata)
+ .rodata        0x00000000        0x4 frsky_data.c.o
+
+.rodata.c.6518  0x00000000        0x1
+ .rodata.c.6518
+                0x00000000        0x1 frsky_data.c.o
+
+.rodata.str1.1  0x00000000      0x19d
+ .rodata.str1.1
+                0x00000000      0x19d frsky_telemetry.c.o
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab
+ *(.ARM.extab)
+
+.ARM.exidx
+ *(.ARM.exidx)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got.plt)
+ *(.igot.plt)
+ *(.got)
+ *(.igot)
+
+.data           0x00000000        0x0
+ *(.data)
+ .data          0x00000000        0x0 frsky_data.c.o
+ .data          0x00000000        0x0 frsky_telemetry.c.o
+
+.data.vehicle_status_sub
+                0x00000000        0x4
+ .data.vehicle_status_sub
+                0x00000000        0x4 frsky_data.c.o
+
+.data.global_position_sub
+                0x00000000        0x4
+ .data.global_position_sub
+                0x00000000        0x4 frsky_data.c.o
+
+.data.sensor_sub
+                0x00000000        0x4
+ .data.sensor_sub
+                0x00000000        0x4 frsky_data.c.o
+
+.data.battery_sub
+                0x00000000        0x4
+ .data.battery_sub
+                0x00000000        0x4 frsky_data.c.o
+
+.data1
+ *(.data1)
+
+.bss            0x00000000        0x0
+ *(.dynbss)
+ *(.bss)
+ .bss           0x00000000        0x0 frsky_data.c.o
+ .bss           0x00000000        0x0 frsky_telemetry.c.o
+ *(COMMON)
+
+.bss.thread_running
+                0x00000000        0x1
+ .bss.thread_running
+                0x00000000        0x1 frsky_telemetry.c.o
+
+.bss.frsky_task
+                0x00000000        0x4
+ .bss.frsky_task
+                0x00000000        0x4 frsky_telemetry.c.o
+
+.bss.thread_should_exit
+                0x00000000        0x1
+ .bss.thread_should_exit
+                0x00000000        0x1 frsky_telemetry.c.o
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0xe2
+ *(.comment)
+ .comment       0x00000000       0x71 frsky_data.c.o
+ .comment       0x00000071       0x71 frsky_telemetry.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_data.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 frsky_telemetry.c.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x80
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x50 frsky_data.c.o
+ .debug_aranges
+                0x00000050       0x30 frsky_telemetry.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x2a6c
+ *(.debug_info)
+ .debug_info    0x00000000     0x149e frsky_data.c.o
+ .debug_info    0x0000149e     0x15ce frsky_telemetry.c.o
+
+.debug_abbrev   0x00000000      0x616
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x2e8 frsky_data.c.o
+ .debug_abbrev  0x000002e8      0x32e frsky_telemetry.c.o
+
+.debug_line     0x00000000     0x1337
+ *(.debug_line)
+ .debug_line    0x00000000      0xc00 frsky_data.c.o
+ .debug_line    0x00000c00      0x737 frsky_telemetry.c.o
+
+.debug_frame    0x00000000      0x150
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xe8 frsky_data.c.o
+ .debug_frame   0x000000e8       0x68 frsky_telemetry.c.o
+
+.debug_str      0x00000000    0x15a61
+ *(.debug_str)
+ .debug_str     0x00000000     0xbc7e frsky_data.c.o
+ .debug_str     0x0000bc7e     0x9de3 frsky_telemetry.c.o
+
+.debug_loc      0x00000000      0x688
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x415 frsky_data.c.o
+ .debug_loc     0x00000415      0x273 frsky_telemetry.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x128
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x108 frsky_data.c.o
+ .debug_ranges  0x00000108       0x20 frsky_telemetry.c.o
+
+.stack
+ *(.stack)
+
+.ARM.attributes
+                0x00000000       0x37
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x37 frsky_data.c.o
+ .ARM.attributes
+                0x00000037       0x37 frsky_telemetry.c.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+OUTPUT(/misc/shome/ex36/pixhawk/px4/Firmware/Build/px4fmu-v2_default.build//misc/shome/ex36/pixhawk/px4/Firmware/src/drivers/frsky_telemetry/module.pre.o elf32-littlearm)
+
+.debug_macro    0x00000000      0x560
+ .debug_macro   0x00000000      0x367 frsky_data.c.o
+ .debug_macro   0x00000367      0x1f9 frsky_telemetry.c.o
+
+.debug_macro    0x00000000      0x81a
+ .debug_macro   0x00000000      0x81a frsky_data.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 frsky_data.c.o
+
+.debug_macro    0x00000000      0x8a6
+ .debug_macro   0x00000000      0x8a6 frsky_data.c.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 frsky_data.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 frsky_data.c.o
+
+.debug_macro    0x00000000       0x88
+ .debug_macro   0x00000000       0x88 frsky_data.c.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e frsky_data.c.o
+
+.debug_macro    0x00000000      0x125
+ .debug_macro   0x00000000      0x125 frsky_data.c.o
+
+.debug_macro    0x00000000       0x69
+ .debug_macro   0x00000000       0x69 frsky_data.c.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 frsky_data.c.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 frsky_data.c.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c frsky_data.c.o
+
+.debug_macro    0x00000000       0x49
+ .debug_macro   0x00000000       0x49 frsky_data.c.o
+
+.debug_macro    0x00000000      0x106
+ .debug_macro   0x00000000      0x106 frsky_data.c.o
+
+.debug_macro    0x00000000       0x23
+ .debug_macro   0x00000000       0x23 frsky_data.c.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 frsky_data.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 frsky_data.c.o
+
+.debug_macro    0x00000000       0xd1
+ .debug_macro   0x00000000       0xd1 frsky_data.c.o
+
+.debug_macro    0x00000000       0x98
+ .debug_macro   0x00000000       0x98 frsky_data.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 frsky_data.c.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 frsky_data.c.o
+
+.debug_macro    0x00000000      0x11b
+ .debug_macro   0x00000000      0x11b frsky_data.c.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 frsky_data.c.o
+
+.debug_macro    0x00000000      0x27f
+ .debug_macro   0x00000000      0x27f frsky_data.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 frsky_data.c.o
+
+.debug_macro    0x00000000      0x195
+ .debug_macro   0x00000000      0x195 frsky_data.c.o
+
+.debug_macro    0x00000000       0x8a
+ .debug_macro   0x00000000       0x8a frsky_data.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 frsky_data.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 frsky_data.c.o
+
+.debug_macro    0x00000000       0x39
+ .debug_macro   0x00000000       0x39 frsky_data.c.o
+
+.debug_macro    0x00000000       0xb4
+ .debug_macro   0x00000000       0xb4 frsky_data.c.o
+
+.debug_macro    0x00000000       0x41
+ .debug_macro   0x00000000       0x41 frsky_data.c.o
+
+.debug_macro    0x00000000       0x4d
+ .debug_macro   0x00000000       0x4d frsky_data.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 frsky_data.c.o
+
+.debug_macro    0x00000000       0x3a
+ .debug_macro   0x00000000       0x3a frsky_data.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 frsky_data.c.o
+
+.debug_macro    0x00000000       0x27
+ .debug_macro   0x00000000       0x27 frsky_data.c.o
+
+.debug_macro    0x00000000       0xa3
+ .debug_macro   0x00000000       0xa3 frsky_data.c.o
+
+.debug_macro    0x00000000      0x28f
+ .debug_macro   0x00000000      0x28f frsky_data.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 frsky_data.c.o
+
+.debug_macro    0x00000000       0x29
+ .debug_macro   0x00000000       0x29 frsky_data.c.o
+
+.debug_macro    0x00000000       0x2b
+ .debug_macro   0x00000000       0x2b frsky_data.c.o
+
+.debug_macro    0x00000000      0x184
+ .debug_macro   0x00000000      0x184 frsky_data.c.o
+
+.debug_macro    0x00000000       0x30
+ .debug_macro   0x00000000       0x30 frsky_data.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 frsky_data.c.o
+
+.debug_macro    0x00000000      0x19c
+ .debug_macro   0x00000000      0x19c frsky_data.c.o
+
+.debug_macro    0x00000000       0x18
+ .debug_macro   0x00000000       0x18 frsky_data.c.o
+
+.debug_macro    0x00000000      0x14d
+ .debug_macro   0x00000000      0x14d frsky_telemetry.c.o
+
+.debug_macro    0x00000000      0x333
+ .debug_macro   0x00000000      0x333 frsky_telemetry.c.o

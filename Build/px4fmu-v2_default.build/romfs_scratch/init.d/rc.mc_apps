@@ -1,0 +1,13 @@
+ekf_att_pos_estimator start
+mb12xx start
+if mc_att_control start
+then
+else
+	mc_att_control_m start
+fi
+if mc_pos_control start
+then
+else
+	mc_pos_control_m start
+fi
+land_detector start multicopter

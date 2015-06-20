@@ -1,0 +1,1504 @@
+
+Discarded input sections
+
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000      0x838 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x22 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000      0x8a6 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0xc9 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x10 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x88 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000      0x14e attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000      0x125 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x16 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x63 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x29 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x58 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x2b attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000      0x168 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x4c attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x49 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000      0x106 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x23 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x28 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0xd1 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x98 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x16 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x59 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000      0x11b attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x46 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000      0x27f attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x10 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000      0x195 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x8a attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x10 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x10 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x39 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0xb4 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x41 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x30 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x3a attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x10 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x27 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0xa3 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000      0x281 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x53 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x20 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x3b attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x2d attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0x42 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x00000000       0xa5 attitude_fw/ecl_pitch_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000      0x838 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x22 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000      0x8a6 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0xc9 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x10 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x88 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000      0x14e attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000      0x125 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x12 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x49 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x4c attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x10 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x16 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x29 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x58 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x2b attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000      0x168 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x23 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x28 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0xd1 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x98 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x16 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x59 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000      0x11b attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x46 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000      0x27f attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x10 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000      0x195 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x8a attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x10 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x10 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x39 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0xb4 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x41 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x30 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x22 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x53 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x3a attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x10 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x27 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0xa3 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000      0x281 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x20 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x3b attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x2d attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x42 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0x28 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000000       0xa5 attitude_fw/ecl_roll_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000      0x838 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x22 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000      0x8a6 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0xc9 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x10 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x88 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000      0x14e attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000      0x125 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x16 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x63 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x29 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x58 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x2b attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000      0x168 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x4c attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x49 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000      0x106 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x23 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x28 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0xd1 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x98 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x16 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x59 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000      0x11b attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x46 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000      0x27f attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x10 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000      0x195 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x8a attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x10 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x10 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x39 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0xb4 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x41 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x30 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x22 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x12 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x10 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x53 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x3a attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x10 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x27 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0xa3 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000      0x281 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x20 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x3b attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x2d attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x42 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0x28 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000000       0xa5 attitude_fw/ecl_yaw_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000      0x838 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x22 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000      0x168 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000      0x8a6 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0xc9 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x10 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x88 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000      0x14e l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000      0x125 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x5d l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x58 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x4c l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x49 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000      0x106 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x23 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x28 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0xd1 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x98 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x16 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x59 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000      0x11b l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x46 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000      0x27f l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x10 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000      0x195 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x8a l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x10 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x10 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x39 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0xb4 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x41 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x3a l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x10 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x27 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0xa3 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000      0x281 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x20 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x3b l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x2d l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x42 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x22 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0xa5 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x16 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x29 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x2b l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x30 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x22 l1/ecl_l1_pos_controller.cpp.o
+ .debug_macro   0x00000000       0x10 l1/ecl_l1_pos_controller.cpp.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD attitude_fw/ecl_controller.cpp.o
+LOAD attitude_fw/ecl_pitch_controller.cpp.o
+LOAD attitude_fw/ecl_roll_controller.cpp.o
+LOAD attitude_fw/ecl_yaw_controller.cpp.o
+LOAD l1/ecl_l1_pos_controller.cpp.o
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+
+.rela.text
+ *(.rela.text)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rel.data.rel.ro
+ *(.rel.data.rel.ro)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rel.data
+ *(.rel.data)
+
+.rela.data
+ *(.rela.data)
+
+.rel.tdata
+ *(.rel.tdata)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rel.tbss
+ *(.rel.tbss)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.iplt
+ *(.rel.iplt)
+
+.rela.iplt
+ *(.rela.iplt)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(.init)
+
+.plt
+ *(.plt)
+
+.iplt
+ *(.iplt)
+
+.text           0x00000000        0x0
+ *(.text .stub)
+ .text          0x00000000        0x0 attitude_fw/ecl_controller.cpp.o
+ .text          0x00000000        0x0 attitude_fw/ecl_pitch_controller.cpp.o
+ .text          0x00000000        0x0 attitude_fw/ecl_roll_controller.cpp.o
+ .text          0x00000000        0x0 attitude_fw/ecl_yaw_controller.cpp.o
+ .text          0x00000000        0x0 l1/ecl_l1_pos_controller.cpp.o
+ *(.gnu.warning)
+
+.text._ZN14ECL_ControllerC2EPKc
+                0x00000000       0x60
+ .text._ZN14ECL_ControllerC2EPKc
+                0x00000000       0x60 attitude_fw/ecl_controller.cpp.o
+                0x00000000                ECL_Controller::ECL_Controller(char const*)
+                0x00000000                ECL_Controller::ECL_Controller(char const*)
+
+.text._ZN14ECL_ControllerD2Ev
+                0x00000000       0x18
+ .text._ZN14ECL_ControllerD2Ev
+                0x00000000       0x18 attitude_fw/ecl_controller.cpp.o
+                0x00000000                ECL_Controller::~ECL_Controller()
+                0x00000000                ECL_Controller::~ECL_Controller()
+
+.text._ZN14ECL_Controller16reset_integratorEv
+                0x00000000        0x6
+ .text._ZN14ECL_Controller16reset_integratorEv
+                0x00000000        0x6 attitude_fw/ecl_controller.cpp.o
+                0x00000000                ECL_Controller::reset_integrator()
+
+.text._ZN14ECL_Controller17set_time_constantEf
+                0x00000000       0x28
+ .text._ZN14ECL_Controller17set_time_constantEf
+                0x00000000       0x28 attitude_fw/ecl_controller.cpp.o
+                0x00000000                ECL_Controller::set_time_constant(float)
+
+.text._ZN14ECL_Controller7set_k_pEf
+                0x00000000        0x6
+ .text._ZN14ECL_Controller7set_k_pEf
+                0x00000000        0x6 attitude_fw/ecl_controller.cpp.o
+                0x00000000                ECL_Controller::set_k_p(float)
+
+.text._ZN14ECL_Controller7set_k_iEf
+                0x00000000        0x6
+ .text._ZN14ECL_Controller7set_k_iEf
+                0x00000000        0x6 attitude_fw/ecl_controller.cpp.o
+                0x00000000                ECL_Controller::set_k_i(float)
+
+.text._ZN14ECL_Controller8set_k_ffEf
+                0x00000000        0x6
+ .text._ZN14ECL_Controller8set_k_ffEf
+                0x00000000        0x6 attitude_fw/ecl_controller.cpp.o
+                0x00000000                ECL_Controller::set_k_ff(float)
+
+.text._ZN14ECL_Controller18set_integrator_maxEf
+                0x00000000        0x6
+ .text._ZN14ECL_Controller18set_integrator_maxEf
+                0x00000000        0x6 attitude_fw/ecl_controller.cpp.o
+                0x00000000                ECL_Controller::set_integrator_max(float)
+
+.text._ZN14ECL_Controller12set_max_rateEf
+                0x00000000        0x6
+ .text._ZN14ECL_Controller12set_max_rateEf
+                0x00000000        0x6 attitude_fw/ecl_controller.cpp.o
+                0x00000000                ECL_Controller::set_max_rate(float)
+
+.text._ZN14ECL_Controller14get_rate_errorEv
+                0x00000000        0x6
+ .text._ZN14ECL_Controller14get_rate_errorEv
+                0x00000000        0x6 attitude_fw/ecl_controller.cpp.o
+                0x00000000                ECL_Controller::get_rate_error()
+
+.text._ZN14ECL_Controller16get_desired_rateEv
+                0x00000000        0x6
+ .text._ZN14ECL_Controller16get_desired_rateEv
+                0x00000000        0x6 attitude_fw/ecl_controller.cpp.o
+                0x00000000                ECL_Controller::get_desired_rate()
+
+.text._ZN14ECL_Controller20get_desired_bodyrateEv
+                0x00000000        0x6
+ .text._ZN14ECL_Controller20get_desired_bodyrateEv
+                0x00000000        0x6 attitude_fw/ecl_controller.cpp.o
+                0x00000000                ECL_Controller::get_desired_bodyrate()
+
+.text._ZN14ECL_Controller18constrain_airspeedEfff
+                0x00000000       0x18
+ .text._ZN14ECL_Controller18constrain_airspeedEfff
+                0x00000000       0x18 attitude_fw/ecl_controller.cpp.o
+                0x00000000                ECL_Controller::constrain_airspeed(float, float, float)
+
+.text._ZN19ECL_PitchController16control_bodyrateERK15ECL_ControlData
+                0x00000000      0x1e4
+ .text._ZN19ECL_PitchController16control_bodyrateERK15ECL_ControlData
+                0x00000000      0x1e4 attitude_fw/ecl_pitch_controller.cpp.o
+                0x00000000                ECL_PitchController::control_bodyrate(ECL_ControlData const&)
+
+.text._ZN19ECL_PitchController16control_attitudeERK15ECL_ControlData
+                0x00000000      0x198
+ .text._ZN19ECL_PitchController16control_attitudeERK15ECL_ControlData
+                0x00000000      0x198 attitude_fw/ecl_pitch_controller.cpp.o
+                0x00000000                ECL_PitchController::control_attitude(ECL_ControlData const&)
+
+.text._ZN19ECL_PitchControllerC2Ev
+                0x00000000       0x20
+ .text._ZN19ECL_PitchControllerC2Ev
+                0x00000000       0x20 attitude_fw/ecl_pitch_controller.cpp.o
+                0x00000000                ECL_PitchController::ECL_PitchController()
+                0x00000000                ECL_PitchController::ECL_PitchController()
+
+.text._ZN19ECL_PitchControllerD2Ev
+                0x00000000       0x14
+ .text._ZN19ECL_PitchControllerD2Ev
+                0x00000000       0x14 attitude_fw/ecl_pitch_controller.cpp.o
+                0x00000000                ECL_PitchController::~ECL_PitchController()
+                0x00000000                ECL_PitchController::~ECL_PitchController()
+
+.text._ZN18ECL_RollController16control_bodyrateERK15ECL_ControlData
+                0x00000000      0x194
+ .text._ZN18ECL_RollController16control_bodyrateERK15ECL_ControlData
+                0x00000000      0x194 attitude_fw/ecl_roll_controller.cpp.o
+                0x00000000                ECL_RollController::control_bodyrate(ECL_ControlData const&)
+
+.text._ZN18ECL_RollController16control_attitudeERK15ECL_ControlData
+                0x00000000       0x80
+ .text._ZN18ECL_RollController16control_attitudeERK15ECL_ControlData
+                0x00000000       0x80 attitude_fw/ecl_roll_controller.cpp.o
+                0x00000000                ECL_RollController::control_attitude(ECL_ControlData const&)
+
+.text._ZN18ECL_RollControllerC2Ev
+                0x00000000       0x1c
+ .text._ZN18ECL_RollControllerC2Ev
+                0x00000000       0x1c attitude_fw/ecl_roll_controller.cpp.o
+                0x00000000                ECL_RollController::ECL_RollController()
+                0x00000000                ECL_RollController::ECL_RollController()
+
+.text._ZN18ECL_RollControllerD2Ev
+                0x00000000       0x14
+ .text._ZN18ECL_RollControllerD2Ev
+                0x00000000       0x14 attitude_fw/ecl_roll_controller.cpp.o
+                0x00000000                ECL_RollController::~ECL_RollController()
+                0x00000000                ECL_RollController::~ECL_RollController()
+
+.text._ZN17ECL_YawControllerC2Ev
+                0x00000000       0x24
+ .text._ZN17ECL_YawControllerC2Ev
+                0x00000000       0x24 attitude_fw/ecl_yaw_controller.cpp.o
+                0x00000000                ECL_YawController::ECL_YawController()
+                0x00000000                ECL_YawController::ECL_YawController()
+
+.text._ZN17ECL_YawControllerD2Ev
+                0x00000000       0x14
+ .text._ZN17ECL_YawControllerD2Ev
+                0x00000000       0x14 attitude_fw/ecl_yaw_controller.cpp.o
+                0x00000000                ECL_YawController::~ECL_YawController()
+                0x00000000                ECL_YawController::~ECL_YawController()
+
+.text._ZN17ECL_YawController30control_attitude_impl_openloopERK15ECL_ControlData
+                0x00000000      0x178
+ .text._ZN17ECL_YawController30control_attitude_impl_openloopERK15ECL_ControlData
+                0x00000000      0x178 attitude_fw/ecl_yaw_controller.cpp.o
+                0x00000000                ECL_YawController::control_attitude_impl_openloop(ECL_ControlData const&)
+
+.text._ZN17ECL_YawController16control_attitudeERK15ECL_ControlData
+                0x00000000       0x60
+ .text._ZN17ECL_YawController16control_attitudeERK15ECL_ControlData
+                0x00000000       0x60 attitude_fw/ecl_yaw_controller.cpp.o
+                0x00000000                ECL_YawController::control_attitude(ECL_ControlData const&)
+
+.text._ZN17ECL_YawController21control_bodyrate_implERK15ECL_ControlData
+                0x00000000      0x254
+ .text._ZN17ECL_YawController21control_bodyrate_implERK15ECL_ControlData
+                0x00000000      0x254 attitude_fw/ecl_yaw_controller.cpp.o
+                0x00000000                ECL_YawController::control_bodyrate_impl(ECL_ControlData const&)
+
+.text._ZN17ECL_YawController16control_bodyrateERK15ECL_ControlData
+                0x00000000       0x60
+ .text._ZN17ECL_YawController16control_bodyrateERK15ECL_ControlData
+                0x00000000       0x60 attitude_fw/ecl_yaw_controller.cpp.o
+                0x00000000                ECL_YawController::control_bodyrate(ECL_ControlData const&)
+
+.text._ZN17ECL_YawController35control_attitude_impl_accclosedloopERK15ECL_ControlData
+                0x00000000        0xc
+ .text._ZN17ECL_YawController35control_attitude_impl_accclosedloopERK15ECL_ControlData
+                0x00000000        0xc attitude_fw/ecl_yaw_controller.cpp.o
+                0x00000000                ECL_YawController::control_attitude_impl_accclosedloop(ECL_ControlData const&)
+
+.text._ZN4math10VectorBaseILj2EED2Ev
+                0x00000000        0xc
+ .text._ZN4math10VectorBaseILj2EED2Ev
+                0x00000000        0xc l1/ecl_l1_pos_controller.cpp.o
+                0x00000000                math::VectorBase<2u>::~VectorBase()
+                0x00000000                math::VectorBase<2u>::~VectorBase()
+
+.text._ZN4math6VectorILj2EED2Ev
+                0x00000000        0xc
+ .text._ZN4math6VectorILj2EED2Ev
+                0x00000000        0xc l1/ecl_l1_pos_controller.cpp.o
+                0x00000000                math::Vector<2u>::~Vector()
+                0x00000000                math::Vector<2u>::~Vector()
+
+.text._ZN4math6VectorILj2EED0Ev
+                0x00000000       0x14
+ .text._ZN4math6VectorILj2EED0Ev
+                0x00000000       0x14 l1/ecl_l1_pos_controller.cpp.o
+                0x00000000                math::Vector<2u>::~Vector()
+
+.text._ZN4math10VectorBaseILj2EED0Ev
+                0x00000000       0x14
+ .text._ZN4math10VectorBaseILj2EED0Ev
+                0x00000000       0x14 l1/ecl_l1_pos_controller.cpp.o
+                0x00000000                math::VectorBase<2u>::~VectorBase()
+
+.text._ZN21ECL_L1_Pos_Controller8nav_rollEv
+                0x00000000       0x28
+ .text._ZN21ECL_L1_Pos_Controller8nav_rollEv
+                0x00000000       0x28 l1/ecl_l1_pos_controller.cpp.o
+                0x00000000                ECL_L1_Pos_Controller::nav_roll()
+
+.text._ZN21ECL_L1_Pos_Controller31nav_lateral_acceleration_demandEv
+                0x00000000        0x6
+ .text._ZN21ECL_L1_Pos_Controller31nav_lateral_acceleration_demandEv
+                0x00000000        0x6 l1/ecl_l1_pos_controller.cpp.o
+                0x00000000                ECL_L1_Pos_Controller::nav_lateral_acceleration_demand()
+
+.text._ZN21ECL_L1_Pos_Controller11nav_bearingEv
+                0x00000000        0x8
+ .text._ZN21ECL_L1_Pos_Controller11nav_bearingEv
+                0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+                0x00000000                ECL_L1_Pos_Controller::nav_bearing()
+
+.text._ZN21ECL_L1_Pos_Controller13bearing_errorEv
+                0x00000000        0x6
+ .text._ZN21ECL_L1_Pos_Controller13bearing_errorEv
+                0x00000000        0x6 l1/ecl_l1_pos_controller.cpp.o
+                0x00000000                ECL_L1_Pos_Controller::bearing_error()
+
+.text._ZN21ECL_L1_Pos_Controller14target_bearingEv
+                0x00000000        0x6
+ .text._ZN21ECL_L1_Pos_Controller14target_bearingEv
+                0x00000000        0x6 l1/ecl_l1_pos_controller.cpp.o
+                0x00000000                ECL_L1_Pos_Controller::target_bearing()
+
+.text._ZN21ECL_L1_Pos_Controller15switch_distanceEf
+                0x00000000        0x8
+ .text._ZN21ECL_L1_Pos_Controller15switch_distanceEf
+                0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+                0x00000000                ECL_L1_Pos_Controller::switch_distance(float)
+
+.text._ZN21ECL_L1_Pos_Controller21reached_loiter_targetEv
+                0x00000000        0x4
+ .text._ZN21ECL_L1_Pos_Controller21reached_loiter_targetEv
+                0x00000000        0x4 l1/ecl_l1_pos_controller.cpp.o
+                0x00000000                ECL_L1_Pos_Controller::reached_loiter_target()
+
+.text._ZN21ECL_L1_Pos_Controller16crosstrack_errorEv
+                0x00000000        0x6
+ .text._ZN21ECL_L1_Pos_Controller16crosstrack_errorEv
+                0x00000000        0x6 l1/ecl_l1_pos_controller.cpp.o
+                0x00000000                ECL_L1_Pos_Controller::crosstrack_error()
+
+.text._ZN21ECL_L1_Pos_Controller21navigate_level_flightEf
+                0x00000000       0x16
+ .text._ZN21ECL_L1_Pos_Controller21navigate_level_flightEf
+                0x00000000       0x16 l1/ecl_l1_pos_controller.cpp.o
+                0x00000000                ECL_L1_Pos_Controller::navigate_level_flight(float)
+
+.text._ZN4math10VectorBaseILj2EEC2Ev
+                0x00000000       0x1c
+ .text._ZN4math10VectorBaseILj2EEC2Ev
+                0x00000000       0x1c l1/ecl_l1_pos_controller.cpp.o
+                0x00000000                math::VectorBase<2u>::VectorBase()
+                0x00000000                math::VectorBase<2u>::VectorBase()
+
+.text._ZN4math6VectorILj2EEC2Ev
+                0x00000000       0x14
+ .text._ZN4math6VectorILj2EEC2Ev
+                0x00000000       0x14 l1/ecl_l1_pos_controller.cpp.o
+                0x00000000                math::Vector<2u>::Vector()
+                0x00000000                math::Vector<2u>::Vector()
+
+.text._ZNK21ECL_L1_Pos_Controller23get_local_planar_vectorERKN4math6VectorILj2EEES4_
+                0x00000000       0x8c
+ .text._ZNK21ECL_L1_Pos_Controller23get_local_planar_vectorERKN4math6VectorILj2EEES4_
+                0x00000000       0x8c l1/ecl_l1_pos_controller.cpp.o
+                0x00000000                ECL_L1_Pos_Controller::get_local_planar_vector(math::Vector<2u> const&, math::Vector<2u> const&) const
+
+.text._ZNK4math10VectorBaseILj2EE6lengthEv
+                0x00000000       0x14
+ .text._ZNK4math10VectorBaseILj2EE6lengthEv
+                0x00000000       0x14 l1/ecl_l1_pos_controller.cpp.o
+                0x00000000                math::VectorBase<2u>::length() const
+
+.text._ZN21ECL_L1_Pos_Controller16navigate_headingEffRKN4math6VectorILj2EEE
+                0x00000000       0x88
+ .text._ZN21ECL_L1_Pos_Controller16navigate_headingEffRKN4math6VectorILj2EEE
+                0x00000000       0x88 l1/ecl_l1_pos_controller.cpp.o
+                0x00000000                ECL_L1_Pos_Controller::navigate_heading(float, float, math::Vector<2u> const&)
+
+.text._ZNK4math10VectorBaseILj2EEmlERKNS_6VectorILj2EEE
+                0x00000000       0x1a
+ .text._ZNK4math10VectorBaseILj2EEmlERKNS_6VectorILj2EEE
+                0x00000000       0x1a l1/ecl_l1_pos_controller.cpp.o
+                0x00000000                math::VectorBase<2u>::operator*(math::Vector<2u> const&) const
+
+.text._ZNK4math10VectorBaseILj2EE10normalizedEv
+                0x00000000       0x3a
+ .text._ZNK4math10VectorBaseILj2EE10normalizedEv
+                0x00000000       0x3a l1/ecl_l1_pos_controller.cpp.o
+                0x00000000                math::VectorBase<2u>::normalized() const
+
+.text._ZN21ECL_L1_Pos_Controller15navigate_loiterERKN4math6VectorILj2EEES4_faS4_
+                0x00000000      0x210
+ .text._ZN21ECL_L1_Pos_Controller15navigate_loiterERKN4math6VectorILj2EEES4_faS4_
+                0x00000000      0x210 l1/ecl_l1_pos_controller.cpp.o
+                0x00000000                ECL_L1_Pos_Controller::navigate_loiter(math::Vector<2u> const&, math::Vector<2u> const&, float, signed char, math::Vector<2u> const&)
+
+.text._ZN21ECL_L1_Pos_Controller18navigate_waypointsERKN4math6VectorILj2EEES4_S4_S4_
+                0x00000000      0x34c
+ .text._ZN21ECL_L1_Pos_Controller18navigate_waypointsERKN4math6VectorILj2EEES4_S4_S4_
+                0x00000000      0x34c l1/ecl_l1_pos_controller.cpp.o
+                0x00000000                ECL_L1_Pos_Controller::navigate_waypoints(math::Vector<2u> const&, math::Vector<2u> const&, math::Vector<2u> const&, math::Vector<2u> const&)
+
+.fini
+ *(.fini)
+
+.rodata
+ *(.rodata)
+
+.rodata._ZTV14ECL_Controller
+                0x00000000       0x10
+ .rodata._ZTV14ECL_Controller
+                0x00000000       0x10 attitude_fw/ecl_controller.cpp.o
+                0x00000000                vtable for ECL_Controller
+
+.rodata.str1.1  0x00000000       0x87
+ .rodata.str1.1
+                0x00000000       0x22 attitude_fw/ecl_controller.cpp.o
+ .rodata.str1.1
+                0x00000022       0x1c attitude_fw/ecl_pitch_controller.cpp.o
+ .rodata.str1.1
+                0x0000003e        0x5 attitude_fw/ecl_roll_controller.cpp.o
+ .rodata.str1.1
+                0x00000043       0x44 attitude_fw/ecl_yaw_controller.cpp.o
+
+.rodata._ZTV19ECL_PitchController
+                0x00000000       0x10
+ .rodata._ZTV19ECL_PitchController
+                0x00000000       0x10 attitude_fw/ecl_pitch_controller.cpp.o
+                0x00000000                vtable for ECL_PitchController
+
+.rodata._ZTV18ECL_RollController
+                0x00000000       0x10
+ .rodata._ZTV18ECL_RollController
+                0x00000000       0x10 attitude_fw/ecl_roll_controller.cpp.o
+                0x00000000                vtable for ECL_RollController
+
+.rodata._ZTV17ECL_YawController
+                0x00000000       0x10
+ .rodata._ZTV17ECL_YawController
+                0x00000000       0x10 attitude_fw/ecl_yaw_controller.cpp.o
+                0x00000000                vtable for ECL_YawController
+
+.rodata._ZTVN4math6VectorILj2EEE
+                0x00000000       0x10
+ .rodata._ZTVN4math6VectorILj2EEE
+                0x00000000       0x10 l1/ecl_l1_pos_controller.cpp.o
+                0x00000000                vtable for math::Vector<2u>
+
+.rodata._ZTVN4math10VectorBaseILj2EEE
+                0x00000000       0x10
+ .rodata._ZTVN4math10VectorBaseILj2EEE
+                0x00000000       0x10 l1/ecl_l1_pos_controller.cpp.o
+                0x00000000                vtable for math::VectorBase<2u>
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab
+ *(.ARM.extab)
+
+.ARM.exidx
+ *(.ARM.exidx)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got.plt)
+ *(.igot.plt)
+ *(.got)
+ *(.igot)
+
+.data           0x00000000        0x0
+ *(.data)
+ .data          0x00000000        0x0 attitude_fw/ecl_controller.cpp.o
+ .data          0x00000000        0x0 attitude_fw/ecl_pitch_controller.cpp.o
+ .data          0x00000000        0x0 attitude_fw/ecl_roll_controller.cpp.o
+ .data          0x00000000        0x0 attitude_fw/ecl_yaw_controller.cpp.o
+ .data          0x00000000        0x0 l1/ecl_l1_pos_controller.cpp.o
+
+.data1
+ *(.data1)
+
+.bss            0x00000000        0x0
+ *(.dynbss)
+ *(.bss)
+ .bss           0x00000000        0x0 attitude_fw/ecl_controller.cpp.o
+ .bss           0x00000000        0x0 attitude_fw/ecl_pitch_controller.cpp.o
+ .bss           0x00000000        0x0 attitude_fw/ecl_roll_controller.cpp.o
+ .bss           0x00000000        0x0 attitude_fw/ecl_yaw_controller.cpp.o
+ .bss           0x00000000        0x0 l1/ecl_l1_pos_controller.cpp.o
+ *(COMMON)
+
+.bss._ZZN17ECL_YawController16control_attitudeERK15ECL_ControlDataE10last_print
+                0x00000000        0x8
+ .bss._ZZN17ECL_YawController16control_attitudeERK15ECL_ControlDataE10last_print
+                0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+
+.bss._ZZN17ECL_YawController16control_bodyrateERK15ECL_ControlDataE10last_print
+                0x00000000        0x8
+ .bss._ZZN17ECL_YawController16control_bodyrateERK15ECL_ControlDataE10last_print
+                0x00000000        0x8 attitude_fw/ecl_yaw_controller.cpp.o
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000      0x235
+ *(.comment)
+ .comment       0x00000000       0x71 attitude_fw/ecl_controller.cpp.o
+ .comment       0x00000071       0x71 attitude_fw/ecl_pitch_controller.cpp.o
+ .comment       0x000000e2       0x71 attitude_fw/ecl_roll_controller.cpp.o
+ .comment       0x00000153       0x71 attitude_fw/ecl_yaw_controller.cpp.o
+ .comment       0x000001c4       0x71 l1/ecl_l1_pos_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_pitch_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 attitude_fw/ecl_roll_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 l1/ecl_l1_pos_controller.cpp.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x208
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x80 attitude_fw/ecl_controller.cpp.o
+ .debug_aranges
+                0x00000080       0x38 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_aranges
+                0x000000b8       0x38 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_aranges
+                0x000000f0       0x50 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_aranges
+                0x00000140       0xc8 l1/ecl_l1_pos_controller.cpp.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x23a97
+ *(.debug_info)
+ .debug_info    0x00000000     0x6c48 attitude_fw/ecl_controller.cpp.o
+ .debug_info    0x00006c48     0x7095 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_info    0x0000dcdd     0x6e34 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_info    0x00014b11     0x7391 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_info    0x0001bea2     0x7bf5 l1/ecl_l1_pos_controller.cpp.o
+
+.debug_abbrev   0x00000000     0x1d18
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x4ff attitude_fw/ecl_controller.cpp.o
+ .debug_abbrev  0x000004ff      0x56a attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_abbrev  0x00000a69      0x57b attitude_fw/ecl_roll_controller.cpp.o
+ .debug_abbrev  0x00000fe4      0x619 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_abbrev  0x000015fd      0x71b l1/ecl_l1_pos_controller.cpp.o
+
+.debug_line     0x00000000     0x5c74
+ *(.debug_line)
+ .debug_line    0x00000000     0x10fd attitude_fw/ecl_controller.cpp.o
+ .debug_line    0x000010fd     0x123b attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_line    0x00002338     0x123c attitude_fw/ecl_roll_controller.cpp.o
+ .debug_line    0x00003574     0x129b attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_line    0x0000480f     0x1465 l1/ecl_l1_pos_controller.cpp.o
+
+.debug_frame    0x00000000      0x50c
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x108 attitude_fw/ecl_controller.cpp.o
+ .debug_frame   0x00000108       0x90 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_frame   0x00000198       0x84 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_frame   0x0000021c       0xd8 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_frame   0x000002f4      0x218 l1/ecl_l1_pos_controller.cpp.o
+
+.debug_str      0x00000000    0x50553
+ *(.debug_str)
+ .debug_str     0x00000000     0xfe5c attitude_fw/ecl_controller.cpp.o
+ .debug_str     0x0000fe5c    0x1016c attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_str     0x0001ffc8    0x1005b attitude_fw/ecl_roll_controller.cpp.o
+ .debug_str     0x00030023    0x1028e attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_str     0x000402b1    0x102a2 l1/ecl_l1_pos_controller.cpp.o
+
+.debug_loc      0x00000000     0x1ba1
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x16f attitude_fw/ecl_controller.cpp.o
+ .debug_loc     0x0000016f      0x3df attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_loc     0x0000054e      0x327 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_loc     0x00000875      0x4ed attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_loc     0x00000d62      0xe3f l1/ecl_l1_pos_controller.cpp.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x648
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x70 attitude_fw/ecl_controller.cpp.o
+ .debug_ranges  0x00000070       0xb0 attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_ranges  0x00000120       0xa8 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_ranges  0x000001c8       0xd8 attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_ranges  0x000002a0      0x3a8 l1/ecl_l1_pos_controller.cpp.o
+
+.stack
+ *(.stack)
+
+.ARM.attributes
+                0x00000000       0x37
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x37 attitude_fw/ecl_controller.cpp.o
+ .ARM.attributes
+                0x00000037       0x37 attitude_fw/ecl_pitch_controller.cpp.o
+ .ARM.attributes
+                0x0000006e       0x37 attitude_fw/ecl_roll_controller.cpp.o
+ .ARM.attributes
+                0x000000a5       0x37 attitude_fw/ecl_yaw_controller.cpp.o
+ .ARM.attributes
+                0x000000dc       0x37 l1/ecl_l1_pos_controller.cpp.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+OUTPUT(/misc/shome/ex36/pixhawk/px4/Firmware/Build/px4fmu-v2_default.build//misc/shome/ex36/pixhawk/px4/Firmware/src/lib/ecl/module.pre.o elf32-littlearm)
+
+.debug_macro    0x00000000     0x11df
+ .debug_macro   0x00000000      0x36f attitude_fw/ecl_controller.cpp.o
+ .debug_macro   0x0000036f      0x39c attitude_fw/ecl_pitch_controller.cpp.o
+ .debug_macro   0x0000070b      0x3a5 attitude_fw/ecl_roll_controller.cpp.o
+ .debug_macro   0x00000ab0      0x39c attitude_fw/ecl_yaw_controller.cpp.o
+ .debug_macro   0x00000e4c      0x393 l1/ecl_l1_pos_controller.cpp.o
+
+.debug_macro    0x00000000      0x838
+ .debug_macro   0x00000000      0x838 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000      0x8a6
+ .debug_macro   0x00000000      0x8a6 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x88
+ .debug_macro   0x00000000       0x88 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000      0x125
+ .debug_macro   0x00000000      0x125 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x63
+ .debug_macro   0x00000000       0x63 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x29
+ .debug_macro   0x00000000       0x29 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x2b
+ .debug_macro   0x00000000       0x2b attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000      0x168
+ .debug_macro   0x00000000      0x168 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x49
+ .debug_macro   0x00000000       0x49 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000      0x106
+ .debug_macro   0x00000000      0x106 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x23
+ .debug_macro   0x00000000       0x23 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0xd1
+ .debug_macro   0x00000000       0xd1 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x98
+ .debug_macro   0x00000000       0x98 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000      0x11b
+ .debug_macro   0x00000000      0x11b attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000      0x27f
+ .debug_macro   0x00000000      0x27f attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000      0x195
+ .debug_macro   0x00000000      0x195 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x8a
+ .debug_macro   0x00000000       0x8a attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x39
+ .debug_macro   0x00000000       0x39 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0xb4
+ .debug_macro   0x00000000       0xb4 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x41
+ .debug_macro   0x00000000       0x41 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x30
+ .debug_macro   0x00000000       0x30 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x53
+ .debug_macro   0x00000000       0x53 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x3a
+ .debug_macro   0x00000000       0x3a attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x27
+ .debug_macro   0x00000000       0x27 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0xa3
+ .debug_macro   0x00000000       0xa3 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000      0x281
+ .debug_macro   0x00000000      0x281 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x20
+ .debug_macro   0x00000000       0x20 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x3b
+ .debug_macro   0x00000000       0x3b attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x2d
+ .debug_macro   0x00000000       0x2d attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x42
+ .debug_macro   0x00000000       0x42 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0xa5
+ .debug_macro   0x00000000       0xa5 attitude_fw/ecl_controller.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 attitude_fw/ecl_pitch_controller.cpp.o
+
+.debug_macro    0x00000000       0x12
+ .debug_macro   0x00000000       0x12 attitude_fw/ecl_pitch_controller.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 attitude_fw/ecl_pitch_controller.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 attitude_fw/ecl_pitch_controller.cpp.o
+
+.debug_macro    0x00000000       0x5d
+ .debug_macro   0x00000000       0x5d attitude_fw/ecl_roll_controller.cpp.o
+
+.debug_macro    0x00000000      0x10c
+ .debug_macro   0x00000000      0x10c attitude_fw/ecl_roll_controller.cpp.o
+
+.debug_macro    0x00000000       0x4d
+ .debug_macro   0x00000000       0x4d l1/ecl_l1_pos_controller.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 l1/ecl_l1_pos_controller.cpp.o
+
+.debug_macro    0x00000000       0x18
+ .debug_macro   0x00000000       0x18 l1/ecl_l1_pos_controller.cpp.o
