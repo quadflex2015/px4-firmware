@@ -1,0 +1,2474 @@
+
+Discarded input sections
+
+ .group         0x00000000        0x8 commander_params.c.o
+ .group         0x00000000        0x8 commander_params.c.o
+ .group         0x00000000        0x8 commander_params.c.o
+ .group         0x00000000        0x8 commander_params.c.o
+ .group         0x00000000        0x8 commander_params.c.o
+ .debug_macro   0x00000000      0x8a6 commander_params.c.o
+ .debug_macro   0x00000000       0x10 commander_params.c.o
+ .debug_macro   0x00000000       0x88 commander_params.c.o
+ .debug_macro   0x00000000      0x14e commander_params.c.o
+ .debug_macro   0x00000000      0x125 commander_params.c.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+ .debug_macro   0x00000000      0x838 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x22 state_machine_helper.cpp.o
+ .debug_macro   0x00000000      0x8a6 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0xc9 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x10 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x88 state_machine_helper.cpp.o
+ .debug_macro   0x00000000      0x14e state_machine_helper.cpp.o
+ .debug_macro   0x00000000      0x125 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x5d state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x58 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x4c state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x49 state_machine_helper.cpp.o
+ .debug_macro   0x00000000      0x106 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x23 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x28 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0xd1 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x98 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x16 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x59 state_machine_helper.cpp.o
+ .debug_macro   0x00000000      0x11b state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x46 state_machine_helper.cpp.o
+ .debug_macro   0x00000000      0x27f state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x10 state_machine_helper.cpp.o
+ .debug_macro   0x00000000      0x195 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x8a state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x10 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x10 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x39 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0xb4 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x41 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x4d state_machine_helper.cpp.o
+ .debug_macro   0x00000000      0x14d state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x22 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x3a state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x10 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x27 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0xa3 state_machine_helper.cpp.o
+ .debug_macro   0x00000000      0x281 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x29 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x16 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x2b state_machine_helper.cpp.o
+ .debug_macro   0x00000000      0x168 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x30 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x18 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x9a state_machine_helper.cpp.o
+ .debug_macro   0x00000000      0x1cf state_machine_helper.cpp.o
+ .debug_macro   0x00000000      0x16c state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x16 state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x4d state_machine_helper.cpp.o
+ .debug_macro   0x00000000       0x46 state_machine_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .group         0x00000000        0x8 commander_helper.cpp.o
+ .debug_macro   0x00000000      0x838 commander_helper.cpp.o
+ .debug_macro   0x00000000       0x22 commander_helper.cpp.o
+ .debug_macro   0x00000000      0x8a6 commander_helper.cpp.o
+ .debug_macro   0x00000000       0xc9 commander_helper.cpp.o
+ .debug_macro   0x00000000       0x10 commander_helper.cpp.o
+ .debug_macro   0x00000000       0x88 commander_helper.cpp.o
+ .debug_macro   0x00000000      0x14e commander_helper.cpp.o
+ .debug_macro   0x00000000      0x125 commander_helper.cpp.o
+ .debug_macro   0x00000000       0x5d commander_helper.cpp.o
+ .debug_macro   0x00000000       0x58 commander_helper.cpp.o
+ .debug_macro   0x00000000       0x4c commander_helper.cpp.o
+ .debug_macro   0x00000000       0x49 commander_helper.cpp.o
+ .debug_macro   0x00000000      0x106 commander_helper.cpp.o
+ .debug_macro   0x00000000       0x23 commander_helper.cpp.o
+ .debug_macro   0x00000000       0x28 commander_helper.cpp.o
+ .debug_macro   0x00000000       0xd1 commander_helper.cpp.o
+ .debug_macro   0x00000000       0x98 commander_helper.cpp.o
+ .debug_macro   0x00000000       0x16 commander_helper.cpp.o
+ .debug_macro   0x00000000       0x59 commander_helper.cpp.o
+ .debug_macro   0x00000000      0x11b commander_helper.cpp.o
+ .debug_macro   0x00000000       0x46 commander_helper.cpp.o
+ .debug_macro   0x00000000      0x27f commander_helper.cpp.o
+ .debug_macro   0x00000000       0x10 commander_helper.cpp.o
+ .debug_macro   0x00000000      0x195 commander_helper.cpp.o
+ .debug_macro   0x00000000       0x8a commander_helper.cpp.o
+ .debug_macro   0x00000000       0x10 commander_helper.cpp.o
+ .debug_macro   0x00000000       0x10 commander_helper.cpp.o
+ .debug_macro   0x00000000       0x39 commander_helper.cpp.o
+ .debug_macro   0x00000000       0xb4 commander_helper.cpp.o
+ .debug_macro   0x00000000       0x41 commander_helper.cpp.o
+ .debug_macro   0x00000000       0x4d commander_helper.cpp.o
+ .debug_macro   0x00000000      0x14d commander_helper.cpp.o
+ .debug_macro   0x00000000       0x3a commander_helper.cpp.o
+ .debug_macro   0x00000000       0x10 commander_helper.cpp.o
+ .debug_macro   0x00000000       0x27 commander_helper.cpp.o
+ .debug_macro   0x00000000       0xa3 commander_helper.cpp.o
+ .debug_macro   0x00000000      0x281 commander_helper.cpp.o
+ .debug_macro   0x00000000       0x22 commander_helper.cpp.o
+ .debug_macro   0x00000000       0x29 commander_helper.cpp.o
+ .debug_macro   0x00000000       0x2b commander_helper.cpp.o
+ .debug_macro   0x00000000       0x18 commander_helper.cpp.o
+ .debug_macro   0x00000000       0x9a commander_helper.cpp.o
+ .debug_macro   0x00000000      0x1cf commander_helper.cpp.o
+ .debug_macro   0x00000000      0x16c commander_helper.cpp.o
+ .debug_macro   0x00000000       0x16 commander_helper.cpp.o
+ .debug_macro   0x00000000       0x3a commander_helper.cpp.o
+ .debug_macro   0x00000000       0x46 commander_helper.cpp.o
+ .group         0x00000000        0x8 calibration_routines.cpp.o
+ .group         0x00000000        0x8 calibration_routines.cpp.o
+ .group         0x00000000        0x8 calibration_routines.cpp.o
+ .group         0x00000000        0x8 calibration_routines.cpp.o
+ .group         0x00000000        0x8 calibration_routines.cpp.o
+ .group         0x00000000        0x8 calibration_routines.cpp.o
+ .group         0x00000000        0x8 calibration_routines.cpp.o
+ .group         0x00000000        0x8 calibration_routines.cpp.o
+ .group         0x00000000        0x8 calibration_routines.cpp.o
+ .debug_macro   0x00000000      0x838 calibration_routines.cpp.o
+ .debug_macro   0x00000000       0x22 calibration_routines.cpp.o
+ .debug_macro   0x00000000      0x8a6 calibration_routines.cpp.o
+ .debug_macro   0x00000000       0x3a calibration_routines.cpp.o
+ .debug_macro   0x00000000       0x10 calibration_routines.cpp.o
+ .debug_macro   0x00000000       0x27 calibration_routines.cpp.o
+ .debug_macro   0x00000000       0xa3 calibration_routines.cpp.o
+ .debug_macro   0x00000000      0x281 calibration_routines.cpp.o
+ .debug_macro   0x00000000      0x168 calibration_routines.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000      0x838 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x22 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000      0x8a6 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0xc9 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x10 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x88 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000      0x14e accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000      0x125 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x29 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x9a accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000      0x1cf accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000      0x16c accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x16 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x46 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0xd1 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x58 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x4c accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x49 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000      0x106 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x23 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x28 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x98 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x16 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x59 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000      0x11b accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x46 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000      0x27f accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x10 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000      0x195 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x8a accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x10 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x10 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x39 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0xb4 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x41 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x4d accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x59 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000      0x14d accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x3a accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x10 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x27 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0xa3 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000      0x281 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000      0x168 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x22 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x16 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x2b accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x10 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x30 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x18 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x46 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x22 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x88 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x64 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x22 accelerometer_calibration.cpp.o
+ .debug_macro   0x00000000       0x4d accelerometer_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+ .debug_macro   0x00000000      0x838 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x22 gyro_calibration.cpp.o
+ .debug_macro   0x00000000      0x8a6 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0xc9 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x10 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x88 gyro_calibration.cpp.o
+ .debug_macro   0x00000000      0x14e gyro_calibration.cpp.o
+ .debug_macro   0x00000000      0x125 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x40 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x63 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x29 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x9a gyro_calibration.cpp.o
+ .debug_macro   0x00000000      0x1cf gyro_calibration.cpp.o
+ .debug_macro   0x00000000      0x16c gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x16 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x46 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x58 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x4c gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x49 gyro_calibration.cpp.o
+ .debug_macro   0x00000000      0x106 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x23 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x28 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0xd1 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x98 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x16 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x59 gyro_calibration.cpp.o
+ .debug_macro   0x00000000      0x11b gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x46 gyro_calibration.cpp.o
+ .debug_macro   0x00000000      0x27f gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x10 gyro_calibration.cpp.o
+ .debug_macro   0x00000000      0x195 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x8a gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x10 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x10 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x39 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0xb4 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x41 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x4d gyro_calibration.cpp.o
+ .debug_macro   0x00000000      0x14d gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x59 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x3a gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x10 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x27 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0xa3 gyro_calibration.cpp.o
+ .debug_macro   0x00000000      0x281 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x22 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x18 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x46 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x22 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x88 gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x4d gyro_calibration.cpp.o
+ .debug_macro   0x00000000       0x2b gyro_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+ .debug_macro   0x00000000      0x838 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x22 mag_calibration.cpp.o
+ .debug_macro   0x00000000      0x8a6 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0xc9 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x10 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x88 mag_calibration.cpp.o
+ .debug_macro   0x00000000      0x14e mag_calibration.cpp.o
+ .debug_macro   0x00000000      0x125 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x63 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x29 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x9a mag_calibration.cpp.o
+ .debug_macro   0x00000000      0x1cf mag_calibration.cpp.o
+ .debug_macro   0x00000000      0x16c mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x16 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x46 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x40 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x58 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x4c mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x49 mag_calibration.cpp.o
+ .debug_macro   0x00000000      0x106 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x23 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x28 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0xd1 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x98 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x16 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x59 mag_calibration.cpp.o
+ .debug_macro   0x00000000      0x11b mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x46 mag_calibration.cpp.o
+ .debug_macro   0x00000000      0x27f mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x10 mag_calibration.cpp.o
+ .debug_macro   0x00000000      0x195 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x8a mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x10 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x10 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x39 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0xb4 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x41 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x4d mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x5e mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x22 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x59 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x3a mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x10 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x27 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0xa3 mag_calibration.cpp.o
+ .debug_macro   0x00000000      0x281 mag_calibration.cpp.o
+ .debug_macro   0x00000000      0x14d mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x18 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x46 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x22 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x88 mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x4d mag_calibration.cpp.o
+ .debug_macro   0x00000000       0x2b mag_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+ .debug_macro   0x00000000      0x838 baro_calibration.cpp.o
+ .debug_macro   0x00000000       0x22 baro_calibration.cpp.o
+ .debug_macro   0x00000000      0x8a6 baro_calibration.cpp.o
+ .debug_macro   0x00000000       0xc9 baro_calibration.cpp.o
+ .debug_macro   0x00000000       0x10 baro_calibration.cpp.o
+ .debug_macro   0x00000000       0x88 baro_calibration.cpp.o
+ .debug_macro   0x00000000      0x14e baro_calibration.cpp.o
+ .debug_macro   0x00000000      0x125 baro_calibration.cpp.o
+ .debug_macro   0x00000000       0x23 baro_calibration.cpp.o
+ .debug_macro   0x00000000       0x3a baro_calibration.cpp.o
+ .debug_macro   0x00000000       0x10 baro_calibration.cpp.o
+ .debug_macro   0x00000000       0x27 baro_calibration.cpp.o
+ .debug_macro   0x00000000       0xa3 baro_calibration.cpp.o
+ .debug_macro   0x00000000      0x281 baro_calibration.cpp.o
+ .debug_macro   0x00000000       0x63 baro_calibration.cpp.o
+ .debug_macro   0x00000000       0x49 baro_calibration.cpp.o
+ .debug_macro   0x00000000       0x4c baro_calibration.cpp.o
+ .debug_macro   0x00000000       0x29 baro_calibration.cpp.o
+ .debug_macro   0x00000000       0x9a baro_calibration.cpp.o
+ .debug_macro   0x00000000      0x1cf baro_calibration.cpp.o
+ .debug_macro   0x00000000      0x16c baro_calibration.cpp.o
+ .debug_macro   0x00000000       0x16 baro_calibration.cpp.o
+ .debug_macro   0x00000000       0x46 baro_calibration.cpp.o
+ .debug_macro   0x00000000       0x22 baro_calibration.cpp.o
+ .debug_macro   0x00000000       0x88 baro_calibration.cpp.o
+ .debug_macro   0x00000000       0x4d baro_calibration.cpp.o
+ .debug_macro   0x00000000       0x2b baro_calibration.cpp.o
+ .group         0x00000000        0x8 rc_calibration.cpp.o
+ .group         0x00000000        0x8 rc_calibration.cpp.o
+ .group         0x00000000        0x8 rc_calibration.cpp.o
+ .group         0x00000000        0x8 rc_calibration.cpp.o
+ .group         0x00000000        0x8 rc_calibration.cpp.o
+ .group         0x00000000        0x8 rc_calibration.cpp.o
+ .group         0x00000000        0x8 rc_calibration.cpp.o
+ .group         0x00000000        0x8 rc_calibration.cpp.o
+ .group         0x00000000        0x8 rc_calibration.cpp.o
+ .group         0x00000000        0x8 rc_calibration.cpp.o
+ .group         0x00000000        0x8 rc_calibration.cpp.o
+ .group         0x00000000        0x8 rc_calibration.cpp.o
+ .group         0x00000000        0x8 rc_calibration.cpp.o
+ .group         0x00000000        0x8 rc_calibration.cpp.o
+ .group         0x00000000        0x8 rc_calibration.cpp.o
+ .group         0x00000000        0x8 rc_calibration.cpp.o
+ .group         0x00000000        0x8 rc_calibration.cpp.o
+ .group         0x00000000        0x8 rc_calibration.cpp.o
+ .group         0x00000000        0x8 rc_calibration.cpp.o
+ .group         0x00000000        0x8 rc_calibration.cpp.o
+ .group         0x00000000        0x8 rc_calibration.cpp.o
+ .debug_macro   0x00000000      0x838 rc_calibration.cpp.o
+ .debug_macro   0x00000000       0x22 rc_calibration.cpp.o
+ .debug_macro   0x00000000      0x8a6 rc_calibration.cpp.o
+ .debug_macro   0x00000000       0xc9 rc_calibration.cpp.o
+ .debug_macro   0x00000000       0x10 rc_calibration.cpp.o
+ .debug_macro   0x00000000       0x88 rc_calibration.cpp.o
+ .debug_macro   0x00000000      0x14e rc_calibration.cpp.o
+ .debug_macro   0x00000000      0x125 rc_calibration.cpp.o
+ .debug_macro   0x00000000       0x63 rc_calibration.cpp.o
+ .debug_macro   0x00000000       0x29 rc_calibration.cpp.o
+ .debug_macro   0x00000000       0x9a rc_calibration.cpp.o
+ .debug_macro   0x00000000      0x1cf rc_calibration.cpp.o
+ .debug_macro   0x00000000      0x16c rc_calibration.cpp.o
+ .debug_macro   0x00000000       0x16 rc_calibration.cpp.o
+ .debug_macro   0x00000000       0x46 rc_calibration.cpp.o
+ .debug_macro   0x00000000       0x23 rc_calibration.cpp.o
+ .debug_macro   0x00000000       0x53 rc_calibration.cpp.o
+ .debug_macro   0x00000000       0xd1 rc_calibration.cpp.o
+ .debug_macro   0x00000000       0x4d rc_calibration.cpp.o
+ .debug_macro   0x00000000       0x2b rc_calibration.cpp.o
+ .debug_macro   0x00000000       0x58 rc_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000      0x838 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x22 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000      0x8a6 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0xc9 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x10 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x88 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000      0x14e airspeed_calibration.cpp.o
+ .debug_macro   0x00000000      0x125 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x40 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x63 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x29 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x9a airspeed_calibration.cpp.o
+ .debug_macro   0x00000000      0x1cf airspeed_calibration.cpp.o
+ .debug_macro   0x00000000      0x16c airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x16 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x46 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x58 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x4c airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x49 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000      0x106 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x23 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x28 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0xd1 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x98 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x16 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x59 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000      0x11b airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x46 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000      0x27f airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x10 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000      0x195 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x8a airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x10 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x10 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x39 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0xb4 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x41 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x4d airspeed_calibration.cpp.o
+ .debug_macro   0x00000000      0x14d airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x59 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x3a airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x10 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x27 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0xa3 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000      0x281 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x12 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x46 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x22 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x88 airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x4d airspeed_calibration.cpp.o
+ .debug_macro   0x00000000       0x2b airspeed_calibration.cpp.o
+ .debug_macro   0x00000000      0x168 airspeed_calibration.cpp.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD commander.cpp.o
+LOAD commander_params.c.o
+LOAD state_machine_helper.cpp.o
+LOAD commander_helper.cpp.o
+LOAD calibration_routines.cpp.o
+LOAD accelerometer_calibration.cpp.o
+LOAD gyro_calibration.cpp.o
+LOAD mag_calibration.cpp.o
+LOAD baro_calibration.cpp.o
+LOAD rc_calibration.cpp.o
+LOAD airspeed_calibration.cpp.o
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+
+.rela.text
+ *(.rela.text)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rel.data.rel.ro
+ *(.rel.data.rel.ro)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rel.data
+ *(.rel.data)
+
+.rela.data
+ *(.rela.data)
+
+.rel.tdata
+ *(.rel.tdata)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rel.tbss
+ *(.rel.tbss)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.iplt
+ *(.rel.iplt)
+
+.rela.iplt
+ *(.rela.iplt)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(.init)
+
+.plt
+ *(.plt)
+
+.iplt
+ *(.iplt)
+
+.text           0x00000000        0x0
+ *(.text .stub)
+ .text          0x00000000        0x0 commander.cpp.o
+ .text          0x00000000        0x0 commander_params.c.o
+ .text          0x00000000        0x0 state_machine_helper.cpp.o
+ .text          0x00000000        0x0 commander_helper.cpp.o
+ .text          0x00000000        0x0 calibration_routines.cpp.o
+ .text          0x00000000        0x0 accelerometer_calibration.cpp.o
+ .text          0x00000000        0x0 gyro_calibration.cpp.o
+ .text          0x00000000        0x0 mag_calibration.cpp.o
+ .text          0x00000000        0x0 baro_calibration.cpp.o
+ .text          0x00000000        0x0 rc_calibration.cpp.o
+ .text          0x00000000        0x0 airspeed_calibration.cpp.o
+ *(.gnu.warning)
+
+.text._ZL27commander_set_home_positionRiR15home_position_sRK24vehicle_local_position_sRK25vehicle_global_position_s
+                0x00000000       0xf0
+ .text._ZL27commander_set_home_positionRiR15home_position_sRK24vehicle_local_position_sRK25vehicle_global_position_s
+                0x00000000       0xf0 commander.cpp.o
+
+.text._Z5usagePKc
+                0x00000000       0x30
+ .text._Z5usagePKc
+                0x00000000       0x30 commander.cpp.o
+                0x00000000                usage(char const*)
+
+.text._Z12print_statusv
+                0x00000000       0xac
+ .text._Z12print_statusv
+                0x00000000       0xac commander.cpp.o
+                0x00000000                print_status()
+
+.text._Z10arm_disarmbiPKc
+                0x00000000       0x78
+ .text._Z10arm_disarmbiPKc
+                0x00000000       0x78 commander.cpp.o
+                0x00000000                arm_disarm(bool, int, char const*)
+
+.text.commander_main
+                0x00000000      0x234
+ .text.commander_main
+                0x00000000      0x234 commander.cpp.o
+                0x00000000                commander_main
+
+.text._Z11check_validyybPbS_
+                0x00000000       0x4a
+ .text._Z11check_validyybPbS_
+                0x00000000       0x4a commander.cpp.o
+                0x00000000                check_valid(unsigned long long, unsigned long long, bool, bool*, bool*)
+
+.text._Z19control_status_ledsP16vehicle_status_sPK16actuator_armed_sb
+                0x00000000       0x88
+ .text._Z19control_status_ledsP16vehicle_status_sPK16actuator_armed_sb
+                0x00000000       0x88 commander.cpp.o
+                0x00000000                control_status_leds(vehicle_status_s*, actuator_armed_s const*, bool)
+
+.text._Z16set_control_modev
+                0x00000000      0x184
+ .text._Z16set_control_modev
+                0x00000000      0x184 commander.cpp.o
+                0x00000000                set_control_mode()
+
+.text._Z17print_reject_modeP16vehicle_status_sPKc
+                0x00000000       0x58
+ .text._Z17print_reject_modeP16vehicle_status_sPKc
+                0x00000000       0x58 commander.cpp.o
+                0x00000000                print_reject_mode(vehicle_status_s*, char const*)
+
+.text._Z17set_main_state_rcP16vehicle_status_sP25manual_control_setpoint_s
+                0x00000000      0x124
+ .text._Z17set_main_state_rcP16vehicle_status_sP25manual_control_setpoint_s
+                0x00000000      0x124 commander.cpp.o
+                0x00000000                set_main_state_rc(vehicle_status_s*, manual_control_setpoint_s*)
+
+.text._Z16print_reject_armPKc
+                0x00000000       0x50
+ .text._Z16print_reject_armPKc
+                0x00000000       0x50 commander.cpp.o
+                0x00000000                print_reject_arm(char const*)
+
+.text._Z14answer_commandR17vehicle_command_s18VEHICLE_CMD_RESULT
+                0x00000000       0x70
+ .text._Z14answer_commandR17vehicle_command_s18VEHICLE_CMD_RESULT
+                0x00000000       0x70 commander.cpp.o
+                0x00000000                answer_command(vehicle_command_s&, VEHICLE_CMD_RESULT)
+
+.text._Z23commander_low_prio_loopPv
+                0x00000000      0x2e8
+ .text._Z23commander_low_prio_loopPv
+                0x00000000      0x2e8 commander.cpp.o
+                0x00000000                commander_low_prio_loop(void*)
+
+.text._Z14handle_commandP16vehicle_status_sPK8safety_sP17vehicle_command_sP16actuator_armed_sP15home_position_sP25vehicle_global_position_sPi
+                0x00000000      0x440
+ .text._Z14handle_commandP16vehicle_status_sPK8safety_sP17vehicle_command_sP16actuator_armed_sP15home_position_sP25vehicle_global_position_sPi
+                0x00000000      0x440 commander.cpp.o
+                0x00000000                handle_command(vehicle_status_s*, safety_s const*, vehicle_command_s*, actuator_armed_s*, home_position_s*, vehicle_global_position_s*, int*)
+
+.text._Z21commander_thread_mainiPPc
+                0x00000000     0x18e8
+ .text._Z21commander_thread_mainiPPc
+                0x00000000     0x18e8 commander.cpp.o
+                0x00000000                commander_thread_main(int, char**)
+
+.text._Z7is_safePK16vehicle_status_sPK8safety_sPK16actuator_armed_s
+                0x00000000       0x1a
+ .text._Z7is_safePK16vehicle_status_sPK8safety_sPK16actuator_armed_s
+                0x00000000       0x1a state_machine_helper.cpp.o
+                0x00000000                is_safe(vehicle_status_s const*, safety_s const*, actuator_armed_s const*)
+
+.text._Z21main_state_transitionP16vehicle_status_sh
+                0x00000000       0x54
+ .text._Z21main_state_transitionP16vehicle_status_sh
+                0x00000000       0x54 state_machine_helper.cpp.o
+                0x00000000                main_state_transition(vehicle_status_s*, unsigned char)
+
+.text._Z20hil_state_transitionhiP16vehicle_status_si
+                0x00000000      0x194
+ .text._Z20hil_state_transitionhiP16vehicle_status_si
+                0x00000000      0x194 state_machine_helper.cpp.o
+                0x00000000                hil_state_transition(unsigned char, int, vehicle_status_s*, int)
+
+.text._Z13set_nav_stateP16vehicle_status_sbbb
+                0x00000000      0x132
+ .text._Z13set_nav_stateP16vehicle_status_sbbb
+                0x00000000      0x132 state_machine_helper.cpp.o
+                0x00000000                set_nav_state(vehicle_status_s*, bool, bool, bool)
+
+.text._Z12prearm_checkPK16vehicle_status_si
+                0x00000000      0x128
+ .text._Z12prearm_checkPK16vehicle_status_si
+                0x00000000      0x128 state_machine_helper.cpp.o
+                0x00000000                prearm_check(vehicle_status_s const*, int)
+
+.text._Z23arming_state_transitionP16vehicle_status_sPK8safety_shP16actuator_armed_sbi
+                0x00000000      0x218
+ .text._Z23arming_state_transitionP16vehicle_status_sPK8safety_shP16actuator_armed_sbi
+                0x00000000      0x218 state_machine_helper.cpp.o
+                0x00000000                arming_state_transition(vehicle_status_s*, safety_s const*, unsigned char, actuator_armed_s*, bool, int)
+
+.text._Z13is_multirotorPK16vehicle_status_s
+                0x00000000       0x1e
+ .text._Z13is_multirotorPK16vehicle_status_s
+                0x00000000       0x1e commander_helper.cpp.o
+                0x00000000                is_multirotor(vehicle_status_s const*)
+
+.text._Z14is_rotary_wingPK16vehicle_status_s
+                0x00000000       0x1e
+ .text._Z14is_rotary_wingPK16vehicle_status_s
+                0x00000000       0x1e commander_helper.cpp.o
+                0x00000000                is_rotary_wing(vehicle_status_s const*)
+
+.text._Z11buzzer_initv
+                0x00000000       0x78
+ .text._Z11buzzer_initv
+                0x00000000       0x78 commander_helper.cpp.o
+                0x00000000                buzzer_init()
+
+.text._Z13buzzer_deinitv
+                0x00000000        0xc
+ .text._Z13buzzer_deinitv
+                0x00000000        0xc commander_helper.cpp.o
+                0x00000000                buzzer_deinit()
+
+.text._Z17set_tune_overridei
+                0x00000000       0x14
+ .text._Z17set_tune_overridei
+                0x00000000       0x14 commander_helper.cpp.o
+                0x00000000                set_tune_override(int)
+
+.text._Z8set_tunei
+                0x00000000       0x74
+ .text._Z8set_tunei
+                0x00000000       0x74 commander_helper.cpp.o
+                0x00000000                set_tune(int)
+
+.text._Z15blink_msg_statev
+                0x00000000       0x38
+ .text._Z15blink_msg_statev
+                0x00000000       0x38 commander_helper.cpp.o
+                0x00000000                blink_msg_state()
+
+.text._Z10led_deinitv
+                0x00000000       0x24
+ .text._Z10led_deinitv
+                0x00000000       0x24 commander_helper.cpp.o
+                0x00000000                led_deinit()
+
+.text._Z10led_togglei
+                0x00000000       0x14
+ .text._Z10led_togglei
+                0x00000000       0x14 commander_helper.cpp.o
+                0x00000000                led_toggle(int)
+
+.text._Z6led_oni
+                0x00000000       0x14
+ .text._Z6led_oni
+                0x00000000       0x14 commander_helper.cpp.o
+                0x00000000                led_on(int)
+
+.text._Z7led_offi
+                0x00000000       0x14
+ .text._Z7led_offi
+                0x00000000       0x14 commander_helper.cpp.o
+                0x00000000                led_off(int)
+
+.text._Z8led_initv
+                0x00000000       0x8c
+ .text._Z8led_initv
+                0x00000000       0x8c commander_helper.cpp.o
+                0x00000000                led_init()
+
+.text._Z16rgbled_set_color14rgbled_color_t
+                0x00000000       0x18
+ .text._Z16rgbled_set_color14rgbled_color_t
+                0x00000000       0x18 commander_helper.cpp.o
+                0x00000000                rgbled_set_color(rgbled_color_t)
+
+.text._Z15rgbled_set_mode13rgbled_mode_t
+                0x00000000       0x18
+ .text._Z15rgbled_set_mode13rgbled_mode_t
+                0x00000000       0x18 commander_helper.cpp.o
+                0x00000000                rgbled_set_mode(rgbled_mode_t)
+
+.text._Z13tune_negativeb
+                0x00000000       0x3c
+ .text._Z13tune_negativeb
+                0x00000000       0x3c commander_helper.cpp.o
+                0x00000000                tune_negative(bool)
+
+.text._Z12tune_neutralb
+                0x00000000       0x3c
+ .text._Z12tune_neutralb
+                0x00000000       0x3c commander_helper.cpp.o
+                0x00000000                tune_neutral(bool)
+
+.text._Z13tune_positiveb
+                0x00000000       0x3c
+ .text._Z13tune_positiveb
+                0x00000000       0x3c commander_helper.cpp.o
+                0x00000000                tune_positive(bool)
+
+.text._Z18rgbled_set_patternP16rgbled_pattern_t
+                0x00000000       0x18
+ .text._Z18rgbled_set_patternP16rgbled_pattern_t
+                0x00000000       0x18 commander_helper.cpp.o
+                0x00000000                rgbled_set_pattern(rgbled_pattern_t*)
+
+.text._Z34battery_remaining_estimate_voltagefff
+                0x00000000      0x158
+ .text._Z34battery_remaining_estimate_voltagefff
+                0x00000000      0x158 commander_helper.cpp.o
+                0x00000000                battery_remaining_estimate_voltage(float, float, float)
+
+.text._Z24sphere_fit_least_squaresPKfS0_S0_jjfPfS1_S1_S1_
+                0x00000000      0x364
+ .text._Z24sphere_fit_least_squaresPKfS0_S0_jjfPfS1_S1_S1_
+                0x00000000      0x364 calibration_routines.cpp.o
+                0x00000000                sphere_fit_least_squares(float const*, float const*, float const*, unsigned int, unsigned int, float, float*, float*, float*, float*)
+
+.text._ZN4math10VectorBaseILj3EED2Ev
+                0x00000000        0xc
+ .text._ZN4math10VectorBaseILj3EED2Ev
+                0x00000000        0xc accelerometer_calibration.cpp.o
+                0x00000000                math::VectorBase<3u>::~VectorBase()
+                0x00000000                math::VectorBase<3u>::~VectorBase()
+
+.text._ZN4math10MatrixBaseILj3ELj3EED2Ev
+                0x00000000        0xc
+ .text._ZN4math10MatrixBaseILj3ELj3EED2Ev
+                0x00000000        0xc accelerometer_calibration.cpp.o
+                0x00000000                math::MatrixBase<3u, 3u>::~MatrixBase()
+                0x00000000                math::MatrixBase<3u, 3u>::~MatrixBase()
+
+.text._ZN4math6MatrixILj3ELj3EED2Ev
+                0x00000000        0xc
+ .text._ZN4math6MatrixILj3ELj3EED2Ev
+                0x00000000        0xc accelerometer_calibration.cpp.o
+                0x00000000                math::Matrix<3u, 3u>::~Matrix()
+                0x00000000                math::Matrix<3u, 3u>::~Matrix()
+
+.text._ZN4math6VectorILj3EED2Ev
+                0x00000000        0xc
+ .text._ZN4math6VectorILj3EED2Ev
+                0x00000000        0xc accelerometer_calibration.cpp.o
+                0x00000000                math::Vector<3u>::~Vector()
+                0x00000000                math::Vector<3u>::~Vector()
+
+.text._ZN4math6VectorILj3EED0Ev
+                0x00000000       0x14
+ .text._ZN4math6VectorILj3EED0Ev
+                0x00000000       0x14 accelerometer_calibration.cpp.o
+                0x00000000                math::Vector<3u>::~Vector()
+
+.text._ZN4math6MatrixILj3ELj3EED0Ev
+                0x00000000       0x14
+ .text._ZN4math6MatrixILj3ELj3EED0Ev
+                0x00000000       0x14 accelerometer_calibration.cpp.o
+                0x00000000                math::Matrix<3u, 3u>::~Matrix()
+
+.text._ZN4math10MatrixBaseILj3ELj3EED0Ev
+                0x00000000       0x14
+ .text._ZN4math10MatrixBaseILj3ELj3EED0Ev
+                0x00000000       0x14 accelerometer_calibration.cpp.o
+                0x00000000                math::MatrixBase<3u, 3u>::~MatrixBase()
+
+.text._ZN4math10VectorBaseILj3EED0Ev
+                0x00000000       0x14
+ .text._ZN4math10VectorBaseILj3EED0Ev
+                0x00000000       0x14 accelerometer_calibration.cpp.o
+                0x00000000                math::VectorBase<3u>::~VectorBase()
+
+.text._ZN4math6MatrixILj3ELj3EEC2Ev
+                0x00000000       0x30
+ .text._ZN4math6MatrixILj3ELj3EEC2Ev
+                0x00000000       0x30 accelerometer_calibration.cpp.o
+                0x00000000                math::Matrix<3u, 3u>::Matrix()
+                0x00000000                math::Matrix<3u, 3u>::Matrix()
+
+.text._Z18detect_orientationiRA3_i
+                0x00000000      0x418
+ .text._Z18detect_orientationiRA3_i
+                0x00000000      0x418 accelerometer_calibration.cpp.o
+                0x00000000                detect_orientation(int, int (&) [3])
+
+.text._Z22read_accelerometer_avgRA3_iRA3_A6_A3_fjj
+                0x00000000      0x144
+ .text._Z22read_accelerometer_avgRA3_iRA3_A6_A3_fjj
+                0x00000000      0x144 accelerometer_calibration.cpp.o
+                0x00000000                read_accelerometer_avg(int (&) [3], float (&) [3][6][3], unsigned int, unsigned int)
+
+.text._Z11mat_invert3PA3_fS0_
+                0x00000000      0x174
+ .text._Z11mat_invert3PA3_fS0_
+                0x00000000      0x174 accelerometer_calibration.cpp.o
+                0x00000000                mat_invert3(float (*) [3], float (*) [3])
+
+.text._Z28calculate_calibration_valuesjRA3_A6_A3_fRA3_A3_S_RS3_f
+                0x00000000      0x10e
+ .text._Z28calculate_calibration_valuesjRA3_A6_A3_fRA3_A3_S_RS3_f
+                0x00000000      0x10e accelerometer_calibration.cpp.o
+                0x00000000                calculate_calibration_values(unsigned int, float (&) [3][6][3], float (&) [3][3][3], float (&) [3][3], float)
+
+.text._Z33do_accel_calibration_measurementsiRA3_A3_fRA3_S0_Pj
+                0x00000000      0x4c0
+ .text._Z33do_accel_calibration_measurementsiRA3_A3_fRA3_S0_Pj
+                0x00000000      0x4c0 accelerometer_calibration.cpp.o
+                0x00000000                do_accel_calibration_measurements(int, float (&) [3][3], float (&) [3][3][3], unsigned int*)
+
+.text._ZN4math10VectorBaseILj3EEC2Ev
+                0x00000000       0x28
+ .text._ZN4math10VectorBaseILj3EEC2Ev
+                0x00000000       0x28 accelerometer_calibration.cpp.o
+                0x00000000                math::VectorBase<3u>::VectorBase()
+                0x00000000                math::VectorBase<3u>::VectorBase()
+
+.text._Z20do_accel_calibrationi
+                0x00000000      0x58c
+ .text._Z20do_accel_calibrationi
+                0x00000000      0x58c accelerometer_calibration.cpp.o
+                0x00000000                do_accel_calibration(int)
+
+.text._Z19do_gyro_calibrationi
+                0x00000000      0x3e4
+ .text._Z19do_gyro_calibrationi
+                0x00000000      0x3e4 gyro_calibration.cpp.o
+                0x00000000                do_gyro_calibration(int)
+
+.text._Z18calibrate_instanceijj
+                0x00000000      0x6f8
+ .text._Z18calibrate_instanceijj
+                0x00000000      0x6f8 mag_calibration.cpp.o
+                0x00000000                calibrate_instance(int, unsigned int, unsigned int)
+
+.text._Z18do_mag_calibrationi
+                0x00000000      0x2a8
+ .text._Z18do_mag_calibrationi
+                0x00000000      0x2a8 mag_calibration.cpp.o
+                0x00000000                do_mag_calibration(int)
+
+.text._Z19do_baro_calibrationi
+                0x00000000        0x6
+ .text._Z19do_baro_calibrationi
+                0x00000000        0x6 baro_calibration.cpp.o
+                0x00000000                do_baro_calibration(int)
+
+.text._Z19do_trim_calibrationi
+                0x00000000       0xc8
+ .text._Z19do_trim_calibrationi
+                0x00000000       0xc8 rc_calibration.cpp.o
+                0x00000000                do_trim_calibration(int)
+
+.text._ZL27feedback_calibration_failedi
+                0x00000000       0x34
+ .text._ZL27feedback_calibration_failedi
+                0x00000000       0x34 airspeed_calibration.cpp.o
+
+.text._Z23do_airspeed_calibrationi
+                0x00000000      0x350
+ .text._Z23do_airspeed_calibrationi
+                0x00000000      0x350 airspeed_calibration.cpp.o
+                0x00000000                do_airspeed_calibration(int)
+
+.fini
+ *(.fini)
+
+.rodata         0x00000000       0x30
+ *(.rodata)
+ .rodata        0x00000000       0x30 accelerometer_calibration.cpp.o
+
+.rodata.str1.1  0x00000000     0x1b5c
+ .rodata.str1.1
+                0x00000000      0xb85 commander.cpp.o
+ .rodata.str1.1
+                0x00000b85       0xbd commander_params.c.o
+ .rodata.str1.1
+                0x00000c42      0x360 state_machine_helper.cpp.o
+ .rodata.str1.1
+                0x00000fa2       0xc6 commander_helper.cpp.o
+ .rodata.str1.1
+                0x00001068      0x3ed accelerometer_calibration.cpp.o
+ .rodata.str1.1
+                0x00001455      0x188 gyro_calibration.cpp.o
+ .rodata.str1.1
+                0x000015dd      0x2a3 mag_calibration.cpp.o
+ .rodata.str1.1
+                0x00001880       0x50 rc_calibration.cpp.o
+ .rodata.str1.1
+                0x000018d0      0x28c airspeed_calibration.cpp.o
+
+.rodata.CSWTCH.231
+                0x00000000       0x1c
+ .rodata.CSWTCH.231
+                0x00000000       0x1c commander.cpp.o
+
+.rodata._ZL23telemetry_status_orb_id
+                0x00000000       0x10
+ .rodata._ZL23telemetry_status_orb_id
+                0x00000000       0x10 commander.cpp.o
+
+__param         0x00000000       0xb4
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                PROVIDE (__start___param, ABSOLUTE (.))
+ __param        0x00000000       0xb4 commander_params.c.o
+                0x000000b4                PROVIDE (__stop___param, .)
+
+.rodata._ZL11state_names
+                0x00000000       0x1c
+ .rodata._ZL11state_names
+                0x00000000       0x1c state_machine_helper.cpp.o
+
+.rodata._ZL18arming_transitions
+                0x00000000       0x31
+ .rodata._ZL18arming_transitions
+                0x00000000       0x31 state_machine_helper.cpp.o
+
+.rodata._ZTVN4math6MatrixILj3ELj3EEE
+                0x00000000       0x10
+ .rodata._ZTVN4math6MatrixILj3ELj3EEE
+                0x00000000       0x10 accelerometer_calibration.cpp.o
+                0x00000000                vtable for math::Matrix<3u, 3u>
+
+.rodata._ZTVN4math10MatrixBaseILj3ELj3EEE
+                0x00000000       0x10
+ .rodata._ZTVN4math10MatrixBaseILj3ELj3EEE
+                0x00000000       0x10 accelerometer_calibration.cpp.o
+                0x00000000                vtable for math::MatrixBase<3u, 3u>
+
+.rodata._ZTVN4math6VectorILj3EEE
+                0x00000000       0x10
+ .rodata._ZTVN4math6VectorILj3EEE
+                0x00000000       0x10 accelerometer_calibration.cpp.o
+                0x00000000                vtable for math::Vector<3u>
+
+.rodata._ZTVN4math10VectorBaseILj3EEE
+                0x00000000       0x10
+ .rodata._ZTVN4math10VectorBaseILj3EEE
+                0x00000000       0x10 accelerometer_calibration.cpp.o
+                0x00000000                vtable for math::VectorBase<3u>
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab
+ *(.ARM.extab)
+
+.ARM.exidx
+ *(.ARM.exidx)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got.plt)
+ *(.igot.plt)
+ *(.got)
+ *(.igot)
+
+.data           0x00000000        0x0
+ *(.data)
+ .data          0x00000000        0x0 commander.cpp.o
+ .data          0x00000000        0x0 commander_params.c.o
+ .data          0x00000000        0x0 state_machine_helper.cpp.o
+ .data          0x00000000        0x0 commander_helper.cpp.o
+ .data          0x00000000        0x0 calibration_routines.cpp.o
+ .data          0x00000000        0x0 accelerometer_calibration.cpp.o
+ .data          0x00000000        0x0 gyro_calibration.cpp.o
+ .data          0x00000000        0x0 mag_calibration.cpp.o
+ .data          0x00000000        0x0 baro_calibration.cpp.o
+ .data          0x00000000        0x0 rc_calibration.cpp.o
+ .data          0x00000000        0x0 airspeed_calibration.cpp.o
+
+.data._ZL11takeoff_alt
+                0x00000000        0x4
+ .data._ZL11takeoff_alt
+                0x00000000        0x4 commander.cpp.o
+
+.data._ZL7rgbleds
+                0x00000000        0x4
+ .data._ZL7rgbleds
+                0x00000000        0x4 commander_helper.cpp.o
+
+.data._ZZ34battery_remaining_estimate_voltagefffE11bat_n_cells
+                0x00000000        0x4
+ .data._ZZ34battery_remaining_estimate_voltagefffE11bat_n_cells
+                0x00000000        0x4 commander_helper.cpp.o
+
+.data._ZZ34battery_remaining_estimate_voltagefffE11bat_v_empty
+                0x00000000        0x4
+ .data._ZZ34battery_remaining_estimate_voltagefffE11bat_v_empty
+                0x00000000        0x4 commander_helper.cpp.o
+
+.data._ZL6buzzer
+                0x00000000        0x4
+ .data._ZL6buzzer
+                0x00000000        0x4 commander_helper.cpp.o
+
+.data._ZZ34battery_remaining_estimate_voltagefffE10bat_v_full
+                0x00000000        0x4
+ .data._ZZ34battery_remaining_estimate_voltagefffE10bat_v_full
+                0x00000000        0x4 commander_helper.cpp.o
+
+.data._ZZ34battery_remaining_estimate_voltagefffE12bat_capacity
+                0x00000000        0x4
+ .data._ZZ34battery_remaining_estimate_voltagefffE12bat_capacity
+                0x00000000        0x4 commander_helper.cpp.o
+
+.data._ZL4leds  0x00000000        0x4
+ .data._ZL4leds
+                0x00000000        0x4 commander_helper.cpp.o
+
+.data._ZZ34battery_remaining_estimate_voltagefffE15bat_v_load_drop
+                0x00000000        0x4
+ .data._ZZ34battery_remaining_estimate_voltagefffE15bat_v_load_drop
+                0x00000000        0x4 commander_helper.cpp.o
+
+.data1
+ *(.data1)
+
+.bss            0x00000000        0x0
+ *(.dynbss)
+ *(.bss)
+ .bss           0x00000000        0x0 commander.cpp.o
+ .bss           0x00000000        0x0 commander_params.c.o
+ .bss           0x00000000        0x0 state_machine_helper.cpp.o
+ .bss           0x00000000        0x0 commander_helper.cpp.o
+ .bss           0x00000000        0x0 calibration_routines.cpp.o
+ .bss           0x00000000        0x0 accelerometer_calibration.cpp.o
+ .bss           0x00000000        0x0 gyro_calibration.cpp.o
+ .bss           0x00000000        0x0 mag_calibration.cpp.o
+ .bss           0x00000000        0x0 baro_calibration.cpp.o
+ .bss           0x00000000        0x0 rc_calibration.cpp.o
+ .bss           0x00000000        0x0 airspeed_calibration.cpp.o
+ *(COMMON)
+
+.bss._ZL17parachute_enabled
+                0x00000000        0x4
+ .bss._ZL17parachute_enabled
+                0x00000000        0x4 commander.cpp.o
+
+.bss._ZZ14handle_commandP16vehicle_status_sPK8safety_sP17vehicle_command_sP16actuator_armed_sP15home_position_sP25vehicle_global_position_sPiE23main_state_pre_offboard
+                0x00000000        0x1
+ .bss._ZZ14handle_commandP16vehicle_status_sPK8safety_sP17vehicle_command_sP16actuator_armed_sP15home_position_sP25vehicle_global_position_sPiE23main_state_pre_offboard
+                0x00000000        0x1 commander.cpp.o
+
+.bss._ZL21offboard_control_mode
+                0x00000000       0x10
+ .bss._ZL21offboard_control_mode
+                0x00000000       0x10 commander.cpp.o
+
+.bss._ZL12on_usb_power
+                0x00000000        0x1
+ .bss._ZL12on_usb_power
+                0x00000000        0x1 commander.cpp.o
+
+.bss._ZZ21commander_thread_mainiPPcE26flight_termination_printed_1
+                0x00000000        0x1
+ .bss._ZZ21commander_thread_mainiPPcE26flight_termination_printed_1
+                0x00000000        0x1 commander.cpp.o
+
+.bss._ZL6status
+                0x00000000       0x98
+ .bss._ZL6status
+                0x00000000       0x98 commander.cpp.o
+
+.bss._ZL14thread_running
+                0x00000000        0x1
+ .bss._ZL14thread_running
+                0x00000000        0x1 commander.cpp.o
+
+.bss._ZL12leds_counter
+                0x00000000        0x4
+ .bss._ZL12leds_counter
+                0x00000000        0x4 commander.cpp.o
+
+.bss._ZL5armed  0x00000000       0x10
+ .bss._ZL5armed
+                0x00000000       0x10 commander.cpp.o
+
+.bss._ZL12autostart_id
+                0x00000000        0x4
+ .bss._ZL12autostart_id
+                0x00000000        0x4 commander.cpp.o
+
+.bss._ZZ21commander_thread_mainiPPcE26flight_termination_printed
+                0x00000000        0x1
+ .bss._ZZ21commander_thread_mainiPPcE26flight_termination_printed
+                0x00000000        0x1 commander.cpp.o
+
+.bss._ZL11daemon_task
+                0x00000000        0x4
+ .bss._ZL11daemon_task
+                0x00000000        0x4 commander.cpp.o
+
+.bss._ZL12control_mode
+                0x00000000       0x18
+ .bss._ZL12control_mode
+                0x00000000       0x18 commander.cpp.o
+
+.bss._ZL10mavlink_fd
+                0x00000000        0x4
+ .bss._ZL10mavlink_fd
+                0x00000000        0x4 commander.cpp.o
+
+.bss._ZL21commander_initialized
+                0x00000000        0x1
+ .bss._ZL21commander_initialized
+                0x00000000        0x1 commander.cpp.o
+
+.bss._ZL6safety
+                0x00000000       0x10
+ .bss._ZL6safety
+                0x00000000       0x10 commander.cpp.o
+
+.bss._ZL18thread_should_exit
+                0x00000000        0x1
+ .bss._ZL18thread_should_exit
+                0x00000000        0x1 commander.cpp.o
+
+.bss._ZZ21commander_thread_mainiPPcE26flight_termination_printed_0
+                0x00000000        0x1
+ .bss._ZZ21commander_thread_mainiPPcE26flight_termination_printed_0
+                0x00000000        0x1 commander.cpp.o
+
+.bss._ZL10status_pub
+                0x00000000        0x4
+ .bss._ZL10status_pub
+                0x00000000        0x4 commander.cpp.o
+
+.bss._ZL27last_print_mode_reject_time
+                0x00000000        0x8
+ .bss._ZL27last_print_mode_reject_time
+                0x00000000        0x8 commander.cpp.o
+
+.bss._ZZ34battery_remaining_estimate_voltagefffE14bat_capacity_h
+                0x00000000        0x4
+ .bss._ZZ34battery_remaining_estimate_voltagefffE14bat_capacity_h
+                0x00000000        0x4 commander_helper.cpp.o
+
+.bss._ZZ34battery_remaining_estimate_voltagefffE11initialized
+                0x00000000        0x1
+ .bss._ZZ34battery_remaining_estimate_voltagefffE11initialized
+                0x00000000        0x1 commander_helper.cpp.o
+
+.bss._ZL13blink_msg_end
+                0x00000000        0x8
+ .bss._ZL13blink_msg_end
+                0x00000000        0x8 commander_helper.cpp.o
+
+.bss._ZZ34battery_remaining_estimate_voltagefffE13bat_n_cells_h
+                0x00000000        0x4
+ .bss._ZZ34battery_remaining_estimate_voltagefffE13bat_n_cells_h
+                0x00000000        0x4 commander_helper.cpp.o
+
+.bss._ZL8tune_end
+                0x00000000        0x8
+ .bss._ZL8tune_end
+                0x00000000        0x8 commander_helper.cpp.o
+
+.bss._ZZ34battery_remaining_estimate_voltagefffE17bat_v_load_drop_h
+                0x00000000        0x4
+ .bss._ZZ34battery_remaining_estimate_voltagefffE17bat_v_load_drop_h
+                0x00000000        0x4 commander_helper.cpp.o
+
+.bss._ZZ34battery_remaining_estimate_voltagefffE7counter
+                0x00000000        0x4
+ .bss._ZZ34battery_remaining_estimate_voltagefffE7counter
+                0x00000000        0x4 commander_helper.cpp.o
+
+.bss._ZZ34battery_remaining_estimate_voltagefffE13bat_v_empty_h
+                0x00000000        0x4
+ .bss._ZZ34battery_remaining_estimate_voltagefffE13bat_v_empty_h
+                0x00000000        0x4 commander_helper.cpp.o
+
+.bss._ZZ34battery_remaining_estimate_voltagefffE12bat_v_full_h
+                0x00000000        0x4
+ .bss._ZZ34battery_remaining_estimate_voltagefffE12bat_v_full_h
+                0x00000000        0x4 commander_helper.cpp.o
+
+.bss._ZL12tune_current
+                0x00000000        0x4
+ .bss._ZL12tune_current
+                0x00000000        0x4 commander_helper.cpp.o
+
+.bss._ZL14tune_durations
+                0x00000000       0x3c
+ .bss._ZL14tune_durations
+                0x00000000       0x3c commander_helper.cpp.o
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000      0x4db
+ *(.comment)
+ .comment       0x00000000       0x71 commander.cpp.o
+ .comment       0x00000071       0x71 commander_params.c.o
+ .comment       0x000000e2       0x71 state_machine_helper.cpp.o
+ .comment       0x00000153       0x71 commander_helper.cpp.o
+ .comment       0x000001c4       0x71 calibration_routines.cpp.o
+ .comment       0x00000235       0x71 accelerometer_calibration.cpp.o
+ .comment       0x000002a6       0x71 gyro_calibration.cpp.o
+ .comment       0x00000317       0x71 mag_calibration.cpp.o
+ .comment       0x00000388       0x71 baro_calibration.cpp.o
+ .comment       0x000003f9       0x71 rc_calibration.cpp.o
+ .comment       0x0000046a       0x71 airspeed_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 state_machine_helper.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 commander_helper.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 accelerometer_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 gyro_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mag_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 baro_calibration.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 airspeed_calibration.cpp.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x308
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x90 commander.cpp.o
+ .debug_aranges
+                0x00000090       0x18 commander_params.c.o
+ .debug_aranges
+                0x000000a8       0x48 state_machine_helper.cpp.o
+ .debug_aranges
+                0x000000f0       0xb0 commander_helper.cpp.o
+ .debug_aranges
+                0x000001a0       0x20 calibration_routines.cpp.o
+ .debug_aranges
+                0x000001c0       0x98 accelerometer_calibration.cpp.o
+ .debug_aranges
+                0x00000258       0x20 gyro_calibration.cpp.o
+ .debug_aranges
+                0x00000278       0x28 mag_calibration.cpp.o
+ .debug_aranges
+                0x000002a0       0x20 baro_calibration.cpp.o
+ .debug_aranges
+                0x000002c0       0x20 rc_calibration.cpp.o
+ .debug_aranges
+                0x000002e0       0x28 airspeed_calibration.cpp.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x205b8
+ *(.debug_info)
+ .debug_info    0x00000000     0xa231 commander.cpp.o
+ .debug_info    0x0000a231      0x234 commander_params.c.o
+ .debug_info    0x0000a465     0x4fc2 state_machine_helper.cpp.o
+ .debug_info    0x0000f427     0x13a5 commander_helper.cpp.o
+ .debug_info    0x000107cc      0x4ee calibration_routines.cpp.o
+ .debug_info    0x00010cba     0x997e accelerometer_calibration.cpp.o
+ .debug_info    0x0001a638     0x1982 gyro_calibration.cpp.o
+ .debug_info    0x0001bfba     0x2775 mag_calibration.cpp.o
+ .debug_info    0x0001e72f       0xc6 baro_calibration.cpp.o
+ .debug_info    0x0001e7f5      0x570 rc_calibration.cpp.o
+ .debug_info    0x0001ed65     0x1853 airspeed_calibration.cpp.o
+
+.debug_abbrev   0x00000000     0x21f1
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x663 commander.cpp.o
+ .debug_abbrev  0x00000663       0xbb commander_params.c.o
+ .debug_abbrev  0x0000071e      0x4db state_machine_helper.cpp.o
+ .debug_abbrev  0x00000bf9      0x300 commander_helper.cpp.o
+ .debug_abbrev  0x00000ef9      0x119 calibration_routines.cpp.o
+ .debug_abbrev  0x00001012      0x76d accelerometer_calibration.cpp.o
+ .debug_abbrev  0x0000177f      0x28d gyro_calibration.cpp.o
+ .debug_abbrev  0x00001a0c      0x321 mag_calibration.cpp.o
+ .debug_abbrev  0x00001d2d       0x6f baro_calibration.cpp.o
+ .debug_abbrev  0x00001d9c      0x1bb rc_calibration.cpp.o
+ .debug_abbrev  0x00001f57      0x29a airspeed_calibration.cpp.o
+
+.debug_line     0x00000000     0x92f8
+ *(.debug_line)
+ .debug_line    0x00000000     0x1e09 commander.cpp.o
+ .debug_line    0x00001e09      0x2d3 commander_params.c.o
+ .debug_line    0x000020dc     0x130b state_machine_helper.cpp.o
+ .debug_line    0x000033e7      0xc77 commander_helper.cpp.o
+ .debug_line    0x0000405e      0x593 calibration_routines.cpp.o
+ .debug_line    0x000045f1     0x180f accelerometer_calibration.cpp.o
+ .debug_line    0x00005e00      0xce8 gyro_calibration.cpp.o
+ .debug_line    0x00006ae8      0xce2 mag_calibration.cpp.o
+ .debug_line    0x000077ca      0x7f0 baro_calibration.cpp.o
+ .debug_line    0x00007fba      0x6bf rc_calibration.cpp.o
+ .debug_line    0x00008679      0xc7f airspeed_calibration.cpp.o
+
+.debug_frame    0x00000000      0x7c4
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x204 commander.cpp.o
+ .debug_frame   0x00000204       0xc0 state_machine_helper.cpp.o
+ .debug_frame   0x000002c4      0x1a4 commander_helper.cpp.o
+ .debug_frame   0x00000468       0x4c calibration_routines.cpp.o
+ .debug_frame   0x000004b4      0x1d0 accelerometer_calibration.cpp.o
+ .debug_frame   0x00000684       0x3c gyro_calibration.cpp.o
+ .debug_frame   0x000006c0       0x64 mag_calibration.cpp.o
+ .debug_frame   0x00000724       0x20 baro_calibration.cpp.o
+ .debug_frame   0x00000744       0x30 rc_calibration.cpp.o
+ .debug_frame   0x00000774       0x50 airspeed_calibration.cpp.o
+
+.debug_str      0x00000000    0x8392e
+ *(.debug_str)
+ .debug_str     0x00000000    0x1494c commander.cpp.o
+ .debug_str     0x0001494c     0x58ab commander_params.c.o
+ .debug_str     0x0001a1f7     0xf5cc state_machine_helper.cpp.o
+ .debug_str     0x000297c3     0xc51e commander_helper.cpp.o
+ .debug_str     0x00035ce1     0x5a93 calibration_routines.cpp.o
+ .debug_str     0x0003b774    0x12b70 accelerometer_calibration.cpp.o
+ .debug_str     0x0004e2e4     0xc583 gyro_calibration.cpp.o
+ .debug_str     0x0005a867     0xc7d0 mag_calibration.cpp.o
+ .debug_str     0x00067037     0x89f1 baro_calibration.cpp.o
+ .debug_str     0x0006fa28     0x7555 rc_calibration.cpp.o
+ .debug_str     0x00076f7d     0xc9b1 airspeed_calibration.cpp.o
+
+.debug_loc      0x00000000     0x55ad
+ *(.debug_loc)
+ .debug_loc     0x00000000     0x201d commander.cpp.o
+ .debug_loc     0x0000201d      0xbb9 state_machine_helper.cpp.o
+ .debug_loc     0x00002bd6      0x41d commander_helper.cpp.o
+ .debug_loc     0x00002ff3      0x849 calibration_routines.cpp.o
+ .debug_loc     0x0000383c     0x1131 accelerometer_calibration.cpp.o
+ .debug_loc     0x0000496d      0x2eb gyro_calibration.cpp.o
+ .debug_loc     0x00004c58      0x558 mag_calibration.cpp.o
+ .debug_loc     0x000051b0       0x21 baro_calibration.cpp.o
+ .debug_loc     0x000051d1      0x10a rc_calibration.cpp.o
+ .debug_loc     0x000052db      0x2d2 airspeed_calibration.cpp.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0xae8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x280 commander.cpp.o
+ .debug_ranges  0x00000280       0xb0 state_machine_helper.cpp.o
+ .debug_ranges  0x00000330       0xd0 commander_helper.cpp.o
+ .debug_ranges  0x00000400       0x40 calibration_routines.cpp.o
+ .debug_ranges  0x00000440      0x550 accelerometer_calibration.cpp.o
+ .debug_ranges  0x00000990       0x40 gyro_calibration.cpp.o
+ .debug_ranges  0x000009d0       0x88 mag_calibration.cpp.o
+ .debug_ranges  0x00000a58       0x10 baro_calibration.cpp.o
+ .debug_ranges  0x00000a68       0x10 rc_calibration.cpp.o
+ .debug_ranges  0x00000a78       0x70 airspeed_calibration.cpp.o
+
+.stack
+ *(.stack)
+
+.ARM.attributes
+                0x00000000       0x37
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x37 commander.cpp.o
+ .ARM.attributes
+                0x00000037       0x37 commander_params.c.o
+ .ARM.attributes
+                0x0000006e       0x37 state_machine_helper.cpp.o
+ .ARM.attributes
+                0x000000a5       0x37 commander_helper.cpp.o
+ .ARM.attributes
+                0x000000dc       0x37 calibration_routines.cpp.o
+ .ARM.attributes
+                0x00000113       0x37 accelerometer_calibration.cpp.o
+ .ARM.attributes
+                0x0000014a       0x37 gyro_calibration.cpp.o
+ .ARM.attributes
+                0x00000181       0x37 mag_calibration.cpp.o
+ .ARM.attributes
+                0x000001b8       0x37 baro_calibration.cpp.o
+ .ARM.attributes
+                0x000001ef       0x37 rc_calibration.cpp.o
+ .ARM.attributes
+                0x00000226       0x37 airspeed_calibration.cpp.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+OUTPUT(/misc/shome/ex36/pixhawk/px4/Firmware/Build/px4fmu-v2_default.build//misc/shome/ex36/pixhawk/px4/Firmware/src/modules/commander/module.pre.o elf32-littlearm)
+
+.debug_macro    0x00000000     0x1cf3
+ .debug_macro   0x00000000      0x535 commander.cpp.o
+ .debug_macro   0x00000535       0x7d commander_params.c.o
+ .debug_macro   0x000005b2      0x3da state_machine_helper.cpp.o
+ .debug_macro   0x0000098c      0x2a6 commander_helper.cpp.o
+ .debug_macro   0x00000c32       0x87 calibration_routines.cpp.o
+ .debug_macro   0x00000cb9      0x43a accelerometer_calibration.cpp.o
+ .debug_macro   0x000010f3      0x2f9 gyro_calibration.cpp.o
+ .debug_macro   0x000013ec      0x302 mag_calibration.cpp.o
+ .debug_macro   0x000016ee      0x1bf baro_calibration.cpp.o
+ .debug_macro   0x000018ad      0x12d rc_calibration.cpp.o
+ .debug_macro   0x000019da      0x319 airspeed_calibration.cpp.o
+
+.debug_macro    0x00000000      0x838
+ .debug_macro   0x00000000      0x838 commander.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 commander.cpp.o
+
+.debug_macro    0x00000000      0x8a6
+ .debug_macro   0x00000000      0x8a6 commander.cpp.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 commander.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 commander.cpp.o
+
+.debug_macro    0x00000000       0x88
+ .debug_macro   0x00000000       0x88 commander.cpp.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e commander.cpp.o
+
+.debug_macro    0x00000000      0x125
+ .debug_macro   0x00000000      0x125 commander.cpp.o
+
+.debug_macro    0x00000000       0x5d
+ .debug_macro   0x00000000       0x5d commander.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 commander.cpp.o
+
+.debug_macro    0x00000000       0xd1
+ .debug_macro   0x00000000       0xd1 commander.cpp.o
+
+.debug_macro    0x00000000       0x23
+ .debug_macro   0x00000000       0x23 commander.cpp.o
+
+.debug_macro    0x00000000       0x49
+ .debug_macro   0x00000000       0x49 commander.cpp.o
+
+.debug_macro    0x00000000      0x106
+ .debug_macro   0x00000000      0x106 commander.cpp.o
+
+.debug_macro    0x00000000       0x98
+ .debug_macro   0x00000000       0x98 commander.cpp.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 commander.cpp.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c commander.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 commander.cpp.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 commander.cpp.o
+
+.debug_macro    0x00000000      0x11b
+ .debug_macro   0x00000000      0x11b commander.cpp.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 commander.cpp.o
+
+.debug_macro    0x00000000      0x27f
+ .debug_macro   0x00000000      0x27f commander.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 commander.cpp.o
+
+.debug_macro    0x00000000      0x195
+ .debug_macro   0x00000000      0x195 commander.cpp.o
+
+.debug_macro    0x00000000       0x8a
+ .debug_macro   0x00000000       0x8a commander.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 commander.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 commander.cpp.o
+
+.debug_macro    0x00000000       0x39
+ .debug_macro   0x00000000       0x39 commander.cpp.o
+
+.debug_macro    0x00000000       0xb4
+ .debug_macro   0x00000000       0xb4 commander.cpp.o
+
+.debug_macro    0x00000000       0x41
+ .debug_macro   0x00000000       0x41 commander.cpp.o
+
+.debug_macro    0x00000000       0x4d
+ .debug_macro   0x00000000       0x4d commander.cpp.o
+
+.debug_macro    0x00000000       0x5e
+ .debug_macro   0x00000000       0x5e commander.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 commander.cpp.o
+
+.debug_macro    0x00000000      0x14d
+ .debug_macro   0x00000000      0x14d commander.cpp.o
+
+.debug_macro    0x00000000      0x6c1
+ .debug_macro   0x00000000      0x6c1 commander.cpp.o
+
+.debug_macro    0x00000000       0x34
+ .debug_macro   0x00000000       0x34 commander.cpp.o
+
+.debug_macro    0x00000000      0x24e
+ .debug_macro   0x00000000      0x24e commander.cpp.o
+
+.debug_macro    0x00000000       0xd1
+ .debug_macro   0x00000000       0xd1 commander.cpp.o
+
+.debug_macro    0x00000000       0x3a
+ .debug_macro   0x00000000       0x3a commander.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 commander.cpp.o
+
+.debug_macro    0x00000000       0x27
+ .debug_macro   0x00000000       0x27 commander.cpp.o
+
+.debug_macro    0x00000000       0xa3
+ .debug_macro   0x00000000       0xa3 commander.cpp.o
+
+.debug_macro    0x00000000      0x281
+ .debug_macro   0x00000000      0x281 commander.cpp.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 commander.cpp.o
+
+.debug_macro    0x00000000      0x168
+ .debug_macro   0x00000000      0x168 commander.cpp.o
+
+.debug_macro    0x00000000       0x29
+ .debug_macro   0x00000000       0x29 commander.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 commander.cpp.o
+
+.debug_macro    0x00000000       0x2b
+ .debug_macro   0x00000000       0x2b commander.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 commander.cpp.o
+
+.debug_macro    0x00000000       0x30
+ .debug_macro   0x00000000       0x30 commander.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 commander.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 commander.cpp.o
+
+.debug_macro    0x00000000       0x9a
+ .debug_macro   0x00000000       0x9a commander.cpp.o
+
+.debug_macro    0x00000000      0x1cf
+ .debug_macro   0x00000000      0x1cf commander.cpp.o
+
+.debug_macro    0x00000000      0x16c
+ .debug_macro   0x00000000      0x16c commander.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 commander.cpp.o
+
+.debug_macro    0x00000000       0x3a
+ .debug_macro   0x00000000       0x3a commander.cpp.o
+
+.debug_macro    0x00000000       0x18
+ .debug_macro   0x00000000       0x18 commander.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 commander.cpp.o
+
+.debug_macro    0x00000000       0x4d
+ .debug_macro   0x00000000       0x4d commander.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 commander.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 commander.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 commander.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 commander.cpp.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 commander.cpp.o
+
+.debug_macro    0x00000000      0x81a
+ .debug_macro   0x00000000      0x81a commander_params.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 commander_params.c.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 commander_params.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 commander_params.c.o
+
+.debug_macro    0x00000000       0x6f
+ .debug_macro   0x00000000       0x6f commander_params.c.o
+
+.debug_macro    0x00000000       0x25
+ .debug_macro   0x00000000       0x25 commander_params.c.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c state_machine_helper.cpp.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 state_machine_helper.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 state_machine_helper.cpp.o
+
+.debug_macro    0x00000000       0x88
+ .debug_macro   0x00000000       0x88 state_machine_helper.cpp.o
+
+.debug_macro    0x00000000       0x64
+ .debug_macro   0x00000000       0x64 state_machine_helper.cpp.o
+
+.debug_macro    0x00000000       0x2e
+ .debug_macro   0x00000000       0x2e state_machine_helper.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 commander_helper.cpp.o
+
+.debug_macro    0x00000000       0x40
+ .debug_macro   0x00000000       0x40 accelerometer_calibration.cpp.o
+
+.debug_macro    0x00000000       0x63
+ .debug_macro   0x00000000       0x63 accelerometer_calibration.cpp.o
+
+.debug_macro    0x00000000       0x20
+ .debug_macro   0x00000000       0x20 accelerometer_calibration.cpp.o
+
+.debug_macro    0x00000000       0x3b
+ .debug_macro   0x00000000       0x3b accelerometer_calibration.cpp.o
+
+.debug_macro    0x00000000       0x2d
+ .debug_macro   0x00000000       0x2d accelerometer_calibration.cpp.o
+
+.debug_macro    0x00000000       0x42
+ .debug_macro   0x00000000       0x42 accelerometer_calibration.cpp.o
+
+.debug_macro    0x00000000       0xa5
+ .debug_macro   0x00000000       0xa5 accelerometer_calibration.cpp.o
+
+.debug_macro    0x00000000       0x64
+ .debug_macro   0x00000000       0x64 gyro_calibration.cpp.o
+
+.debug_macro    0x00000000       0x71
+ .debug_macro   0x00000000       0x71 mag_calibration.cpp.o
+
+.debug_macro    0x00000000       0x53
+ .debug_macro   0x00000000       0x53 baro_calibration.cpp.o
+
+.debug_macro    0x00000000      0x147
+ .debug_macro   0x00000000      0x147 baro_calibration.cpp.o
+
+.debug_macro    0x00000000       0x12
+ .debug_macro   0x00000000       0x12 baro_calibration.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 baro_calibration.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 airspeed_calibration.cpp.o

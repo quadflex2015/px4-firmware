@@ -978,7 +978,7 @@ void AttitudePositionEstimatorEKF::updateSensorFusion(const bool fuseGPS, const 
 	// print sigmas
 	//mavlink_log_info(_mavlink_fd, "[ekf] SigmaBaro:%.4f SigmaCam:%.4f", (double)_ekf->sigmaBARO, (double)_ekf->sigmaCAM);
 
-	// Fuse GPS Measurements
+	Fuse GPS Measurements
 	if (fuseGPS && _gps_initialized) {
 		// set fusion flags
 		_ekf->fuseVelData = true;
@@ -1009,7 +1009,7 @@ void AttitudePositionEstimatorEKF::updateSensorFusion(const bool fuseGPS, const 
 		_ekf->fuseVelData = true;
 		_ekf->fusePosData = true;
 		
-		// recall stFuseVelposNEDates stored at time of measurement after adjusting for delays
+		// recall states stored at time of measurement after adjusting for delays
 		_ekf->RecallStates(_ekf->statesAtVelTime, (IMUmsec - _parameters.vel_delay_ms));
 		_ekf->RecallStates(_ekf->statesAtPosTime, (IMUmsec - _parameters.pos_delay_ms));
 
@@ -1095,26 +1095,24 @@ void AttitudePositionEstimatorEKF::updateSensorFusion(const bool fuseGPS, const 
 		_ekf->fuseMagData = false;
 	}
 
-	// Fuse Airspeed Measurements
-	if (fuseAirSpeed && _ekf->VtasMeas > 7.0f) {
-		_ekf->fuseVtasData = true;
-		_ekf->RecallStates(_ekf->statesAtVtasMeasTime, (IMUmsec - _parameters.tas_delay_ms)); // assume 100 msec avg delay for airspeed data
-		_ekf->FuseAirspeed();
-	} else {
-		_ekf->fuseVtasData = false;
-	}
+	// // Fuse Airspeed Measurements
+	// if (fuseAirSpeed && _ekf->VtasMeas > 7.0f) {
+	// 	_ekf->fuseVtasData = true;
+	// 	_ekf->RecallStates(_ekf->statesAtVtasMeasTime, (IMUmsec - _parameters.tas_delay_ms)); // assume 100 msec avg delay for airspeed data
+	// 	_ekf->FuseAirspeed();
+	// } else {
+	// 	_ekf->fuseVtasData = false;
+	// }
 
-	// Fuse Rangefinder Measurements
-	if (fuseRangeSensor) {
-		if (_ekf->Tnb.z.z > 0.9f) {
-			// _ekf->rngMea is set in sensor readout already
-			_ekf->fuseRngData = true;
-			_ekf->fuseOptFlowData = false;
-			_ekf->RecallStates(_ekf->statesAtRngTime, (IMUmsec - 100.0f));
-			_ekf->OpticalFlowEKF();
-			_ekf->fuseRngData = false;
-		}
-	}
+	// // Fuse Rangefinder Measurements
+	// if (fuseRangeSensor) {
+	// 	// _ekf->rngMea is set in sensor readout already
+	// 	_ekf->fuseSonarData = true;
+	// 	//_ekf->fuseOptFlowData = false;
+	// 	_ekf->RecallStates(_ekf->statesAtRngTime, (IMUmsec - 100.0f));
+	// 	_ekf->FuseVelposNED();
+	// 	_ekf->fuseSonarData = false;
+	// }
 	// // print flags only if something is fused
 	// if (_ekf->fusionFlagBaro == 1 || _ekf->fusionFlagCamD == 1 || _ekf->fusionFlagSonar == 1) 
 	// {
@@ -1401,7 +1399,7 @@ void AttitudePositionEstimatorEKF::pollData()
 
 			_ekf->gpsLat = math::radians(_gps.lat / (double)1e7);
 			_ekf->gpsLon = math::radians(_gps.lon / (double)1e7) - M_PI;
-			_ekf->gpsHgt = _gps.alt / 1e3f;
+			_ekf->gpsHgt = _ekf->rngMea; //_gps.alt / 1e3f;   <-----------  DISABLED HEIGHT!!
 
 			if (_previousGPSTimestamp != 0) {
 				//Calculate average time between GPS updates
@@ -1524,7 +1522,7 @@ void AttitudePositionEstimatorEKF::pollData()
 		// mavlink_log_info(_mavlink_fd, "[ekf] CamPos1: %.3f", (double)_cam_pos.height);
 		perf_count(_perf_baro);
 
-		_newHgtData = true;
+		_newHgtData = true; 
 		//mavlink_log_info(_mavlink_fd, "[ekf] baro:%.4f ", (double)baro_elapsed);
 		//mavlink_log_info(_mavlink_fd, "Received Baro measurement");		
 	}
@@ -1578,13 +1576,16 @@ void AttitudePositionEstimatorEKF::pollData()
 
 		// static hrt_abstime sonar_last = 0;
 		orb_copy(ORB_ID(sensor_range_finder), _distance_sub, &_distance);
-
+		//_ekf->rngMea = _distance.distance;
+		_newSonarData = true;
+		// mavlink_log_info(_mavlink_fd, "[ekf] Sonar:%.4f ", (double)_distance.distance);
 		// check for proper distance measurement
-		if (_distance.distance > 0.2f) {
+		if (_distance.distance > 0.2f) {		// in air
 			_ekf->rngMea = _distance.distance;
 			_newSonarData = true;
-		} else {
-			_newSonarData = false;
+		} else if (_distance.distance <= 0.2f) { // on ground
+			_ekf->rngMea = 0.1f;
+			_newSonarData = true;
 		}
 	}
 }

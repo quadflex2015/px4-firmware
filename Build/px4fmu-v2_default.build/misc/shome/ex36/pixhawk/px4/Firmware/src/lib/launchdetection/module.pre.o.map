@@ -1,0 +1,736 @@
+
+Discarded input sections
+
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+ .text._ZN7control10SuperBlock12updateParamsEv
+                0x00000000       0x18 CatapultLaunchMethod.cpp.o
+ .text._ZN7control10SuperBlock19updateSubscriptionsEv
+                0x00000000       0x18 CatapultLaunchMethod.cpp.o
+ .text._ZN7control10SuperBlock18updatePublicationsEv
+                0x00000000       0x18 CatapultLaunchMethod.cpp.o
+ .debug_macro   0x00000000      0x838 CatapultLaunchMethod.cpp.o
+ .debug_macro   0x00000000       0x22 CatapultLaunchMethod.cpp.o
+ .debug_macro   0x00000000      0x8a6 CatapultLaunchMethod.cpp.o
+ .debug_macro   0x00000000       0xc9 CatapultLaunchMethod.cpp.o
+ .debug_macro   0x00000000       0x10 CatapultLaunchMethod.cpp.o
+ .debug_macro   0x00000000       0x88 CatapultLaunchMethod.cpp.o
+ .debug_macro   0x00000000      0x14e CatapultLaunchMethod.cpp.o
+ .debug_macro   0x00000000      0x125 CatapultLaunchMethod.cpp.o
+ .debug_macro   0x00000000       0x12 CatapultLaunchMethod.cpp.o
+ .debug_macro   0x00000000       0x4c CatapultLaunchMethod.cpp.o
+ .debug_macro   0x00000000       0x59 CatapultLaunchMethod.cpp.o
+ .debug_macro   0x00000000       0x5e CatapultLaunchMethod.cpp.o
+ .debug_macro   0x00000000       0x3a CatapultLaunchMethod.cpp.o
+ .debug_macro   0x00000000       0x10 CatapultLaunchMethod.cpp.o
+ .debug_macro   0x00000000       0x27 CatapultLaunchMethod.cpp.o
+ .debug_macro   0x00000000       0xa3 CatapultLaunchMethod.cpp.o
+ .debug_macro   0x00000000      0x281 CatapultLaunchMethod.cpp.o
+ .debug_macro   0x00000000       0x2b CatapultLaunchMethod.cpp.o
+ .debug_macro   0x00000000       0x58 CatapultLaunchMethod.cpp.o
+ .group         0x00000000        0x8 launchdetection_params.c.o
+ .group         0x00000000        0x8 launchdetection_params.c.o
+ .group         0x00000000        0x8 launchdetection_params.c.o
+ .group         0x00000000        0x8 launchdetection_params.c.o
+ .group         0x00000000        0x8 launchdetection_params.c.o
+ .debug_macro   0x00000000      0x8a6 launchdetection_params.c.o
+ .debug_macro   0x00000000       0x10 launchdetection_params.c.o
+ .debug_macro   0x00000000       0x88 launchdetection_params.c.o
+ .debug_macro   0x00000000      0x14e launchdetection_params.c.o
+ .debug_macro   0x00000000      0x125 launchdetection_params.c.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD LaunchDetector.cpp.o
+LOAD CatapultLaunchMethod.cpp.o
+LOAD launchdetection_params.c.o
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+
+.rela.text
+ *(.rela.text)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rel.data.rel.ro
+ *(.rel.data.rel.ro)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rel.data
+ *(.rel.data)
+
+.rela.data
+ *(.rela.data)
+
+.rel.tdata
+ *(.rel.tdata)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rel.tbss
+ *(.rel.tbss)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.iplt
+ *(.rel.iplt)
+
+.rela.iplt
+ *(.rela.iplt)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(.init)
+
+.plt
+ *(.plt)
+
+.iplt
+ *(.iplt)
+
+.text           0x00000000        0x0
+ *(.text .stub)
+ .text          0x00000000        0x0 LaunchDetector.cpp.o
+ .text          0x00000000        0x0 CatapultLaunchMethod.cpp.o
+ .text          0x00000000        0x0 launchdetection_params.c.o
+ *(.gnu.warning)
+
+.text._ZN15launchdetection14LaunchDetector5resetEv
+                0x00000000       0x14
+ .text._ZN15launchdetection14LaunchDetector5resetEv
+                0x00000000       0x14 LaunchDetector.cpp.o
+                0x00000000                launchdetection::LaunchDetector::reset()
+
+.text._ZN15launchdetection14LaunchDetector6updateEf
+                0x00000000       0x2a
+ .text._ZN15launchdetection14LaunchDetector6updateEf
+                0x00000000       0x2a LaunchDetector.cpp.o
+                0x00000000                launchdetection::LaunchDetector::update(float)
+
+.text._ZN15launchdetection14LaunchDetector17getLaunchDetectedEv
+                0x00000000       0x48
+ .text._ZN15launchdetection14LaunchDetector17getLaunchDetectedEv
+                0x00000000       0x48 LaunchDetector.cpp.o
+                0x00000000                launchdetection::LaunchDetector::getLaunchDetected()
+
+.text._ZN15launchdetection14LaunchDetector11getPitchMaxEf
+                0x00000000       0x3e
+ .text._ZN15launchdetection14LaunchDetector11getPitchMaxEf
+                0x00000000       0x3e LaunchDetector.cpp.o
+                0x00000000                launchdetection::LaunchDetector::getPitchMax(float)
+
+.text._ZN15launchdetection14LaunchDetectorD2Ev
+                0x00000000       0x28
+ .text._ZN15launchdetection14LaunchDetectorD2Ev
+                0x00000000       0x28 LaunchDetector.cpp.o
+                0x00000000                launchdetection::LaunchDetector::~LaunchDetector()
+                0x00000000                launchdetection::LaunchDetector::~LaunchDetector()
+
+.text._ZN15launchdetection14LaunchDetectorD0Ev
+                0x00000000       0x12
+ .text._ZN15launchdetection14LaunchDetectorD0Ev
+                0x00000000       0x12 LaunchDetector.cpp.o
+                0x00000000                launchdetection::LaunchDetector::~LaunchDetector()
+
+.text._ZN7control10SuperBlock12updateParamsEv
+                0x00000000       0x18
+ .text._ZN7control10SuperBlock12updateParamsEv
+                0x00000000       0x18 LaunchDetector.cpp.o
+                0x00000000                control::SuperBlock::updateParams()
+
+.text._ZN15launchdetection14LaunchDetectorC2Ev
+                0x00000000       0x60
+ .text._ZN15launchdetection14LaunchDetectorC2Ev
+                0x00000000       0x60 LaunchDetector.cpp.o
+                0x00000000                launchdetection::LaunchDetector::LaunchDetector()
+                0x00000000                launchdetection::LaunchDetector::LaunchDetector()
+
+.text._ZN7control10SuperBlock19updateSubscriptionsEv
+                0x00000000       0x18
+ .text._ZN7control10SuperBlock19updateSubscriptionsEv
+                0x00000000       0x18 LaunchDetector.cpp.o
+                0x00000000                control::SuperBlock::updateSubscriptions()
+
+.text._ZN7control10SuperBlock18updatePublicationsEv
+                0x00000000       0x18
+ .text._ZN7control10SuperBlock18updatePublicationsEv
+                0x00000000       0x18 LaunchDetector.cpp.o
+                0x00000000                control::SuperBlock::updatePublications()
+
+.text._ZNK15launchdetection20CatapultLaunchMethod17getLaunchDetectedEv
+                0x00000000        0x6
+ .text._ZNK15launchdetection20CatapultLaunchMethod17getLaunchDetectedEv
+                0x00000000        0x6 CatapultLaunchMethod.cpp.o
+                0x00000000                launchdetection::CatapultLaunchMethod::getLaunchDetected() const
+
+.text._ZN15launchdetection20CatapultLaunchMethod5resetEv
+                0x00000000        0xe
+ .text._ZN15launchdetection20CatapultLaunchMethod5resetEv
+                0x00000000        0xe CatapultLaunchMethod.cpp.o
+                0x00000000                launchdetection::CatapultLaunchMethod::reset()
+
+.text._ZN15launchdetection20CatapultLaunchMethod6updateEf
+                0x00000000      0x100
+ .text._ZN15launchdetection20CatapultLaunchMethod6updateEf
+                0x00000000      0x100 CatapultLaunchMethod.cpp.o
+                0x00000000                launchdetection::CatapultLaunchMethod::update(float)
+
+.text._ZN15launchdetection20CatapultLaunchMethod11getPitchMaxEf
+                0x00000000       0x10
+ .text._ZN15launchdetection20CatapultLaunchMethod11getPitchMaxEf
+                0x00000000       0x10 CatapultLaunchMethod.cpp.o
+                0x00000000                launchdetection::CatapultLaunchMethod::getPitchMax(float)
+
+.text._ZN15launchdetection20CatapultLaunchMethodC2EPN7control10SuperBlockE
+                0x00000000       0x8c
+ .text._ZN15launchdetection20CatapultLaunchMethodC2EPN7control10SuperBlockE
+                0x00000000       0x8c CatapultLaunchMethod.cpp.o
+                0x00000000                launchdetection::CatapultLaunchMethod::CatapultLaunchMethod(control::SuperBlock*)
+                0x00000000                launchdetection::CatapultLaunchMethod::CatapultLaunchMethod(control::SuperBlock*)
+
+.text._ZN15launchdetection20CatapultLaunchMethodD2Ev
+                0x00000000       0x40
+ .text._ZN15launchdetection20CatapultLaunchMethodD2Ev
+                0x00000000       0x40 CatapultLaunchMethod.cpp.o
+                0x00000000                launchdetection::CatapultLaunchMethod::~CatapultLaunchMethod()
+                0x00000000                launchdetection::CatapultLaunchMethod::~CatapultLaunchMethod()
+
+.text._ZThn4_N15launchdetection20CatapultLaunchMethodD1Ev
+                0x00000000        0x8
+ .text._ZThn4_N15launchdetection20CatapultLaunchMethodD1Ev
+                0x00000000        0x8 CatapultLaunchMethod.cpp.o
+                0x00000000                non-virtual thunk to launchdetection::CatapultLaunchMethod::~CatapultLaunchMethod()
+
+.text._ZN15launchdetection20CatapultLaunchMethodD0Ev
+                0x00000000       0x12
+ .text._ZN15launchdetection20CatapultLaunchMethodD0Ev
+                0x00000000       0x12 CatapultLaunchMethod.cpp.o
+                0x00000000                launchdetection::CatapultLaunchMethod::~CatapultLaunchMethod()
+
+.text._ZThn4_N15launchdetection20CatapultLaunchMethodD0Ev
+                0x00000000        0x8
+ .text._ZThn4_N15launchdetection20CatapultLaunchMethodD0Ev
+                0x00000000        0x8 CatapultLaunchMethod.cpp.o
+                0x00000000                non-virtual thunk to launchdetection::CatapultLaunchMethod::~CatapultLaunchMethod()
+
+.fini
+ *(.fini)
+
+.rodata
+ *(.rodata)
+
+.rodata._ZTVN15launchdetection14LaunchDetectorE
+                0x00000000       0x20
+ .rodata._ZTVN15launchdetection14LaunchDetectorE
+                0x00000000       0x20 LaunchDetector.cpp.o
+                0x00000000                vtable for launchdetection::LaunchDetector
+
+.rodata.str1.1  0x00000000      0x139
+ .rodata.str1.1
+                0x00000000       0x2e LaunchDetector.cpp.o
+ .rodata.str1.1
+                0x0000002e       0xc0 CatapultLaunchMethod.cpp.o
+ .rodata.str1.1
+                0x000000ee       0x4b launchdetection_params.c.o
+
+.rodata._ZTVN15launchdetection12LaunchMethodE
+                0x00000000       0x18
+ .rodata._ZTVN15launchdetection12LaunchMethodE
+                0x00000000       0x18 CatapultLaunchMethod.cpp.o
+                0x00000000                vtable for launchdetection::LaunchMethod
+
+.rodata._ZTVN15launchdetection20CatapultLaunchMethodE
+                0x00000000       0x40
+ .rodata._ZTVN15launchdetection20CatapultLaunchMethodE
+                0x00000000       0x40 CatapultLaunchMethod.cpp.o
+                0x00000000                vtable for launchdetection::CatapultLaunchMethod
+
+__param         0x00000000       0x48
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                PROVIDE (__start___param, ABSOLUTE (.))
+ __param        0x00000000       0x48 launchdetection_params.c.o
+                0x00000048                PROVIDE (__stop___param, .)
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab
+ *(.ARM.extab)
+
+.ARM.exidx
+ *(.ARM.exidx)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got.plt)
+ *(.igot.plt)
+ *(.got)
+ *(.igot)
+
+.data           0x00000000        0x0
+ *(.data)
+ .data          0x00000000        0x0 LaunchDetector.cpp.o
+ .data          0x00000000        0x0 CatapultLaunchMethod.cpp.o
+ .data          0x00000000        0x0 launchdetection_params.c.o
+
+.data1
+ *(.data1)
+
+.bss            0x00000000        0x0
+ *(.dynbss)
+ *(.bss)
+ .bss           0x00000000        0x0 LaunchDetector.cpp.o
+ .bss           0x00000000        0x0 CatapultLaunchMethod.cpp.o
+ .bss           0x00000000        0x0 launchdetection_params.c.o
+ *(COMMON)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000      0x153
+ *(.comment)
+ .comment       0x00000000       0x71 LaunchDetector.cpp.o
+ .comment       0x00000071       0x71 CatapultLaunchMethod.cpp.o
+ .comment       0x000000e2       0x71 launchdetection_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LaunchDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LaunchDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LaunchDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LaunchDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LaunchDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LaunchDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LaunchDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LaunchDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LaunchDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LaunchDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LaunchDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LaunchDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LaunchDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LaunchDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LaunchDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LaunchDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LaunchDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LaunchDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LaunchDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LaunchDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LaunchDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LaunchDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LaunchDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 LaunchDetector.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 CatapultLaunchMethod.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 launchdetection_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 launchdetection_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 launchdetection_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 launchdetection_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 launchdetection_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 launchdetection_params.c.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0xe8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x68 LaunchDetector.cpp.o
+ .debug_aranges
+                0x00000068       0x68 CatapultLaunchMethod.cpp.o
+ .debug_aranges
+                0x000000d0       0x18 launchdetection_params.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x1f4b
+ *(.debug_info)
+ .debug_info    0x00000000      0xd9b LaunchDetector.cpp.o
+ .debug_info    0x00000d9b     0x1015 CatapultLaunchMethod.cpp.o
+ .debug_info    0x00001db0      0x19b launchdetection_params.c.o
+
+.debug_abbrev   0x00000000      0x96c
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x412 LaunchDetector.cpp.o
+ .debug_abbrev  0x00000412      0x49f CatapultLaunchMethod.cpp.o
+ .debug_abbrev  0x000008b1       0xbb launchdetection_params.c.o
+
+.debug_line     0x00000000     0x13ff
+ *(.debug_line)
+ .debug_line    0x00000000      0x88d LaunchDetector.cpp.o
+ .debug_line    0x0000088d      0x897 CatapultLaunchMethod.cpp.o
+ .debug_line    0x00001124      0x2db launchdetection_params.c.o
+
+.debug_frame    0x00000000      0x20c
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x114 LaunchDetector.cpp.o
+ .debug_frame   0x00000114       0xf8 CatapultLaunchMethod.cpp.o
+
+.debug_str      0x00000000    0x1484f
+ *(.debug_str)
+ .debug_str     0x00000000     0x77e9 LaunchDetector.cpp.o
+ .debug_str     0x000077e9     0x7876 CatapultLaunchMethod.cpp.o
+ .debug_str     0x0000f05f     0x57f0 launchdetection_params.c.o
+
+.debug_loc      0x00000000      0x5ff
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x326 LaunchDetector.cpp.o
+ .debug_loc     0x00000326      0x2d9 CatapultLaunchMethod.cpp.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x1a8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x98 LaunchDetector.cpp.o
+ .debug_ranges  0x00000098      0x110 CatapultLaunchMethod.cpp.o
+
+.stack
+ *(.stack)
+
+.ARM.attributes
+                0x00000000       0x37
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x37 LaunchDetector.cpp.o
+ .ARM.attributes
+                0x00000037       0x37 CatapultLaunchMethod.cpp.o
+ .ARM.attributes
+                0x0000006e       0x37 launchdetection_params.c.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+OUTPUT(/misc/shome/ex36/pixhawk/px4/Firmware/Build/px4fmu-v2_default.build//misc/shome/ex36/pixhawk/px4/Firmware/src/lib/launchdetection/module.pre.o elf32-littlearm)
+
+.debug_macro    0x00000000      0x331
+ .debug_macro   0x00000000      0x15f LaunchDetector.cpp.o
+ .debug_macro   0x0000015f      0x155 CatapultLaunchMethod.cpp.o
+ .debug_macro   0x000002b4       0x7d launchdetection_params.c.o
+
+.debug_macro    0x00000000      0x838
+ .debug_macro   0x00000000      0x838 LaunchDetector.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 LaunchDetector.cpp.o
+
+.debug_macro    0x00000000      0x8a6
+ .debug_macro   0x00000000      0x8a6 LaunchDetector.cpp.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 LaunchDetector.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 LaunchDetector.cpp.o
+
+.debug_macro    0x00000000       0x88
+ .debug_macro   0x00000000       0x88 LaunchDetector.cpp.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e LaunchDetector.cpp.o
+
+.debug_macro    0x00000000      0x125
+ .debug_macro   0x00000000      0x125 LaunchDetector.cpp.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 LaunchDetector.cpp.o
+
+.debug_macro    0x00000000       0x63
+ .debug_macro   0x00000000       0x63 LaunchDetector.cpp.o
+
+.debug_macro    0x00000000       0x43
+ .debug_macro   0x00000000       0x43 LaunchDetector.cpp.o
+
+.debug_macro    0x00000000       0x5e
+ .debug_macro   0x00000000       0x5e LaunchDetector.cpp.o
+
+.debug_macro    0x00000000       0x3a
+ .debug_macro   0x00000000       0x3a LaunchDetector.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 LaunchDetector.cpp.o
+
+.debug_macro    0x00000000       0x27
+ .debug_macro   0x00000000       0x27 LaunchDetector.cpp.o
+
+.debug_macro    0x00000000       0xa3
+ .debug_macro   0x00000000       0xa3 LaunchDetector.cpp.o
+
+.debug_macro    0x00000000      0x281
+ .debug_macro   0x00000000      0x281 LaunchDetector.cpp.o
+
+.debug_macro    0x00000000       0x12
+ .debug_macro   0x00000000       0x12 LaunchDetector.cpp.o
+
+.debug_macro    0x00000000       0x2b
+ .debug_macro   0x00000000       0x2b LaunchDetector.cpp.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c LaunchDetector.cpp.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 LaunchDetector.cpp.o
+
+.debug_macro    0x00000000       0x5d
+ .debug_macro   0x00000000       0x5d CatapultLaunchMethod.cpp.o
+
+.debug_macro    0x00000000       0x49
+ .debug_macro   0x00000000       0x49 CatapultLaunchMethod.cpp.o
+
+.debug_macro    0x00000000      0x81a
+ .debug_macro   0x00000000      0x81a launchdetection_params.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 launchdetection_params.c.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 launchdetection_params.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 launchdetection_params.c.o
+
+.debug_macro    0x00000000       0x6f
+ .debug_macro   0x00000000       0x6f launchdetection_params.c.o
+
+.debug_macro    0x00000000       0x25
+ .debug_macro   0x00000000       0x25 launchdetection_params.c.o

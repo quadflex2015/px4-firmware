@@ -1,0 +1,2259 @@
+
+Discarded input sections
+
+ .group         0x00000000        0x8 fw_pos_control_l1_params.c.o
+ .group         0x00000000        0x8 fw_pos_control_l1_params.c.o
+ .group         0x00000000        0x8 fw_pos_control_l1_params.c.o
+ .group         0x00000000        0x8 fw_pos_control_l1_params.c.o
+ .group         0x00000000        0x8 fw_pos_control_l1_params.c.o
+ .debug_macro   0x00000000      0x8a6 fw_pos_control_l1_params.c.o
+ .debug_macro   0x00000000       0x10 fw_pos_control_l1_params.c.o
+ .debug_macro   0x00000000       0x88 fw_pos_control_l1_params.c.o
+ .debug_macro   0x00000000      0x14e fw_pos_control_l1_params.c.o
+ .debug_macro   0x00000000      0x125 fw_pos_control_l1_params.c.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .group         0x00000000        0x8 landingslope.cpp.o
+ .debug_macro   0x00000000      0x838 landingslope.cpp.o
+ .debug_macro   0x00000000       0x22 landingslope.cpp.o
+ .debug_macro   0x00000000      0x8a6 landingslope.cpp.o
+ .debug_macro   0x00000000       0x3a landingslope.cpp.o
+ .debug_macro   0x00000000       0x10 landingslope.cpp.o
+ .debug_macro   0x00000000       0x27 landingslope.cpp.o
+ .debug_macro   0x00000000       0xa3 landingslope.cpp.o
+ .debug_macro   0x00000000      0x281 landingslope.cpp.o
+ .debug_macro   0x00000000       0x58 landingslope.cpp.o
+ .debug_macro   0x00000000       0xc9 landingslope.cpp.o
+ .debug_macro   0x00000000       0x10 landingslope.cpp.o
+ .debug_macro   0x00000000       0x88 landingslope.cpp.o
+ .debug_macro   0x00000000      0x14e landingslope.cpp.o
+ .debug_macro   0x00000000      0x125 landingslope.cpp.o
+ .debug_macro   0x00000000       0x5d landingslope.cpp.o
+ .debug_macro   0x00000000      0x6c1 landingslope.cpp.o
+ .debug_macro   0x00000000       0xd1 landingslope.cpp.o
+ .debug_macro   0x00000000       0x4c landingslope.cpp.o
+ .debug_macro   0x00000000       0x49 landingslope.cpp.o
+ .debug_macro   0x00000000      0x106 landingslope.cpp.o
+ .debug_macro   0x00000000       0x23 landingslope.cpp.o
+ .debug_macro   0x00000000       0x28 landingslope.cpp.o
+ .debug_macro   0x00000000       0x98 landingslope.cpp.o
+ .debug_macro   0x00000000       0x16 landingslope.cpp.o
+ .debug_macro   0x00000000       0x59 landingslope.cpp.o
+ .debug_macro   0x00000000      0x11b landingslope.cpp.o
+ .debug_macro   0x00000000       0x46 landingslope.cpp.o
+ .debug_macro   0x00000000      0x27f landingslope.cpp.o
+ .debug_macro   0x00000000       0x10 landingslope.cpp.o
+ .debug_macro   0x00000000      0x195 landingslope.cpp.o
+ .debug_macro   0x00000000       0x8a landingslope.cpp.o
+ .debug_macro   0x00000000       0x10 landingslope.cpp.o
+ .debug_macro   0x00000000       0x10 landingslope.cpp.o
+ .debug_macro   0x00000000       0x39 landingslope.cpp.o
+ .debug_macro   0x00000000       0xb4 landingslope.cpp.o
+ .debug_macro   0x00000000       0x41 landingslope.cpp.o
+ .debug_macro   0x00000000       0x4d landingslope.cpp.o
+ .debug_macro   0x00000000       0x20 landingslope.cpp.o
+ .debug_macro   0x00000000       0x3b landingslope.cpp.o
+ .debug_macro   0x00000000       0x2d landingslope.cpp.o
+ .debug_macro   0x00000000       0x42 landingslope.cpp.o
+ .debug_macro   0x00000000       0x22 landingslope.cpp.o
+ .debug_macro   0x00000000       0x16 landingslope.cpp.o
+ .debug_macro   0x00000000       0x29 landingslope.cpp.o
+ .debug_macro   0x00000000       0x2b landingslope.cpp.o
+ .debug_macro   0x00000000      0x168 landingslope.cpp.o
+ .debug_macro   0x00000000       0x30 landingslope.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+ .text._ZN7control10SuperBlock12updateParamsEv
+                0x00000000       0x18 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000      0x838 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x22 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0xc9 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000      0x8a6 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x10 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x88 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000      0x14e mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000      0x125 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x5e mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x3a mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x10 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x27 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0xa3 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000      0x281 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x25 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x58 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x4c mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x29 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x16 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000      0x168 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x23 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x28 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0xd1 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x98 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x16 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000      0x11b mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x46 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000      0x27f mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x10 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000      0x195 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x8a mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x10 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x10 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x39 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0xb4 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x41 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x30 mtecs/mTecs.cpp.o
+ .debug_macro   0x00000000       0x22 mtecs/mTecs.cpp.o
+ .group         0x00000000        0x8 mtecs/limitoverride.cpp.o
+ .group         0x00000000        0x8 mtecs/limitoverride.cpp.o
+ .group         0x00000000        0x8 mtecs/limitoverride.cpp.o
+ .group         0x00000000        0x8 mtecs/limitoverride.cpp.o
+ .group         0x00000000        0x8 mtecs/limitoverride.cpp.o
+ .group         0x00000000        0x8 mtecs/limitoverride.cpp.o
+ .group         0x00000000        0x8 mtecs/limitoverride.cpp.o
+ .group         0x00000000        0x8 mtecs/limitoverride.cpp.o
+ .group         0x00000000        0x8 mtecs/limitoverride.cpp.o
+ .group         0x00000000        0x8 mtecs/limitoverride.cpp.o
+ .group         0x00000000        0x8 mtecs/limitoverride.cpp.o
+ .group         0x00000000        0x8 mtecs/limitoverride.cpp.o
+ .group         0x00000000        0x8 mtecs/limitoverride.cpp.o
+ .group         0x00000000        0x8 mtecs/limitoverride.cpp.o
+ .group         0x00000000        0x8 mtecs/limitoverride.cpp.o
+ .group         0x00000000        0x8 mtecs/limitoverride.cpp.o
+ .group         0x00000000        0x8 mtecs/limitoverride.cpp.o
+ .group         0x00000000        0x8 mtecs/limitoverride.cpp.o
+ .group         0x00000000        0x8 mtecs/limitoverride.cpp.o
+ .group         0x00000000        0x8 mtecs/limitoverride.cpp.o
+ .debug_macro   0x00000000      0x838 mtecs/limitoverride.cpp.o
+ .debug_macro   0x00000000       0x22 mtecs/limitoverride.cpp.o
+ .debug_macro   0x00000000       0xc9 mtecs/limitoverride.cpp.o
+ .debug_macro   0x00000000      0x8a6 mtecs/limitoverride.cpp.o
+ .debug_macro   0x00000000       0x10 mtecs/limitoverride.cpp.o
+ .debug_macro   0x00000000       0x88 mtecs/limitoverride.cpp.o
+ .debug_macro   0x00000000      0x14e mtecs/limitoverride.cpp.o
+ .debug_macro   0x00000000      0x125 mtecs/limitoverride.cpp.o
+ .debug_macro   0x00000000       0x53 mtecs/limitoverride.cpp.o
+ .debug_macro   0x00000000       0x63 mtecs/limitoverride.cpp.o
+ .debug_macro   0x00000000       0x43 mtecs/limitoverride.cpp.o
+ .debug_macro   0x00000000       0x5e mtecs/limitoverride.cpp.o
+ .debug_macro   0x00000000       0x3a mtecs/limitoverride.cpp.o
+ .debug_macro   0x00000000       0x10 mtecs/limitoverride.cpp.o
+ .debug_macro   0x00000000       0x27 mtecs/limitoverride.cpp.o
+ .debug_macro   0x00000000       0xa3 mtecs/limitoverride.cpp.o
+ .debug_macro   0x00000000      0x281 mtecs/limitoverride.cpp.o
+ .debug_macro   0x00000000       0x12 mtecs/limitoverride.cpp.o
+ .debug_macro   0x00000000       0x25 mtecs/limitoverride.cpp.o
+ .debug_macro   0x00000000       0x58 mtecs/limitoverride.cpp.o
+ .group         0x00000000        0x8 mtecs/mTecs_params.c.o
+ .group         0x00000000        0x8 mtecs/mTecs_params.c.o
+ .group         0x00000000        0x8 mtecs/mTecs_params.c.o
+ .group         0x00000000        0x8 mtecs/mTecs_params.c.o
+ .group         0x00000000        0x8 mtecs/mTecs_params.c.o
+ .group         0x00000000        0x8 mtecs/mTecs_params.c.o
+ .group         0x00000000        0x8 mtecs/mTecs_params.c.o
+ .group         0x00000000        0x8 mtecs/mTecs_params.c.o
+ .group         0x00000000        0x8 mtecs/mTecs_params.c.o
+ .group         0x00000000        0x8 mtecs/mTecs_params.c.o
+ .group         0x00000000        0x8 mtecs/mTecs_params.c.o
+ .debug_macro   0x00000000      0x81a mtecs/mTecs_params.c.o
+ .debug_macro   0x00000000       0x22 mtecs/mTecs_params.c.o
+ .debug_macro   0x00000000      0x8a6 mtecs/mTecs_params.c.o
+ .debug_macro   0x00000000       0xc9 mtecs/mTecs_params.c.o
+ .debug_macro   0x00000000       0x10 mtecs/mTecs_params.c.o
+ .debug_macro   0x00000000       0x88 mtecs/mTecs_params.c.o
+ .debug_macro   0x00000000      0x14e mtecs/mTecs_params.c.o
+ .debug_macro   0x00000000      0x125 mtecs/mTecs_params.c.o
+ .debug_macro   0x00000000       0x22 mtecs/mTecs_params.c.o
+ .debug_macro   0x00000000       0x6f mtecs/mTecs_params.c.o
+ .debug_macro   0x00000000       0x25 mtecs/mTecs_params.c.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD fw_pos_control_l1_main.cpp.o
+LOAD fw_pos_control_l1_params.c.o
+LOAD landingslope.cpp.o
+LOAD mtecs/mTecs.cpp.o
+LOAD mtecs/limitoverride.cpp.o
+LOAD mtecs/mTecs_params.c.o
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+
+.rela.text
+ *(.rela.text)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rel.data.rel.ro
+ *(.rel.data.rel.ro)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rel.data
+ *(.rel.data)
+
+.rela.data
+ *(.rela.data)
+
+.rel.tdata
+ *(.rel.tdata)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rel.tbss
+ *(.rel.tbss)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.iplt
+ *(.rel.iplt)
+
+.rela.iplt
+ *(.rela.iplt)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(.init)
+
+.plt
+ *(.plt)
+
+.iplt
+ *(.iplt)
+
+.text           0x00000000        0x0
+ *(.text .stub)
+ .text          0x00000000        0x0 fw_pos_control_l1_main.cpp.o
+ .text          0x00000000        0x0 fw_pos_control_l1_params.c.o
+ .text          0x00000000        0x0 landingslope.cpp.o
+ .text          0x00000000        0x0 mtecs/mTecs.cpp.o
+ .text          0x00000000        0x0 mtecs/limitoverride.cpp.o
+ .text          0x00000000        0x0 mtecs/mTecs_params.c.o
+ *(.gnu.warning)
+
+.text._ZN4math10VectorBaseILj2EED2Ev
+                0x00000000        0xc
+ .text._ZN4math10VectorBaseILj2EED2Ev
+                0x00000000        0xc fw_pos_control_l1_main.cpp.o
+                0x00000000                math::VectorBase<2u>::~VectorBase()
+                0x00000000                math::VectorBase<2u>::~VectorBase()
+
+.text._ZN4math10VectorBaseILj3EED2Ev
+                0x00000000        0xc
+ .text._ZN4math10VectorBaseILj3EED2Ev
+                0x00000000        0xc fw_pos_control_l1_main.cpp.o
+                0x00000000                math::VectorBase<3u>::~VectorBase()
+                0x00000000                math::VectorBase<3u>::~VectorBase()
+
+.text._ZN4math10MatrixBaseILj3ELj3EED2Ev
+                0x00000000        0xc
+ .text._ZN4math10MatrixBaseILj3ELj3EED2Ev
+                0x00000000        0xc fw_pos_control_l1_main.cpp.o
+                0x00000000                math::MatrixBase<3u, 3u>::~MatrixBase()
+                0x00000000                math::MatrixBase<3u, 3u>::~MatrixBase()
+
+.text._ZN4math6MatrixILj3ELj3EED2Ev
+                0x00000000        0xc
+ .text._ZN4math6MatrixILj3ELj3EED2Ev
+                0x00000000        0xc fw_pos_control_l1_main.cpp.o
+                0x00000000                math::Matrix<3u, 3u>::~Matrix()
+                0x00000000                math::Matrix<3u, 3u>::~Matrix()
+
+.text._ZN4math6VectorILj3EED2Ev
+                0x00000000        0xc
+ .text._ZN4math6VectorILj3EED2Ev
+                0x00000000        0xc fw_pos_control_l1_main.cpp.o
+                0x00000000                math::Vector<3u>::~Vector()
+                0x00000000                math::Vector<3u>::~Vector()
+
+.text._ZN4math6VectorILj2EED2Ev
+                0x00000000        0xc
+ .text._ZN4math6VectorILj2EED2Ev
+                0x00000000        0xc fw_pos_control_l1_main.cpp.o
+                0x00000000                math::Vector<2u>::~Vector()
+                0x00000000                math::Vector<2u>::~Vector()
+
+.text._ZN4math6VectorILj2EED0Ev
+                0x00000000       0x14
+ .text._ZN4math6VectorILj2EED0Ev
+                0x00000000       0x14 fw_pos_control_l1_main.cpp.o
+                0x00000000                math::Vector<2u>::~Vector()
+
+.text._ZN4math6VectorILj3EED0Ev
+                0x00000000       0x14
+ .text._ZN4math6VectorILj3EED0Ev
+                0x00000000       0x14 fw_pos_control_l1_main.cpp.o
+                0x00000000                math::Vector<3u>::~Vector()
+
+.text._ZN4math6MatrixILj3ELj3EED0Ev
+                0x00000000       0x14
+ .text._ZN4math6MatrixILj3ELj3EED0Ev
+                0x00000000       0x14 fw_pos_control_l1_main.cpp.o
+                0x00000000                math::Matrix<3u, 3u>::~Matrix()
+
+.text._ZN4math10MatrixBaseILj3ELj3EED0Ev
+                0x00000000       0x14
+ .text._ZN4math10MatrixBaseILj3ELj3EED0Ev
+                0x00000000       0x14 fw_pos_control_l1_main.cpp.o
+                0x00000000                math::MatrixBase<3u, 3u>::~MatrixBase()
+
+.text._ZN4math10VectorBaseILj3EED0Ev
+                0x00000000       0x14
+ .text._ZN4math10VectorBaseILj3EED0Ev
+                0x00000000       0x14 fw_pos_control_l1_main.cpp.o
+                0x00000000                math::VectorBase<3u>::~VectorBase()
+
+.text._ZN4math10VectorBaseILj2EED0Ev
+                0x00000000       0x14
+ .text._ZN4math10VectorBaseILj2EED0Ev
+                0x00000000       0x14 fw_pos_control_l1_main.cpp.o
+                0x00000000                math::VectorBase<2u>::~VectorBase()
+
+.text._ZN9fwPosctrl5mTecs10getEnabledEv
+                0x00000000       0x12
+ .text._ZN9fwPosctrl5mTecs10getEnabledEv
+                0x00000000       0x12 fw_pos_control_l1_main.cpp.o
+                0x00000000                fwPosctrl::mTecs::getEnabled()
+
+.text._ZN24FixedwingPositionControl25vehicle_control_mode_pollEv
+                0x00000000       0x28
+ .text._ZN24FixedwingPositionControl25vehicle_control_mode_pollEv
+                0x00000000       0x28 fw_pos_control_l1_main.cpp.o
+                0x00000000                FixedwingPositionControl::vehicle_control_mode_poll()
+
+.text._ZN24FixedwingPositionControl19vehicle_status_pollEv
+                0x00000000       0x28
+ .text._ZN24FixedwingPositionControl19vehicle_status_pollEv
+                0x00000000       0x28 fw_pos_control_l1_main.cpp.o
+                0x00000000                FixedwingPositionControl::vehicle_status_poll()
+
+.text._ZN24FixedwingPositionControl21vehicle_airspeed_pollEv
+                0x00000000       0x80
+ .text._ZN24FixedwingPositionControl21vehicle_airspeed_pollEv
+                0x00000000       0x80 fw_pos_control_l1_main.cpp.o
+                0x00000000                FixedwingPositionControl::vehicle_airspeed_poll()
+
+.text._ZN24FixedwingPositionControl36vehicle_manual_control_setpoint_pollEv
+                0x00000000       0x2c
+ .text._ZN24FixedwingPositionControl36vehicle_manual_control_setpoint_pollEv
+                0x00000000       0x2c fw_pos_control_l1_main.cpp.o
+                0x00000000                FixedwingPositionControl::vehicle_manual_control_setpoint_poll()
+
+.text._ZN24FixedwingPositionControl21vehicle_attitude_pollEv
+                0x00000000       0x78
+ .text._ZN24FixedwingPositionControl21vehicle_attitude_pollEv
+                0x00000000       0x78 fw_pos_control_l1_main.cpp.o
+                0x00000000                FixedwingPositionControl::vehicle_attitude_poll()
+
+.text._ZN24FixedwingPositionControl28vehicle_sensor_combined_pollEv
+                0x00000000       0x28
+ .text._ZN24FixedwingPositionControl28vehicle_sensor_combined_pollEv
+                0x00000000       0x28 fw_pos_control_l1_main.cpp.o
+                0x00000000                FixedwingPositionControl::vehicle_sensor_combined_poll()
+
+.text._ZN24FixedwingPositionControl21vehicle_setpoint_pollEv
+                0x00000000       0x28
+ .text._ZN24FixedwingPositionControl21vehicle_setpoint_pollEv
+                0x00000000       0x28 fw_pos_control_l1_main.cpp.o
+                0x00000000                FixedwingPositionControl::vehicle_setpoint_poll()
+
+.text._ZN24FixedwingPositionControl25calculate_target_airspeedEf
+                0x00000000       0x5e
+ .text._ZN24FixedwingPositionControl25calculate_target_airspeedEf
+                0x00000000       0x5e fw_pos_control_l1_main.cpp.o
+                0x00000000                FixedwingPositionControl::calculate_target_airspeed(float)
+
+.text._ZN24FixedwingPositionControl31navigation_capabilities_publishEv
+                0x00000000       0x28
+ .text._ZN24FixedwingPositionControl31navigation_capabilities_publishEv
+                0x00000000       0x28 fw_pos_control_l1_main.cpp.o
+                0x00000000                FixedwingPositionControl::navigation_capabilities_publish()
+
+.text._ZN24FixedwingPositionControl28get_terrain_altitude_landingEfRK25vehicle_global_position_s
+                0x00000000       0x54
+ .text._ZN24FixedwingPositionControl28get_terrain_altitude_landingEfRK25vehicle_global_position_s
+                0x00000000       0x54 fw_pos_control_l1_main.cpp.o
+                0x00000000                FixedwingPositionControl::get_terrain_altitude_landing(float, vehicle_global_position_s const&)
+
+.text._ZN24FixedwingPositionControl19reset_takeoff_stateEv
+                0x00000000        0xe
+ .text._ZN24FixedwingPositionControl19reset_takeoff_stateEv
+                0x00000000        0xe fw_pos_control_l1_main.cpp.o
+                0x00000000                FixedwingPositionControl::reset_takeoff_state()
+
+.text._ZN24FixedwingPositionControl19reset_landing_stateEv
+                0x00000000       0x1c
+ .text._ZN24FixedwingPositionControl19reset_landing_stateEv
+                0x00000000       0x1c fw_pos_control_l1_main.cpp.o
+                0x00000000                FixedwingPositionControl::reset_landing_state()
+
+.text._ZN24FixedwingPositionControl26tecs_update_pitch_throttleEffffffffbffRKN4math6VectorILj3EEE9tecs_modeb
+                0x00000000      0x218
+ .text._ZN24FixedwingPositionControl26tecs_update_pitch_throttleEffffffffbffRKN4math6VectorILj3EEE9tecs_modeb
+                0x00000000      0x218 fw_pos_control_l1_main.cpp.o
+                0x00000000                FixedwingPositionControl::tecs_update_pitch_throttle(float, float, float, float, float, float, float, float, bool, float, float, math::Vector<3u> const&, tecs_mode, bool)
+
+.text._ZN24FixedwingPositionControl5startEv
+                0x00000000       0x58
+ .text._ZN24FixedwingPositionControl5startEv
+                0x00000000       0x58 fw_pos_control_l1_main.cpp.o
+                0x00000000                FixedwingPositionControl::start()
+
+.text._ZN4math10VectorBaseILj2EEC2Ev
+                0x00000000       0x1c
+ .text._ZN4math10VectorBaseILj2EEC2Ev
+                0x00000000       0x1c fw_pos_control_l1_main.cpp.o
+                0x00000000                math::VectorBase<2u>::VectorBase()
+                0x00000000                math::VectorBase<2u>::VectorBase()
+
+.text._ZN24FixedwingPositionControl29calculate_gndspeed_undershootERKN4math6VectorILj2EEES4_RK27position_setpoint_triplet_s
+                0x00000000      0x134
+ .text._ZN24FixedwingPositionControl29calculate_gndspeed_undershootERKN4math6VectorILj2EEES4_RK27position_setpoint_triplet_s
+                0x00000000      0x134 fw_pos_control_l1_main.cpp.o
+                0x00000000                FixedwingPositionControl::calculate_gndspeed_undershoot(math::Vector<2u> const&, math::Vector<2u> const&, position_setpoint_triplet_s const&)
+
+.text._ZN4math10VectorBaseILj3EEC2Ev
+                0x00000000       0x28
+ .text._ZN4math10VectorBaseILj3EEC2Ev
+                0x00000000       0x28 fw_pos_control_l1_main.cpp.o
+                0x00000000                math::VectorBase<3u>::VectorBase()
+                0x00000000                math::VectorBase<3u>::VectorBase()
+
+.text._ZN24FixedwingPositionControl16control_positionERKN4math6VectorILj2EEERKNS1_ILj3EEERK27position_setpoint_triplet_s
+                0x00000000      0xd10
+ .text._ZN24FixedwingPositionControl16control_positionERKN4math6VectorILj2EEERKNS1_ILj3EEERK27position_setpoint_triplet_s
+                0x00000000      0xd10 fw_pos_control_l1_main.cpp.o
+                0x00000000                FixedwingPositionControl::control_position(math::Vector<2u> const&, math::Vector<3u> const&, position_setpoint_triplet_s const&)
+
+.text._ZN4math10MatrixBaseILj3ELj3EEC2Ev
+                0x00000000       0x28
+ .text._ZN4math10MatrixBaseILj3ELj3EEC2Ev
+                0x00000000       0x28 fw_pos_control_l1_main.cpp.o
+                0x00000000                math::MatrixBase<3u, 3u>::MatrixBase()
+                0x00000000                math::MatrixBase<3u, 3u>::MatrixBase()
+
+.text._ZN24FixedwingPositionControlD2Ev
+                0x00000000       0x5c
+ .text._ZN24FixedwingPositionControlD2Ev
+                0x00000000       0x5c fw_pos_control_l1_main.cpp.o
+                0x00000000                FixedwingPositionControl::~FixedwingPositionControl()
+                0x00000000                FixedwingPositionControl::~FixedwingPositionControl()
+
+.text.fw_pos_control_l1_main
+                0x00000000       0xe4
+ .text.fw_pos_control_l1_main
+                0x00000000       0xe4 fw_pos_control_l1_main.cpp.o
+                0x00000000                fw_pos_control_l1_main
+
+.text._ZN7control10SuperBlock12updateParamsEv
+                0x00000000       0x18
+ .text._ZN7control10SuperBlock12updateParamsEv
+                0x00000000       0x18 fw_pos_control_l1_main.cpp.o
+                0x00000000                control::SuperBlock::updateParams()
+
+.text._ZN24FixedwingPositionControl17parameters_updateEv
+                0x00000000      0x408
+ .text._ZN24FixedwingPositionControl17parameters_updateEv
+                0x00000000      0x408 fw_pos_control_l1_main.cpp.o
+                0x00000000                FixedwingPositionControl::parameters_update()
+
+.text._ZN24FixedwingPositionControlC2Ev
+                0x00000000      0x49c
+ .text._ZN24FixedwingPositionControlC2Ev
+                0x00000000      0x49c fw_pos_control_l1_main.cpp.o
+                0x00000000                FixedwingPositionControl::FixedwingPositionControl()
+                0x00000000                FixedwingPositionControl::FixedwingPositionControl()
+
+.text._ZN24FixedwingPositionControl9task_mainEv
+                0x00000000      0x244
+ .text._ZN24FixedwingPositionControl9task_mainEv
+                0x00000000      0x244 fw_pos_control_l1_main.cpp.o
+                0x00000000                FixedwingPositionControl::task_main()
+
+.text._ZN24FixedwingPositionControl20task_main_trampolineEiPPc
+                0x00000000       0x30
+ .text._ZN24FixedwingPositionControl20task_main_trampolineEiPPc
+                0x00000000       0x30 fw_pos_control_l1_main.cpp.o
+                0x00000000                FixedwingPositionControl::task_main_trampoline(int, char**)
+
+.text._ZN12Landingslope20calculateSlopeValuesEv
+                0x00000000       0x5a
+ .text._ZN12Landingslope20calculateSlopeValuesEv
+                0x00000000       0x5a landingslope.cpp.o
+                0x00000000                Landingslope::calculateSlopeValues()
+
+.text._ZN12Landingslope6updateEffff
+                0x00000000       0x14
+ .text._ZN12Landingslope6updateEffff
+                0x00000000       0x14 landingslope.cpp.o
+                0x00000000                Landingslope::update(float, float, float, float)
+
+.text._ZN12Landingslope31getLandingSlopeRelativeAltitudeEf
+                0x00000000       0x26
+ .text._ZN12Landingslope31getLandingSlopeRelativeAltitudeEf
+                0x00000000       0x26 landingslope.cpp.o
+                0x00000000                Landingslope::getLandingSlopeRelativeAltitude(float)
+
+.text._ZN12Landingslope35getLandingSlopeRelativeAltitudeSaveEfff
+                0x00000000       0x54
+ .text._ZN12Landingslope35getLandingSlopeRelativeAltitudeSaveEfff
+                0x00000000       0x54 landingslope.cpp.o
+                0x00000000                Landingslope::getLandingSlopeRelativeAltitudeSave(float, float, float)
+
+.text._ZN12Landingslope31getLandingSlopeAbsoluteAltitudeEff
+                0x00000000       0x2e
+ .text._ZN12Landingslope31getLandingSlopeAbsoluteAltitudeEff
+                0x00000000       0x2e landingslope.cpp.o
+                0x00000000                Landingslope::getLandingSlopeAbsoluteAltitude(float, float)
+
+.text._ZN12Landingslope35getLandingSlopeAbsoluteAltitudeSaveEffff
+                0x00000000       0x58
+ .text._ZN12Landingslope35getLandingSlopeAbsoluteAltitudeSaveEffff
+                0x00000000       0x58 landingslope.cpp.o
+                0x00000000                Landingslope::getLandingSlopeAbsoluteAltitudeSave(float, float, float, float)
+
+.text._ZN12Landingslope33getFlareCurveRelativeAltitudeSaveEfff
+                0x00000000       0x74
+ .text._ZN12Landingslope33getFlareCurveRelativeAltitudeSaveEfff
+                0x00000000       0x74 landingslope.cpp.o
+                0x00000000                Landingslope::getFlareCurveRelativeAltitudeSave(float, float, float)
+
+.text._ZN12Landingslope33getFlareCurveAbsoluteAltitudeSaveEffff
+                0x00000000       0x18
+ .text._ZN12Landingslope33getFlareCurveAbsoluteAltitudeSaveEffff
+                0x00000000       0x18 landingslope.cpp.o
+                0x00000000                Landingslope::getFlareCurveAbsoluteAltitudeSave(float, float, float, float)
+
+.text._ZN7control5Block5setDtEf
+                0x00000000        0x6
+ .text._ZN7control5Block5setDtEf
+                0x00000000        0x6 mtecs/mTecs.cpp.o
+                0x00000000                control::Block::setDt(float)
+
+.text._ZN7control10SuperBlock18updatePublicationsEv
+                0x00000000       0x18
+ .text._ZN7control10SuperBlock18updatePublicationsEv
+                0x00000000       0x18 mtecs/mTecs.cpp.o
+                0x00000000                control::SuperBlock::updatePublications()
+
+.text._ZN7control10SuperBlock19updateSubscriptionsEv
+                0x00000000       0x18
+ .text._ZN7control10SuperBlock19updateSubscriptionsEv
+                0x00000000       0x18 mtecs/mTecs.cpp.o
+                0x00000000                control::SuperBlock::updateSubscriptions()
+
+.text._ZN7control10SuperBlockC2EPS0_PKc
+                0x00000000       0x18
+ .text._ZN7control10SuperBlockC2EPS0_PKc
+                0x00000000       0x18 mtecs/mTecs.cpp.o
+                0x00000000                control::SuperBlock::SuperBlock(control::SuperBlock*, char const*)
+                0x00000000                control::SuperBlock::SuperBlock(control::SuperBlock*, char const*)
+
+.text._ZN7control13BlockLimitSymC2EPNS_10SuperBlockEPKc
+                0x00000000       0x28
+ .text._ZN7control13BlockLimitSymC2EPNS_10SuperBlockEPKc
+                0x00000000       0x28 mtecs/mTecs.cpp.o
+                0x00000000                control::BlockLimitSym::BlockLimitSym(control::SuperBlock*, char const*)
+                0x00000000                control::BlockLimitSym::BlockLimitSym(control::SuperBlock*, char const*)
+
+.text._ZN7control12BlockLowPassC2EPNS_10SuperBlockEPKc
+                0x00000000       0x30
+ .text._ZN7control12BlockLowPassC2EPNS_10SuperBlockEPKc
+                0x00000000       0x30 mtecs/mTecs.cpp.o
+                0x00000000                control::BlockLowPass::BlockLowPass(control::SuperBlock*, char const*)
+                0x00000000                control::BlockLowPass::BlockLowPass(control::SuperBlock*, char const*)
+
+.text._ZN7control15BlockDerivativeC2EPNS_10SuperBlockEPKc
+                0x00000000       0x30
+ .text._ZN7control15BlockDerivativeC2EPNS_10SuperBlockEPKc
+                0x00000000       0x30 mtecs/mTecs.cpp.o
+                0x00000000                control::BlockDerivative::BlockDerivative(control::SuperBlock*, char const*)
+                0x00000000                control::BlockDerivative::BlockDerivative(control::SuperBlock*, char const*)
+
+.text._ZN9fwPosctrl18BlockOutputLimiterC2EPN7control10SuperBlockEPKcb
+                0x00000000       0x40
+ .text._ZN9fwPosctrl18BlockOutputLimiterC2EPN7control10SuperBlockEPKcb
+                0x00000000       0x40 mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::BlockOutputLimiter::BlockOutputLimiter(control::SuperBlock*, char const*, bool)
+                0x00000000                fwPosctrl::BlockOutputLimiter::BlockOutputLimiter(control::SuperBlock*, char const*, bool)
+
+.text._ZN9fwPosctrl18BlockOutputLimiter5limitERfS1_
+                0x00000000       0x8c
+ .text._ZN9fwPosctrl18BlockOutputLimiter5limitERfS1_
+                0x00000000       0x8c mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::BlockOutputLimiter::limit(float&, float&)
+
+.text._ZN9fwPosctrl16BlockFFPILimitedC2EPN7control10SuperBlockEPKcb
+                0x00000000       0x9c
+ .text._ZN9fwPosctrl16BlockFFPILimitedC2EPN7control10SuperBlockEPKcb
+                0x00000000       0x9c mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::BlockFFPILimited::BlockFFPILimited(control::SuperBlock*, char const*, bool)
+                0x00000000                fwPosctrl::BlockFFPILimited::BlockFFPILimited(control::SuperBlock*, char const*, bool)
+
+.text._ZN9fwPosctrl16BlockFFPILimited17calcLimitedOutputEffRNS_18BlockOutputLimiterE
+                0x00000000       0xd4
+ .text._ZN9fwPosctrl16BlockFFPILimited17calcLimitedOutputEffRNS_18BlockOutputLimiterE
+                0x00000000       0xd4 mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::BlockFFPILimited::calcLimitedOutput(float, float, fwPosctrl::BlockOutputLimiter&)
+
+.text._ZN9fwPosctrl14BlockPDLimitedC2EPN7control10SuperBlockEPKcb
+                0x00000000       0x5c
+ .text._ZN9fwPosctrl14BlockPDLimitedC2EPN7control10SuperBlockEPKcb
+                0x00000000       0x5c mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::BlockPDLimited::BlockPDLimited(control::SuperBlock*, char const*, bool)
+                0x00000000                fwPosctrl::BlockPDLimited::BlockPDLimited(control::SuperBlock*, char const*, bool)
+
+.text._ZN9fwPosctrl14BlockPDLimited6updateEf
+                0x00000000       0x78
+ .text._ZN9fwPosctrl14BlockPDLimited6updateEf
+                0x00000000       0x78 mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::BlockPDLimited::update(float)
+
+.text._ZN4uORB15PublicationBase6updateEPv
+                0x00000000       0x20
+ .text._ZN4uORB15PublicationBase6updateEPv
+                0x00000000       0x20 mtecs/mTecs.cpp.o
+                0x00000000                uORB::PublicationBase::update(void*)
+
+.text._ZN9fwPosctrl5mTecsC2Ev
+                0x00000000      0x184
+ .text._ZN9fwPosctrl5mTecsC2Ev
+                0x00000000      0x184 mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::mTecs::mTecs()
+                0x00000000                fwPosctrl::mTecs::mTecs()
+
+.text._ZN9fwPosctrl5mTecs16resetIntegratorsEv
+                0x00000000       0x22
+ .text._ZN9fwPosctrl5mTecs16resetIntegratorsEv
+                0x00000000       0x22 mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::mTecs::resetIntegrators()
+
+.text._ZN9fwPosctrl5mTecs16resetDerivativesEf
+                0x00000000        0xa
+ .text._ZN9fwPosctrl5mTecs16resetDerivativesEf
+                0x00000000        0xa mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::mTecs::resetDerivatives(float)
+
+.text._ZN9fwPosctrl5mTecs21updateTimeMeasurementEv
+                0x00000000       0x58
+ .text._ZN9fwPosctrl5mTecs21updateTimeMeasurementEv
+                0x00000000       0x58 mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::mTecs::updateTimeMeasurement()
+
+.text._ZN9fwPosctrl5mTecs11debug_printEPKcSt9__va_list
+                0x00000000       0x3c
+ .text._ZN9fwPosctrl5mTecs11debug_printEPKcSt9__va_list
+                0x00000000       0x3c mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::mTecs::debug_print(char const*, std::__va_list)
+
+.text._ZN9fwPosctrl5mTecs5debugEPKcz
+                0x00000000       0x1c
+ .text._ZN9fwPosctrl5mTecs5debugEPKcz
+                0x00000000       0x1c mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::mTecs::debug(char const*, ...)
+
+.text._ZN9fwPosctrl5mTecs33updateFlightPathAngleAccelerationEffff9tecs_modeNS_13LimitOverrideE
+                0x00000000      0x2e0
+ .text._ZN9fwPosctrl5mTecs33updateFlightPathAngleAccelerationEffff9tecs_modeNS_13LimitOverrideE
+                0x00000000      0x2e0 mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::mTecs::updateFlightPathAngleAcceleration(float, float, float, float, tecs_mode, fwPosctrl::LimitOverride)
+
+.text._ZN9fwPosctrl5mTecs26updateFlightPathAngleSpeedEffff9tecs_modeNS_13LimitOverrideE
+                0x00000000      0x118
+ .text._ZN9fwPosctrl5mTecs26updateFlightPathAngleSpeedEffff9tecs_modeNS_13LimitOverrideE
+                0x00000000      0x118 mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::mTecs::updateFlightPathAngleSpeed(float, float, float, float, tecs_mode, fwPosctrl::LimitOverride)
+
+.text._ZN9fwPosctrl5mTecs19updateAltitudeSpeedEfffff9tecs_modeNS_13LimitOverrideE
+                0x00000000      0x134
+ .text._ZN9fwPosctrl5mTecs19updateAltitudeSpeedEfffff9tecs_modeNS_13LimitOverrideE
+                0x00000000      0x134 mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::mTecs::updateAltitudeSpeed(float, float, float, float, float, tecs_mode, fwPosctrl::LimitOverride)
+
+.text._ZN9fwPosctrl18BlockOutputLimiterD2Ev
+                0x00000000       0x28
+ .text._ZN9fwPosctrl18BlockOutputLimiterD2Ev
+                0x00000000       0x28 mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::BlockOutputLimiter::~BlockOutputLimiter()
+                0x00000000                fwPosctrl::BlockOutputLimiter::~BlockOutputLimiter()
+
+.text._ZN9fwPosctrl18BlockOutputLimiterD0Ev
+                0x00000000       0x12
+ .text._ZN9fwPosctrl18BlockOutputLimiterD0Ev
+                0x00000000       0x12 mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::BlockOutputLimiter::~BlockOutputLimiter()
+
+.text._ZN7control12BlockLowPassD2Ev
+                0x00000000       0x20
+ .text._ZN7control12BlockLowPassD2Ev
+                0x00000000       0x20 mtecs/mTecs.cpp.o
+                0x00000000                control::BlockLowPass::~BlockLowPass()
+                0x00000000                control::BlockLowPass::~BlockLowPass()
+
+.text._ZN7control15BlockDerivativeD2Ev
+                0x00000000       0x20
+ .text._ZN7control15BlockDerivativeD2Ev
+                0x00000000       0x20 mtecs/mTecs.cpp.o
+                0x00000000                control::BlockDerivative::~BlockDerivative()
+                0x00000000                control::BlockDerivative::~BlockDerivative()
+
+.text._ZN7control15BlockDerivativeD0Ev
+                0x00000000       0x12
+ .text._ZN7control15BlockDerivativeD0Ev
+                0x00000000       0x12 mtecs/mTecs.cpp.o
+                0x00000000                control::BlockDerivative::~BlockDerivative()
+
+.text._ZN7control12BlockLowPassD0Ev
+                0x00000000       0x12
+ .text._ZN7control12BlockLowPassD0Ev
+                0x00000000       0x12 mtecs/mTecs.cpp.o
+                0x00000000                control::BlockLowPass::~BlockLowPass()
+
+.text._ZN9fwPosctrl14BlockPDLimitedD2Ev
+                0x00000000       0x38
+ .text._ZN9fwPosctrl14BlockPDLimitedD2Ev
+                0x00000000       0x38 mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::BlockPDLimited::~BlockPDLimited()
+                0x00000000                fwPosctrl::BlockPDLimited::~BlockPDLimited()
+
+.text._ZN9fwPosctrl14BlockPDLimitedD0Ev
+                0x00000000       0x12
+ .text._ZN9fwPosctrl14BlockPDLimitedD0Ev
+                0x00000000       0x12 mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::BlockPDLimited::~BlockPDLimited()
+
+.text._ZN7control13BlockLimitSymD2Ev
+                0x00000000       0x20
+ .text._ZN7control13BlockLimitSymD2Ev
+                0x00000000       0x20 mtecs/mTecs.cpp.o
+                0x00000000                control::BlockLimitSym::~BlockLimitSym()
+                0x00000000                control::BlockLimitSym::~BlockLimitSym()
+
+.text._ZN7control13BlockIntegralD2Ev
+                0x00000000       0x20
+ .text._ZN7control13BlockIntegralD2Ev
+                0x00000000       0x20 mtecs/mTecs.cpp.o
+                0x00000000                control::BlockIntegral::~BlockIntegral()
+                0x00000000                control::BlockIntegral::~BlockIntegral()
+
+.text._ZN7control13BlockIntegralD0Ev
+                0x00000000       0x12
+ .text._ZN7control13BlockIntegralD0Ev
+                0x00000000       0x12 mtecs/mTecs.cpp.o
+                0x00000000                control::BlockIntegral::~BlockIntegral()
+
+.text._ZN7control13BlockLimitSymD0Ev
+                0x00000000       0x12
+ .text._ZN7control13BlockLimitSymD0Ev
+                0x00000000       0x12 mtecs/mTecs.cpp.o
+                0x00000000                control::BlockLimitSym::~BlockLimitSym()
+
+.text._ZN9fwPosctrl16BlockFFPILimitedD2Ev
+                0x00000000       0x48
+ .text._ZN9fwPosctrl16BlockFFPILimitedD2Ev
+                0x00000000       0x48 mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::BlockFFPILimited::~BlockFFPILimited()
+                0x00000000                fwPosctrl::BlockFFPILimited::~BlockFFPILimited()
+
+.text._ZN9fwPosctrl16BlockFFPILimitedD0Ev
+                0x00000000       0x12
+ .text._ZN9fwPosctrl16BlockFFPILimitedD0Ev
+                0x00000000       0x12 mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::BlockFFPILimited::~BlockFFPILimited()
+
+.text._ZN9fwPosctrl22BlockFFPILimitedCustomD2Ev
+                0x00000000       0x14
+ .text._ZN9fwPosctrl22BlockFFPILimitedCustomD2Ev
+                0x00000000       0x14 mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::BlockFFPILimitedCustom::~BlockFFPILimitedCustom()
+                0x00000000                fwPosctrl::BlockFFPILimitedCustom::~BlockFFPILimitedCustom()
+
+.text._ZN9fwPosctrl22BlockFFPILimitedCustomD0Ev
+                0x00000000       0x12
+ .text._ZN9fwPosctrl22BlockFFPILimitedCustomD0Ev
+                0x00000000       0x12 mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::BlockFFPILimitedCustom::~BlockFFPILimitedCustom()
+
+.text._ZN9fwPosctrl5mTecsD2Ev
+                0x00000000       0xa0
+ .text._ZN9fwPosctrl5mTecsD2Ev
+                0x00000000       0xa0 mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::mTecs::~mTecs()
+                0x00000000                fwPosctrl::mTecs::~mTecs()
+
+.text._ZN9fwPosctrl5mTecsD0Ev
+                0x00000000       0x12
+ .text._ZN9fwPosctrl5mTecsD0Ev
+                0x00000000       0x12 mtecs/mTecs.cpp.o
+                0x00000000                fwPosctrl::mTecs::~mTecs()
+
+.text._ZN9fwPosctrl13LimitOverride13applyOverrideERNS_18BlockOutputLimiterES2_
+                0x00000000       0x52
+ .text._ZN9fwPosctrl13LimitOverride13applyOverrideERNS_18BlockOutputLimiterES2_
+                0x00000000       0x52 mtecs/limitoverride.cpp.o
+                0x00000000                fwPosctrl::LimitOverride::applyOverride(fwPosctrl::BlockOutputLimiter&, fwPosctrl::BlockOutputLimiter&)
+
+.fini
+ *(.fini)
+
+.rodata
+ *(.rodata)
+
+.rodata._ZTVN4math6MatrixILj3ELj3EEE
+                0x00000000       0x10
+ .rodata._ZTVN4math6MatrixILj3ELj3EEE
+                0x00000000       0x10 fw_pos_control_l1_main.cpp.o
+                0x00000000                vtable for math::Matrix<3u, 3u>
+
+.rodata._ZTVN4math10MatrixBaseILj3ELj3EEE
+                0x00000000       0x10
+ .rodata._ZTVN4math10MatrixBaseILj3ELj3EEE
+                0x00000000       0x10 fw_pos_control_l1_main.cpp.o
+                0x00000000                vtable for math::MatrixBase<3u, 3u>
+
+.rodata._ZTVN4math6VectorILj2EEE
+                0x00000000       0x10
+ .rodata._ZTVN4math6VectorILj2EEE
+                0x00000000       0x10 fw_pos_control_l1_main.cpp.o
+                0x00000000                vtable for math::Vector<2u>
+
+.rodata._ZTVN4math10VectorBaseILj2EEE
+                0x00000000       0x10
+ .rodata._ZTVN4math10VectorBaseILj2EEE
+                0x00000000       0x10 fw_pos_control_l1_main.cpp.o
+                0x00000000                vtable for math::VectorBase<2u>
+
+.rodata._ZTVN4math6VectorILj3EEE
+                0x00000000       0x10
+ .rodata._ZTVN4math6VectorILj3EEE
+                0x00000000       0x10 fw_pos_control_l1_main.cpp.o
+                0x00000000                vtable for math::Vector<3u>
+
+.rodata._ZTVN4math10VectorBaseILj3EEE
+                0x00000000       0x10
+ .rodata._ZTVN4math10VectorBaseILj3EEE
+                0x00000000       0x10 fw_pos_control_l1_main.cpp.o
+                0x00000000                vtable for math::VectorBase<3u>
+
+.rodata.str1.1  0x00000000      0xb0d
+ .rodata.str1.1
+                0x00000000      0x45a fw_pos_control_l1_main.cpp.o
+ .rodata.str1.1
+                0x0000045a      0x1e2 fw_pos_control_l1_params.c.o
+ .rodata.str1.1
+                0x0000063c      0x2f1 mtecs/mTecs.cpp.o
+ .rodata.str1.1
+                0x0000092d      0x1e0 mtecs/mTecs_params.c.o
+
+__param         0x00000000      0x390
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                PROVIDE (__start___param, ABSOLUTE (.))
+ __param        0x00000000      0x1a4 fw_pos_control_l1_params.c.o
+ __param        0x000001a4      0x1ec mtecs/mTecs_params.c.o
+                0x00000390                PROVIDE (__stop___param, .)
+
+.rodata._ZTVN7control13BlockLimitSymE
+                0x00000000       0x20
+ .rodata._ZTVN7control13BlockLimitSymE
+                0x00000000       0x20 mtecs/mTecs.cpp.o
+                0x00000000                vtable for control::BlockLimitSym
+
+.rodata._ZTVN7control12BlockLowPassE
+                0x00000000       0x20
+ .rodata._ZTVN7control12BlockLowPassE
+                0x00000000       0x20 mtecs/mTecs.cpp.o
+                0x00000000                vtable for control::BlockLowPass
+
+.rodata._ZTVN7control13BlockIntegralE
+                0x00000000       0x20
+ .rodata._ZTVN7control13BlockIntegralE
+                0x00000000       0x20 mtecs/mTecs.cpp.o
+                0x00000000                vtable for control::BlockIntegral
+
+.rodata._ZTVN7control15BlockDerivativeE
+                0x00000000       0x20
+ .rodata._ZTVN7control15BlockDerivativeE
+                0x00000000       0x20 mtecs/mTecs.cpp.o
+                0x00000000                vtable for control::BlockDerivative
+
+.rodata._ZTVN9fwPosctrl18BlockOutputLimiterE
+                0x00000000       0x20
+ .rodata._ZTVN9fwPosctrl18BlockOutputLimiterE
+                0x00000000       0x20 mtecs/mTecs.cpp.o
+                0x00000000                vtable for fwPosctrl::BlockOutputLimiter
+
+.rodata._ZTVN9fwPosctrl16BlockFFPILimitedE
+                0x00000000       0x20
+ .rodata._ZTVN9fwPosctrl16BlockFFPILimitedE
+                0x00000000       0x20 mtecs/mTecs.cpp.o
+                0x00000000                vtable for fwPosctrl::BlockFFPILimited
+
+.rodata._ZTVN9fwPosctrl22BlockFFPILimitedCustomE
+                0x00000000       0x20
+ .rodata._ZTVN9fwPosctrl22BlockFFPILimitedCustomE
+                0x00000000       0x20 mtecs/mTecs.cpp.o
+                0x00000000                vtable for fwPosctrl::BlockFFPILimitedCustom
+
+.rodata._ZTVN9fwPosctrl14BlockPDLimitedE
+                0x00000000       0x20
+ .rodata._ZTVN9fwPosctrl14BlockPDLimitedE
+                0x00000000       0x20 mtecs/mTecs.cpp.o
+                0x00000000                vtable for fwPosctrl::BlockPDLimited
+
+.rodata._ZTVN9fwPosctrl5mTecsE
+                0x00000000       0x20
+ .rodata._ZTVN9fwPosctrl5mTecsE
+                0x00000000       0x20 mtecs/mTecs.cpp.o
+                0x00000000                vtable for fwPosctrl::mTecs
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab
+ *(.ARM.extab)
+
+.ARM.exidx
+ *(.ARM.exidx)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got.plt)
+ *(.igot.plt)
+ *(.got)
+ *(.igot)
+
+.data           0x00000000        0x0
+ *(.data)
+ .data          0x00000000        0x0 fw_pos_control_l1_main.cpp.o
+ .data          0x00000000        0x0 fw_pos_control_l1_params.c.o
+ .data          0x00000000        0x0 landingslope.cpp.o
+ .data          0x00000000        0x0 mtecs/mTecs.cpp.o
+ .data          0x00000000        0x0 mtecs/limitoverride.cpp.o
+ .data          0x00000000        0x0 mtecs/mTecs_params.c.o
+
+.data._ZL13_control_task
+                0x00000000        0x4
+ .data._ZL13_control_task
+                0x00000000        0x4 fw_pos_control_l1_main.cpp.o
+
+.data1
+ *(.data1)
+
+.bss            0x00000000        0x0
+ *(.dynbss)
+ *(.bss)
+ .bss           0x00000000        0x0 fw_pos_control_l1_main.cpp.o
+ .bss           0x00000000        0x0 fw_pos_control_l1_params.c.o
+ .bss           0x00000000        0x0 landingslope.cpp.o
+ .bss           0x00000000        0x0 mtecs/mTecs.cpp.o
+ .bss           0x00000000        0x0 mtecs/limitoverride.cpp.o
+ .bss           0x00000000        0x0 mtecs/mTecs_params.c.o
+ *(COMMON)
+
+.bss._ZZN24FixedwingPositionControl16control_positionERKN4math6VectorILj2EEERKNS1_ILj3EEERK27position_setpoint_triplet_sE15was_in_deadband
+                0x00000000        0x1
+ .bss._ZZN24FixedwingPositionControl16control_positionERKN4math6VectorILj2EEERKNS1_ILj3EEERK27position_setpoint_triplet_sE15was_in_deadband
+                0x00000000        0x1 fw_pos_control_l1_main.cpp.o
+
+.bss._ZN10l1_control9g_controlE
+                0x00000000        0x4
+ .bss._ZN10l1_control9g_controlE
+                0x00000000        0x4 fw_pos_control_l1_main.cpp.o
+                0x00000000                l1_control::g_control
+
+.bss._ZZN24FixedwingPositionControl16control_positionERKN4math6VectorILj2EEERKNS1_ILj3EEERK27position_setpoint_triplet_sE9last_sent
+                0x00000000        0x8
+ .bss._ZZN24FixedwingPositionControl16control_positionERKN4math6VectorILj2EEERKNS1_ILj3EEERK27position_setpoint_triplet_sE9last_sent
+                0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000      0x2a6
+ *(.comment)
+ .comment       0x00000000       0x71 fw_pos_control_l1_main.cpp.o
+ .comment       0x00000071       0x71 fw_pos_control_l1_params.c.o
+ .comment       0x000000e2       0x71 landingslope.cpp.o
+ .comment       0x00000153       0x71 mtecs/mTecs.cpp.o
+ .comment       0x000001c4       0x71 mtecs/limitoverride.cpp.o
+ .comment       0x00000235       0x71 mtecs/mTecs_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 fw_pos_control_l1_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 landingslope.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 landingslope.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mtecs/mTecs.cpp.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x360
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000      0x150 fw_pos_control_l1_main.cpp.o
+ .debug_aranges
+                0x00000150       0x18 fw_pos_control_l1_params.c.o
+ .debug_aranges
+                0x00000168       0x58 landingslope.cpp.o
+ .debug_aranges
+                0x000001c0      0x168 mtecs/mTecs.cpp.o
+ .debug_aranges
+                0x00000328       0x20 mtecs/limitoverride.cpp.o
+ .debug_aranges
+                0x00000348       0x18 mtecs/mTecs_params.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x1f6fe
+ *(.debug_info)
+ .debug_info    0x00000000     0xe426 fw_pos_control_l1_main.cpp.o
+ .debug_info    0x0000e426      0x39a fw_pos_control_l1_params.c.o
+ .debug_info    0x0000e7c0     0x6c9f landingslope.cpp.o
+ .debug_info    0x0001545f     0x93c7 mtecs/mTecs.cpp.o
+ .debug_info    0x0001e826      0xad7 mtecs/limitoverride.cpp.o
+ .debug_info    0x0001f2fd      0x401 mtecs/mTecs_params.c.o
+
+.debug_abbrev   0x00000000     0x1b67
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x9f1 fw_pos_control_l1_main.cpp.o
+ .debug_abbrev  0x000009f1       0xca fw_pos_control_l1_params.c.o
+ .debug_abbrev  0x00000abb      0x4f7 landingslope.cpp.o
+ .debug_abbrev  0x00000fb2      0x7bc mtecs/mTecs.cpp.o
+ .debug_abbrev  0x0000176e      0x32f mtecs/limitoverride.cpp.o
+ .debug_abbrev  0x00001a9d       0xca mtecs/mTecs_params.c.o
+
+.debug_line     0x00000000     0x5bdd
+ *(.debug_line)
+ .debug_line    0x00000000     0x26ee fw_pos_control_l1_main.cpp.o
+ .debug_line    0x000026ee      0x2e3 fw_pos_control_l1_params.c.o
+ .debug_line    0x000029d1     0x10c4 landingslope.cpp.o
+ .debug_line    0x00003a95     0x1736 mtecs/mTecs.cpp.o
+ .debug_line    0x000051cb      0x735 mtecs/limitoverride.cpp.o
+ .debug_line    0x00005900      0x2dd mtecs/mTecs_params.c.o
+
+.debug_frame    0x00000000      0xa08
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x43c fw_pos_control_l1_main.cpp.o
+ .debug_frame   0x0000043c      0x100 landingslope.cpp.o
+ .debug_frame   0x0000053c      0x4a0 mtecs/mTecs.cpp.o
+ .debug_frame   0x000009dc       0x2c mtecs/limitoverride.cpp.o
+
+.debug_str      0x00000000    0x84935
+ *(.debug_str)
+ .debug_str     0x00000000    0x50c36 fw_pos_control_l1_main.cpp.o
+ .debug_str     0x00050c36     0x5a94 fw_pos_control_l1_params.c.o
+ .debug_str     0x000566ca    0x1182a landingslope.cpp.o
+ .debug_str     0x00067ef4     0xf8c9 mtecs/mTecs.cpp.o
+ .debug_str     0x000777bd     0x76b6 mtecs/limitoverride.cpp.o
+ .debug_str     0x0007ee73     0x5ac2 mtecs/mTecs_params.c.o
+
+.debug_loc      0x00000000     0x43b0
+ *(.debug_loc)
+ .debug_loc     0x00000000     0x237a fw_pos_control_l1_main.cpp.o
+ .debug_loc     0x0000237a      0x662 landingslope.cpp.o
+ .debug_loc     0x000029dc     0x1873 mtecs/mTecs.cpp.o
+ .debug_loc     0x0000424f      0x161 mtecs/limitoverride.cpp.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0xbf0
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x828 fw_pos_control_l1_main.cpp.o
+ .debug_ranges  0x00000828       0x78 landingslope.cpp.o
+ .debug_ranges  0x000008a0      0x328 mtecs/mTecs.cpp.o
+ .debug_ranges  0x00000bc8       0x28 mtecs/limitoverride.cpp.o
+
+.stack
+ *(.stack)
+
+.ARM.attributes
+                0x00000000       0x37
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x37 fw_pos_control_l1_main.cpp.o
+ .ARM.attributes
+                0x00000037       0x37 fw_pos_control_l1_params.c.o
+ .ARM.attributes
+                0x0000006e       0x37 landingslope.cpp.o
+ .ARM.attributes
+                0x000000a5       0x37 mtecs/mTecs.cpp.o
+ .ARM.attributes
+                0x000000dc       0x37 mtecs/limitoverride.cpp.o
+ .ARM.attributes
+                0x00000113       0x37 mtecs/mTecs_params.c.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+OUTPUT(/misc/shome/ex36/pixhawk/px4/Firmware/Build/px4fmu-v2_default.build//misc/shome/ex36/pixhawk/px4/Firmware/src/modules/fw_pos_control_l1/module.pre.o elf32-littlearm)
+
+.debug_macro    0x00000000     0x10d7
+ .debug_macro   0x00000000      0x7b3 fw_pos_control_l1_main.cpp.o
+ .debug_macro   0x000007b3       0x7d fw_pos_control_l1_params.c.o
+ .debug_macro   0x00000830      0x38f landingslope.cpp.o
+ .debug_macro   0x00000bbf      0x34d mtecs/mTecs.cpp.o
+ .debug_macro   0x00000f0c      0x14e mtecs/limitoverride.cpp.o
+ .debug_macro   0x0000105a       0x7d mtecs/mTecs_params.c.o
+
+.debug_macro    0x00000000      0x838
+ .debug_macro   0x00000000      0x838 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x8a6
+ .debug_macro   0x00000000      0x8a6 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x88
+ .debug_macro   0x00000000       0x88 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x125
+ .debug_macro   0x00000000      0x125 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x5d
+ .debug_macro   0x00000000       0x5d fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x49
+ .debug_macro   0x00000000       0x49 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x106
+ .debug_macro   0x00000000      0x106 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x23
+ .debug_macro   0x00000000       0x23 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0xd1
+ .debug_macro   0x00000000       0xd1 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x98
+ .debug_macro   0x00000000       0x98 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x11b
+ .debug_macro   0x00000000      0x11b fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x27f
+ .debug_macro   0x00000000      0x27f fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x195
+ .debug_macro   0x00000000      0x195 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x8a
+ .debug_macro   0x00000000       0x8a fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x39
+ .debug_macro   0x00000000       0x39 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0xb4
+ .debug_macro   0x00000000       0xb4 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x41
+ .debug_macro   0x00000000       0x41 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x4d
+ .debug_macro   0x00000000       0x4d fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x5e
+ .debug_macro   0x00000000       0x5e fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x14d
+ .debug_macro   0x00000000      0x14d fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x6c1
+ .debug_macro   0x00000000      0x6c1 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x3a
+ .debug_macro   0x00000000       0x3a fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x27
+ .debug_macro   0x00000000       0x27 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0xa3
+ .debug_macro   0x00000000       0xa3 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x281
+ .debug_macro   0x00000000      0x281 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x18
+ .debug_macro   0x00000000       0x18 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x9a
+ .debug_macro   0x00000000       0x9a fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x1cf
+ .debug_macro   0x00000000      0x1cf fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x16c
+ .debug_macro   0x00000000      0x16c fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x29
+ .debug_macro   0x00000000       0x29 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x88
+ .debug_macro   0x00000000       0x88 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x64
+ .debug_macro   0x00000000       0x64 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x78
+ .debug_macro   0x00000000       0x78 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x6cb
+ .debug_macro   0x00000000      0x6cb fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x20a
+ .debug_macro   0x00000000      0x20a fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0xf6f
+ .debug_macro   0x00000000      0xf6f fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x2ab
+ .debug_macro   0x00000000      0x2ab fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x8b5
+ .debug_macro   0x00000000      0x8b5 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x78
+ .debug_macro   0x00000000       0x78 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x7ca
+ .debug_macro   0x00000000      0x7ca fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0xff
+ .debug_macro   0x00000000       0xff fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0xae7
+ .debug_macro   0x00000000      0xae7 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x51
+ .debug_macro   0x00000000       0x51 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x11a
+ .debug_macro   0x00000000      0x11a fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x1d
+ .debug_macro   0x00000000       0x1d fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x206
+ .debug_macro   0x00000000      0x206 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x56a
+ .debug_macro   0x00000000      0x56a fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x9c
+ .debug_macro   0x00000000       0x9c fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x2bf
+ .debug_macro   0x00000000      0x2bf fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0xd3
+ .debug_macro   0x00000000       0xd3 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x34
+ .debug_macro   0x00000000       0x34 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0xab0
+ .debug_macro   0x00000000      0xab0 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x17
+ .debug_macro   0x00000000       0x17 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x6fa
+ .debug_macro   0x00000000      0x6fa fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x596
+ .debug_macro   0x00000000      0x596 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x29b
+ .debug_macro   0x00000000      0x29b fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000     0x15a4
+ .debug_macro   0x00000000     0x15a4 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x53
+ .debug_macro   0x00000000       0x53 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x347
+ .debug_macro   0x00000000      0x347 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x96
+ .debug_macro   0x00000000       0x96 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x413
+ .debug_macro   0x00000000      0x413 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x5f
+ .debug_macro   0x00000000       0x5f fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x1d
+ .debug_macro   0x00000000       0x1d fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0xdf
+ .debug_macro   0x00000000       0xdf fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x13f
+ .debug_macro   0x00000000      0x13f fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0xdb4
+ .debug_macro   0x00000000      0xdb4 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x215
+ .debug_macro   0x00000000      0x215 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x2b
+ .debug_macro   0x00000000       0x2b fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x168
+ .debug_macro   0x00000000      0x168 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x30
+ .debug_macro   0x00000000       0x30 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x20
+ .debug_macro   0x00000000       0x20 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x3b
+ .debug_macro   0x00000000       0x3b fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x2d
+ .debug_macro   0x00000000       0x2d fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x42
+ .debug_macro   0x00000000       0x42 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0xac
+ .debug_macro   0x00000000       0xac fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x4d
+ .debug_macro   0x00000000       0x4d fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 fw_pos_control_l1_main.cpp.o
+
+.debug_macro    0x00000000      0x81a
+ .debug_macro   0x00000000      0x81a fw_pos_control_l1_params.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 fw_pos_control_l1_params.c.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 fw_pos_control_l1_params.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 fw_pos_control_l1_params.c.o
+
+.debug_macro    0x00000000       0x6f
+ .debug_macro   0x00000000       0x6f fw_pos_control_l1_params.c.o
+
+.debug_macro    0x00000000       0x25
+ .debug_macro   0x00000000       0x25 fw_pos_control_l1_params.c.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 landingslope.cpp.o
+
+.debug_macro    0x00000000       0xa5
+ .debug_macro   0x00000000       0xa5 landingslope.cpp.o
+
+.debug_macro    0x00000000       0x53
+ .debug_macro   0x00000000       0x53 mtecs/mTecs.cpp.o
+
+.debug_macro    0x00000000       0x63
+ .debug_macro   0x00000000       0x63 mtecs/mTecs.cpp.o
+
+.debug_macro    0x00000000       0x43
+ .debug_macro   0x00000000       0x43 mtecs/mTecs.cpp.o
+
+.debug_macro    0x00000000       0x12
+ .debug_macro   0x00000000       0x12 mtecs/mTecs.cpp.o
+
+.debug_macro    0x00000000      0x10c
+ .debug_macro   0x00000000      0x10c mtecs/mTecs.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 mtecs/mTecs.cpp.o
+
+.debug_macro    0x00000000       0x53
+ .debug_macro   0x00000000       0x53 mtecs/mTecs.cpp.o

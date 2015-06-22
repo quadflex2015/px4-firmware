@@ -1,0 +1,2 @@
+sh /etc/init.d/rc.rover_defaults
+set MIXER IO_pass

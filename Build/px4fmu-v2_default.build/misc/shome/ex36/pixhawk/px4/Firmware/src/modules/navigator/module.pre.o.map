@@ -1,0 +1,3662 @@
+
+Discarded input sections
+
+ .group         0x00000000        0x8 navigator_params.c.o
+ .group         0x00000000        0x8 navigator_params.c.o
+ .group         0x00000000        0x8 navigator_params.c.o
+ .group         0x00000000        0x8 navigator_params.c.o
+ .group         0x00000000        0x8 navigator_params.c.o
+ .debug_macro   0x00000000      0x8a6 navigator_params.c.o
+ .debug_macro   0x00000000       0x10 navigator_params.c.o
+ .debug_macro   0x00000000       0x88 navigator_params.c.o
+ .debug_macro   0x00000000      0x14e navigator_params.c.o
+ .debug_macro   0x00000000      0x125 navigator_params.c.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+ .text._ZN7control10SuperBlock12updateParamsEv
+                0x00000000       0x18 navigator_mode.cpp.o
+ .text._ZN7control10SuperBlock19updateSubscriptionsEv
+                0x00000000       0x18 navigator_mode.cpp.o
+ .text._ZN7control10SuperBlock18updatePublicationsEv
+                0x00000000       0x18 navigator_mode.cpp.o
+ .debug_macro   0x00000000      0x838 navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x22 navigator_mode.cpp.o
+ .debug_macro   0x00000000      0x8a6 navigator_mode.cpp.o
+ .debug_macro   0x00000000       0xc9 navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x10 navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x88 navigator_mode.cpp.o
+ .debug_macro   0x00000000      0x14e navigator_mode.cpp.o
+ .debug_macro   0x00000000      0x125 navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x5d navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x49 navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x4c navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x59 navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x5e navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x3a navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x10 navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x27 navigator_mode.cpp.o
+ .debug_macro   0x00000000       0xa3 navigator_mode.cpp.o
+ .debug_macro   0x00000000      0x281 navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x2b navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x29 navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x16 navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x58 navigator_mode.cpp.o
+ .debug_macro   0x00000000      0x168 navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x23 navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x28 navigator_mode.cpp.o
+ .debug_macro   0x00000000       0xd1 navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x98 navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x16 navigator_mode.cpp.o
+ .debug_macro   0x00000000      0x11b navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x46 navigator_mode.cpp.o
+ .debug_macro   0x00000000      0x27f navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x10 navigator_mode.cpp.o
+ .debug_macro   0x00000000      0x195 navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x8a navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x10 navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x10 navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x39 navigator_mode.cpp.o
+ .debug_macro   0x00000000       0xb4 navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x41 navigator_mode.cpp.o
+ .debug_macro   0x00000000       0x30 navigator_mode.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .group         0x00000000        0x8 mission_block.cpp.o
+ .text._ZN7control10SuperBlock12updateParamsEv
+                0x00000000       0x18 mission_block.cpp.o
+ .text._ZN7control10SuperBlock19updateSubscriptionsEv
+                0x00000000       0x18 mission_block.cpp.o
+ .text._ZN7control10SuperBlock18updatePublicationsEv
+                0x00000000       0x18 mission_block.cpp.o
+ .debug_macro   0x00000000      0x838 mission_block.cpp.o
+ .debug_macro   0x00000000       0x22 mission_block.cpp.o
+ .debug_macro   0x00000000      0x8a6 mission_block.cpp.o
+ .debug_macro   0x00000000       0xc9 mission_block.cpp.o
+ .debug_macro   0x00000000       0x10 mission_block.cpp.o
+ .debug_macro   0x00000000       0x88 mission_block.cpp.o
+ .debug_macro   0x00000000      0x14e mission_block.cpp.o
+ .debug_macro   0x00000000      0x125 mission_block.cpp.o
+ .debug_macro   0x00000000       0x5d mission_block.cpp.o
+ .debug_macro   0x00000000       0x22 mission_block.cpp.o
+ .debug_macro   0x00000000       0x5e mission_block.cpp.o
+ .debug_macro   0x00000000       0xd1 mission_block.cpp.o
+ .debug_macro   0x00000000       0x3a mission_block.cpp.o
+ .debug_macro   0x00000000       0x10 mission_block.cpp.o
+ .debug_macro   0x00000000       0x27 mission_block.cpp.o
+ .debug_macro   0x00000000       0xa3 mission_block.cpp.o
+ .debug_macro   0x00000000      0x281 mission_block.cpp.o
+ .debug_macro   0x00000000      0x168 mission_block.cpp.o
+ .debug_macro   0x00000000       0x58 mission_block.cpp.o
+ .debug_macro   0x00000000       0x16 mission_block.cpp.o
+ .debug_macro   0x00000000       0x29 mission_block.cpp.o
+ .debug_macro   0x00000000       0x2b mission_block.cpp.o
+ .debug_macro   0x00000000       0x4c mission_block.cpp.o
+ .debug_macro   0x00000000       0x49 mission_block.cpp.o
+ .debug_macro   0x00000000      0x106 mission_block.cpp.o
+ .debug_macro   0x00000000       0x23 mission_block.cpp.o
+ .debug_macro   0x00000000       0x28 mission_block.cpp.o
+ .debug_macro   0x00000000       0x98 mission_block.cpp.o
+ .debug_macro   0x00000000       0x16 mission_block.cpp.o
+ .debug_macro   0x00000000       0x59 mission_block.cpp.o
+ .debug_macro   0x00000000      0x11b mission_block.cpp.o
+ .debug_macro   0x00000000       0x46 mission_block.cpp.o
+ .debug_macro   0x00000000      0x27f mission_block.cpp.o
+ .debug_macro   0x00000000       0x10 mission_block.cpp.o
+ .debug_macro   0x00000000      0x195 mission_block.cpp.o
+ .debug_macro   0x00000000       0x8a mission_block.cpp.o
+ .debug_macro   0x00000000       0x10 mission_block.cpp.o
+ .debug_macro   0x00000000       0x10 mission_block.cpp.o
+ .debug_macro   0x00000000       0x39 mission_block.cpp.o
+ .debug_macro   0x00000000       0xb4 mission_block.cpp.o
+ .debug_macro   0x00000000       0x41 mission_block.cpp.o
+ .debug_macro   0x00000000       0x30 mission_block.cpp.o
+ .debug_macro   0x00000000       0x22 mission_block.cpp.o
+ .debug_macro   0x00000000       0x9a mission_block.cpp.o
+ .debug_macro   0x00000000      0x1cf mission_block.cpp.o
+ .debug_macro   0x00000000      0x16c mission_block.cpp.o
+ .debug_macro   0x00000000       0x16 mission_block.cpp.o
+ .debug_macro   0x00000000       0x18 mission_block.cpp.o
+ .debug_macro   0x00000000       0x10 mission_block.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .group         0x00000000        0x8 mission.cpp.o
+ .text._ZN7control10SuperBlock12updateParamsEv
+                0x00000000       0x18 mission.cpp.o
+ .text._ZN7control10SuperBlock19updateSubscriptionsEv
+                0x00000000       0x18 mission.cpp.o
+ .text._ZN7control10SuperBlock18updatePublicationsEv
+                0x00000000       0x18 mission.cpp.o
+ .debug_macro   0x00000000      0x838 mission.cpp.o
+ .debug_macro   0x00000000       0x22 mission.cpp.o
+ .debug_macro   0x00000000      0x8a6 mission.cpp.o
+ .debug_macro   0x00000000       0xc9 mission.cpp.o
+ .debug_macro   0x00000000       0x10 mission.cpp.o
+ .debug_macro   0x00000000       0x88 mission.cpp.o
+ .debug_macro   0x00000000      0x14e mission.cpp.o
+ .debug_macro   0x00000000      0x125 mission.cpp.o
+ .debug_macro   0x00000000       0x5d mission.cpp.o
+ .debug_macro   0x00000000       0x22 mission.cpp.o
+ .debug_macro   0x00000000       0x5e mission.cpp.o
+ .debug_macro   0x00000000       0xd1 mission.cpp.o
+ .debug_macro   0x00000000      0x168 mission.cpp.o
+ .debug_macro   0x00000000       0x18 mission.cpp.o
+ .debug_macro   0x00000000       0x49 mission.cpp.o
+ .debug_macro   0x00000000       0x4c mission.cpp.o
+ .debug_macro   0x00000000       0x29 mission.cpp.o
+ .debug_macro   0x00000000       0x16 mission.cpp.o
+ .debug_macro   0x00000000       0x58 mission.cpp.o
+ .debug_macro   0x00000000       0x2b mission.cpp.o
+ .debug_macro   0x00000000      0x10c mission.cpp.o
+ .debug_macro   0x00000000       0x23 mission.cpp.o
+ .debug_macro   0x00000000       0x28 mission.cpp.o
+ .debug_macro   0x00000000       0x98 mission.cpp.o
+ .debug_macro   0x00000000       0x16 mission.cpp.o
+ .debug_macro   0x00000000       0x59 mission.cpp.o
+ .debug_macro   0x00000000      0x11b mission.cpp.o
+ .debug_macro   0x00000000       0x46 mission.cpp.o
+ .debug_macro   0x00000000      0x27f mission.cpp.o
+ .debug_macro   0x00000000       0x10 mission.cpp.o
+ .debug_macro   0x00000000      0x195 mission.cpp.o
+ .debug_macro   0x00000000       0x8a mission.cpp.o
+ .debug_macro   0x00000000       0x10 mission.cpp.o
+ .debug_macro   0x00000000       0x10 mission.cpp.o
+ .debug_macro   0x00000000       0x39 mission.cpp.o
+ .debug_macro   0x00000000       0xb4 mission.cpp.o
+ .debug_macro   0x00000000       0x41 mission.cpp.o
+ .debug_macro   0x00000000       0x30 mission.cpp.o
+ .debug_macro   0x00000000       0x10 mission.cpp.o
+ .debug_macro   0x00000000       0x9a mission.cpp.o
+ .debug_macro   0x00000000      0x1cf mission.cpp.o
+ .debug_macro   0x00000000      0x16c mission.cpp.o
+ .debug_macro   0x00000000       0x16 mission.cpp.o
+ .debug_macro   0x00000000       0x47 mission.cpp.o
+ .debug_macro   0x00000000       0x22 mission.cpp.o
+ .debug_macro   0x00000000       0x3a mission.cpp.o
+ .debug_macro   0x00000000       0x10 mission.cpp.o
+ .debug_macro   0x00000000       0x27 mission.cpp.o
+ .debug_macro   0x00000000       0xa3 mission.cpp.o
+ .debug_macro   0x00000000      0x281 mission.cpp.o
+ .debug_macro   0x00000000       0x20 mission.cpp.o
+ .debug_macro   0x00000000       0x3b mission.cpp.o
+ .debug_macro   0x00000000       0x2d mission.cpp.o
+ .debug_macro   0x00000000       0x42 mission.cpp.o
+ .debug_macro   0x00000000       0xac mission.cpp.o
+ .group         0x00000000        0x8 mission_params.c.o
+ .group         0x00000000        0x8 mission_params.c.o
+ .group         0x00000000        0x8 mission_params.c.o
+ .group         0x00000000        0x8 mission_params.c.o
+ .group         0x00000000        0x8 mission_params.c.o
+ .group         0x00000000        0x8 mission_params.c.o
+ .group         0x00000000        0x8 mission_params.c.o
+ .group         0x00000000        0x8 mission_params.c.o
+ .group         0x00000000        0x8 mission_params.c.o
+ .group         0x00000000        0x8 mission_params.c.o
+ .group         0x00000000        0x8 mission_params.c.o
+ .debug_macro   0x00000000      0x81a mission_params.c.o
+ .debug_macro   0x00000000       0x22 mission_params.c.o
+ .debug_macro   0x00000000      0x8a6 mission_params.c.o
+ .debug_macro   0x00000000       0xc9 mission_params.c.o
+ .debug_macro   0x00000000       0x10 mission_params.c.o
+ .debug_macro   0x00000000       0x88 mission_params.c.o
+ .debug_macro   0x00000000      0x14e mission_params.c.o
+ .debug_macro   0x00000000      0x125 mission_params.c.o
+ .debug_macro   0x00000000       0x22 mission_params.c.o
+ .debug_macro   0x00000000       0x6f mission_params.c.o
+ .debug_macro   0x00000000       0x25 mission_params.c.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .group         0x00000000        0x8 loiter.cpp.o
+ .text._ZN7control10SuperBlock12updateParamsEv
+                0x00000000       0x18 loiter.cpp.o
+ .text._ZN7control10SuperBlock19updateSubscriptionsEv
+                0x00000000       0x18 loiter.cpp.o
+ .text._ZN7control10SuperBlock18updatePublicationsEv
+                0x00000000       0x18 loiter.cpp.o
+ .debug_macro   0x00000000      0x838 loiter.cpp.o
+ .debug_macro   0x00000000       0x22 loiter.cpp.o
+ .debug_macro   0x00000000      0x8a6 loiter.cpp.o
+ .debug_macro   0x00000000       0xc9 loiter.cpp.o
+ .debug_macro   0x00000000       0x10 loiter.cpp.o
+ .debug_macro   0x00000000       0x88 loiter.cpp.o
+ .debug_macro   0x00000000      0x14e loiter.cpp.o
+ .debug_macro   0x00000000      0x125 loiter.cpp.o
+ .debug_macro   0x00000000       0x5d loiter.cpp.o
+ .debug_macro   0x00000000       0x22 loiter.cpp.o
+ .debug_macro   0x00000000       0x5e loiter.cpp.o
+ .debug_macro   0x00000000       0x3a loiter.cpp.o
+ .debug_macro   0x00000000       0x10 loiter.cpp.o
+ .debug_macro   0x00000000       0x27 loiter.cpp.o
+ .debug_macro   0x00000000       0xa3 loiter.cpp.o
+ .debug_macro   0x00000000      0x281 loiter.cpp.o
+ .debug_macro   0x00000000      0x14d loiter.cpp.o
+ .debug_macro   0x00000000       0x9a loiter.cpp.o
+ .debug_macro   0x00000000      0x1cf loiter.cpp.o
+ .debug_macro   0x00000000      0x16c loiter.cpp.o
+ .debug_macro   0x00000000       0x16 loiter.cpp.o
+ .debug_macro   0x00000000       0x47 loiter.cpp.o
+ .debug_macro   0x00000000       0x58 loiter.cpp.o
+ .debug_macro   0x00000000       0x29 loiter.cpp.o
+ .debug_macro   0x00000000       0x59 loiter.cpp.o
+ .debug_macro   0x00000000       0x49 loiter.cpp.o
+ .debug_macro   0x00000000       0x18 loiter.cpp.o
+ .debug_macro   0x00000000       0x2b loiter.cpp.o
+ .debug_macro   0x00000000       0x4c loiter.cpp.o
+ .debug_macro   0x00000000       0x16 loiter.cpp.o
+ .debug_macro   0x00000000      0x168 loiter.cpp.o
+ .debug_macro   0x00000000      0x10c loiter.cpp.o
+ .debug_macro   0x00000000       0x23 loiter.cpp.o
+ .debug_macro   0x00000000       0x28 loiter.cpp.o
+ .debug_macro   0x00000000       0xd1 loiter.cpp.o
+ .debug_macro   0x00000000       0x98 loiter.cpp.o
+ .debug_macro   0x00000000       0x16 loiter.cpp.o
+ .debug_macro   0x00000000       0x10 loiter.cpp.o
+ .debug_macro   0x00000000      0x11b loiter.cpp.o
+ .debug_macro   0x00000000       0x46 loiter.cpp.o
+ .debug_macro   0x00000000      0x27f loiter.cpp.o
+ .debug_macro   0x00000000       0x10 loiter.cpp.o
+ .debug_macro   0x00000000      0x195 loiter.cpp.o
+ .debug_macro   0x00000000       0x8a loiter.cpp.o
+ .debug_macro   0x00000000       0x10 loiter.cpp.o
+ .debug_macro   0x00000000       0x10 loiter.cpp.o
+ .debug_macro   0x00000000       0x39 loiter.cpp.o
+ .debug_macro   0x00000000       0xb4 loiter.cpp.o
+ .debug_macro   0x00000000       0x41 loiter.cpp.o
+ .debug_macro   0x00000000       0x30 loiter.cpp.o
+ .debug_macro   0x00000000       0x10 loiter.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .group         0x00000000        0x8 rtl.cpp.o
+ .text._ZN7control10SuperBlock12updateParamsEv
+                0x00000000       0x18 rtl.cpp.o
+ .text._ZN7control10SuperBlock19updateSubscriptionsEv
+                0x00000000       0x18 rtl.cpp.o
+ .text._ZN7control10SuperBlock18updatePublicationsEv
+                0x00000000       0x18 rtl.cpp.o
+ .debug_macro   0x00000000      0x838 rtl.cpp.o
+ .debug_macro   0x00000000       0x22 rtl.cpp.o
+ .debug_macro   0x00000000      0x8a6 rtl.cpp.o
+ .debug_macro   0x00000000       0xc9 rtl.cpp.o
+ .debug_macro   0x00000000       0x10 rtl.cpp.o
+ .debug_macro   0x00000000       0x88 rtl.cpp.o
+ .debug_macro   0x00000000      0x14e rtl.cpp.o
+ .debug_macro   0x00000000      0x125 rtl.cpp.o
+ .debug_macro   0x00000000       0x5d rtl.cpp.o
+ .debug_macro   0x00000000       0x22 rtl.cpp.o
+ .debug_macro   0x00000000       0x5e rtl.cpp.o
+ .debug_macro   0x00000000       0x3a rtl.cpp.o
+ .debug_macro   0x00000000       0x10 rtl.cpp.o
+ .debug_macro   0x00000000       0x27 rtl.cpp.o
+ .debug_macro   0x00000000       0xa3 rtl.cpp.o
+ .debug_macro   0x00000000      0x281 rtl.cpp.o
+ .debug_macro   0x00000000      0x14d rtl.cpp.o
+ .debug_macro   0x00000000       0x9a rtl.cpp.o
+ .debug_macro   0x00000000      0x1cf rtl.cpp.o
+ .debug_macro   0x00000000      0x16c rtl.cpp.o
+ .debug_macro   0x00000000       0x16 rtl.cpp.o
+ .debug_macro   0x00000000       0x47 rtl.cpp.o
+ .debug_macro   0x00000000       0x58 rtl.cpp.o
+ .debug_macro   0x00000000       0x16 rtl.cpp.o
+ .debug_macro   0x00000000       0x29 rtl.cpp.o
+ .debug_macro   0x00000000       0x2b rtl.cpp.o
+ .debug_macro   0x00000000      0x168 rtl.cpp.o
+ .debug_macro   0x00000000       0x4c rtl.cpp.o
+ .debug_macro   0x00000000       0x49 rtl.cpp.o
+ .debug_macro   0x00000000      0x106 rtl.cpp.o
+ .debug_macro   0x00000000       0x23 rtl.cpp.o
+ .debug_macro   0x00000000       0x28 rtl.cpp.o
+ .debug_macro   0x00000000       0xd1 rtl.cpp.o
+ .debug_macro   0x00000000       0x98 rtl.cpp.o
+ .debug_macro   0x00000000       0x16 rtl.cpp.o
+ .debug_macro   0x00000000       0x59 rtl.cpp.o
+ .debug_macro   0x00000000      0x11b rtl.cpp.o
+ .debug_macro   0x00000000       0x46 rtl.cpp.o
+ .debug_macro   0x00000000      0x27f rtl.cpp.o
+ .debug_macro   0x00000000       0x10 rtl.cpp.o
+ .debug_macro   0x00000000      0x195 rtl.cpp.o
+ .debug_macro   0x00000000       0x8a rtl.cpp.o
+ .debug_macro   0x00000000       0x10 rtl.cpp.o
+ .debug_macro   0x00000000       0x10 rtl.cpp.o
+ .debug_macro   0x00000000       0x39 rtl.cpp.o
+ .debug_macro   0x00000000       0xb4 rtl.cpp.o
+ .debug_macro   0x00000000       0x41 rtl.cpp.o
+ .debug_macro   0x00000000       0x30 rtl.cpp.o
+ .debug_macro   0x00000000       0x22 rtl.cpp.o
+ .debug_macro   0x00000000       0x18 rtl.cpp.o
+ .debug_macro   0x00000000       0x10 rtl.cpp.o
+ .debug_macro   0x00000000       0x10 rtl.cpp.o
+ .group         0x00000000        0x8 rtl_params.c.o
+ .group         0x00000000        0x8 rtl_params.c.o
+ .group         0x00000000        0x8 rtl_params.c.o
+ .group         0x00000000        0x8 rtl_params.c.o
+ .group         0x00000000        0x8 rtl_params.c.o
+ .group         0x00000000        0x8 rtl_params.c.o
+ .group         0x00000000        0x8 rtl_params.c.o
+ .group         0x00000000        0x8 rtl_params.c.o
+ .group         0x00000000        0x8 rtl_params.c.o
+ .group         0x00000000        0x8 rtl_params.c.o
+ .group         0x00000000        0x8 rtl_params.c.o
+ .debug_macro   0x00000000      0x81a rtl_params.c.o
+ .debug_macro   0x00000000       0x22 rtl_params.c.o
+ .debug_macro   0x00000000      0x8a6 rtl_params.c.o
+ .debug_macro   0x00000000       0xc9 rtl_params.c.o
+ .debug_macro   0x00000000       0x10 rtl_params.c.o
+ .debug_macro   0x00000000       0x88 rtl_params.c.o
+ .debug_macro   0x00000000      0x14e rtl_params.c.o
+ .debug_macro   0x00000000      0x125 rtl_params.c.o
+ .debug_macro   0x00000000       0x22 rtl_params.c.o
+ .debug_macro   0x00000000       0x6f rtl_params.c.o
+ .debug_macro   0x00000000       0x25 rtl_params.c.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000      0x838 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x22 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000      0x8a6 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0xc9 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x10 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x88 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000      0x14e mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000      0x125 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x5d mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x29 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x16 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x58 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x2b mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000      0x168 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x4c mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x49 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000      0x106 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x23 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x28 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x98 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x16 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x59 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000      0x11b mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x46 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000      0x27f mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x10 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000      0x195 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x8a mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x10 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x10 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x39 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0xb4 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x41 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x30 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x10 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x5e mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x3a mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x10 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x27 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0xa3 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000      0x281 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x12 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x22 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x53 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x20 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x3b mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x2d mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x42 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x9a mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000      0x1cf mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000      0x16c mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x16 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000       0x47 mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000      0x14d mission_feasibility_checker.cpp.o
+ .debug_macro   0x00000000      0x6c1 mission_feasibility_checker.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .group         0x00000000        0x8 geofence.cpp.o
+ .text._ZN7control10SuperBlock12updateParamsEv
+                0x00000000       0x18 geofence.cpp.o
+ .text._ZN7control10SuperBlock19updateSubscriptionsEv
+                0x00000000       0x18 geofence.cpp.o
+ .text._ZN7control10SuperBlock18updatePublicationsEv
+                0x00000000       0x18 geofence.cpp.o
+ .debug_macro   0x00000000      0x838 geofence.cpp.o
+ .debug_macro   0x00000000       0x22 geofence.cpp.o
+ .debug_macro   0x00000000      0x8a6 geofence.cpp.o
+ .debug_macro   0x00000000       0xc9 geofence.cpp.o
+ .debug_macro   0x00000000       0x10 geofence.cpp.o
+ .debug_macro   0x00000000       0x88 geofence.cpp.o
+ .debug_macro   0x00000000      0x14e geofence.cpp.o
+ .debug_macro   0x00000000      0x125 geofence.cpp.o
+ .debug_macro   0x00000000       0x16 geofence.cpp.o
+ .debug_macro   0x00000000       0x29 geofence.cpp.o
+ .debug_macro   0x00000000       0x58 geofence.cpp.o
+ .debug_macro   0x00000000       0x2b geofence.cpp.o
+ .debug_macro   0x00000000      0x168 geofence.cpp.o
+ .debug_macro   0x00000000       0x4c geofence.cpp.o
+ .debug_macro   0x00000000       0x49 geofence.cpp.o
+ .debug_macro   0x00000000      0x106 geofence.cpp.o
+ .debug_macro   0x00000000       0x23 geofence.cpp.o
+ .debug_macro   0x00000000       0x28 geofence.cpp.o
+ .debug_macro   0x00000000       0xd1 geofence.cpp.o
+ .debug_macro   0x00000000       0x98 geofence.cpp.o
+ .debug_macro   0x00000000       0x16 geofence.cpp.o
+ .debug_macro   0x00000000       0x59 geofence.cpp.o
+ .debug_macro   0x00000000      0x11b geofence.cpp.o
+ .debug_macro   0x00000000       0x46 geofence.cpp.o
+ .debug_macro   0x00000000      0x27f geofence.cpp.o
+ .debug_macro   0x00000000       0x10 geofence.cpp.o
+ .debug_macro   0x00000000      0x195 geofence.cpp.o
+ .debug_macro   0x00000000       0x8a geofence.cpp.o
+ .debug_macro   0x00000000       0x10 geofence.cpp.o
+ .debug_macro   0x00000000       0x10 geofence.cpp.o
+ .debug_macro   0x00000000       0x39 geofence.cpp.o
+ .debug_macro   0x00000000       0xb4 geofence.cpp.o
+ .debug_macro   0x00000000       0x41 geofence.cpp.o
+ .debug_macro   0x00000000       0x30 geofence.cpp.o
+ .debug_macro   0x00000000       0x5e geofence.cpp.o
+ .debug_macro   0x00000000       0x3a geofence.cpp.o
+ .debug_macro   0x00000000       0x10 geofence.cpp.o
+ .debug_macro   0x00000000       0x27 geofence.cpp.o
+ .debug_macro   0x00000000       0xa3 geofence.cpp.o
+ .debug_macro   0x00000000      0x281 geofence.cpp.o
+ .debug_macro   0x00000000       0x12 geofence.cpp.o
+ .debug_macro   0x00000000       0x28 geofence.cpp.o
+ .debug_macro   0x00000000       0x10 geofence.cpp.o
+ .debug_macro   0x00000000       0x10 geofence.cpp.o
+ .debug_macro   0x00000000       0x53 geofence.cpp.o
+ .debug_macro   0x00000000       0x9a geofence.cpp.o
+ .debug_macro   0x00000000      0x1cf geofence.cpp.o
+ .debug_macro   0x00000000      0x16c geofence.cpp.o
+ .debug_macro   0x00000000       0x16 geofence.cpp.o
+ .debug_macro   0x00000000       0x47 geofence.cpp.o
+ .group         0x00000000        0x8 geofence_params.c.o
+ .group         0x00000000        0x8 geofence_params.c.o
+ .group         0x00000000        0x8 geofence_params.c.o
+ .group         0x00000000        0x8 geofence_params.c.o
+ .group         0x00000000        0x8 geofence_params.c.o
+ .group         0x00000000        0x8 geofence_params.c.o
+ .group         0x00000000        0x8 geofence_params.c.o
+ .group         0x00000000        0x8 geofence_params.c.o
+ .group         0x00000000        0x8 geofence_params.c.o
+ .group         0x00000000        0x8 geofence_params.c.o
+ .group         0x00000000        0x8 geofence_params.c.o
+ .debug_macro   0x00000000      0x81a geofence_params.c.o
+ .debug_macro   0x00000000       0x22 geofence_params.c.o
+ .debug_macro   0x00000000      0x8a6 geofence_params.c.o
+ .debug_macro   0x00000000       0xc9 geofence_params.c.o
+ .debug_macro   0x00000000       0x10 geofence_params.c.o
+ .debug_macro   0x00000000       0x88 geofence_params.c.o
+ .debug_macro   0x00000000      0x14e geofence_params.c.o
+ .debug_macro   0x00000000      0x125 geofence_params.c.o
+ .debug_macro   0x00000000       0x22 geofence_params.c.o
+ .debug_macro   0x00000000       0x6f geofence_params.c.o
+ .debug_macro   0x00000000       0x25 geofence_params.c.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss.cpp.o
+ .text._ZN7control10SuperBlock12updateParamsEv
+                0x00000000       0x18 datalinkloss.cpp.o
+ .text._ZN7control10SuperBlock19updateSubscriptionsEv
+                0x00000000       0x18 datalinkloss.cpp.o
+ .text._ZN7control10SuperBlock18updatePublicationsEv
+                0x00000000       0x18 datalinkloss.cpp.o
+ .debug_macro   0x00000000      0x838 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x22 datalinkloss.cpp.o
+ .debug_macro   0x00000000      0x8a6 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0xc9 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x10 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x88 datalinkloss.cpp.o
+ .debug_macro   0x00000000      0x14e datalinkloss.cpp.o
+ .debug_macro   0x00000000      0x125 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x5d datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x22 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x5e datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x3a datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x10 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x27 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0xa3 datalinkloss.cpp.o
+ .debug_macro   0x00000000      0x281 datalinkloss.cpp.o
+ .debug_macro   0x00000000      0x14d datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x9a datalinkloss.cpp.o
+ .debug_macro   0x00000000      0x1cf datalinkloss.cpp.o
+ .debug_macro   0x00000000      0x16c datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x16 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x47 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x58 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x16 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x29 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x2b datalinkloss.cpp.o
+ .debug_macro   0x00000000      0x168 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x4c datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x49 datalinkloss.cpp.o
+ .debug_macro   0x00000000      0x106 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x23 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x28 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0xd1 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x98 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x16 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x59 datalinkloss.cpp.o
+ .debug_macro   0x00000000      0x11b datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x46 datalinkloss.cpp.o
+ .debug_macro   0x00000000      0x27f datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x10 datalinkloss.cpp.o
+ .debug_macro   0x00000000      0x195 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x8a datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x10 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x10 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x39 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0xb4 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x41 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x30 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x22 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x18 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x10 datalinkloss.cpp.o
+ .debug_macro   0x00000000       0x10 datalinkloss.cpp.o
+ .group         0x00000000        0x8 datalinkloss_params.c.o
+ .group         0x00000000        0x8 datalinkloss_params.c.o
+ .group         0x00000000        0x8 datalinkloss_params.c.o
+ .group         0x00000000        0x8 datalinkloss_params.c.o
+ .group         0x00000000        0x8 datalinkloss_params.c.o
+ .group         0x00000000        0x8 datalinkloss_params.c.o
+ .group         0x00000000        0x8 datalinkloss_params.c.o
+ .group         0x00000000        0x8 datalinkloss_params.c.o
+ .group         0x00000000        0x8 datalinkloss_params.c.o
+ .group         0x00000000        0x8 datalinkloss_params.c.o
+ .group         0x00000000        0x8 datalinkloss_params.c.o
+ .debug_macro   0x00000000      0x81a datalinkloss_params.c.o
+ .debug_macro   0x00000000       0x22 datalinkloss_params.c.o
+ .debug_macro   0x00000000      0x8a6 datalinkloss_params.c.o
+ .debug_macro   0x00000000       0xc9 datalinkloss_params.c.o
+ .debug_macro   0x00000000       0x10 datalinkloss_params.c.o
+ .debug_macro   0x00000000       0x88 datalinkloss_params.c.o
+ .debug_macro   0x00000000      0x14e datalinkloss_params.c.o
+ .debug_macro   0x00000000      0x125 datalinkloss_params.c.o
+ .debug_macro   0x00000000       0x22 datalinkloss_params.c.o
+ .debug_macro   0x00000000       0x6f datalinkloss_params.c.o
+ .debug_macro   0x00000000       0x25 datalinkloss_params.c.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss.cpp.o
+ .text._ZN7control10SuperBlock12updateParamsEv
+                0x00000000       0x18 rcloss.cpp.o
+ .text._ZN7control10SuperBlock19updateSubscriptionsEv
+                0x00000000       0x18 rcloss.cpp.o
+ .text._ZN7control10SuperBlock18updatePublicationsEv
+                0x00000000       0x18 rcloss.cpp.o
+ .debug_macro   0x00000000      0x838 rcloss.cpp.o
+ .debug_macro   0x00000000       0x22 rcloss.cpp.o
+ .debug_macro   0x00000000      0x8a6 rcloss.cpp.o
+ .debug_macro   0x00000000       0xc9 rcloss.cpp.o
+ .debug_macro   0x00000000       0x10 rcloss.cpp.o
+ .debug_macro   0x00000000       0x88 rcloss.cpp.o
+ .debug_macro   0x00000000      0x14e rcloss.cpp.o
+ .debug_macro   0x00000000      0x125 rcloss.cpp.o
+ .debug_macro   0x00000000       0x5d rcloss.cpp.o
+ .debug_macro   0x00000000       0x22 rcloss.cpp.o
+ .debug_macro   0x00000000       0x5e rcloss.cpp.o
+ .debug_macro   0x00000000       0x3a rcloss.cpp.o
+ .debug_macro   0x00000000       0x10 rcloss.cpp.o
+ .debug_macro   0x00000000       0x27 rcloss.cpp.o
+ .debug_macro   0x00000000       0xa3 rcloss.cpp.o
+ .debug_macro   0x00000000      0x281 rcloss.cpp.o
+ .debug_macro   0x00000000      0x14d rcloss.cpp.o
+ .debug_macro   0x00000000       0x9a rcloss.cpp.o
+ .debug_macro   0x00000000      0x1cf rcloss.cpp.o
+ .debug_macro   0x00000000      0x16c rcloss.cpp.o
+ .debug_macro   0x00000000       0x16 rcloss.cpp.o
+ .debug_macro   0x00000000       0x47 rcloss.cpp.o
+ .debug_macro   0x00000000       0x58 rcloss.cpp.o
+ .debug_macro   0x00000000       0x16 rcloss.cpp.o
+ .debug_macro   0x00000000       0x29 rcloss.cpp.o
+ .debug_macro   0x00000000       0x2b rcloss.cpp.o
+ .debug_macro   0x00000000      0x168 rcloss.cpp.o
+ .debug_macro   0x00000000       0x4c rcloss.cpp.o
+ .debug_macro   0x00000000       0x49 rcloss.cpp.o
+ .debug_macro   0x00000000      0x106 rcloss.cpp.o
+ .debug_macro   0x00000000       0x23 rcloss.cpp.o
+ .debug_macro   0x00000000       0x28 rcloss.cpp.o
+ .debug_macro   0x00000000       0xd1 rcloss.cpp.o
+ .debug_macro   0x00000000       0x98 rcloss.cpp.o
+ .debug_macro   0x00000000       0x16 rcloss.cpp.o
+ .debug_macro   0x00000000       0x59 rcloss.cpp.o
+ .debug_macro   0x00000000      0x11b rcloss.cpp.o
+ .debug_macro   0x00000000       0x46 rcloss.cpp.o
+ .debug_macro   0x00000000      0x27f rcloss.cpp.o
+ .debug_macro   0x00000000       0x10 rcloss.cpp.o
+ .debug_macro   0x00000000      0x195 rcloss.cpp.o
+ .debug_macro   0x00000000       0x8a rcloss.cpp.o
+ .debug_macro   0x00000000       0x10 rcloss.cpp.o
+ .debug_macro   0x00000000       0x10 rcloss.cpp.o
+ .debug_macro   0x00000000       0x39 rcloss.cpp.o
+ .debug_macro   0x00000000       0xb4 rcloss.cpp.o
+ .debug_macro   0x00000000       0x41 rcloss.cpp.o
+ .debug_macro   0x00000000       0x30 rcloss.cpp.o
+ .debug_macro   0x00000000       0x22 rcloss.cpp.o
+ .debug_macro   0x00000000       0x18 rcloss.cpp.o
+ .debug_macro   0x00000000       0x10 rcloss.cpp.o
+ .debug_macro   0x00000000       0x10 rcloss.cpp.o
+ .group         0x00000000        0x8 rcloss_params.c.o
+ .group         0x00000000        0x8 rcloss_params.c.o
+ .group         0x00000000        0x8 rcloss_params.c.o
+ .group         0x00000000        0x8 rcloss_params.c.o
+ .group         0x00000000        0x8 rcloss_params.c.o
+ .group         0x00000000        0x8 rcloss_params.c.o
+ .group         0x00000000        0x8 rcloss_params.c.o
+ .group         0x00000000        0x8 rcloss_params.c.o
+ .group         0x00000000        0x8 rcloss_params.c.o
+ .group         0x00000000        0x8 rcloss_params.c.o
+ .group         0x00000000        0x8 rcloss_params.c.o
+ .debug_macro   0x00000000      0x81a rcloss_params.c.o
+ .debug_macro   0x00000000       0x22 rcloss_params.c.o
+ .debug_macro   0x00000000      0x8a6 rcloss_params.c.o
+ .debug_macro   0x00000000       0xc9 rcloss_params.c.o
+ .debug_macro   0x00000000       0x10 rcloss_params.c.o
+ .debug_macro   0x00000000       0x88 rcloss_params.c.o
+ .debug_macro   0x00000000      0x14e rcloss_params.c.o
+ .debug_macro   0x00000000      0x125 rcloss_params.c.o
+ .debug_macro   0x00000000       0x22 rcloss_params.c.o
+ .debug_macro   0x00000000       0x6f rcloss_params.c.o
+ .debug_macro   0x00000000       0x25 rcloss_params.c.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .group         0x00000000        0x8 enginefailure.cpp.o
+ .text._ZN7control10SuperBlock12updateParamsEv
+                0x00000000       0x18 enginefailure.cpp.o
+ .text._ZN7control10SuperBlock19updateSubscriptionsEv
+                0x00000000       0x18 enginefailure.cpp.o
+ .text._ZN7control10SuperBlock18updatePublicationsEv
+                0x00000000       0x18 enginefailure.cpp.o
+ .debug_macro   0x00000000      0x838 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x22 enginefailure.cpp.o
+ .debug_macro   0x00000000      0x8a6 enginefailure.cpp.o
+ .debug_macro   0x00000000       0xc9 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x10 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x88 enginefailure.cpp.o
+ .debug_macro   0x00000000      0x14e enginefailure.cpp.o
+ .debug_macro   0x00000000      0x125 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x5d enginefailure.cpp.o
+ .debug_macro   0x00000000       0x22 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x5e enginefailure.cpp.o
+ .debug_macro   0x00000000       0x3a enginefailure.cpp.o
+ .debug_macro   0x00000000       0x10 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x27 enginefailure.cpp.o
+ .debug_macro   0x00000000       0xa3 enginefailure.cpp.o
+ .debug_macro   0x00000000      0x281 enginefailure.cpp.o
+ .debug_macro   0x00000000      0x14d enginefailure.cpp.o
+ .debug_macro   0x00000000       0x9a enginefailure.cpp.o
+ .debug_macro   0x00000000      0x1cf enginefailure.cpp.o
+ .debug_macro   0x00000000      0x16c enginefailure.cpp.o
+ .debug_macro   0x00000000       0x16 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x47 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x58 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x16 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x29 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x2b enginefailure.cpp.o
+ .debug_macro   0x00000000      0x168 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x4c enginefailure.cpp.o
+ .debug_macro   0x00000000       0x49 enginefailure.cpp.o
+ .debug_macro   0x00000000      0x106 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x23 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x28 enginefailure.cpp.o
+ .debug_macro   0x00000000       0xd1 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x98 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x16 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x59 enginefailure.cpp.o
+ .debug_macro   0x00000000      0x11b enginefailure.cpp.o
+ .debug_macro   0x00000000       0x46 enginefailure.cpp.o
+ .debug_macro   0x00000000      0x27f enginefailure.cpp.o
+ .debug_macro   0x00000000       0x10 enginefailure.cpp.o
+ .debug_macro   0x00000000      0x195 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x8a enginefailure.cpp.o
+ .debug_macro   0x00000000       0x10 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x10 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x39 enginefailure.cpp.o
+ .debug_macro   0x00000000       0xb4 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x41 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x30 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x22 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x18 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x10 enginefailure.cpp.o
+ .debug_macro   0x00000000       0x10 enginefailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure.cpp.o
+ .text._ZN7control10SuperBlock12updateParamsEv
+                0x00000000       0x18 gpsfailure.cpp.o
+ .text._ZN7control10SuperBlock19updateSubscriptionsEv
+                0x00000000       0x18 gpsfailure.cpp.o
+ .text._ZN7control10SuperBlock18updatePublicationsEv
+                0x00000000       0x18 gpsfailure.cpp.o
+ .debug_macro   0x00000000      0x838 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x22 gpsfailure.cpp.o
+ .debug_macro   0x00000000      0x8a6 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0xc9 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x10 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x88 gpsfailure.cpp.o
+ .debug_macro   0x00000000      0x14e gpsfailure.cpp.o
+ .debug_macro   0x00000000      0x125 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x5d gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x22 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x5e gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x3a gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x10 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x27 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0xa3 gpsfailure.cpp.o
+ .debug_macro   0x00000000      0x281 gpsfailure.cpp.o
+ .debug_macro   0x00000000      0x14d gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x9a gpsfailure.cpp.o
+ .debug_macro   0x00000000      0x1cf gpsfailure.cpp.o
+ .debug_macro   0x00000000      0x16c gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x16 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x47 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x58 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x16 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x29 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x2b gpsfailure.cpp.o
+ .debug_macro   0x00000000      0x168 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x4c gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x49 gpsfailure.cpp.o
+ .debug_macro   0x00000000      0x106 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x23 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x28 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0xd1 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x98 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x16 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x59 gpsfailure.cpp.o
+ .debug_macro   0x00000000      0x11b gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x46 gpsfailure.cpp.o
+ .debug_macro   0x00000000      0x27f gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x10 gpsfailure.cpp.o
+ .debug_macro   0x00000000      0x195 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x8a gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x10 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x10 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x39 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0xb4 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x41 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x30 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x22 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x18 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x10 gpsfailure.cpp.o
+ .debug_macro   0x00000000       0x10 gpsfailure.cpp.o
+ .group         0x00000000        0x8 gpsfailure_params.c.o
+ .group         0x00000000        0x8 gpsfailure_params.c.o
+ .group         0x00000000        0x8 gpsfailure_params.c.o
+ .group         0x00000000        0x8 gpsfailure_params.c.o
+ .group         0x00000000        0x8 gpsfailure_params.c.o
+ .group         0x00000000        0x8 gpsfailure_params.c.o
+ .group         0x00000000        0x8 gpsfailure_params.c.o
+ .group         0x00000000        0x8 gpsfailure_params.c.o
+ .group         0x00000000        0x8 gpsfailure_params.c.o
+ .group         0x00000000        0x8 gpsfailure_params.c.o
+ .group         0x00000000        0x8 gpsfailure_params.c.o
+ .debug_macro   0x00000000      0x81a gpsfailure_params.c.o
+ .debug_macro   0x00000000       0x22 gpsfailure_params.c.o
+ .debug_macro   0x00000000      0x8a6 gpsfailure_params.c.o
+ .debug_macro   0x00000000       0xc9 gpsfailure_params.c.o
+ .debug_macro   0x00000000       0x10 gpsfailure_params.c.o
+ .debug_macro   0x00000000       0x88 gpsfailure_params.c.o
+ .debug_macro   0x00000000      0x14e gpsfailure_params.c.o
+ .debug_macro   0x00000000      0x125 gpsfailure_params.c.o
+ .debug_macro   0x00000000       0x22 gpsfailure_params.c.o
+ .debug_macro   0x00000000       0x6f gpsfailure_params.c.o
+ .debug_macro   0x00000000       0x25 gpsfailure_params.c.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD navigator_main.cpp.o
+LOAD navigator_params.c.o
+LOAD navigator_mode.cpp.o
+LOAD mission_block.cpp.o
+LOAD mission.cpp.o
+LOAD mission_params.c.o
+LOAD loiter.cpp.o
+LOAD rtl.cpp.o
+LOAD rtl_params.c.o
+LOAD mission_feasibility_checker.cpp.o
+LOAD geofence.cpp.o
+LOAD geofence_params.c.o
+LOAD datalinkloss.cpp.o
+LOAD datalinkloss_params.c.o
+LOAD rcloss.cpp.o
+LOAD rcloss_params.c.o
+LOAD enginefailure.cpp.o
+LOAD gpsfailure.cpp.o
+LOAD gpsfailure_params.c.o
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+
+.rela.text
+ *(.rela.text)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rel.data.rel.ro
+ *(.rel.data.rel.ro)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rel.data
+ *(.rel.data)
+
+.rela.data
+ *(.rela.data)
+
+.rel.tdata
+ *(.rel.tdata)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rel.tbss
+ *(.rel.tbss)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.iplt
+ *(.rel.iplt)
+
+.rela.iplt
+ *(.rela.iplt)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(.init)
+
+.plt
+ *(.plt)
+
+.iplt
+ *(.iplt)
+
+.text           0x00000000        0x0
+ *(.text .stub)
+ .text          0x00000000        0x0 navigator_main.cpp.o
+ .text          0x00000000        0x0 navigator_params.c.o
+ .text          0x00000000        0x0 navigator_mode.cpp.o
+ .text          0x00000000        0x0 mission_block.cpp.o
+ .text          0x00000000        0x0 mission.cpp.o
+ .text          0x00000000        0x0 mission_params.c.o
+ .text          0x00000000        0x0 loiter.cpp.o
+ .text          0x00000000        0x0 rtl.cpp.o
+ .text          0x00000000        0x0 rtl_params.c.o
+ .text          0x00000000        0x0 mission_feasibility_checker.cpp.o
+ .text          0x00000000        0x0 geofence.cpp.o
+ .text          0x00000000        0x0 geofence_params.c.o
+ .text          0x00000000        0x0 datalinkloss.cpp.o
+ .text          0x00000000        0x0 datalinkloss_params.c.o
+ .text          0x00000000        0x0 rcloss.cpp.o
+ .text          0x00000000        0x0 rcloss_params.c.o
+ .text          0x00000000        0x0 enginefailure.cpp.o
+ .text          0x00000000        0x0 gpsfailure.cpp.o
+ .text          0x00000000        0x0 gpsfailure_params.c.o
+ *(.gnu.warning)
+
+.text._ZN9Navigator22global_position_updateEv
+                0x00000000       0x14
+ .text._ZN9Navigator22global_position_updateEv
+                0x00000000       0x14 navigator_main.cpp.o
+                0x00000000                Navigator::global_position_update()
+
+.text._ZN9Navigator19gps_position_updateEv
+                0x00000000       0x14
+ .text._ZN9Navigator19gps_position_updateEv
+                0x00000000       0x14 navigator_main.cpp.o
+                0x00000000                Navigator::gps_position_update()
+
+.text._ZN9Navigator22sensor_combined_updateEv
+                0x00000000       0x14
+ .text._ZN9Navigator22sensor_combined_updateEv
+                0x00000000       0x14 navigator_main.cpp.o
+                0x00000000                Navigator::sensor_combined_update()
+
+.text._ZN9Navigator20home_position_updateEv
+                0x00000000       0x14
+ .text._ZN9Navigator20home_position_updateEv
+                0x00000000       0x14 navigator_main.cpp.o
+                0x00000000                Navigator::home_position_update()
+
+.text._ZN9Navigator30navigation_capabilities_updateEv
+                0x00000000       0x14
+ .text._ZN9Navigator30navigation_capabilities_updateEv
+                0x00000000       0x14 navigator_main.cpp.o
+                0x00000000                Navigator::navigation_capabilities_update()
+
+.text._ZN9Navigator21vehicle_status_updateEv
+                0x00000000       0x20
+ .text._ZN9Navigator21vehicle_status_updateEv
+                0x00000000       0x20 navigator_main.cpp.o
+                0x00000000                Navigator::vehicle_status_update()
+
+.text._ZN9Navigator27vehicle_control_mode_updateEv
+                0x00000000       0x24
+ .text._ZN9Navigator27vehicle_control_mode_updateEv
+                0x00000000       0x24 navigator_main.cpp.o
+                0x00000000                Navigator::vehicle_control_mode_update()
+
+.text._ZN9Navigator13params_updateEv
+                0x00000000       0x14
+ .text._ZN9Navigator13params_updateEv
+                0x00000000       0x14 navigator_main.cpp.o
+                0x00000000                Navigator::params_update()
+
+.text._ZN9Navigator5startEv
+                0x00000000       0x54
+ .text._ZN9Navigator5startEv
+                0x00000000       0x54 navigator_main.cpp.o
+                0x00000000                Navigator::start()
+
+.text._ZN9Navigator6statusEv
+                0x00000000       0x24
+ .text._ZN9Navigator6statusEv
+                0x00000000       0x24 navigator_main.cpp.o
+                0x00000000                Navigator::status()
+
+.text._ZN9Navigator33publish_position_setpoint_tripletEv
+                0x00000000       0x30
+ .text._ZN9Navigator33publish_position_setpoint_tripletEv
+                0x00000000       0x30 navigator_main.cpp.o
+                0x00000000                Navigator::publish_position_setpoint_triplet()
+
+.text._ZN9Navigator15add_fence_pointEiPPc
+                0x00000000        0x8
+ .text._ZN9Navigator15add_fence_pointEiPPc
+                0x00000000        0x8 navigator_main.cpp.o
+                0x00000000                Navigator::add_fence_point(int, char**)
+
+.text._ZN9Navigator20load_fence_from_fileEPKc
+                0x00000000        0x8
+ .text._ZN9Navigator20load_fence_from_fileEPKc
+                0x00000000        0x8 navigator_main.cpp.o
+                0x00000000                Navigator::load_fence_from_file(char const*)
+
+.text._ZN9Navigator22publish_mission_resultEv
+                0x00000000       0x3c
+ .text._ZN9Navigator22publish_mission_resultEv
+                0x00000000       0x3c navigator_main.cpp.o
+                0x00000000                Navigator::publish_mission_result()
+
+.text._ZN9Navigator23publish_geofence_resultEv
+                0x00000000       0x28
+ .text._ZN9Navigator23publish_geofence_resultEv
+                0x00000000       0x28 navigator_main.cpp.o
+                0x00000000                Navigator::publish_geofence_result()
+
+.text._ZN9Navigator9task_mainEv
+                0x00000000      0x400
+ .text._ZN9Navigator9task_mainEv
+                0x00000000      0x400 navigator_main.cpp.o
+                0x00000000                Navigator::task_main()
+
+.text._ZN9Navigator20task_main_trampolineEiPPc
+                0x00000000       0x10
+ .text._ZN9Navigator20task_main_trampolineEiPPc
+                0x00000000       0x10 navigator_main.cpp.o
+                0x00000000                Navigator::task_main_trampoline(int, char**)
+
+.text._ZN9Navigator14publish_att_spEv
+                0x00000000       0x28
+ .text._ZN9Navigator14publish_att_spEv
+                0x00000000       0x28 navigator_main.cpp.o
+                0x00000000                Navigator::publish_att_sp()
+
+.text._ZN9NavigatorD2Ev
+                0x00000000       0xac
+ .text._ZN9NavigatorD2Ev
+                0x00000000       0xac navigator_main.cpp.o
+                0x00000000                Navigator::~Navigator()
+                0x00000000                Navigator::~Navigator()
+
+.text._ZN9NavigatorD0Ev
+                0x00000000       0x12
+ .text._ZN9NavigatorD0Ev
+                0x00000000       0x12 navigator_main.cpp.o
+                0x00000000                Navigator::~Navigator()
+
+.text._ZN7control10SuperBlock12updateParamsEv
+                0x00000000       0x18
+ .text._ZN7control10SuperBlock12updateParamsEv
+                0x00000000       0x18 navigator_main.cpp.o
+                0x00000000                control::SuperBlock::updateParams()
+
+.text._ZN9NavigatorC2Ev
+                0x00000000      0x208
+ .text._ZN9NavigatorC2Ev
+                0x00000000      0x208 navigator_main.cpp.o
+                0x00000000                Navigator::Navigator()
+                0x00000000                Navigator::Navigator()
+
+.text.navigator_main
+                0x00000000      0x100
+ .text.navigator_main
+                0x00000000      0x100 navigator_main.cpp.o
+                0x00000000                navigator_main
+
+.text._ZN7control10SuperBlock19updateSubscriptionsEv
+                0x00000000       0x18
+ .text._ZN7control10SuperBlock19updateSubscriptionsEv
+                0x00000000       0x18 navigator_main.cpp.o
+                0x00000000                control::SuperBlock::updateSubscriptions()
+
+.text._ZN7control10SuperBlock18updatePublicationsEv
+                0x00000000       0x18
+ .text._ZN7control10SuperBlock18updatePublicationsEv
+                0x00000000       0x18 navigator_main.cpp.o
+                0x00000000                control::SuperBlock::updatePublications()
+
+.text._ZN13NavigatorModeD2Ev
+                0x00000000        0xc
+ .text._ZN13NavigatorModeD2Ev
+                0x00000000        0xc navigator_mode.cpp.o
+                0x00000000                NavigatorMode::~NavigatorMode()
+                0x00000000                NavigatorMode::~NavigatorMode()
+
+.text._ZN13NavigatorMode11on_inactiveEv
+                0x00000000        0x2
+ .text._ZN13NavigatorMode11on_inactiveEv
+                0x00000000        0x2 navigator_mode.cpp.o
+                0x00000000                NavigatorMode::on_inactive()
+
+.text._ZN13NavigatorMode13on_activationEv
+                0x00000000        0xa
+ .text._ZN13NavigatorMode13on_activationEv
+                0x00000000        0xa navigator_mode.cpp.o
+                0x00000000                NavigatorMode::on_activation()
+
+.text._ZN13NavigatorMode9on_activeEv
+                0x00000000        0x2
+ .text._ZN13NavigatorMode9on_activeEv
+                0x00000000        0x2 navigator_mode.cpp.o
+                0x00000000                NavigatorMode::on_active()
+
+.text._ZN13NavigatorModeD0Ev
+                0x00000000       0x14
+ .text._ZN13NavigatorModeD0Ev
+                0x00000000       0x14 navigator_mode.cpp.o
+                0x00000000                NavigatorMode::~NavigatorMode()
+
+.text._ZN13NavigatorMode3runEb
+                0x00000000       0x38
+ .text._ZN13NavigatorMode3runEb
+                0x00000000       0x38 navigator_mode.cpp.o
+                0x00000000                NavigatorMode::run(bool)
+
+.text._ZN13NavigatorModeC2EP9NavigatorPKc
+                0x00000000       0x28
+ .text._ZN13NavigatorModeC2EP9NavigatorPKc
+                0x00000000       0x28 navigator_mode.cpp.o
+                0x00000000                NavigatorMode::NavigatorMode(Navigator*, char const*)
+                0x00000000                NavigatorMode::NavigatorMode(Navigator*, char const*)
+
+.text._ZN12MissionBlockD2Ev
+                0x00000000       0x14
+ .text._ZN12MissionBlockD2Ev
+                0x00000000       0x14 mission_block.cpp.o
+                0x00000000                MissionBlock::~MissionBlock()
+                0x00000000                MissionBlock::~MissionBlock()
+
+.text._ZN12MissionBlockD0Ev
+                0x00000000       0x12
+ .text._ZN12MissionBlockD0Ev
+                0x00000000       0x12 mission_block.cpp.o
+                0x00000000                MissionBlock::~MissionBlock()
+
+.text._ZN12MissionBlockC2EP9NavigatorPKc
+                0x00000000       0x34
+ .text._ZN12MissionBlockC2EP9NavigatorPKc
+                0x00000000       0x34 mission_block.cpp.o
+                0x00000000                MissionBlock::MissionBlock(Navigator*, char const*)
+                0x00000000                MissionBlock::MissionBlock(Navigator*, char const*)
+
+.text._ZN12MissionBlock23is_mission_item_reachedEv
+                0x00000000      0x1c0
+ .text._ZN12MissionBlock23is_mission_item_reachedEv
+                0x00000000      0x1c0 mission_block.cpp.o
+                0x00000000                MissionBlock::is_mission_item_reached()
+
+.text._ZN12MissionBlock26reset_mission_item_reachedEv
+                0x00000000       0x14
+ .text._ZN12MissionBlock26reset_mission_item_reachedEv
+                0x00000000       0x14 mission_block.cpp.o
+                0x00000000                MissionBlock::reset_mission_item_reached()
+
+.text._ZN12MissionBlock33mission_item_to_position_setpointEPK14mission_item_sP19position_setpoint_s
+                0x00000000       0x6a
+ .text._ZN12MissionBlock33mission_item_to_position_setpointEPK14mission_item_sP19position_setpoint_s
+                0x00000000       0x6a mission_block.cpp.o
+                0x00000000                MissionBlock::mission_item_to_position_setpoint(mission_item_s const*, position_setpoint_s*)
+
+.text._ZN12MissionBlock25set_previous_pos_setpointEv
+                0x00000000       0x18
+ .text._ZN12MissionBlock25set_previous_pos_setpointEv
+                0x00000000       0x18 mission_block.cpp.o
+                0x00000000                MissionBlock::set_previous_pos_setpoint()
+
+.text._ZN12MissionBlock15set_loiter_itemEP14mission_item_s
+                0x00000000       0xa4
+ .text._ZN12MissionBlock15set_loiter_itemEP14mission_item_s
+                0x00000000       0xa4 mission_block.cpp.o
+                0x00000000                MissionBlock::set_loiter_item(mission_item_s*)
+
+.text._ZN7Mission22update_onboard_missionEv
+                0x00000000       0x4c
+ .text._ZN7Mission22update_onboard_missionEv
+                0x00000000       0x4c mission.cpp.o
+                0x00000000                Mission::update_onboard_mission()
+
+.text._ZN7Mission15advance_missionEv
+                0x00000000       0x34
+ .text._ZN7Mission15advance_missionEv
+                0x00000000       0x34 mission.cpp.o
+                0x00000000                Mission::advance_mission()
+
+.text._ZN7Mission14check_dist_1wpEv
+                0x00000000      0x13c
+ .text._ZN7Mission14check_dist_1wpEv
+                0x00000000      0x13c mission.cpp.o
+                0x00000000                Mission::check_dist_1wp()
+
+.text._ZN7Mission17heading_sp_updateEv
+                0x00000000       0xe4
+ .text._ZN7Mission17heading_sp_updateEv
+                0x00000000       0xe4 mission.cpp.o
+                0x00000000                Mission::heading_sp_update()
+
+.text._ZN7Mission22altitude_sp_foh_updateEv
+                0x00000000       0xba
+ .text._ZN7Mission22altitude_sp_foh_updateEv
+                0x00000000       0xba mission.cpp.o
+                0x00000000                Mission::altitude_sp_foh_update()
+
+.text._ZN7Mission21altitude_sp_foh_resetEv
+                0x00000000        0xc
+ .text._ZN7Mission21altitude_sp_foh_resetEv
+                0x00000000        0xc mission.cpp.o
+                0x00000000                Mission::altitude_sp_foh_reset()
+
+.text._ZN7Mission27save_offboard_mission_stateEv
+                0x00000000       0xa4
+ .text._ZN7Mission27save_offboard_mission_stateEv
+                0x00000000       0xa4 mission.cpp.o
+                0x00000000                Mission::save_offboard_mission_state()
+
+.text._ZN7Mission30report_do_jump_mission_changedEii
+                0x00000000       0x1e
+ .text._ZN7Mission30report_do_jump_mission_changedEii
+                0x00000000       0x1e mission.cpp.o
+                0x00000000                Mission::report_do_jump_mission_changed(int, int)
+
+.text._ZN7Mission17read_mission_itemEbbP14mission_item_s
+                0x00000000      0x114
+ .text._ZN7Mission17read_mission_itemEbbP14mission_item_s
+                0x00000000      0x114 mission.cpp.o
+                0x00000000                Mission::read_mission_item(bool, bool, mission_item_s*)
+
+.text._ZN7Mission24set_mission_item_reachedEv
+                0x00000000       0x22
+ .text._ZN7Mission24set_mission_item_reachedEv
+                0x00000000       0x22 mission.cpp.o
+                0x00000000                Mission::set_mission_item_reached()
+
+.text._ZN7Mission33set_current_offboard_mission_itemEv
+                0x00000000       0x24
+ .text._ZN7Mission33set_current_offboard_mission_itemEv
+                0x00000000       0x24 mission.cpp.o
+                0x00000000                Mission::set_current_offboard_mission_item()
+
+.text._ZN7Mission23update_offboard_missionEv
+                0x00000000       0x9c
+ .text._ZN7Mission23update_offboard_missionEv
+                0x00000000       0x9c mission.cpp.o
+                0x00000000                Mission::update_offboard_mission()
+
+.text._ZN7Mission11on_inactiveEv
+                0x00000000       0x62
+ .text._ZN7Mission11on_inactiveEv
+                0x00000000       0x62 mission.cpp.o
+                0x00000000                Mission::on_inactive()
+
+.text._ZN7Mission20set_mission_finishedEv
+                0x00000000       0x10
+ .text._ZN7Mission20set_mission_finishedEv
+                0x00000000       0x10 mission.cpp.o
+                0x00000000                Mission::set_mission_finished()
+
+.text._ZN7Mission17set_mission_itemsEv
+                0x00000000      0x32c
+ .text._ZN7Mission17set_mission_itemsEv
+                0x00000000      0x32c mission.cpp.o
+                0x00000000                Mission::set_mission_items()
+
+.text._ZN7Mission9on_activeEv
+                0x00000000       0xca
+ .text._ZN7Mission9on_activeEv
+                0x00000000       0xca mission.cpp.o
+                0x00000000                Mission::on_active()
+
+.text._ZN7Mission13on_activationEv
+                0x00000000        0x4
+ .text._ZN7Mission13on_activationEv
+                0x00000000        0x4 mission.cpp.o
+                0x00000000                Mission::on_activation()
+
+.text._ZN7MissionD2Ev
+                0x00000000       0x3c
+ .text._ZN7MissionD2Ev
+                0x00000000       0x3c mission.cpp.o
+                0x00000000                Mission::~Mission()
+                0x00000000                Mission::~Mission()
+
+.text._ZN7MissionD0Ev
+                0x00000000       0x12
+ .text._ZN7MissionD0Ev
+                0x00000000       0x12 mission.cpp.o
+                0x00000000                Mission::~Mission()
+
+.text._ZN7MissionC2EP9NavigatorPKc
+                0x00000000       0xd8
+ .text._ZN7MissionC2EP9NavigatorPKc
+                0x00000000       0xd8 mission.cpp.o
+                0x00000000                Mission::Mission(Navigator*, char const*)
+                0x00000000                Mission::Mission(Navigator*, char const*)
+
+.text._ZN6Loiter11on_inactiveEv
+                0x00000000        0x2
+ .text._ZN6Loiter11on_inactiveEv
+                0x00000000        0x2 loiter.cpp.o
+                0x00000000                Loiter::on_inactive()
+
+.text._ZN6Loiter9on_activeEv
+                0x00000000        0x2
+ .text._ZN6Loiter9on_activeEv
+                0x00000000        0x2 loiter.cpp.o
+                0x00000000                Loiter::on_active()
+
+.text._ZN6Loiter13on_activationEv
+                0x00000000       0x42
+ .text._ZN6Loiter13on_activationEv
+                0x00000000       0x42 loiter.cpp.o
+                0x00000000                Loiter::on_activation()
+
+.text._ZN6LoiterD2Ev
+                0x00000000       0x14
+ .text._ZN6LoiterD2Ev
+                0x00000000       0x14 loiter.cpp.o
+                0x00000000                Loiter::~Loiter()
+                0x00000000                Loiter::~Loiter()
+
+.text._ZN6LoiterD0Ev
+                0x00000000       0x12
+ .text._ZN6LoiterD0Ev
+                0x00000000       0x12 loiter.cpp.o
+                0x00000000                Loiter::~Loiter()
+
+.text._ZN6LoiterC2EP9NavigatorPKc
+                0x00000000       0x1c
+ .text._ZN6LoiterC2EP9NavigatorPKc
+                0x00000000       0x1c loiter.cpp.o
+                0x00000000                Loiter::Loiter(Navigator*, char const*)
+                0x00000000                Loiter::Loiter(Navigator*, char const*)
+
+.text._ZN3RTL11on_inactiveEv
+                0x00000000        0xe
+ .text._ZN3RTL11on_inactiveEv
+                0x00000000        0xe rtl.cpp.o
+                0x00000000                RTL::on_inactive()
+
+.text._ZN3RTL12set_rtl_itemEv
+                0x00000000      0x3d0
+ .text._ZN3RTL12set_rtl_itemEv
+                0x00000000      0x3d0 rtl.cpp.o
+                0x00000000                RTL::set_rtl_item()
+
+.text._ZN3RTL13on_activationEv
+                0x00000000       0x74
+ .text._ZN3RTL13on_activationEv
+                0x00000000       0x74 rtl.cpp.o
+                0x00000000                RTL::on_activation()
+
+.text._ZN3RTL11advance_rtlEv
+                0x00000000       0x68
+ .text._ZN3RTL11advance_rtlEv
+                0x00000000       0x68 rtl.cpp.o
+                0x00000000                RTL::advance_rtl()
+
+.text._ZN3RTL9on_activeEv
+                0x00000000       0x24
+ .text._ZN3RTL9on_activeEv
+                0x00000000       0x24 rtl.cpp.o
+                0x00000000                RTL::on_active()
+
+.text._ZN3RTLD2Ev
+                0x00000000       0x2c
+ .text._ZN3RTLD2Ev
+                0x00000000       0x2c rtl.cpp.o
+                0x00000000                RTL::~RTL()
+                0x00000000                RTL::~RTL()
+
+.text._ZN3RTLD0Ev
+                0x00000000       0x12
+ .text._ZN3RTLD0Ev
+                0x00000000       0x12 rtl.cpp.o
+                0x00000000                RTL::~RTL()
+
+.text._ZN3RTLC2EP9NavigatorPKc
+                0x00000000       0x5c
+ .text._ZN3RTLC2EP9NavigatorPKc
+                0x00000000       0x5c rtl.cpp.o
+                0x00000000                RTL::RTL(Navigator*, char const*)
+                0x00000000                RTL::RTL(Navigator*, char const*)
+
+.text._ZN25MissionFeasibilityCheckerC2Ev
+                0x00000000       0x1e
+ .text._ZN25MissionFeasibilityCheckerC2Ev
+                0x00000000       0x1e mission_feasibility_checker.cpp.o
+                0x00000000                MissionFeasibilityChecker::MissionFeasibilityChecker()
+                0x00000000                MissionFeasibilityChecker::MissionFeasibilityChecker()
+
+.text._ZN25MissionFeasibilityChecker13checkGeofenceE9dm_item_tjR8Geofence
+                0x00000000       0x64
+ .text._ZN25MissionFeasibilityChecker13checkGeofenceE9dm_item_tjR8Geofence
+                0x00000000       0x64 mission_feasibility_checker.cpp.o
+                0x00000000                MissionFeasibilityChecker::checkGeofence(dm_item_t, unsigned int, Geofence&)
+
+.text._ZN25MissionFeasibilityChecker25checkHomePositionAltitudeE9dm_item_tjfb
+                0x00000000       0x80
+ .text._ZN25MissionFeasibilityChecker25checkHomePositionAltitudeE9dm_item_tjfb
+                0x00000000       0x80 mission_feasibility_checker.cpp.o
+                0x00000000                MissionFeasibilityChecker::checkHomePositionAltitude(dm_item_t, unsigned int, float, bool)
+
+.text._ZN25MissionFeasibilityChecker30checkMissionFeasibleRotarywingE9dm_item_tjR8Geofencef
+                0x00000000       0x32
+ .text._ZN25MissionFeasibilityChecker30checkMissionFeasibleRotarywingE9dm_item_tjR8Geofencef
+                0x00000000       0x32 mission_feasibility_checker.cpp.o
+                0x00000000                MissionFeasibilityChecker::checkMissionFeasibleRotarywing(dm_item_t, unsigned int, Geofence&, float)
+
+.text._ZN25MissionFeasibilityChecker21checkFixedWingLandingE9dm_item_tj
+                0x00000000      0x134
+ .text._ZN25MissionFeasibilityChecker21checkFixedWingLandingE9dm_item_tj
+                0x00000000      0x134 mission_feasibility_checker.cpp.o
+                0x00000000                MissionFeasibilityChecker::checkFixedWingLanding(dm_item_t, unsigned int)
+
+.text._ZN25MissionFeasibilityChecker28updateNavigationCapabilitiesEv
+                0x00000000       0x10
+ .text._ZN25MissionFeasibilityChecker28updateNavigationCapabilitiesEv
+                0x00000000       0x10 mission_feasibility_checker.cpp.o
+                0x00000000                MissionFeasibilityChecker::updateNavigationCapabilities()
+
+.text._ZN25MissionFeasibilityChecker29checkMissionFeasibleFixedwingE9dm_item_tjR8Geofencef
+                0x00000000       0x58
+ .text._ZN25MissionFeasibilityChecker29checkMissionFeasibleFixedwingE9dm_item_tjR8Geofencef
+                0x00000000       0x58 mission_feasibility_checker.cpp.o
+                0x00000000                MissionFeasibilityChecker::checkMissionFeasibleFixedwing(dm_item_t, unsigned int, Geofence&, float)
+
+.text._ZN25MissionFeasibilityChecker4initEv
+                0x00000000       0x1c
+ .text._ZN25MissionFeasibilityChecker4initEv
+                0x00000000       0x1c mission_feasibility_checker.cpp.o
+                0x00000000                MissionFeasibilityChecker::init()
+
+.text._ZN25MissionFeasibilityChecker20checkMissionFeasibleEb9dm_item_tjR8Geofencef
+                0x00000000       0x58
+ .text._ZN25MissionFeasibilityChecker20checkMissionFeasibleEb9dm_item_tjR8Geofencef
+                0x00000000       0x58 mission_feasibility_checker.cpp.o
+                0x00000000                MissionFeasibilityChecker::checkMissionFeasible(bool, dm_item_t, unsigned int, Geofence&, float)
+
+.text._ZN8Geofence5validEv
+                0x00000000       0x20
+ .text._ZN8Geofence5validEv
+                0x00000000       0x20 geofence.cpp.o
+                0x00000000                Geofence::valid()
+
+.text._ZN8Geofence14inside_polygonEddf
+                0x00000000      0x172
+ .text._ZN8Geofence14inside_polygonEddf
+                0x00000000      0x172 geofence.cpp.o
+                0x00000000                Geofence::inside_polygon(double, double, float)
+
+.text._ZN8Geofence6insideEddf
+                0x00000000       0x30
+ .text._ZN8Geofence6insideEddf
+                0x00000000       0x30 geofence.cpp.o
+                0x00000000                Geofence::inside(double, double, float)
+
+.text._ZN8Geofence6insideERK25vehicle_global_position_sf
+                0x00000000       0x10
+ .text._ZN8Geofence6insideERK25vehicle_global_position_sf
+                0x00000000       0x10 geofence.cpp.o
+                0x00000000                Geofence::inside(vehicle_global_position_s const&, float)
+
+.text._ZN8Geofence6insideERK25vehicle_global_position_s
+                0x00000000       0x10
+ .text._ZN8Geofence6insideERK25vehicle_global_position_s
+                0x00000000       0x10 geofence.cpp.o
+                0x00000000                Geofence::inside(vehicle_global_position_s const&)
+
+.text._ZN8Geofence6insideERK25vehicle_global_position_sRK22vehicle_gps_position_sf
+                0x00000000      0x108
+ .text._ZN8Geofence6insideERK25vehicle_global_position_sRK22vehicle_gps_position_sf
+                0x00000000      0x108 geofence.cpp.o
+                0x00000000                Geofence::inside(vehicle_global_position_s const&, vehicle_gps_position_s const&, float)
+
+.text._ZN8Geofence12publishFenceEj
+                0x00000000       0x28
+ .text._ZN8Geofence12publishFenceEj
+                0x00000000       0x28 geofence.cpp.o
+                0x00000000                Geofence::publishFence(unsigned int)
+
+.text._ZN8Geofence8addPointEiPPc
+                0x00000000       0xe8
+ .text._ZN8Geofence8addPointEiPPc
+                0x00000000       0xe8 geofence.cpp.o
+                0x00000000                Geofence::addPoint(int, char**)
+
+.text._ZN8Geofence12loadFromFileEPKc
+                0x00000000      0x1f8
+ .text._ZN8Geofence12loadFromFileEPKc
+                0x00000000      0x1f8 geofence.cpp.o
+                0x00000000                Geofence::loadFromFile(char const*)
+
+.text._ZN8Geofence7clearDmEv
+                0x00000000        0xc
+ .text._ZN8Geofence7clearDmEv
+                0x00000000        0xc geofence.cpp.o
+                0x00000000                Geofence::clearDm()
+
+.text._ZN8GeofenceD2Ev
+                0x00000000       0x38
+ .text._ZN8GeofenceD2Ev
+                0x00000000       0x38 geofence.cpp.o
+                0x00000000                Geofence::~Geofence()
+                0x00000000                Geofence::~Geofence()
+
+.text._ZN8GeofenceD0Ev
+                0x00000000       0x12
+ .text._ZN8GeofenceD0Ev
+                0x00000000       0x12 geofence.cpp.o
+                0x00000000                Geofence::~Geofence()
+
+.text._ZN8GeofenceC2Ev
+                0x00000000       0x84
+ .text._ZN8GeofenceC2Ev
+                0x00000000       0x84 geofence.cpp.o
+                0x00000000                Geofence::Geofence()
+                0x00000000                Geofence::Geofence()
+
+.text._ZN12DataLinkLoss11on_inactiveEv
+                0x00000000        0xe
+ .text._ZN12DataLinkLoss11on_inactiveEv
+                0x00000000        0xe datalinkloss.cpp.o
+                0x00000000                DataLinkLoss::on_inactive()
+
+.text._ZN12DataLinkLoss12set_dll_itemEv
+                0x00000000      0x1d8
+ .text._ZN12DataLinkLoss12set_dll_itemEv
+                0x00000000      0x1d8 datalinkloss.cpp.o
+                0x00000000                DataLinkLoss::set_dll_item()
+
+.text._ZN12DataLinkLoss11advance_dllEv
+                0x00000000      0x12c
+ .text._ZN12DataLinkLoss11advance_dllEv
+                0x00000000      0x12c datalinkloss.cpp.o
+                0x00000000                DataLinkLoss::advance_dll()
+
+.text._ZN12DataLinkLoss9on_activeEv
+                0x00000000       0x24
+ .text._ZN12DataLinkLoss9on_activeEv
+                0x00000000       0x24 datalinkloss.cpp.o
+                0x00000000                DataLinkLoss::on_active()
+
+.text._ZN12DataLinkLoss13on_activationEv
+                0x00000000       0x20
+ .text._ZN12DataLinkLoss13on_activationEv
+                0x00000000       0x20 datalinkloss.cpp.o
+                0x00000000                DataLinkLoss::on_activation()
+
+.text._ZN12DataLinkLossD2Ev
+                0x00000000       0x68
+ .text._ZN12DataLinkLossD2Ev
+                0x00000000       0x68 datalinkloss.cpp.o
+                0x00000000                DataLinkLoss::~DataLinkLoss()
+                0x00000000                DataLinkLoss::~DataLinkLoss()
+
+.text._ZN12DataLinkLossD0Ev
+                0x00000000       0x12
+ .text._ZN12DataLinkLossD0Ev
+                0x00000000       0x12 datalinkloss.cpp.o
+                0x00000000                DataLinkLoss::~DataLinkLoss()
+
+.text._ZN12DataLinkLossC2EP9NavigatorPKc
+                0x00000000       0xdc
+ .text._ZN12DataLinkLossC2EP9NavigatorPKc
+                0x00000000       0xdc datalinkloss.cpp.o
+                0x00000000                DataLinkLoss::DataLinkLoss(Navigator*, char const*)
+                0x00000000                DataLinkLoss::DataLinkLoss(Navigator*, char const*)
+
+.text._ZN6RCLoss11on_inactiveEv
+                0x00000000        0xe
+ .text._ZN6RCLoss11on_inactiveEv
+                0x00000000        0xe rcloss.cpp.o
+                0x00000000                RCLoss::on_inactive()
+
+.text._ZN6RCLoss12set_rcl_itemEv
+                0x00000000       0xf8
+ .text._ZN6RCLoss12set_rcl_itemEv
+                0x00000000       0xf8 rcloss.cpp.o
+                0x00000000                RCLoss::set_rcl_item()
+
+.text._ZN6RCLoss11advance_rclEv
+                0x00000000       0xc4
+ .text._ZN6RCLoss11advance_rclEv
+                0x00000000       0xc4 rcloss.cpp.o
+                0x00000000                RCLoss::advance_rcl()
+
+.text._ZN6RCLoss9on_activeEv
+                0x00000000       0x24
+ .text._ZN6RCLoss9on_activeEv
+                0x00000000       0x24 rcloss.cpp.o
+                0x00000000                RCLoss::on_active()
+
+.text._ZN6RCLoss13on_activationEv
+                0x00000000       0x20
+ .text._ZN6RCLoss13on_activationEv
+                0x00000000       0x20 rcloss.cpp.o
+                0x00000000                RCLoss::on_activation()
+
+.text._ZN6RCLossD2Ev
+                0x00000000       0x1c
+ .text._ZN6RCLossD2Ev
+                0x00000000       0x1c rcloss.cpp.o
+                0x00000000                RCLoss::~RCLoss()
+                0x00000000                RCLoss::~RCLoss()
+
+.text._ZN6RCLossD0Ev
+                0x00000000       0x12
+ .text._ZN6RCLossD0Ev
+                0x00000000       0x12 rcloss.cpp.o
+                0x00000000                RCLoss::~RCLoss()
+
+.text._ZN6RCLossC2EP9NavigatorPKc
+                0x00000000       0x38
+ .text._ZN6RCLossC2EP9NavigatorPKc
+                0x00000000       0x38 rcloss.cpp.o
+                0x00000000                RCLoss::RCLoss(Navigator*, char const*)
+                0x00000000                RCLoss::RCLoss(Navigator*, char const*)
+
+.text._ZN13EngineFailure11on_inactiveEv
+                0x00000000        0x8
+ .text._ZN13EngineFailure11on_inactiveEv
+                0x00000000        0x8 enginefailure.cpp.o
+                0x00000000                EngineFailure::on_inactive()
+
+.text._ZN13EngineFailureD2Ev
+                0x00000000       0x14
+ .text._ZN13EngineFailureD2Ev
+                0x00000000       0x14 enginefailure.cpp.o
+                0x00000000                EngineFailure::~EngineFailure()
+                0x00000000                EngineFailure::~EngineFailure()
+
+.text._ZN13EngineFailureD0Ev
+                0x00000000       0x12
+ .text._ZN13EngineFailureD0Ev
+                0x00000000       0x12 enginefailure.cpp.o
+                0x00000000                EngineFailure::~EngineFailure()
+
+.text._ZN13EngineFailure11set_ef_itemEv
+                0x00000000       0xb0
+ .text._ZN13EngineFailure11set_ef_itemEv
+                0x00000000       0xb0 enginefailure.cpp.o
+                0x00000000                EngineFailure::set_ef_item()
+
+.text._ZN13EngineFailure10advance_efEv
+                0x00000000       0x24
+ .text._ZN13EngineFailure10advance_efEv
+                0x00000000       0x24 enginefailure.cpp.o
+                0x00000000                EngineFailure::advance_ef()
+
+.text._ZN13EngineFailure9on_activeEv
+                0x00000000       0x1c
+ .text._ZN13EngineFailure9on_activeEv
+                0x00000000       0x1c enginefailure.cpp.o
+                0x00000000                EngineFailure::on_active()
+
+.text._ZN13EngineFailure13on_activationEv
+                0x00000000       0x18
+ .text._ZN13EngineFailure13on_activationEv
+                0x00000000       0x18 enginefailure.cpp.o
+                0x00000000                EngineFailure::on_activation()
+
+.text._ZN13EngineFailureC2EP9NavigatorPKc
+                0x00000000       0x24
+ .text._ZN13EngineFailureC2EP9NavigatorPKc
+                0x00000000       0x24 enginefailure.cpp.o
+                0x00000000                EngineFailure::EngineFailure(Navigator*, char const*)
+                0x00000000                EngineFailure::EngineFailure(Navigator*, char const*)
+
+.text._ZN10GpsFailure11on_inactiveEv
+                0x00000000        0xe
+ .text._ZN10GpsFailure11on_inactiveEv
+                0x00000000        0xe gpsfailure.cpp.o
+                0x00000000                GpsFailure::on_inactive()
+
+.text._ZN10GpsFailure13set_gpsf_itemEv
+                0x00000000       0x44
+ .text._ZN10GpsFailure13set_gpsf_itemEv
+                0x00000000       0x44 gpsfailure.cpp.o
+                0x00000000                GpsFailure::set_gpsf_item()
+
+.text._ZN10GpsFailure12advance_gpsfEv
+                0x00000000       0x84
+ .text._ZN10GpsFailure12advance_gpsfEv
+                0x00000000       0x84 gpsfailure.cpp.o
+                0x00000000                GpsFailure::advance_gpsf()
+
+.text._ZN10GpsFailure9on_activeEv
+                0x00000000       0xc0
+ .text._ZN10GpsFailure9on_activeEv
+                0x00000000       0xc0 gpsfailure.cpp.o
+                0x00000000                GpsFailure::on_active()
+
+.text._ZN10GpsFailure13on_activationEv
+                0x00000000       0x2a
+ .text._ZN10GpsFailure13on_activationEv
+                0x00000000       0x2a gpsfailure.cpp.o
+                0x00000000                GpsFailure::on_activation()
+
+.text._ZN10GpsFailureD2Ev
+                0x00000000       0x34
+ .text._ZN10GpsFailureD2Ev
+                0x00000000       0x34 gpsfailure.cpp.o
+                0x00000000                GpsFailure::~GpsFailure()
+                0x00000000                GpsFailure::~GpsFailure()
+
+.text._ZN10GpsFailureD0Ev
+                0x00000000       0x12
+ .text._ZN10GpsFailureD0Ev
+                0x00000000       0x12 gpsfailure.cpp.o
+                0x00000000                GpsFailure::~GpsFailure()
+
+.text._ZN10GpsFailureC2EP9NavigatorPKc
+                0x00000000       0x78
+ .text._ZN10GpsFailureC2EP9NavigatorPKc
+                0x00000000       0x78 gpsfailure.cpp.o
+                0x00000000                GpsFailure::GpsFailure(Navigator*, char const*)
+                0x00000000                GpsFailure::GpsFailure(Navigator*, char const*)
+
+.fini
+ *(.fini)
+
+.rodata
+ *(.rodata)
+
+.rodata._ZTV9Navigator
+                0x00000000       0x20
+ .rodata._ZTV9Navigator
+                0x00000000       0x20 navigator_main.cpp.o
+                0x00000000                vtable for Navigator
+
+.rodata.str1.1  0x00000000      0xf2d
+ .rodata.str1.1
+                0x00000000      0x240 navigator_main.cpp.o
+ .rodata.str1.1
+                0x00000240       0x54 navigator_params.c.o
+ .rodata.str1.1
+                0x00000294      0x278 mission.cpp.o
+ .rodata.str1.1
+                0x0000050c       0x44 mission_params.c.o
+ .rodata.str1.1
+                0x00000550      0x13f rtl.cpp.o
+ .rodata.str1.1
+                0x0000068f       0x3d rtl_params.c.o
+ .rodata.str1.1
+                0x000006cc      0x177 mission_feasibility_checker.cpp.o
+ .rodata.str1.1
+                0x00000843      0x214 geofence.cpp.o
+ .rodata.str1.1
+                0x00000a57       0x24 geofence_params.c.o
+ .rodata.str1.1
+                0x00000a7b      0x22f datalinkloss.cpp.o
+ .rodata.str1.1
+                0x00000caa       0x5e datalinkloss_params.c.o
+ .rodata.str1.1
+                0x00000d08       0xff rcloss.cpp.o
+ .rodata.str1.1
+                0x00000e07        0xb rcloss_params.c.o
+ .rodata.str1.1
+                0x00000e12       0x27 enginefailure.cpp.o
+ .rodata.str1.1
+                0x00000e39       0xc6 gpsfailure.cpp.o
+ .rodata.str1.1
+                0x00000eff       0x2e gpsfailure_params.c.o
+
+__param         0x00000000      0x180
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                PROVIDE (__start___param, ABSOLUTE (.))
+ __param        0x00000000       0x54 navigator_params.c.o
+ __param        0x00000054       0x3c mission_params.c.o
+ __param        0x00000090       0x30 rtl_params.c.o
+ __param        0x000000c0       0x30 geofence_params.c.o
+ __param        0x000000f0       0x54 datalinkloss_params.c.o
+ __param        0x00000144        0xc rcloss_params.c.o
+ __param        0x00000150       0x30 gpsfailure_params.c.o
+                0x00000180                PROVIDE (__stop___param, .)
+
+.rodata._ZTV13NavigatorMode
+                0x00000000       0x30
+ .rodata._ZTV13NavigatorMode
+                0x00000000       0x30 navigator_mode.cpp.o
+                0x00000000                vtable for NavigatorMode
+
+.rodata._ZTV12MissionBlock
+                0x00000000       0x30
+ .rodata._ZTV12MissionBlock
+                0x00000000       0x30 mission_block.cpp.o
+                0x00000000                vtable for MissionBlock
+
+.rodata._ZTV7Mission
+                0x00000000       0x30
+ .rodata._ZTV7Mission
+                0x00000000       0x30 mission.cpp.o
+                0x00000000                vtable for Mission
+
+.rodata._ZTV6Loiter
+                0x00000000       0x30
+ .rodata._ZTV6Loiter
+                0x00000000       0x30 loiter.cpp.o
+                0x00000000                vtable for Loiter
+
+.rodata._ZTV3RTL
+                0x00000000       0x30
+ .rodata._ZTV3RTL
+                0x00000000       0x30 rtl.cpp.o
+                0x00000000                vtable for RTL
+
+.rodata._ZTV8Geofence
+                0x00000000       0x20
+ .rodata._ZTV8Geofence
+                0x00000000       0x20 geofence.cpp.o
+                0x00000000                vtable for Geofence
+
+.rodata._ZTV12DataLinkLoss
+                0x00000000       0x30
+ .rodata._ZTV12DataLinkLoss
+                0x00000000       0x30 datalinkloss.cpp.o
+                0x00000000                vtable for DataLinkLoss
+
+.rodata._ZTV6RCLoss
+                0x00000000       0x30
+ .rodata._ZTV6RCLoss
+                0x00000000       0x30 rcloss.cpp.o
+                0x00000000                vtable for RCLoss
+
+.rodata._ZTV13EngineFailure
+                0x00000000       0x30
+ .rodata._ZTV13EngineFailure
+                0x00000000       0x30 enginefailure.cpp.o
+                0x00000000                vtable for EngineFailure
+
+.rodata._ZTV10GpsFailure
+                0x00000000       0x30
+ .rodata._ZTV10GpsFailure
+                0x00000000       0x30 gpsfailure.cpp.o
+                0x00000000                vtable for GpsFailure
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab
+ *(.ARM.extab)
+
+.ARM.exidx
+ *(.ARM.exidx)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got.plt)
+ *(.igot.plt)
+ *(.got)
+ *(.igot)
+
+.data           0x00000000        0x0
+ *(.data)
+ .data          0x00000000        0x0 navigator_main.cpp.o
+ .data          0x00000000        0x0 navigator_params.c.o
+ .data          0x00000000        0x0 navigator_mode.cpp.o
+ .data          0x00000000        0x0 mission_block.cpp.o
+ .data          0x00000000        0x0 mission.cpp.o
+ .data          0x00000000        0x0 mission_params.c.o
+ .data          0x00000000        0x0 loiter.cpp.o
+ .data          0x00000000        0x0 rtl.cpp.o
+ .data          0x00000000        0x0 rtl_params.c.o
+ .data          0x00000000        0x0 mission_feasibility_checker.cpp.o
+ .data          0x00000000        0x0 geofence.cpp.o
+ .data          0x00000000        0x0 geofence_params.c.o
+ .data          0x00000000        0x0 datalinkloss.cpp.o
+ .data          0x00000000        0x0 datalinkloss_params.c.o
+ .data          0x00000000        0x0 rcloss.cpp.o
+ .data          0x00000000        0x0 rcloss_params.c.o
+ .data          0x00000000        0x0 enginefailure.cpp.o
+ .data          0x00000000        0x0 gpsfailure.cpp.o
+ .data          0x00000000        0x0 gpsfailure_params.c.o
+
+.data1
+ *(.data1)
+
+.bss            0x00000000        0x0
+ *(.dynbss)
+ *(.bss)
+ .bss           0x00000000        0x0 navigator_main.cpp.o
+ .bss           0x00000000        0x0 navigator_params.c.o
+ .bss           0x00000000        0x0 navigator_mode.cpp.o
+ .bss           0x00000000        0x0 mission_block.cpp.o
+ .bss           0x00000000        0x0 mission.cpp.o
+ .bss           0x00000000        0x0 mission_params.c.o
+ .bss           0x00000000        0x0 loiter.cpp.o
+ .bss           0x00000000        0x0 rtl.cpp.o
+ .bss           0x00000000        0x0 rtl_params.c.o
+ .bss           0x00000000        0x0 mission_feasibility_checker.cpp.o
+ .bss           0x00000000        0x0 geofence.cpp.o
+ .bss           0x00000000        0x0 geofence_params.c.o
+ .bss           0x00000000        0x0 datalinkloss.cpp.o
+ .bss           0x00000000        0x0 datalinkloss_params.c.o
+ .bss           0x00000000        0x0 rcloss.cpp.o
+ .bss           0x00000000        0x0 rcloss_params.c.o
+ .bss           0x00000000        0x0 enginefailure.cpp.o
+ .bss           0x00000000        0x0 gpsfailure.cpp.o
+ .bss           0x00000000        0x0 gpsfailure_params.c.o
+ *(COMMON)
+
+.bss._ZZN9Navigator9task_mainEvE19last_geofence_check
+                0x00000000        0x8
+ .bss._ZZN9Navigator9task_mainEvE19last_geofence_check
+                0x00000000        0x8 navigator_main.cpp.o
+
+.bss._ZZN9Navigator9task_mainEvE27have_geofence_position_data
+                0x00000000        0x1
+ .bss._ZZN9Navigator9task_mainEvE27have_geofence_position_data
+                0x00000000        0x1 navigator_main.cpp.o
+
+.bss._ZN9navigator11g_navigatorE
+                0x00000000        0x4
+ .bss._ZN9navigator11g_navigatorE
+                0x00000000        0x4 navigator_main.cpp.o
+                0x00000000                navigator::g_navigator
+
+.bss._ZZN25MissionFeasibilityChecker25checkHomePositionAltitudeE9dm_item_tjfbE11missionitem
+                0x00000000       0x48
+ .bss._ZZN25MissionFeasibilityChecker25checkHomePositionAltitudeE9dm_item_tjfbE11missionitem
+                0x00000000       0x48 mission_feasibility_checker.cpp.o
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000      0x863
+ *(.comment)
+ .comment       0x00000000       0x71 navigator_main.cpp.o
+ .comment       0x00000071       0x71 navigator_params.c.o
+ .comment       0x000000e2       0x71 navigator_mode.cpp.o
+ .comment       0x00000153       0x71 mission_block.cpp.o
+ .comment       0x000001c4       0x71 mission.cpp.o
+ .comment       0x00000235       0x71 mission_params.c.o
+ .comment       0x000002a6       0x71 loiter.cpp.o
+ .comment       0x00000317       0x71 rtl.cpp.o
+ .comment       0x00000388       0x71 rtl_params.c.o
+ .comment       0x000003f9       0x71 mission_feasibility_checker.cpp.o
+ .comment       0x0000046a       0x71 geofence.cpp.o
+ .comment       0x000004db       0x71 geofence_params.c.o
+ .comment       0x0000054c       0x71 datalinkloss.cpp.o
+ .comment       0x000005bd       0x71 datalinkloss_params.c.o
+ .comment       0x0000062e       0x71 rcloss.cpp.o
+ .comment       0x0000069f       0x71 rcloss_params.c.o
+ .comment       0x00000710       0x71 enginefailure.cpp.o
+ .comment       0x00000781       0x71 gpsfailure.cpp.o
+ .comment       0x000007f2       0x71 gpsfailure_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 navigator_mode.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mission_block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mission_block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mission.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 mission_feasibility_checker.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 geofence.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 geofence.cpp.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x6b8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0xe0 navigator_main.cpp.o
+ .debug_aranges
+                0x000000e0       0x18 navigator_params.c.o
+ .debug_aranges
+                0x000000f8       0x68 navigator_mode.cpp.o
+ .debug_aranges
+                0x00000160       0x70 mission_block.cpp.o
+ .debug_aranges
+                0x000001d0       0xd0 mission.cpp.o
+ .debug_aranges
+                0x000002a0       0x18 mission_params.c.o
+ .debug_aranges
+                0x000002b8       0x60 loiter.cpp.o
+ .debug_aranges
+                0x00000318       0x70 rtl.cpp.o
+ .debug_aranges
+                0x00000388       0x18 rtl_params.c.o
+ .debug_aranges
+                0x000003a0       0x60 mission_feasibility_checker.cpp.o
+ .debug_aranges
+                0x00000400       0x98 geofence.cpp.o
+ .debug_aranges
+                0x00000498       0x18 geofence_params.c.o
+ .debug_aranges
+                0x000004b0       0x70 datalinkloss.cpp.o
+ .debug_aranges
+                0x00000520       0x18 datalinkloss_params.c.o
+ .debug_aranges
+                0x00000538       0x70 rcloss.cpp.o
+ .debug_aranges
+                0x000005a8       0x18 rcloss_params.c.o
+ .debug_aranges
+                0x000005c0       0x70 enginefailure.cpp.o
+ .debug_aranges
+                0x00000630       0x70 gpsfailure.cpp.o
+ .debug_aranges
+                0x000006a0       0x18 gpsfailure_params.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x4c70a
+ *(.debug_info)
+ .debug_info    0x00000000     0xa38f navigator_main.cpp.o
+ .debug_info    0x0000a38f      0x1ac navigator_params.c.o
+ .debug_info    0x0000a53b     0x4f77 navigator_mode.cpp.o
+ .debug_info    0x0000f4b2     0x543e mission_block.cpp.o
+ .debug_info    0x000148f0     0x9098 mission.cpp.o
+ .debug_info    0x0001d988      0x18a mission_params.c.o
+ .debug_info    0x0001db12     0x4f3e loiter.cpp.o
+ .debug_info    0x00022a50     0x58c9 rtl.cpp.o
+ .debug_info    0x00028319      0x179 rtl_params.c.o
+ .debug_info    0x00028492     0x7695 mission_feasibility_checker.cpp.o
+ .debug_info    0x0002fb27     0x6aa1 geofence.cpp.o
+ .debug_info    0x000365c8      0x179 geofence_params.c.o
+ .debug_info    0x00036741     0x5b04 datalinkloss.cpp.o
+ .debug_info    0x0003c245      0x1ac datalinkloss_params.c.o
+ .debug_info    0x0003c3f1     0x575e rcloss.cpp.o
+ .debug_info    0x00041b4f      0x146 rcloss_params.c.o
+ .debug_info    0x00041c95     0x54c4 enginefailure.cpp.o
+ .debug_info    0x00047159     0x5438 gpsfailure.cpp.o
+ .debug_info    0x0004c591      0x179 gpsfailure_params.c.o
+
+.debug_abbrev   0x00000000     0x4a6d
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x881 navigator_main.cpp.o
+ .debug_abbrev  0x00000881       0xbb navigator_params.c.o
+ .debug_abbrev  0x0000093c      0x4c3 navigator_mode.cpp.o
+ .debug_abbrev  0x00000dff      0x580 mission_block.cpp.o
+ .debug_abbrev  0x0000137f      0x74c mission.cpp.o
+ .debug_abbrev  0x00001acb       0xbb mission_params.c.o
+ .debug_abbrev  0x00001b86      0x463 loiter.cpp.o
+ .debug_abbrev  0x00001fe9      0x591 rtl.cpp.o
+ .debug_abbrev  0x0000257a       0xbb rtl_params.c.o
+ .debug_abbrev  0x00002635      0x6d6 mission_feasibility_checker.cpp.o
+ .debug_abbrev  0x00002d0b      0x6a2 geofence.cpp.o
+ .debug_abbrev  0x000033ad       0xbb geofence_params.c.o
+ .debug_abbrev  0x00003468      0x4fc datalinkloss.cpp.o
+ .debug_abbrev  0x00003964       0xbb datalinkloss_params.c.o
+ .debug_abbrev  0x00003a1f      0x4d8 rcloss.cpp.o
+ .debug_abbrev  0x00003ef7       0xbb rcloss_params.c.o
+ .debug_abbrev  0x00003fb2      0x4ed enginefailure.cpp.o
+ .debug_abbrev  0x0000449f      0x513 gpsfailure.cpp.o
+ .debug_abbrev  0x000049b2       0xbb gpsfailure_params.c.o
+
+.debug_line     0x00000000    0x11f1a
+ *(.debug_line)
+ .debug_line    0x00000000     0x1fb4 navigator_main.cpp.o
+ .debug_line    0x00001fb4      0x2d3 navigator_params.c.o
+ .debug_line    0x00002287     0x1329 navigator_mode.cpp.o
+ .debug_line    0x000035b0     0x1581 mission_block.cpp.o
+ .debug_line    0x00004b31     0x1a80 mission.cpp.o
+ .debug_line    0x000065b1      0x2d1 mission_params.c.o
+ .debug_line    0x00006882     0x13bf loiter.cpp.o
+ .debug_line    0x00007c41     0x1667 rtl.cpp.o
+ .debug_line    0x000092a8      0x2cd rtl_params.c.o
+ .debug_line    0x00009575     0x15a6 mission_feasibility_checker.cpp.o
+ .debug_line    0x0000ab1b     0x1409 geofence.cpp.o
+ .debug_line    0x0000bf24      0x2d2 geofence_params.c.o
+ .debug_line    0x0000c1f6     0x15c0 datalinkloss.cpp.o
+ .debug_line    0x0000d7b6      0x2d6 datalinkloss_params.c.o
+ .debug_line    0x0000da8c     0x1548 rcloss.cpp.o
+ .debug_line    0x0000efd4      0x2d0 rcloss_params.c.o
+ .debug_line    0x0000f2a4     0x14cd enginefailure.cpp.o
+ .debug_line    0x00010771     0x14d5 gpsfailure.cpp.o
+ .debug_line    0x00011c46      0x2d4 gpsfailure_params.c.o
+
+.debug_frame    0x00000000     0x1084
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x270 navigator_main.cpp.o
+ .debug_frame   0x00000270       0xe4 navigator_mode.cpp.o
+ .debug_frame   0x00000354      0x114 mission_block.cpp.o
+ .debug_frame   0x00000468      0x268 mission.cpp.o
+ .debug_frame   0x000006d0       0xe0 loiter.cpp.o
+ .debug_frame   0x000007b0      0x134 rtl.cpp.o
+ .debug_frame   0x000008e4      0x148 mission_feasibility_checker.cpp.o
+ .debug_frame   0x00000a2c      0x1dc geofence.cpp.o
+ .debug_frame   0x00000c08      0x124 datalinkloss.cpp.o
+ .debug_frame   0x00000d2c      0x124 rcloss.cpp.o
+ .debug_frame   0x00000e50      0x118 enginefailure.cpp.o
+ .debug_frame   0x00000f68      0x11c gpsfailure.cpp.o
+
+.debug_str      0x00000000   0x1244a7
+ *(.debug_str)
+ .debug_str     0x00000000    0x4ebe0 navigator_main.cpp.o
+ .debug_str     0x0004ebe0     0x57fa navigator_params.c.o
+ .debug_str     0x000543da     0xd9e9 navigator_mode.cpp.o
+ .debug_str     0x00061dc3     0xf338 mission_block.cpp.o
+ .debug_str     0x000710fb    0x12dae mission.cpp.o
+ .debug_str     0x00083ea9     0x57d6 mission_params.c.o
+ .debug_str     0x0008967f     0xf29e loiter.cpp.o
+ .debug_str     0x0009891d     0xf748 rtl.cpp.o
+ .debug_str     0x000a8065     0x57c2 rtl_params.c.o
+ .debug_str     0x000ad827    0x13729 mission_feasibility_checker.cpp.o
+ .debug_str     0x000c0f50     0xfadb geofence.cpp.o
+ .debug_str     0x000d0a2b     0x57ae geofence_params.c.o
+ .debug_str     0x000d61d9     0xf8a9 datalinkloss.cpp.o
+ .debug_str     0x000e5a82     0x5807 datalinkloss_params.c.o
+ .debug_str     0x000eb289     0xf79a rcloss.cpp.o
+ .debug_str     0x000faa23     0x5778 rcloss_params.c.o
+ .debug_str     0x0010019b     0xf690 enginefailure.cpp.o
+ .debug_str     0x0010f82b     0xf4c2 gpsfailure.cpp.o
+ .debug_str     0x0011eced     0x57ba gpsfailure_params.c.o
+
+.debug_loc      0x00000000     0x42d0
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x8b5 navigator_main.cpp.o
+ .debug_loc     0x000008b5      0x245 navigator_mode.cpp.o
+ .debug_loc     0x00000afa      0x466 mission_block.cpp.o
+ .debug_loc     0x00000f60      0xc1c mission.cpp.o
+ .debug_loc     0x00001b7c      0x1f4 loiter.cpp.o
+ .debug_loc     0x00001d70      0x447 rtl.cpp.o
+ .debug_loc     0x000021b7      0x808 mission_feasibility_checker.cpp.o
+ .debug_loc     0x000029bf      0xafc geofence.cpp.o
+ .debug_loc     0x000034bb      0x3f7 datalinkloss.cpp.o
+ .debug_loc     0x000038b2      0x38d rcloss.cpp.o
+ .debug_loc     0x00003c3f      0x350 enginefailure.cpp.o
+ .debug_loc     0x00003f8f      0x341 gpsfailure.cpp.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0xbd8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x188 navigator_main.cpp.o
+ .debug_ranges  0x00000188       0xd8 navigator_mode.cpp.o
+ .debug_ranges  0x00000260       0xe0 mission_block.cpp.o
+ .debug_ranges  0x00000340      0x1e8 mission.cpp.o
+ .debug_ranges  0x00000528       0x50 loiter.cpp.o
+ .debug_ranges  0x00000578      0x1a8 rtl.cpp.o
+ .debug_ranges  0x00000720       0xc8 mission_feasibility_checker.cpp.o
+ .debug_ranges  0x000007e8      0x118 geofence.cpp.o
+ .debug_ranges  0x00000900       0xf0 datalinkloss.cpp.o
+ .debug_ranges  0x000009f0       0xa8 rcloss.cpp.o
+ .debug_ranges  0x00000a98       0xb0 enginefailure.cpp.o
+ .debug_ranges  0x00000b48       0x90 gpsfailure.cpp.o
+
+.stack
+ *(.stack)
+
+.ARM.attributes
+                0x00000000       0x37
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x37 navigator_main.cpp.o
+ .ARM.attributes
+                0x00000037       0x37 navigator_params.c.o
+ .ARM.attributes
+                0x0000006e       0x37 navigator_mode.cpp.o
+ .ARM.attributes
+                0x000000a5       0x37 mission_block.cpp.o
+ .ARM.attributes
+                0x000000dc       0x37 mission.cpp.o
+ .ARM.attributes
+                0x00000113       0x37 mission_params.c.o
+ .ARM.attributes
+                0x0000014a       0x37 loiter.cpp.o
+ .ARM.attributes
+                0x00000181       0x37 rtl.cpp.o
+ .ARM.attributes
+                0x000001b8       0x37 rtl_params.c.o
+ .ARM.attributes
+                0x000001ef       0x37 mission_feasibility_checker.cpp.o
+ .ARM.attributes
+                0x00000226       0x37 geofence.cpp.o
+ .ARM.attributes
+                0x0000025d       0x37 geofence_params.c.o
+ .ARM.attributes
+                0x00000294       0x37 datalinkloss.cpp.o
+ .ARM.attributes
+                0x000002cb       0x37 datalinkloss_params.c.o
+ .ARM.attributes
+                0x00000302       0x37 rcloss.cpp.o
+ .ARM.attributes
+                0x00000339       0x37 rcloss_params.c.o
+ .ARM.attributes
+                0x00000370       0x37 enginefailure.cpp.o
+ .ARM.attributes
+                0x000003a7       0x37 gpsfailure.cpp.o
+ .ARM.attributes
+                0x000003de       0x37 gpsfailure_params.c.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+OUTPUT(/misc/shome/ex36/pixhawk/px4/Firmware/Build/px4fmu-v2_default.build//misc/shome/ex36/pixhawk/px4/Firmware/src/modules/navigator/module.pre.o elf32-littlearm)
+
+.debug_macro    0x00000000     0x3bb3
+ .debug_macro   0x00000000      0x836 navigator_main.cpp.o
+ .debug_macro   0x00000836       0x7d navigator_params.c.o
+ .debug_macro   0x000008b3      0x410 navigator_mode.cpp.o
+ .debug_macro   0x00000cc3      0x465 mission_block.cpp.o
+ .debug_macro   0x00001128      0x4e4 mission.cpp.o
+ .debug_macro   0x0000160c       0x7d mission_params.c.o
+ .debug_macro   0x00001689      0x45a loiter.cpp.o
+ .debug_macro   0x00001ae3      0x475 rtl.cpp.o
+ .debug_macro   0x00001f58       0x7d rtl_params.c.o
+ .debug_macro   0x00001fd5      0x468 mission_feasibility_checker.cpp.o
+ .debug_macro   0x0000243d      0x3ae geofence.cpp.o
+ .debug_macro   0x000027eb       0x7d geofence_params.c.o
+ .debug_macro   0x00002868      0x475 datalinkloss.cpp.o
+ .debug_macro   0x00002cdd       0x7d datalinkloss_params.c.o
+ .debug_macro   0x00002d5a      0x475 rcloss.cpp.o
+ .debug_macro   0x000031cf       0x7d rcloss_params.c.o
+ .debug_macro   0x0000324c      0x475 enginefailure.cpp.o
+ .debug_macro   0x000036c1      0x475 gpsfailure.cpp.o
+ .debug_macro   0x00003b36       0x7d gpsfailure_params.c.o
+
+.debug_macro    0x00000000      0x838
+ .debug_macro   0x00000000      0x838 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x8a6
+ .debug_macro   0x00000000      0x8a6 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x88
+ .debug_macro   0x00000000       0x88 navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x125
+ .debug_macro   0x00000000      0x125 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x5d
+ .debug_macro   0x00000000       0x5d navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x49
+ .debug_macro   0x00000000       0x49 navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x106
+ .debug_macro   0x00000000      0x106 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x23
+ .debug_macro   0x00000000       0x23 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0xd1
+ .debug_macro   0x00000000       0xd1 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x98
+ .debug_macro   0x00000000       0x98 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x11b
+ .debug_macro   0x00000000      0x11b navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x27f
+ .debug_macro   0x00000000      0x27f navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x195
+ .debug_macro   0x00000000      0x195 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x8a
+ .debug_macro   0x00000000       0x8a navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x39
+ .debug_macro   0x00000000       0x39 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0xb4
+ .debug_macro   0x00000000       0xb4 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x41
+ .debug_macro   0x00000000       0x41 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x4d
+ .debug_macro   0x00000000       0x4d navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x5e
+ .debug_macro   0x00000000       0x5e navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x14d
+ .debug_macro   0x00000000      0x14d navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x6c1
+ .debug_macro   0x00000000      0x6c1 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x3a
+ .debug_macro   0x00000000       0x3a navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x27
+ .debug_macro   0x00000000       0x27 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0xa3
+ .debug_macro   0x00000000       0xa3 navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x281
+ .debug_macro   0x00000000      0x281 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x9a
+ .debug_macro   0x00000000       0x9a navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x1cf
+ .debug_macro   0x00000000      0x1cf navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x16c
+ .debug_macro   0x00000000      0x16c navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0xd1
+ .debug_macro   0x00000000       0xd1 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x18
+ .debug_macro   0x00000000       0x18 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x78
+ .debug_macro   0x00000000       0x78 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x6cb
+ .debug_macro   0x00000000      0x6cb navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x20a
+ .debug_macro   0x00000000      0x20a navigator_main.cpp.o
+
+.debug_macro    0x00000000      0xf6f
+ .debug_macro   0x00000000      0xf6f navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x2ab
+ .debug_macro   0x00000000      0x2ab navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x8b5
+ .debug_macro   0x00000000      0x8b5 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x78
+ .debug_macro   0x00000000       0x78 navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x7ca
+ .debug_macro   0x00000000      0x7ca navigator_main.cpp.o
+
+.debug_macro    0x00000000       0xff
+ .debug_macro   0x00000000       0xff navigator_main.cpp.o
+
+.debug_macro    0x00000000      0xae7
+ .debug_macro   0x00000000      0xae7 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x51
+ .debug_macro   0x00000000       0x51 navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x11a
+ .debug_macro   0x00000000      0x11a navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x1d
+ .debug_macro   0x00000000       0x1d navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x206
+ .debug_macro   0x00000000      0x206 navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x56a
+ .debug_macro   0x00000000      0x56a navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x9c
+ .debug_macro   0x00000000       0x9c navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x2bf
+ .debug_macro   0x00000000      0x2bf navigator_main.cpp.o
+
+.debug_macro    0x00000000       0xd3
+ .debug_macro   0x00000000       0xd3 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x34
+ .debug_macro   0x00000000       0x34 navigator_main.cpp.o
+
+.debug_macro    0x00000000      0xab0
+ .debug_macro   0x00000000      0xab0 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x17
+ .debug_macro   0x00000000       0x17 navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x6fa
+ .debug_macro   0x00000000      0x6fa navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x596
+ .debug_macro   0x00000000      0x596 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x29b
+ .debug_macro   0x00000000      0x29b navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 navigator_main.cpp.o
+
+.debug_macro    0x00000000     0x15a4
+ .debug_macro   0x00000000     0x15a4 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x53
+ .debug_macro   0x00000000       0x53 navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x347
+ .debug_macro   0x00000000      0x347 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x96
+ .debug_macro   0x00000000       0x96 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x413
+ .debug_macro   0x00000000      0x413 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x5f
+ .debug_macro   0x00000000       0x5f navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x1d
+ .debug_macro   0x00000000       0x1d navigator_main.cpp.o
+
+.debug_macro    0x00000000       0xdf
+ .debug_macro   0x00000000       0xdf navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x13f
+ .debug_macro   0x00000000      0x13f navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c navigator_main.cpp.o
+
+.debug_macro    0x00000000      0xdb4
+ .debug_macro   0x00000000      0xdb4 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x215
+ .debug_macro   0x00000000      0x215 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x29
+ .debug_macro   0x00000000       0x29 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x2b
+ .debug_macro   0x00000000       0x2b navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x168
+ .debug_macro   0x00000000      0x168 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x30
+ .debug_macro   0x00000000       0x30 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x88
+ .debug_macro   0x00000000       0x88 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x20
+ .debug_macro   0x00000000       0x20 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x3b
+ .debug_macro   0x00000000       0x3b navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x2d
+ .debug_macro   0x00000000       0x2d navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x42
+ .debug_macro   0x00000000       0x42 navigator_main.cpp.o
+
+.debug_macro    0x00000000       0xac
+ .debug_macro   0x00000000       0xac navigator_main.cpp.o
+
+.debug_macro    0x00000000       0x4d
+ .debug_macro   0x00000000       0x4d navigator_main.cpp.o
+
+.debug_macro    0x00000000      0x81a
+ .debug_macro   0x00000000      0x81a navigator_params.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 navigator_params.c.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 navigator_params.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 navigator_params.c.o
+
+.debug_macro    0x00000000       0x6f
+ .debug_macro   0x00000000       0x6f navigator_params.c.o
+
+.debug_macro    0x00000000       0x25
+ .debug_macro   0x00000000       0x25 navigator_params.c.o
+
+.debug_macro    0x00000000       0x12
+ .debug_macro   0x00000000       0x12 navigator_mode.cpp.o
+
+.debug_macro    0x00000000      0x10c
+ .debug_macro   0x00000000      0x10c navigator_mode.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 navigator_mode.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 navigator_mode.cpp.o
+
+.debug_macro    0x00000000       0x47
+ .debug_macro   0x00000000       0x47 mission_block.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 mission_block.cpp.o
+
+.debug_macro    0x00000000       0x53
+ .debug_macro   0x00000000       0x53 mission.cpp.o
+
+.debug_macro    0x00000000       0xcb
+ .debug_macro   0x00000000       0xcb mission_feasibility_checker.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 mission_feasibility_checker.cpp.o
+
+.debug_macro    0x00000000       0xa5
+ .debug_macro   0x00000000       0xa5 mission_feasibility_checker.cpp.o
+
+.debug_macro    0x00000000       0x63
+ .debug_macro   0x00000000       0x63 geofence.cpp.o
+
+.debug_macro    0x00000000       0xa4
+ .debug_macro   0x00000000       0xa4 geofence.cpp.o

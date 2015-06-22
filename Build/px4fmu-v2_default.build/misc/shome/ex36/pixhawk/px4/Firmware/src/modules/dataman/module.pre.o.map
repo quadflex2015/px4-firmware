@@ -1,0 +1,676 @@
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD dataman.c.o
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+
+.rela.text
+ *(.rela.text)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rel.data.rel.ro
+ *(.rel.data.rel.ro)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rel.data
+ *(.rel.data)
+
+.rela.data
+ *(.rela.data)
+
+.rel.tdata
+ *(.rel.tdata)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rel.tbss
+ *(.rel.tbss)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.iplt
+ *(.rel.iplt)
+
+.rela.iplt
+ *(.rela.iplt)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(.init)
+
+.plt
+ *(.plt)
+
+.iplt
+ *(.iplt)
+
+.text           0x00000000        0x0
+ *(.text .stub)
+ .text          0x00000000        0x0 dataman.c.o
+ *(.gnu.warning)
+
+.text._restart  0x00000000       0x80
+ .text._restart
+                0x00000000       0x80 dataman.c.o
+
+.text.enqueue_work_item_and_wait_for_result
+                0x00000000       0x80
+ .text.enqueue_work_item_and_wait_for_result
+                0x00000000       0x80 dataman.c.o
+
+.text.create_work_item
+                0x00000000       0x80
+ .text.create_work_item
+                0x00000000       0x80 dataman.c.o
+
+.text.task_main
+                0x00000000      0x44c
+ .text.task_main
+                0x00000000      0x44c dataman.c.o
+
+.text.dm_write  0x00000000       0x50
+ .text.dm_write
+                0x00000000       0x50 dataman.c.o
+                0x00000000                dm_write
+
+.text.dm_read   0x00000000       0x48
+ .text.dm_read  0x00000000       0x48 dataman.c.o
+                0x00000000                dm_read
+
+.text.dm_clear  0x00000000       0x34
+ .text.dm_clear
+                0x00000000       0x34 dataman.c.o
+                0x00000000                dm_clear
+
+.text.dm_lock   0x00000000       0x2c
+ .text.dm_lock  0x00000000       0x2c dataman.c.o
+                0x00000000                dm_lock
+
+.text.dm_unlock
+                0x00000000       0x2c
+ .text.dm_unlock
+                0x00000000       0x2c dataman.c.o
+                0x00000000                dm_unlock
+
+.text.dm_restart
+                0x00000000       0x34
+ .text.dm_restart
+                0x00000000       0x34 dataman.c.o
+                0x00000000                dm_restart
+
+.text.dataman_main
+                0x00000000      0x154
+ .text.dataman_main
+                0x00000000      0x154 dataman.c.o
+                0x00000000                dataman_main
+
+.fini
+ *(.fini)
+
+.rodata
+ *(.rodata)
+
+.rodata.str1.1  0x00000000      0x20a
+ .rodata.str1.1
+                0x00000000      0x20a dataman.c.o
+
+.rodata.g_per_item_max_index
+                0x00000000       0x18
+ .rodata.g_per_item_max_index
+                0x00000000       0x18 dataman.c.o
+
+.rodata.k_work_item_allocation_chunk_size
+                0x00000000        0x4
+ .rodata.k_work_item_allocation_chunk_size
+                0x00000000        0x4 dataman.c.o
+                0x00000000                k_work_item_allocation_chunk_size
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab
+ *(.ARM.extab)
+
+.ARM.exidx
+ *(.ARM.exidx)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got.plt)
+ *(.igot.plt)
+ *(.got)
+ *(.igot)
+
+.data           0x00000000        0x0
+ *(.data)
+ .data          0x00000000        0x0 dataman.c.o
+
+.data.g_fd      0x00000000        0x4
+ .data.g_fd     0x00000000        0x4 dataman.c.o
+
+.data.g_task_fd
+                0x00000000        0x4
+ .data.g_task_fd
+                0x00000000        0x4 dataman.c.o
+
+.data1
+ *(.data1)
+
+.bss            0x00000000        0x0
+ *(.dynbss)
+ *(.bss)
+ .bss           0x00000000        0x0 dataman.c.o
+ *(COMMON)
+
+.bss.g_func_counts
+                0x00000000       0x10
+ .bss.g_func_counts
+                0x00000000       0x10 dataman.c.o
+
+.bss.g_key_offsets
+                0x00000000       0x18
+ .bss.g_key_offsets
+                0x00000000       0x18 dataman.c.o
+
+.bss.g_item_locks
+                0x00000000       0x18
+ .bss.g_item_locks
+                0x00000000       0x18 dataman.c.o
+
+.bss.g_work_queued_sema
+                0x00000000        0xc
+ .bss.g_work_queued_sema
+                0x00000000        0xc dataman.c.o
+                0x00000000                g_work_queued_sema
+
+.bss.g_task_should_exit
+                0x00000000        0x1
+ .bss.g_task_should_exit
+                0x00000000        0x1 dataman.c.o
+
+.bss.g_work_q   0x00000000       0x1c
+ .bss.g_work_q  0x00000000       0x1c dataman.c.o
+
+.bss.g_free_q   0x00000000       0x1c
+ .bss.g_free_q  0x00000000       0x1c dataman.c.o
+
+.bss.g_sys_state_mutex
+                0x00000000        0xc
+ .bss.g_sys_state_mutex
+                0x00000000        0xc dataman.c.o
+
+.bss.g_init_sema
+                0x00000000        0xc
+ .bss.g_init_sema
+                0x00000000        0xc dataman.c.o
+                0x00000000                g_init_sema
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x71
+ *(.comment)
+ .comment       0x00000000       0x71 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 dataman.c.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x70
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x70 dataman.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x2745
+ *(.debug_info)
+ .debug_info    0x00000000     0x2745 dataman.c.o
+
+.debug_abbrev   0x00000000      0x4a7
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x4a7 dataman.c.o
+
+.debug_line     0x00000000      0xb5b
+ *(.debug_line)
+ .debug_line    0x00000000      0xb5b dataman.c.o
+
+.debug_frame    0x00000000      0x150
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x150 dataman.c.o
+
+.debug_str      0x00000000     0xa262
+ *(.debug_str)
+ .debug_str     0x00000000     0xa262 dataman.c.o
+
+.debug_loc      0x00000000      0x8f3
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x8f3 dataman.c.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x2a8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x2a8 dataman.c.o
+
+.stack
+ *(.stack)
+
+.ARM.attributes
+                0x00000000       0x37
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x37 dataman.c.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+OUTPUT(/misc/shome/ex36/pixhawk/px4/Firmware/Build/px4fmu-v2_default.build//misc/shome/ex36/pixhawk/px4/Firmware/src/modules/dataman/module.pre.o elf32-littlearm)
+
+.debug_macro    0x00000000      0x248
+ .debug_macro   0x00000000      0x248 dataman.c.o
+
+.debug_macro    0x00000000      0x81a
+ .debug_macro   0x00000000      0x81a dataman.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 dataman.c.o
+
+.debug_macro    0x00000000      0x8a6
+ .debug_macro   0x00000000      0x8a6 dataman.c.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 dataman.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 dataman.c.o
+
+.debug_macro    0x00000000       0x88
+ .debug_macro   0x00000000       0x88 dataman.c.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e dataman.c.o
+
+.debug_macro    0x00000000      0x125
+ .debug_macro   0x00000000      0x125 dataman.c.o
+
+.debug_macro    0x00000000       0x69
+ .debug_macro   0x00000000       0x69 dataman.c.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 dataman.c.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c dataman.c.o
+
+.debug_macro    0x00000000       0x49
+ .debug_macro   0x00000000       0x49 dataman.c.o
+
+.debug_macro    0x00000000      0x106
+ .debug_macro   0x00000000      0x106 dataman.c.o
+
+.debug_macro    0x00000000       0x23
+ .debug_macro   0x00000000       0x23 dataman.c.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 dataman.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 dataman.c.o
+
+.debug_macro    0x00000000       0xd1
+ .debug_macro   0x00000000       0xd1 dataman.c.o
+
+.debug_macro    0x00000000       0x98
+ .debug_macro   0x00000000       0x98 dataman.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 dataman.c.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 dataman.c.o
+
+.debug_macro    0x00000000      0x11b
+ .debug_macro   0x00000000      0x11b dataman.c.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 dataman.c.o
+
+.debug_macro    0x00000000      0x27f
+ .debug_macro   0x00000000      0x27f dataman.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 dataman.c.o
+
+.debug_macro    0x00000000      0x195
+ .debug_macro   0x00000000      0x195 dataman.c.o
+
+.debug_macro    0x00000000       0x8a
+ .debug_macro   0x00000000       0x8a dataman.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 dataman.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 dataman.c.o
+
+.debug_macro    0x00000000       0x39
+ .debug_macro   0x00000000       0x39 dataman.c.o
+
+.debug_macro    0x00000000       0xb4
+ .debug_macro   0x00000000       0xb4 dataman.c.o
+
+.debug_macro    0x00000000       0x41
+ .debug_macro   0x00000000       0x41 dataman.c.o
+
+.debug_macro    0x00000000       0x4d
+ .debug_macro   0x00000000       0x4d dataman.c.o
+
+.debug_macro    0x00000000       0x5e
+ .debug_macro   0x00000000       0x5e dataman.c.o
+
+.debug_macro    0x00000000      0x14d
+ .debug_macro   0x00000000      0x14d dataman.c.o
+
+.debug_macro    0x00000000      0x184
+ .debug_macro   0x00000000      0x184 dataman.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 dataman.c.o
+
+.debug_macro    0x00000000       0x29
+ .debug_macro   0x00000000       0x29 dataman.c.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 dataman.c.o
+
+.debug_macro    0x00000000       0x2b
+ .debug_macro   0x00000000       0x2b dataman.c.o
+
+.debug_macro    0x00000000       0x30
+ .debug_macro   0x00000000       0x30 dataman.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 dataman.c.o

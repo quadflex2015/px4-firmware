@@ -1,0 +1,8 @@
+px4io recovery
+set PX4IO_LIMIT 400
+if ver hwcmp PX4FMU_V1
+then
+	set PX4IO_LIMIT 200
+fi
+echo "[i] Set PX4IO update rate limit: $PX4IO_LIMIT Hz"
+px4io limit $PX4IO_LIMIT

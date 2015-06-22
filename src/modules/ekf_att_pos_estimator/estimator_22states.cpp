@@ -1358,7 +1358,7 @@ void AttPosEKF::FuseVelposNED()
                 }
 
                 // Don't update Z accel bias state unless using a height observation (GPS velocities can be biased)
-                if (obsIndex != 5) {
+                if ( obsIndex != (5 || 6 || 9) ) {
                     Kfusion[13] = 0;
                 }
                 // Don't update wind states if inhibited
@@ -1474,7 +1474,7 @@ void AttPosEKF::FuseMagnetometer()
             DCM.z.x = 2*(q1*q3 + q0*q2);
             DCM.z.y = 2*(q2*q3 - q0*q1);
             DCM.z.z = q0*q0 - q1*q1 - q2*q2 + q3*q3;
-            MagPred[0] = DCM.x.x*magN + DCM.x.y*magE  + DCM.x.z*magrate_offsets[0]D + magXbias;
+            MagPred[0] = DCM.x.x*magN + DCM.x.y*magE  + DCM.x.z*magD + magXbias;
             MagPred[1] = DCM.y.x*magN + DCM.y.y*magE  + DCM.y.z*magD + magYbias;
             MagPred[2] = DCM.z.x*magN + DCM.z.y*magE  + DCM.z.z*magD + magZbias;
 

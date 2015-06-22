@@ -1,0 +1,2304 @@
+
+Discarded input sections
+
+ .group         0x00000000        0x8 ekf_att_pos_estimator_params.c.o
+ .group         0x00000000        0x8 ekf_att_pos_estimator_params.c.o
+ .group         0x00000000        0x8 ekf_att_pos_estimator_params.c.o
+ .group         0x00000000        0x8 ekf_att_pos_estimator_params.c.o
+ .group         0x00000000        0x8 ekf_att_pos_estimator_params.c.o
+ .debug_macro   0x00000000      0x8a6 ekf_att_pos_estimator_params.c.o
+ .debug_macro   0x00000000       0x10 ekf_att_pos_estimator_params.c.o
+ .debug_macro   0x00000000       0x88 ekf_att_pos_estimator_params.c.o
+ .debug_macro   0x00000000      0x14e ekf_att_pos_estimator_params.c.o
+ .debug_macro   0x00000000      0x125 ekf_att_pos_estimator_params.c.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+ .debug_macro   0x00000000      0x832 estimator_22states.cpp.o
+ .debug_macro   0x00000000       0x22 estimator_22states.cpp.o
+ .debug_macro   0x00000000      0x8a6 estimator_22states.cpp.o
+ .debug_macro   0x00000000       0x3a estimator_22states.cpp.o
+ .debug_macro   0x00000000       0x10 estimator_22states.cpp.o
+ .debug_macro   0x00000000       0x27 estimator_22states.cpp.o
+ .debug_macro   0x00000000       0xa3 estimator_22states.cpp.o
+ .debug_macro   0x00000000      0x281 estimator_22states.cpp.o
+ .debug_macro   0x00000000       0xc9 estimator_22states.cpp.o
+ .debug_macro   0x00000000       0x10 estimator_22states.cpp.o
+ .debug_macro   0x00000000       0x88 estimator_22states.cpp.o
+ .debug_macro   0x00000000      0x14e estimator_22states.cpp.o
+ .debug_macro   0x00000000      0x125 estimator_22states.cpp.o
+ .debug_macro   0x00000000       0x2e estimator_22states.cpp.o
+ .debug_macro   0x00000000       0x28 estimator_22states.cpp.o
+ .debug_macro   0x00000000       0x58 estimator_22states.cpp.o
+ .debug_macro   0x00000000       0x4c estimator_22states.cpp.o
+ .debug_macro   0x00000000       0x49 estimator_22states.cpp.o
+ .debug_macro   0x00000000      0x106 estimator_22states.cpp.o
+ .debug_macro   0x00000000       0x23 estimator_22states.cpp.o
+ .debug_macro   0x00000000       0x28 estimator_22states.cpp.o
+ .debug_macro   0x00000000       0xd1 estimator_22states.cpp.o
+ .debug_macro   0x00000000       0x98 estimator_22states.cpp.o
+ .debug_macro   0x00000000       0x16 estimator_22states.cpp.o
+ .debug_macro   0x00000000       0x59 estimator_22states.cpp.o
+ .debug_macro   0x00000000      0x11b estimator_22states.cpp.o
+ .debug_macro   0x00000000       0x46 estimator_22states.cpp.o
+ .debug_macro   0x00000000      0x27f estimator_22states.cpp.o
+ .debug_macro   0x00000000       0x10 estimator_22states.cpp.o
+ .debug_macro   0x00000000      0x195 estimator_22states.cpp.o
+ .debug_macro   0x00000000       0x8a estimator_22states.cpp.o
+ .debug_macro   0x00000000       0x10 estimator_22states.cpp.o
+ .debug_macro   0x00000000       0x10 estimator_22states.cpp.o
+ .debug_macro   0x00000000       0x39 estimator_22states.cpp.o
+ .debug_macro   0x00000000       0xb4 estimator_22states.cpp.o
+ .debug_macro   0x00000000       0x41 estimator_22states.cpp.o
+ .debug_macro   0x00000000       0x5e estimator_22states.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+ .debug_macro   0x00000000      0x832 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x22 estimator_utilities.cpp.o
+ .debug_macro   0x00000000      0x8a6 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x3a estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x10 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x27 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0xa3 estimator_utilities.cpp.o
+ .debug_macro   0x00000000      0x281 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0xc9 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x10 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x88 estimator_utilities.cpp.o
+ .debug_macro   0x00000000      0x14e estimator_utilities.cpp.o
+ .debug_macro   0x00000000      0x125 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x2e estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0xe3 estimator_utilities.cpp.o
+ .debug_macro   0x00000000      0x314 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x28 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x11 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x12 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x1c estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x6e estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x18 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x82 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x12 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x63 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x46 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x11 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x58 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x4c estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x49 estimator_utilities.cpp.o
+ .debug_macro   0x00000000      0x106 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x23 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x28 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0xd1 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x98 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x16 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x59 estimator_utilities.cpp.o
+ .debug_macro   0x00000000      0x11b estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x46 estimator_utilities.cpp.o
+ .debug_macro   0x00000000      0x27f estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x10 estimator_utilities.cpp.o
+ .debug_macro   0x00000000      0x195 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x8a estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x10 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x10 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x39 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0xb4 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x41 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x4d estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x3a estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x52 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x1d estimator_utilities.cpp.o
+ .debug_macro   0x00000000      0x154 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x57 estimator_utilities.cpp.o
+ .debug_macro   0x00000000      0x160 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x2e estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x16 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0xa4 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x52 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x11 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x29 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x10 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x11 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0xd9 estimator_utilities.cpp.o
+ .debug_macro   0x00000000       0x10 estimator_utilities.cpp.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ekf_att_pos_estimator_main.cpp.o
+LOAD ekf_att_pos_estimator_params.c.o
+LOAD estimator_22states.cpp.o
+LOAD estimator_utilities.cpp.o
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+
+.rela.text
+ *(.rela.text)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rel.data.rel.ro
+ *(.rel.data.rel.ro)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rel.data
+ *(.rel.data)
+
+.rela.data
+ *(.rela.data)
+
+.rel.tdata
+ *(.rel.tdata)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rel.tbss
+ *(.rel.tbss)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.iplt
+ *(.rel.iplt)
+
+.rela.iplt
+ *(.rela.iplt)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(.init)
+
+.plt
+ *(.plt)
+
+.iplt
+ *(.iplt)
+
+.text           0x00000000        0x0
+ *(.text .stub)
+ .text          0x00000000        0x0 ekf_att_pos_estimator_main.cpp.o
+ .text          0x00000000        0x0 ekf_att_pos_estimator_params.c.o
+ .text          0x00000000        0x0 estimator_22states.cpp.o
+ .text          0x00000000        0x0 estimator_utilities.cpp.o
+ *(.gnu.warning)
+
+.text._ZN4math6VectorILj4EED2Ev
+                0x00000000        0xc
+ .text._ZN4math6VectorILj4EED2Ev
+                0x00000000        0xc ekf_att_pos_estimator_main.cpp.o
+                0x00000000                math::Vector<4u>::~Vector()
+                0x00000000                math::Vector<4u>::~Vector()
+
+.text._ZN4math10VectorBaseILj3EED2Ev
+                0x00000000        0xc
+ .text._ZN4math10VectorBaseILj3EED2Ev
+                0x00000000        0xc ekf_att_pos_estimator_main.cpp.o
+                0x00000000                math::VectorBase<3u>::~VectorBase()
+                0x00000000                math::VectorBase<3u>::~VectorBase()
+
+.text._ZN4math10VectorBaseILj4EED2Ev
+                0x00000000        0xc
+ .text._ZN4math10VectorBaseILj4EED2Ev
+                0x00000000        0xc ekf_att_pos_estimator_main.cpp.o
+                0x00000000                math::VectorBase<4u>::~VectorBase()
+                0x00000000                math::VectorBase<4u>::~VectorBase()
+
+.text._ZN4math10MatrixBaseILj3ELj3EED2Ev
+                0x00000000        0xc
+ .text._ZN4math10MatrixBaseILj3ELj3EED2Ev
+                0x00000000        0xc ekf_att_pos_estimator_main.cpp.o
+                0x00000000                math::MatrixBase<3u, 3u>::~MatrixBase()
+                0x00000000                math::MatrixBase<3u, 3u>::~MatrixBase()
+
+.text._ZN4math10QuaternionD2Ev
+                0x00000000        0xc
+ .text._ZN4math10QuaternionD2Ev
+                0x00000000        0xc ekf_att_pos_estimator_main.cpp.o
+                0x00000000                math::Quaternion::~Quaternion()
+                0x00000000                math::Quaternion::~Quaternion()
+
+.text._ZN4math6MatrixILj3ELj3EED2Ev
+                0x00000000        0xc
+ .text._ZN4math6MatrixILj3ELj3EED2Ev
+                0x00000000        0xc ekf_att_pos_estimator_main.cpp.o
+                0x00000000                math::Matrix<3u, 3u>::~Matrix()
+                0x00000000                math::Matrix<3u, 3u>::~Matrix()
+
+.text._ZN4math6VectorILj3EED2Ev
+                0x00000000        0xc
+ .text._ZN4math6VectorILj3EED2Ev
+                0x00000000        0xc ekf_att_pos_estimator_main.cpp.o
+                0x00000000                math::Vector<3u>::~Vector()
+                0x00000000                math::Vector<3u>::~Vector()
+
+.text._ZN4math6VectorILj3EED0Ev
+                0x00000000       0x14
+ .text._ZN4math6VectorILj3EED0Ev
+                0x00000000       0x14 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                math::Vector<3u>::~Vector()
+
+.text._ZN4math6MatrixILj3ELj3EED0Ev
+                0x00000000       0x14
+ .text._ZN4math6MatrixILj3ELj3EED0Ev
+                0x00000000       0x14 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                math::Matrix<3u, 3u>::~Matrix()
+
+.text._ZN4math10QuaternionD0Ev
+                0x00000000       0x14
+ .text._ZN4math10QuaternionD0Ev
+                0x00000000       0x14 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                math::Quaternion::~Quaternion()
+
+.text._ZN4math10MatrixBaseILj3ELj3EED0Ev
+                0x00000000       0x14
+ .text._ZN4math10MatrixBaseILj3ELj3EED0Ev
+                0x00000000       0x14 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                math::MatrixBase<3u, 3u>::~MatrixBase()
+
+.text._ZN4math10VectorBaseILj4EED0Ev
+                0x00000000       0x14
+ .text._ZN4math10VectorBaseILj4EED0Ev
+                0x00000000       0x14 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                math::VectorBase<4u>::~VectorBase()
+
+.text._ZN4math10VectorBaseILj3EED0Ev
+                0x00000000       0x14
+ .text._ZN4math10VectorBaseILj3EED0Ev
+                0x00000000       0x14 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                math::VectorBase<3u>::~VectorBase()
+
+.text._ZN4math6VectorILj4EED0Ev
+                0x00000000       0x14
+ .text._ZN4math6VectorILj4EED0Ev
+                0x00000000       0x14 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                math::Vector<4u>::~Vector()
+
+.text._Z6millisv
+                0x00000000        0xc
+ .text._Z6millisv
+                0x00000000        0xc ekf_att_pos_estimator_main.cpp.o
+                0x00000000                millis()
+
+.text._Z9getMicrosv
+                0x00000000       0x10
+ .text._Z9getMicrosv
+                0x00000000       0x10 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                getMicros()
+
+.text._ZN28AttitudePositionEstimatorEKFD2Ev
+                0x00000000       0x68
+ .text._ZN28AttitudePositionEstimatorEKFD2Ev
+                0x00000000       0x68 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                AttitudePositionEstimatorEKF::~AttitudePositionEstimatorEKF()
+                0x00000000                AttitudePositionEstimatorEKF::~AttitudePositionEstimatorEKF()
+
+.text._ZN28AttitudePositionEstimatorEKF14enable_loggingEb
+                0x00000000        0x8
+ .text._ZN28AttitudePositionEstimatorEKF14enable_loggingEb
+                0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                AttitudePositionEstimatorEKF::enable_logging(bool)
+
+.text._ZN28AttitudePositionEstimatorEKF17parameters_updateEv
+                0x00000000      0x1b0
+ .text._ZN28AttitudePositionEstimatorEKF17parameters_updateEv
+                0x00000000      0x1b0 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                AttitudePositionEstimatorEKF::parameters_update()
+
+.text._ZN28AttitudePositionEstimatorEKFC2Ev
+                0x00000000      0x71c
+ .text._ZN28AttitudePositionEstimatorEKFC2Ev
+                0x00000000      0x71c ekf_att_pos_estimator_main.cpp.o
+                0x00000000                AttitudePositionEstimatorEKF::AttitudePositionEstimatorEKF()
+                0x00000000                AttitudePositionEstimatorEKF::AttitudePositionEstimatorEKF()
+
+.text._ZN28AttitudePositionEstimatorEKF19vehicle_status_pollEv
+                0x00000000       0x38
+ .text._ZN28AttitudePositionEstimatorEKF19vehicle_status_pollEv
+                0x00000000       0x38 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                AttitudePositionEstimatorEKF::vehicle_status_poll()
+
+.text._ZN28AttitudePositionEstimatorEKF18check_filter_stateEv
+                0x00000000      0x314
+ .text._ZN28AttitudePositionEstimatorEKF18check_filter_stateEv
+                0x00000000      0x314 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                AttitudePositionEstimatorEKF::check_filter_state()
+
+.text._ZN28AttitudePositionEstimatorEKF13initializeGPSEv
+                0x00000000      0x228
+ .text._ZN28AttitudePositionEstimatorEKF13initializeGPSEv
+                0x00000000      0x228 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                AttitudePositionEstimatorEKF::initializeGPS()
+
+.text._ZN28AttitudePositionEstimatorEKF15publishAttitudeEv
+                0x00000000      0x2e8
+ .text._ZN28AttitudePositionEstimatorEKF15publishAttitudeEv
+                0x00000000      0x2e8 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                AttitudePositionEstimatorEKF::publishAttitude()
+
+.text._ZN28AttitudePositionEstimatorEKF20publishLocalPositionEv
+                0x00000000       0xb8
+ .text._ZN28AttitudePositionEstimatorEKF20publishLocalPositionEv
+                0x00000000       0xb8 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                AttitudePositionEstimatorEKF::publishLocalPosition()
+
+.text._ZN28AttitudePositionEstimatorEKF21publishGlobalPositionEv
+                0x00000000      0x130
+ .text._ZN28AttitudePositionEstimatorEKF21publishGlobalPositionEv
+                0x00000000      0x130 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                AttitudePositionEstimatorEKF::publishGlobalPosition()
+
+.text._ZN28AttitudePositionEstimatorEKF19publishWindEstimateEv
+                0x00000000       0x58
+ .text._ZN28AttitudePositionEstimatorEKF19publishWindEstimateEv
+                0x00000000       0x58 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                AttitudePositionEstimatorEKF::publishWindEstimate()
+
+.text._ZN28AttitudePositionEstimatorEKF18updateSensorFusionEbbbbbbbb
+                0x00000000      0x318
+ .text._ZN28AttitudePositionEstimatorEKF18updateSensorFusionEbbbbbbbb
+                0x00000000      0x318 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                AttitudePositionEstimatorEKF::updateSensorFusion(bool, bool, bool, bool, bool, bool, bool, bool)
+
+.text._ZN28AttitudePositionEstimatorEKF5startEv
+                0x00000000       0x58
+ .text._ZN28AttitudePositionEstimatorEKF5startEv
+                0x00000000       0x58 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                AttitudePositionEstimatorEKF::start()
+
+.text._ZN28AttitudePositionEstimatorEKF12print_statusEv
+                0x00000000      0x5f0
+ .text._ZN28AttitudePositionEstimatorEKF12print_statusEv
+                0x00000000      0x5f0 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                AttitudePositionEstimatorEKF::print_status()
+
+.text._ZN28AttitudePositionEstimatorEKF8pollDataEv
+                0x00000000      0xb38
+ .text._ZN28AttitudePositionEstimatorEKF8pollDataEv
+                0x00000000      0xb38 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                AttitudePositionEstimatorEKF::pollData()
+
+.text._ZN28AttitudePositionEstimatorEKF9task_mainEv
+                0x00000000      0x3d0
+ .text._ZN28AttitudePositionEstimatorEKF9task_mainEv
+                0x00000000      0x3d0 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                AttitudePositionEstimatorEKF::task_main()
+
+.text._ZN28AttitudePositionEstimatorEKF20task_main_trampolineEiPPc
+                0x00000000       0x10
+ .text._ZN28AttitudePositionEstimatorEKF20task_main_trampolineEiPPc
+                0x00000000       0x10 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                AttitudePositionEstimatorEKF::task_main_trampoline(int, char**)
+
+.text._ZN28AttitudePositionEstimatorEKF8trip_nanEv
+                0x00000000       0xf4
+ .text._ZN28AttitudePositionEstimatorEKF8trip_nanEv
+                0x00000000       0xf4 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                AttitudePositionEstimatorEKF::trip_nan()
+
+.text.ekf_att_pos_estimator_main
+                0x00000000      0x390
+ .text.ekf_att_pos_estimator_main
+                0x00000000      0x390 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                ekf_att_pos_estimator_main
+
+.text._ZN9AttPosEKF18ConstrainVariancesEv.part.0
+                0x00000000      0x9f0
+ .text._ZN9AttPosEKF18ConstrainVariancesEv.part.0
+                0x00000000      0x9f0 estimator_22states.cpp.o
+
+.text._ZN9AttPosEKFD2Ev
+                0x00000000        0x4
+ .text._ZN9AttPosEKFD2Ev
+                0x00000000        0x4 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::~AttPosEKF()
+                0x00000000                AttPosEKF::~AttPosEKF()
+
+.text._ZN9AttPosEKF20InitialiseParametersEv
+                0x00000000       0xc4
+ .text._ZN9AttPosEKF20InitialiseParametersEv
+                0x00000000       0xc4 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::InitialiseParameters()
+
+.text._ZN9AttPosEKF20CovariancePredictionEf
+                0x00000000     0x8350
+ .text._ZN9AttPosEKF20CovariancePredictionEf
+                0x00000000     0x8350 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::CovariancePrediction(float)
+
+.text._ZN9AttPosEKF15updateDtGpsFiltEf
+                0x00000000       0xc0
+ .text._ZN9AttPosEKF15updateDtGpsFiltEf
+                0x00000000       0xc0 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::updateDtGpsFilt(float)
+
+.text._ZN9AttPosEKF15updateDtHgtFiltEf
+                0x00000000       0xc0
+ .text._ZN9AttPosEKF15updateDtHgtFiltEf
+                0x00000000       0xc0 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::updateDtHgtFilt(float)
+
+.text._ZN9AttPosEKF18updateDtVelPosFiltEf
+                0x00000000       0xc0
+ .text._ZN9AttPosEKF18updateDtVelPosFiltEf
+                0x00000000       0xc0 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::updateDtVelPosFilt(float)
+
+.text._ZN9AttPosEKF8zeroRowsERA22_A22_fhh
+                0x00000000       0x4c
+ .text._ZN9AttPosEKF8zeroRowsERA22_A22_fhh
+                0x00000000       0x4c estimator_22states.cpp.o
+                0x00000000                AttPosEKF::zeroRows(float (&) [22][22], unsigned char, unsigned char)
+
+.text._ZN9AttPosEKF14OpticalFlowEKFEv
+                0x00000000      0x818
+ .text._ZN9AttPosEKF14OpticalFlowEKFEv
+                0x00000000      0x818 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::OpticalFlowEKF()
+
+.text._ZN9AttPosEKF8zeroColsERA22_A22_fhh
+                0x00000000       0x48
+ .text._ZN9AttPosEKF8zeroColsERA22_A22_fhh
+                0x00000000       0x48 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::zeroCols(float (&) [22][22], unsigned char, unsigned char)
+
+.text._ZN9AttPosEKF11StoreStatesEy
+                0x00000000       0xa8
+ .text._ZN9AttPosEKF11StoreStatesEy
+                0x00000000       0xa8 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::StoreStates(unsigned long long)
+
+.text._ZN9AttPosEKF17ResetStoredStatesEv
+                0x00000000       0x48
+ .text._ZN9AttPosEKF17ResetStoredStatesEv
+                0x00000000       0x48 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::ResetStoredStates()
+
+.text._ZN9AttPosEKF12RecallStatesEPfy
+                0x00000000      0x230
+ .text._ZN9AttPosEKF12RecallStatesEPfy
+                0x00000000      0x230 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::RecallStates(float*, unsigned long long)
+
+.text._ZN9AttPosEKF11RecallOmegaEPfy
+                0x00000000      0x15c
+ .text._ZN9AttPosEKF11RecallOmegaEPfy
+                0x00000000      0x15c estimator_22states.cpp.o
+                0x00000000                AttPosEKF::RecallOmega(float*, unsigned long long)
+
+.text._ZN9AttPosEKF8quat2TbnER5Mat3fRA4_Kf
+                0x00000000       0xb0
+ .text._ZN9AttPosEKF8quat2TbnER5Mat3fRA4_Kf
+                0x00000000       0xb0 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::quat2Tbn(Mat3f&, float const (&) [4])
+
+.text._ZN9AttPosEKF8eul2quatERA4_fRA3_Kf
+                0x00000000      0x114
+ .text._ZN9AttPosEKF8eul2quatERA4_fRA3_Kf
+                0x00000000      0x114 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::eul2quat(float (&) [4], float const (&) [3])
+
+.text._ZN9AttPosEKF8quat2eulERA3_fRA4_Kf
+                0x00000000       0x94
+ .text._ZN9AttPosEKF8quat2eulERA3_fRA4_Kf
+                0x00000000       0x94 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::quat2eul(float (&) [3], float const (&) [4])
+
+.text._ZN9AttPosEKF10calcvelNEDERA3_ffff
+                0x00000000       0x3c
+ .text._ZN9AttPosEKF10calcvelNEDERA3_ffff
+                0x00000000       0x3c estimator_22states.cpp.o
+                0x00000000                AttPosEKF::calcvelNED(float (&) [3], float, float, float)
+
+.text._ZN9AttPosEKF10calcposNEDERA3_fddfddf
+                0x00000000       0x90
+ .text._ZN9AttPosEKF10calcposNEDERA3_fddfddf
+                0x00000000       0x90 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::calcposNED(float (&) [3], double, double, float, double, double, float)
+
+.text._ZN9AttPosEKF7calcLLHEPfRdS1_Rfddf
+                0x00000000       0x98
+ .text._ZN9AttPosEKF7calcLLHEPfRdS1_Rfddf
+                0x00000000       0x98 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::calcLLH(float*, double&, double&, float&, double, double, float)
+
+.text._ZN9AttPosEKF11setOnGroundEb
+                0x00000000       0xc4
+ .text._ZN9AttPosEKF11setOnGroundEb
+                0x00000000       0xc4 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::setOnGround(bool)
+
+.text._ZN9AttPosEKF16calcEarthRateNEDER8Vector3ff
+                0x00000000       0x44
+ .text._ZN9AttPosEKF16calcEarthRateNEDER8Vector3ff
+                0x00000000       0x44 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::calcEarthRateNED(Vector3f&, float)
+
+.text._ZN9AttPosEKF14CovarianceInitEv
+                0x00000000      0x128
+ .text._ZN9AttPosEKF14CovarianceInitEv
+                0x00000000      0x128 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::CovarianceInit()
+
+.text._ZN9AttPosEKF14ConstrainFloatEfff
+                0x00000000       0x94
+ .text._ZN9AttPosEKF14ConstrainFloatEfff
+                0x00000000       0x94 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::ConstrainFloat(float, float, float)
+
+.text._ZN9AttPosEKF18ConstrainVariancesEv
+                0x00000000       0x10
+ .text._ZN9AttPosEKF18ConstrainVariancesEv
+                0x00000000       0x10 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::ConstrainVariances()
+
+.text._ZN9AttPosEKF15ConstrainStatesEv
+                0x00000000      0xa78
+ .text._ZN9AttPosEKF15ConstrainStatesEv
+                0x00000000      0xa78 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::ConstrainStates()
+
+.text._ZN9AttPosEKF27UpdateStrapdownEquationsNEDEv
+                0x00000000      0x534
+ .text._ZN9AttPosEKF27UpdateStrapdownEquationsNEDEv
+                0x00000000      0x534 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::UpdateStrapdownEquationsNED()
+
+.text._ZN9AttPosEKF19GyroOffsetsDivergedEv
+                0x00000000      0x1a0
+ .text._ZN9AttPosEKF19GyroOffsetsDivergedEv
+                0x00000000      0x1a0 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::GyroOffsetsDiverged()
+
+.text._ZN9AttPosEKF14VelNEDDivergedEv
+                0x00000000       0x84
+ .text._ZN9AttPosEKF14VelNEDDivergedEv
+                0x00000000       0x84 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::VelNEDDiverged()
+
+.text._ZN9AttPosEKF13FilterHealthyEv
+                0x00000000       0x28
+ .text._ZN9AttPosEKF13FilterHealthyEv
+                0x00000000       0x28 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::FilterHealthy()
+
+.text._ZN9AttPosEKF13ResetPositionEv
+                0x00000000       0x60
+ .text._ZN9AttPosEKF13ResetPositionEv
+                0x00000000       0x60 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::ResetPosition()
+
+.text._ZN9AttPosEKF11ResetHeightEv
+                0x00000000       0x2c
+ .text._ZN9AttPosEKF11ResetHeightEv
+                0x00000000       0x2c estimator_22states.cpp.o
+                0x00000000                AttPosEKF::ResetHeight()
+
+.text._ZN9AttPosEKF13ResetVelocityEv
+                0x00000000       0x5c
+ .text._ZN9AttPosEKF13ResetVelocityEv
+                0x00000000       0x5c estimator_22states.cpp.o
+                0x00000000                AttPosEKF::ResetVelocity()
+
+.text._ZN9AttPosEKF9StatesNaNEv
+                0x00000000      0x2bc
+ .text._ZN9AttPosEKF9StatesNaNEv
+                0x00000000      0x2bc estimator_22states.cpp.o
+                0x00000000                AttPosEKF::StatesNaN()
+
+.text._ZN9AttPosEKF12AttitudeInitEfffffffPf
+                0x00000000      0x18c
+ .text._ZN9AttPosEKF12AttitudeInitEfffffffPf
+                0x00000000      0x18c estimator_22states.cpp.o
+                0x00000000                AttPosEKF::AttitudeInit(float, float, float, float, float, float, float, float*)
+
+.text._ZN9AttPosEKF13ZeroVariablesEv
+                0x00000000      0x288
+ .text._ZN9AttPosEKF13ZeroVariablesEv
+                0x00000000      0x288 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::ZeroVariables()
+
+.text._ZN9AttPosEKFC2Ev
+                0x00000000      0x5f0
+ .text._ZN9AttPosEKFC2Ev
+                0x00000000      0x5f0 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::AttPosEKF()
+                0x00000000                AttPosEKF::AttPosEKF()
+
+.text._ZN9AttPosEKF17InitializeDynamicERA3_ff
+                0x00000000      0x5f0
+ .text._ZN9AttPosEKF17InitializeDynamicERA3_ff
+                0x00000000      0x5f0 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::InitializeDynamic(float (&) [3], float)
+
+.text._ZN9AttPosEKF16InitialiseFilterERA3_fddff
+                0x00000000       0x3c
+ .text._ZN9AttPosEKF16InitialiseFilterERA3_fddff
+                0x00000000       0x3c estimator_22states.cpp.o
+                0x00000000                AttPosEKF::InitialiseFilter(float (&) [3], double, double, float, float)
+
+.text._ZN9AttPosEKF13ForceSymmetryEv
+                0x00000000      0x144
+ .text._ZN9AttPosEKF13ForceSymmetryEv
+                0x00000000      0x144 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::ForceSymmetry()
+
+.text._ZN9AttPosEKF13CheckAndBoundEP17ekf_status_report
+                0x00000000      0x48c
+ .text._ZN9AttPosEKF13CheckAndBoundEP17ekf_status_report
+                0x00000000      0x48c estimator_22states.cpp.o
+                0x00000000                AttPosEKF::CheckAndBound(ekf_status_report*)
+
+.text._ZN9AttPosEKF13FuseVelposNEDEv
+                0x00000000      0xc18
+ .text._ZN9AttPosEKF13FuseVelposNEDEv
+                0x00000000      0xc18 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::FuseVelposNED()
+
+.text._ZN9AttPosEKF16FuseMagnetometerEv
+                0x00000000     0x2e38
+ .text._ZN9AttPosEKF16FuseMagnetometerEv
+                0x00000000     0x2e38 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::FuseMagnetometer()
+
+.text._ZN9AttPosEKF12FuseAirspeedEv
+                0x00000000      0xb8c
+ .text._ZN9AttPosEKF12FuseAirspeedEv
+                0x00000000      0xb8c estimator_22states.cpp.o
+                0x00000000                AttPosEKF::FuseAirspeed()
+
+.text._ZN9AttPosEKF11FuseOptFlowEv
+                0x00000000     0x2890
+ .text._ZN9AttPosEKF11FuseOptFlowEv
+                0x00000000     0x2890 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::FuseOptFlow()
+
+.text._ZN9AttPosEKF14GetFilterStateEP17ekf_status_report
+                0x00000000       0x4c
+ .text._ZN9AttPosEKF14GetFilterStateEP17ekf_status_report
+                0x00000000       0x4c estimator_22states.cpp.o
+                0x00000000                AttPosEKF::GetFilterState(ekf_status_report*)
+
+.text._ZN9AttPosEKF17GetLastErrorStateEP17ekf_status_report
+                0x00000000       0x24
+ .text._ZN9AttPosEKF17GetLastErrorStateEP17ekf_status_report
+                0x00000000       0x24 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::GetLastErrorState(ekf_status_report*)
+
+.text._ZN9AttPosEKF14setIsFixedWingEb
+                0x00000000        0x8
+ .text._ZN9AttPosEKF14setIsFixedWingEb
+                0x00000000        0x8 estimator_22states.cpp.o
+                0x00000000                AttPosEKF::setIsFixedWing(bool)
+
+.text._Z9ekf_debugPKcz
+                0x00000000        0x8
+ .text._Z9ekf_debugPKcz
+                0x00000000        0x8 estimator_utilities.cpp.o
+                0x00000000                ekf_debug(char const*, ...)
+
+.text._ZNK8Vector3f6lengthEv
+                0x00000000       0x38
+ .text._ZNK8Vector3f6lengthEv
+                0x00000000       0x38 estimator_utilities.cpp.o
+                0x00000000                Vector3f::length() const
+
+.text._ZN8Vector3f4zeroEv
+                0x00000000        0xc
+ .text._ZN8Vector3f4zeroEv
+                0x00000000        0xc estimator_utilities.cpp.o
+                0x00000000                Vector3f::zero()
+
+.text._ZN5Mat3fC2Ev
+                0x00000000       0x1c
+ .text._ZN5Mat3fC2Ev
+                0x00000000       0x1c estimator_utilities.cpp.o
+                0x00000000                Mat3f::Mat3f()
+                0x00000000                Mat3f::Mat3f()
+
+.text._ZN5Mat3f8identityEv
+                0x00000000       0x1c
+ .text._ZN5Mat3f8identityEv
+                0x00000000       0x1c estimator_utilities.cpp.o
+                0x00000000                Mat3f::identity()
+
+.text._ZNK5Mat3f9transposeEv
+                0x00000000       0x40
+ .text._ZNK5Mat3f9transposeEv
+                0x00000000       0x40 estimator_utilities.cpp.o
+                0x00000000                Mat3f::transpose() const
+
+.text._ZplRK8Vector3fS1_
+                0x00000000       0x2c
+ .text._ZplRK8Vector3fS1_
+                0x00000000       0x2c estimator_utilities.cpp.o
+                0x00000000                operator+(Vector3f const&, Vector3f const&)
+
+.text._ZmiRK8Vector3fS1_
+                0x00000000       0x2c
+ .text._ZmiRK8Vector3fS1_
+                0x00000000       0x2c estimator_utilities.cpp.o
+                0x00000000                operator-(Vector3f const&, Vector3f const&)
+
+.text._ZmlRK5Mat3fRK8Vector3f
+                0x00000000       0x58
+ .text._ZmlRK5Mat3fRK8Vector3f
+                0x00000000       0x58 estimator_utilities.cpp.o
+                0x00000000                operator*(Mat3f const&, Vector3f const&)
+
+.text._ZmlRK5Mat3fS1_
+                0x00000000       0xdc
+ .text._ZmlRK5Mat3fS1_
+                0x00000000       0xdc estimator_utilities.cpp.o
+                0x00000000                operator*(Mat3f const&, Mat3f const&)
+
+.text._ZrmRK8Vector3fS1_
+                0x00000000       0x38
+ .text._ZrmRK8Vector3fS1_
+                0x00000000       0x38 estimator_utilities.cpp.o
+                0x00000000                operator%(Vector3f const&, Vector3f const&)
+
+.text._ZmlRK8Vector3ff
+                0x00000000       0x20
+ .text._ZmlRK8Vector3ff
+                0x00000000       0x20 estimator_utilities.cpp.o
+                0x00000000                operator*(Vector3f const&, float)
+
+.text._ZmlfRK8Vector3f
+                0x00000000       0x20
+ .text._ZmlfRK8Vector3f
+                0x00000000       0x20 estimator_utilities.cpp.o
+                0x00000000                operator*(float, Vector3f const&)
+
+.text._ZdvRK8Vector3ff
+                0x00000000       0x28
+ .text._ZdvRK8Vector3ff
+                0x00000000       0x28 estimator_utilities.cpp.o
+                0x00000000                operator/(Vector3f const&, float)
+
+.fini
+ *(.fini)
+
+.rodata         0x00000000       0x20
+ *(.rodata)
+ .rodata        0x00000000       0x20 ekf_att_pos_estimator_main.cpp.o
+
+.rodata._ZTVN4math6VectorILj4EEE
+                0x00000000       0x10
+ .rodata._ZTVN4math6VectorILj4EEE
+                0x00000000       0x10 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                vtable for math::Vector<4u>
+
+.rodata._ZTVN4math10VectorBaseILj4EEE
+                0x00000000       0x10
+ .rodata._ZTVN4math10VectorBaseILj4EEE
+                0x00000000       0x10 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                vtable for math::VectorBase<4u>
+
+.rodata._ZTVN4math10QuaternionE
+                0x00000000       0x10
+ .rodata._ZTVN4math10QuaternionE
+                0x00000000       0x10 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                vtable for math::Quaternion
+
+.rodata._ZTVN4math10MatrixBaseILj3ELj3EEE
+                0x00000000       0x10
+ .rodata._ZTVN4math10MatrixBaseILj3ELj3EEE
+                0x00000000       0x10 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                vtable for math::MatrixBase<3u, 3u>
+
+.rodata._ZTVN4math6MatrixILj3ELj3EEE
+                0x00000000       0x10
+ .rodata._ZTVN4math6MatrixILj3ELj3EEE
+                0x00000000       0x10 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                vtable for math::Matrix<3u, 3u>
+
+.rodata._ZTVN4math10VectorBaseILj3EEE
+                0x00000000       0x10
+ .rodata._ZTVN4math10VectorBaseILj3EEE
+                0x00000000       0x10 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                vtable for math::VectorBase<3u>
+
+.rodata._ZTVN4math6VectorILj3EEE
+                0x00000000       0x10
+ .rodata._ZTVN4math6VectorILj3EEE
+                0x00000000       0x10 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                vtable for math::Vector<3u>
+
+.rodata.str1.4  0x00000000      0xd94
+ .rodata.str1.4
+                0x00000000      0xb48 ekf_att_pos_estimator_main.cpp.o
+ .rodata.str1.4
+                0x00000b48      0x14c ekf_att_pos_estimator_params.c.o
+ .rodata.str1.4
+                0x00000c94      0x100 estimator_22states.cpp.o
+
+__param         0x00000000       0xfc
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                PROVIDE (__start___param, ABSOLUTE (.))
+ __param        0x00000000       0xfc ekf_att_pos_estimator_params.c.o
+                0x000000fc                PROVIDE (__stop___param, .)
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab
+ *(.ARM.extab)
+
+.ARM.exidx
+ *(.ARM.exidx)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got.plt)
+ *(.igot.plt)
+ *(.got)
+ *(.igot)
+
+.data           0x00000000        0x0
+ *(.data)
+ .data          0x00000000        0x0 ekf_att_pos_estimator_main.cpp.o
+ .data          0x00000000        0x0 ekf_att_pos_estimator_params.c.o
+ .data          0x00000000        0x0 estimator_22states.cpp.o
+ .data          0x00000000        0x0 estimator_utilities.cpp.o
+
+.data._ZZN9AttPosEKF11FuseOptFlowEvE2q3
+                0x00000000        0x4
+ .data._ZZN9AttPosEKF11FuseOptFlowEvE2q3
+                0x00000000        0x4 estimator_22states.cpp.o
+
+.data1
+ *(.data1)
+
+.bss            0x00000000        0x0
+ *(.dynbss)
+ *(.bss)
+ .bss           0x00000000        0x0 ekf_att_pos_estimator_main.cpp.o
+ .bss           0x00000000        0x0 ekf_att_pos_estimator_params.c.o
+ .bss           0x00000000        0x0 estimator_22states.cpp.o
+ .bss           0x00000000        0x0 estimator_utilities.cpp.o
+ *(COMMON)
+
+.bss._ZZN28AttitudePositionEstimatorEKF8pollDataEvE11lastAngRate
+                0x00000000        0xc
+ .bss._ZZN28AttitudePositionEstimatorEKF8pollDataEvE11lastAngRate
+                0x00000000        0xc ekf_att_pos_estimator_main.cpp.o
+
+.bss._ZL7IMUmsec
+                0x00000000        0x8
+ .bss._ZL7IMUmsec
+                0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.bss._ZL7IMUusec
+                0x00000000        0x8
+ .bss._ZL7IMUusec
+                0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.bss._ZGVZN28AttitudePositionEstimatorEKF8pollDataEvE11lastAngRate
+                0x00000000        0x4
+ .bss._ZGVZN28AttitudePositionEstimatorEKF8pollDataEvE11lastAngRate
+                0x00000000        0x4 ekf_att_pos_estimator_main.cpp.o
+
+.bss._ZGVZN28AttitudePositionEstimatorEKF8pollDataEvE9lastAccel
+                0x00000000        0x4
+ .bss._ZGVZN28AttitudePositionEstimatorEKF8pollDataEvE9lastAccel
+                0x00000000        0x4 ekf_att_pos_estimator_main.cpp.o
+
+.bss._ZZN28AttitudePositionEstimatorEKF8pollDataEvE9lastAccel
+                0x00000000        0xc
+ .bss._ZZN28AttitudePositionEstimatorEKF8pollDataEvE9lastAccel
+                0x00000000        0xc ekf_att_pos_estimator_main.cpp.o
+
+.bss._ZN9estimator11g_estimatorE
+                0x00000000        0x4
+ .bss._ZN9estimator11g_estimatorE
+                0x00000000        0x4 ekf_att_pos_estimator_main.cpp.o
+                0x00000000                estimator::g_estimator
+
+.bss._ZZN28AttitudePositionEstimatorEKF8pollDataEvE10last_accel
+                0x00000000        0x8
+ .bss._ZZN28AttitudePositionEstimatorEKF8pollDataEvE10last_accel
+                0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.bss._ZZN28AttitudePositionEstimatorEKF8pollDataEvE9baro_last
+                0x00000000        0x8
+ .bss._ZZN28AttitudePositionEstimatorEKF8pollDataEvE9baro_last
+                0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.bss._ZZN28AttitudePositionEstimatorEKF8pollDataEvE8last_mag
+                0x00000000        0x8
+ .bss._ZZN28AttitudePositionEstimatorEKF8pollDataEvE8last_mag
+                0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.bss._ZZN9AttPosEKF11FuseOptFlowEvE3ptd
+                0x00000000        0x4
+ .bss._ZZN9AttPosEKF11FuseOptFlowEvE3ptd
+                0x00000000        0x4 estimator_22states.cpp.o
+
+.bss._ZZN9AttPosEKF11FuseOptFlowEvE7losPred
+                0x00000000        0x8
+ .bss._ZZN9AttPosEKF11FuseOptFlowEvE7losPred
+                0x00000000        0x8 estimator_22states.cpp.o
+
+.bss._ZZN9AttPosEKF11FuseOptFlowEvE2q0
+                0x00000000        0x4
+ .bss._ZZN9AttPosEKF11FuseOptFlowEvE2q0
+                0x00000000        0x4 estimator_22states.cpp.o
+
+.bss._ZZN9AttPosEKF11FuseOptFlowEvE2q1
+                0x00000000        0x4
+ .bss._ZZN9AttPosEKF11FuseOptFlowEvE2q1
+                0x00000000        0x4 estimator_22states.cpp.o
+
+.bss._ZZN9AttPosEKF11FuseOptFlowEvE2q2
+                0x00000000        0x4
+ .bss._ZZN9AttPosEKF11FuseOptFlowEvE2q2
+                0x00000000        0x4 estimator_22states.cpp.o
+
+.bss._ZZN9AttPosEKF11FuseOptFlowEvE6SK_LOS
+                0x00000000       0x24
+ .bss._ZZN9AttPosEKF11FuseOptFlowEvE6SK_LOS
+                0x00000000       0x24 estimator_22states.cpp.o
+
+.bss._ZZN9AttPosEKF11FuseOptFlowEvE2vd
+                0x00000000        0x4
+ .bss._ZZN9AttPosEKF11FuseOptFlowEvE2vd
+                0x00000000        0x4 estimator_22states.cpp.o
+
+.bss._ZZN9AttPosEKF11FuseOptFlowEvE2ve
+                0x00000000        0x4
+ .bss._ZZN9AttPosEKF11FuseOptFlowEvE2ve
+                0x00000000        0x4 estimator_22states.cpp.o
+
+.bss._ZZN9AttPosEKF11FuseOptFlowEvE2pd
+                0x00000000        0x4
+ .bss._ZZN9AttPosEKF11FuseOptFlowEvE2pd
+                0x00000000        0x4 estimator_22states.cpp.o
+
+.bss._ZZN9AttPosEKF11FuseOptFlowEvE6SH_LOS
+                0x00000000       0x34
+ .bss._ZZN9AttPosEKF11FuseOptFlowEvE6SH_LOS
+                0x00000000       0x34 estimator_22states.cpp.o
+
+.bss._ZZN9AttPosEKF11FuseOptFlowEvE2vn
+                0x00000000        0x4
+ .bss._ZZN9AttPosEKF11FuseOptFlowEvE2vn
+                0x00000000        0x4 estimator_22states.cpp.o
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000      0x1c4
+ *(.comment)
+ .comment       0x00000000       0x71 ekf_att_pos_estimator_main.cpp.o
+ .comment       0x00000071       0x71 ekf_att_pos_estimator_params.c.o
+ .comment       0x000000e2       0x71 estimator_22states.cpp.o
+ .comment       0x00000153       0x71 estimator_utilities.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_main.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 ekf_att_pos_estimator_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_22states.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 estimator_utilities.cpp.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x368
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000      0x130 ekf_att_pos_estimator_main.cpp.o
+ .debug_aranges
+                0x00000130       0x18 ekf_att_pos_estimator_params.c.o
+ .debug_aranges
+                0x00000148      0x198 estimator_22states.cpp.o
+ .debug_aranges
+                0x000002e0       0x88 estimator_utilities.cpp.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x1c3d2
+ *(.debug_info)
+ .debug_info    0x00000000     0xde39 ekf_att_pos_estimator_main.cpp.o
+ .debug_info    0x0000de39      0x29e ekf_att_pos_estimator_params.c.o
+ .debug_info    0x0000e0d7     0xafcc estimator_22states.cpp.o
+ .debug_info    0x000190a3     0x332f estimator_utilities.cpp.o
+
+.debug_abbrev   0x00000000     0x185c
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x8eb ekf_att_pos_estimator_main.cpp.o
+ .debug_abbrev  0x000008eb       0xca ekf_att_pos_estimator_params.c.o
+ .debug_abbrev  0x000009b5      0x89c estimator_22states.cpp.o
+ .debug_abbrev  0x00001251      0x60b estimator_utilities.cpp.o
+
+.debug_line     0x00000000     0xb57b
+ *(.debug_line)
+ .debug_line    0x00000000     0x27c7 ekf_att_pos_estimator_main.cpp.o
+ .debug_line    0x000027c7      0x2eb ekf_att_pos_estimator_params.c.o
+ .debug_line    0x00002ab2     0x786b estimator_22states.cpp.o
+ .debug_line    0x0000a31d     0x125e estimator_utilities.cpp.o
+
+.debug_frame    0x00000000      0xc3c
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x3f4 ekf_att_pos_estimator_main.cpp.o
+ .debug_frame   0x000003f4      0x718 estimator_22states.cpp.o
+ .debug_frame   0x00000b0c      0x130 estimator_utilities.cpp.o
+
+.debug_str      0x00000000    0x75931
+ *(.debug_str)
+ .debug_str     0x00000000    0x4fcdf ekf_att_pos_estimator_main.cpp.o
+ .debug_str     0x0004fcdf     0x5960 ekf_att_pos_estimator_params.c.o
+ .debug_str     0x0005563f    0x10d8b estimator_22states.cpp.o
+ .debug_str     0x000663ca     0xf567 estimator_utilities.cpp.o
+
+.debug_loc      0x00000000     0xe477
+ *(.debug_loc)
+ .debug_loc     0x00000000     0x1615 ekf_att_pos_estimator_main.cpp.o
+ .debug_loc     0x00001615     0xc561 estimator_22states.cpp.o
+ .debug_loc     0x0000db76      0x901 estimator_utilities.cpp.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000     0x3848
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0xb10 ekf_att_pos_estimator_main.cpp.o
+ .debug_ranges  0x00000b10     0x2bd8 estimator_22states.cpp.o
+ .debug_ranges  0x000036e8      0x160 estimator_utilities.cpp.o
+
+.stack
+ *(.stack)
+
+.ARM.attributes
+                0x00000000       0x37
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x37 ekf_att_pos_estimator_main.cpp.o
+ .ARM.attributes
+                0x00000037       0x37 ekf_att_pos_estimator_params.c.o
+ .ARM.attributes
+                0x0000006e       0x37 estimator_22states.cpp.o
+ .ARM.attributes
+                0x000000a5       0x37 estimator_utilities.cpp.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+OUTPUT(/misc/shome/ex36/pixhawk/px4/Firmware/Build/px4fmu-v2_default.build//misc/shome/ex36/pixhawk/px4/Firmware/src/modules/ekf_att_pos_estimator/module.pre.o elf32-littlearm)
+
+.debug_macro    0x00000000     0x13c1
+ .debug_macro   0x00000000      0x7a2 ekf_att_pos_estimator_main.cpp.o
+ .debug_macro   0x000007a2       0x7d ekf_att_pos_estimator_params.c.o
+ .debug_macro   0x0000081f      0x5db estimator_22states.cpp.o
+ .debug_macro   0x00000dfa      0x5c7 estimator_utilities.cpp.o
+
+.debug_macro    0x00000000      0x832
+ .debug_macro   0x00000000      0x832 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x8a6
+ .debug_macro   0x00000000      0x8a6 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x88
+ .debug_macro   0x00000000       0x88 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x125
+ .debug_macro   0x00000000      0x125 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x5d
+ .debug_macro   0x00000000       0x5d ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x29
+ .debug_macro   0x00000000       0x29 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x2b
+ .debug_macro   0x00000000       0x2b ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x168
+ .debug_macro   0x00000000      0x168 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x49
+ .debug_macro   0x00000000       0x49 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x106
+ .debug_macro   0x00000000      0x106 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x23
+ .debug_macro   0x00000000       0x23 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0xd1
+ .debug_macro   0x00000000       0xd1 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x98
+ .debug_macro   0x00000000       0x98 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x11b
+ .debug_macro   0x00000000      0x11b ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x27f
+ .debug_macro   0x00000000      0x27f ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x195
+ .debug_macro   0x00000000      0x195 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x8a
+ .debug_macro   0x00000000       0x8a ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x39
+ .debug_macro   0x00000000       0x39 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0xb4
+ .debug_macro   0x00000000       0xb4 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x41
+ .debug_macro   0x00000000       0x41 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x30
+ .debug_macro   0x00000000       0x30 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x12
+ .debug_macro   0x00000000       0x12 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x9a
+ .debug_macro   0x00000000       0x9a ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x1cf
+ .debug_macro   0x00000000      0x1cf ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x16c
+ .debug_macro   0x00000000      0x16c ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x88
+ .debug_macro   0x00000000       0x88 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x64
+ .debug_macro   0x00000000       0x64 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x6a
+ .debug_macro   0x00000000       0x6a ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x77
+ .debug_macro   0x00000000       0x77 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x2e
+ .debug_macro   0x00000000       0x2e ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x34
+ .debug_macro   0x00000000       0x34 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x3a
+ .debug_macro   0x00000000       0x3a ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x27
+ .debug_macro   0x00000000       0x27 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0xa3
+ .debug_macro   0x00000000       0xa3 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x281
+ .debug_macro   0x00000000      0x281 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x2e
+ .debug_macro   0x00000000       0x2e ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x53
+ .debug_macro   0x00000000       0x53 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x5e
+ .debug_macro   0x00000000       0x5e ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x14d
+ .debug_macro   0x00000000      0x14d ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x6c1
+ .debug_macro   0x00000000      0x6c1 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x78
+ .debug_macro   0x00000000       0x78 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x6cb
+ .debug_macro   0x00000000      0x6cb ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x20a
+ .debug_macro   0x00000000      0x20a ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0xf6f
+ .debug_macro   0x00000000      0xf6f ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x2ab
+ .debug_macro   0x00000000      0x2ab ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x8b5
+ .debug_macro   0x00000000      0x8b5 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x78
+ .debug_macro   0x00000000       0x78 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x7ca
+ .debug_macro   0x00000000      0x7ca ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0xff
+ .debug_macro   0x00000000       0xff ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0xae7
+ .debug_macro   0x00000000      0xae7 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x51
+ .debug_macro   0x00000000       0x51 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x11a
+ .debug_macro   0x00000000      0x11a ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x1d
+ .debug_macro   0x00000000       0x1d ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x206
+ .debug_macro   0x00000000      0x206 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x56a
+ .debug_macro   0x00000000      0x56a ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x9c
+ .debug_macro   0x00000000       0x9c ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x2bf
+ .debug_macro   0x00000000      0x2bf ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0xd3
+ .debug_macro   0x00000000       0xd3 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x34
+ .debug_macro   0x00000000       0x34 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0xab0
+ .debug_macro   0x00000000      0xab0 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x17
+ .debug_macro   0x00000000       0x17 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x6fa
+ .debug_macro   0x00000000      0x6fa ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x596
+ .debug_macro   0x00000000      0x596 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x29b
+ .debug_macro   0x00000000      0x29b ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000     0x15a4
+ .debug_macro   0x00000000     0x15a4 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x53
+ .debug_macro   0x00000000       0x53 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x347
+ .debug_macro   0x00000000      0x347 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x96
+ .debug_macro   0x00000000       0x96 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x413
+ .debug_macro   0x00000000      0x413 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x5f
+ .debug_macro   0x00000000       0x5f ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x1d
+ .debug_macro   0x00000000       0x1d ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0xdf
+ .debug_macro   0x00000000       0xdf ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x13f
+ .debug_macro   0x00000000      0x13f ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0xdb4
+ .debug_macro   0x00000000      0xdb4 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x215
+ .debug_macro   0x00000000      0x215 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x20
+ .debug_macro   0x00000000       0x20 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x3b
+ .debug_macro   0x00000000       0x3b ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x2d
+ .debug_macro   0x00000000       0x2d ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x42
+ .debug_macro   0x00000000       0x42 ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0xac
+ .debug_macro   0x00000000       0xac ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000       0x4d
+ .debug_macro   0x00000000       0x4d ekf_att_pos_estimator_main.cpp.o
+
+.debug_macro    0x00000000      0x814
+ .debug_macro   0x00000000      0x814 ekf_att_pos_estimator_params.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 ekf_att_pos_estimator_params.c.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 ekf_att_pos_estimator_params.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 ekf_att_pos_estimator_params.c.o
+
+.debug_macro    0x00000000       0x6f
+ .debug_macro   0x00000000       0x6f ekf_att_pos_estimator_params.c.o
+
+.debug_macro    0x00000000       0x25
+ .debug_macro   0x00000000       0x25 ekf_att_pos_estimator_params.c.o
+
+.debug_macro    0x00000000       0x63
+ .debug_macro   0x00000000       0x63 estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0x4d
+ .debug_macro   0x00000000       0x4d estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0xe3
+ .debug_macro   0x00000000       0xe3 estimator_22states.cpp.o
+
+.debug_macro    0x00000000      0x314
+ .debug_macro   0x00000000      0x314 estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0x11
+ .debug_macro   0x00000000       0x11 estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0x12
+ .debug_macro   0x00000000       0x12 estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0x1c
+ .debug_macro   0x00000000       0x1c estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0x6e
+ .debug_macro   0x00000000       0x6e estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0x18
+ .debug_macro   0x00000000       0x18 estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0x82
+ .debug_macro   0x00000000       0x82 estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0x12
+ .debug_macro   0x00000000       0x12 estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0x11
+ .debug_macro   0x00000000       0x11 estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0x3a
+ .debug_macro   0x00000000       0x3a estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0x52
+ .debug_macro   0x00000000       0x52 estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0x1d
+ .debug_macro   0x00000000       0x1d estimator_22states.cpp.o
+
+.debug_macro    0x00000000      0x154
+ .debug_macro   0x00000000      0x154 estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0x57
+ .debug_macro   0x00000000       0x57 estimator_22states.cpp.o
+
+.debug_macro    0x00000000      0x160
+ .debug_macro   0x00000000      0x160 estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0x2e
+ .debug_macro   0x00000000       0x2e estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0xa4
+ .debug_macro   0x00000000       0xa4 estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0x52
+ .debug_macro   0x00000000       0x52 estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0x11
+ .debug_macro   0x00000000       0x11 estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0x29
+ .debug_macro   0x00000000       0x29 estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0x11
+ .debug_macro   0x00000000       0x11 estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0xd9
+ .debug_macro   0x00000000       0xd9 estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 estimator_22states.cpp.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 estimator_utilities.cpp.o

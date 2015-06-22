@@ -1,0 +1,2040 @@
+
+Discarded input sections
+
+ .group         0x00000000        0x8 block/Block.cpp.o
+ .group         0x00000000        0x8 block/Block.cpp.o
+ .group         0x00000000        0x8 block/Block.cpp.o
+ .group         0x00000000        0x8 block/Block.cpp.o
+ .group         0x00000000        0x8 block/Block.cpp.o
+ .debug_macro   0x00000000      0x8a6 block/Block.cpp.o
+ .debug_macro   0x00000000       0x10 block/Block.cpp.o
+ .debug_macro   0x00000000       0x88 block/Block.cpp.o
+ .debug_macro   0x00000000      0x14e block/Block.cpp.o
+ .debug_macro   0x00000000      0x125 block/Block.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+ .debug_macro   0x00000000      0x838 block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x22 block/BlockParam.cpp.o
+ .debug_macro   0x00000000      0x8a6 block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x3a block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x10 block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x27 block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0xa3 block/BlockParam.cpp.o
+ .debug_macro   0x00000000      0x281 block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0xc9 block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x10 block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x88 block/BlockParam.cpp.o
+ .debug_macro   0x00000000      0x14e block/BlockParam.cpp.o
+ .debug_macro   0x00000000      0x125 block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x5d block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x58 block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x4c block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x49 block/BlockParam.cpp.o
+ .debug_macro   0x00000000      0x106 block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x23 block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x28 block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0xd1 block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x98 block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x16 block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x59 block/BlockParam.cpp.o
+ .debug_macro   0x00000000      0x11b block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x46 block/BlockParam.cpp.o
+ .debug_macro   0x00000000      0x27f block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x10 block/BlockParam.cpp.o
+ .debug_macro   0x00000000      0x195 block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x8a block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x10 block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x10 block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x39 block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0xb4 block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x41 block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x4d block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x22 block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x2b block/BlockParam.cpp.o
+ .debug_macro   0x00000000       0x18 block/BlockParam.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+ .text._ZN7control5Block5setDtEf
+                0x00000000        0x6 uorb/blocks.cpp.o
+ .text._ZN7control10SuperBlock18updatePublicationsEv
+                0x00000000       0x18 uorb/blocks.cpp.o
+ .text._ZN7control10SuperBlock19updateSubscriptionsEv
+                0x00000000       0x18 uorb/blocks.cpp.o
+ .text._ZN7control10SuperBlock12updateParamsEv
+                0x00000000       0x18 uorb/blocks.cpp.o
+ .debug_macro   0x00000000      0x838 uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x22 uorb/blocks.cpp.o
+ .debug_macro   0x00000000      0x8a6 uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0xc9 uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x10 uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x88 uorb/blocks.cpp.o
+ .debug_macro   0x00000000      0x14e uorb/blocks.cpp.o
+ .debug_macro   0x00000000      0x125 uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x29 uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x58 uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x2b uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x4c uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x49 uorb/blocks.cpp.o
+ .debug_macro   0x00000000      0x106 uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x23 uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x28 uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0xd1 uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x98 uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x16 uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x59 uorb/blocks.cpp.o
+ .debug_macro   0x00000000      0x11b uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x46 uorb/blocks.cpp.o
+ .debug_macro   0x00000000      0x27f uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x10 uorb/blocks.cpp.o
+ .debug_macro   0x00000000      0x195 uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x8a uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x10 uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x10 uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x39 uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0xb4 uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x41 uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x22 uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x3a uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x10 uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x27 uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0xa3 uorb/blocks.cpp.o
+ .debug_macro   0x00000000      0x281 uorb/blocks.cpp.o
+ .debug_macro   0x00000000       0x18 uorb/blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .group         0x00000000        0x8 blocks.cpp.o
+ .text._ZN7control5Block5setDtEf
+                0x00000000        0x6 blocks.cpp.o
+ .text._ZN7control10SuperBlock18updatePublicationsEv
+                0x00000000       0x18 blocks.cpp.o
+ .text._ZN7control10SuperBlock19updateSubscriptionsEv
+                0x00000000       0x18 blocks.cpp.o
+ .text._ZN7control10SuperBlock12updateParamsEv
+                0x00000000       0x18 blocks.cpp.o
+ .text._ZN7control6BlockPD2Ev
+                0x00000000       0x20 blocks.cpp.o
+ .text._ZN7control6BlockPD0Ev
+                0x00000000       0x12 blocks.cpp.o
+ .text._ZN7control13BlockLimitSymD2Ev
+                0x00000000       0x20 blocks.cpp.o
+ .text._ZN7control13BlockLimitSymD0Ev
+                0x00000000       0x12 blocks.cpp.o
+ .rodata._ZTVN7control13BlockLimitSymE
+                0x00000000       0x20 blocks.cpp.o
+ .rodata._ZTVN7control6BlockPE
+                0x00000000       0x20 blocks.cpp.o
+ .debug_macro   0x00000000      0x838 blocks.cpp.o
+ .debug_macro   0x00000000       0x22 blocks.cpp.o
+ .debug_macro   0x00000000      0x8a6 blocks.cpp.o
+ .debug_macro   0x00000000       0x3a blocks.cpp.o
+ .debug_macro   0x00000000       0x10 blocks.cpp.o
+ .debug_macro   0x00000000       0x27 blocks.cpp.o
+ .debug_macro   0x00000000       0xa3 blocks.cpp.o
+ .debug_macro   0x00000000      0x281 blocks.cpp.o
+ .debug_macro   0x00000000       0xc9 blocks.cpp.o
+ .debug_macro   0x00000000       0x10 blocks.cpp.o
+ .debug_macro   0x00000000       0x88 blocks.cpp.o
+ .debug_macro   0x00000000      0x14e blocks.cpp.o
+ .debug_macro   0x00000000      0x125 blocks.cpp.o
+ .debug_macro   0x00000000       0x5d blocks.cpp.o
+ .debug_macro   0x00000000       0x58 blocks.cpp.o
+ .debug_macro   0x00000000       0x4c blocks.cpp.o
+ .debug_macro   0x00000000       0x49 blocks.cpp.o
+ .debug_macro   0x00000000      0x106 blocks.cpp.o
+ .debug_macro   0x00000000       0x23 blocks.cpp.o
+ .debug_macro   0x00000000       0x28 blocks.cpp.o
+ .debug_macro   0x00000000       0xd1 blocks.cpp.o
+ .debug_macro   0x00000000       0x98 blocks.cpp.o
+ .debug_macro   0x00000000       0x16 blocks.cpp.o
+ .debug_macro   0x00000000       0x59 blocks.cpp.o
+ .debug_macro   0x00000000      0x11b blocks.cpp.o
+ .debug_macro   0x00000000       0x46 blocks.cpp.o
+ .debug_macro   0x00000000      0x27f blocks.cpp.o
+ .debug_macro   0x00000000       0x10 blocks.cpp.o
+ .debug_macro   0x00000000      0x195 blocks.cpp.o
+ .debug_macro   0x00000000       0x8a blocks.cpp.o
+ .debug_macro   0x00000000       0x10 blocks.cpp.o
+ .debug_macro   0x00000000       0x10 blocks.cpp.o
+ .debug_macro   0x00000000       0x39 blocks.cpp.o
+ .debug_macro   0x00000000       0xb4 blocks.cpp.o
+ .debug_macro   0x00000000       0x41 blocks.cpp.o
+ .debug_macro   0x00000000       0x4d blocks.cpp.o
+ .debug_macro   0x00000000       0x5e blocks.cpp.o
+ .debug_macro   0x00000000       0x2b blocks.cpp.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD test_params.c.o
+LOAD block/Block.cpp.o
+LOAD block/BlockParam.cpp.o
+LOAD uorb/blocks.cpp.o
+LOAD blocks.cpp.o
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+
+.rela.text
+ *(.rela.text)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rel.data.rel.ro
+ *(.rel.data.rel.ro)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rel.data
+ *(.rel.data)
+
+.rela.data
+ *(.rela.data)
+
+.rel.tdata
+ *(.rel.tdata)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rel.tbss
+ *(.rel.tbss)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.iplt
+ *(.rel.iplt)
+
+.rela.iplt
+ *(.rela.iplt)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(.init)
+
+.plt
+ *(.plt)
+
+.iplt
+ *(.iplt)
+
+.text           0x00000000        0x0
+ *(.text .stub)
+ .text          0x00000000        0x0 test_params.c.o
+ .text          0x00000000        0x0 block/Block.cpp.o
+ .text          0x00000000        0x0 block/BlockParam.cpp.o
+ .text          0x00000000        0x0 uorb/blocks.cpp.o
+ .text          0x00000000        0x0 blocks.cpp.o
+ *(.gnu.warning)
+
+.text._ZN7control5BlockD2Ev
+                0x00000000        0xc
+ .text._ZN7control5BlockD2Ev
+                0x00000000        0xc block/Block.cpp.o
+                0x00000000                control::Block::~Block()
+                0x00000000                control::Block::~Block()
+
+.text._ZN7control5Block5setDtEf
+                0x00000000        0x6
+ .text._ZN7control5Block5setDtEf
+                0x00000000        0x6 block/Block.cpp.o
+                0x00000000                control::Block::setDt(float)
+
+.text._ZN7control10SuperBlockD2Ev
+                0x00000000        0xc
+ .text._ZN7control10SuperBlockD2Ev
+                0x00000000        0xc block/Block.cpp.o
+                0x00000000                control::SuperBlock::~SuperBlock()
+                0x00000000                control::SuperBlock::~SuperBlock()
+
+.text._ZN7control10SuperBlockD0Ev
+                0x00000000       0x14
+ .text._ZN7control10SuperBlockD0Ev
+                0x00000000       0x14 block/Block.cpp.o
+                0x00000000                control::SuperBlock::~SuperBlock()
+
+.text._ZN7control5BlockD0Ev
+                0x00000000       0x14
+ .text._ZN7control5BlockD0Ev
+                0x00000000       0x14 block/Block.cpp.o
+                0x00000000                control::Block::~Block()
+
+.text._ZN7control5BlockC2EPNS_10SuperBlockEPKc
+                0x00000000       0x28
+ .text._ZN7control5BlockC2EPNS_10SuperBlockEPKc
+                0x00000000       0x28 block/Block.cpp.o
+                0x00000000                control::Block::Block(control::SuperBlock*, char const*)
+                0x00000000                control::Block::Block(control::SuperBlock*, char const*)
+
+.text._ZN7control5Block7getNameEPcj
+                0x00000000       0x40
+ .text._ZN7control5Block7getNameEPcj
+                0x00000000       0x40 block/Block.cpp.o
+                0x00000000                control::Block::getName(char*, unsigned int)
+
+.text._ZN7control5Block12updateParamsEv
+                0x00000000       0x38
+ .text._ZN7control5Block12updateParamsEv
+                0x00000000       0x38 block/Block.cpp.o
+                0x00000000                control::Block::updateParams()
+
+.text._ZN7control5Block19updateSubscriptionsEv
+                0x00000000       0x38
+ .text._ZN7control5Block19updateSubscriptionsEv
+                0x00000000       0x38 block/Block.cpp.o
+                0x00000000                control::Block::updateSubscriptions()
+
+.text._ZN7control5Block18updatePublicationsEv
+                0x00000000       0x38
+ .text._ZN7control5Block18updatePublicationsEv
+                0x00000000       0x38 block/Block.cpp.o
+                0x00000000                control::Block::updatePublications()
+
+.text._ZN7control10SuperBlock5setDtEf
+                0x00000000       0x4c
+ .text._ZN7control10SuperBlock5setDtEf
+                0x00000000       0x4c block/Block.cpp.o
+                0x00000000                control::SuperBlock::setDt(float)
+
+.text._ZN7control10SuperBlock17updateChildParamsEv
+                0x00000000       0x38
+ .text._ZN7control10SuperBlock17updateChildParamsEv
+                0x00000000       0x38 block/Block.cpp.o
+                0x00000000                control::SuperBlock::updateChildParams()
+
+.text._ZN7control10SuperBlock12updateParamsEv
+                0x00000000       0x18
+ .text._ZN7control10SuperBlock12updateParamsEv
+                0x00000000       0x18 block/Block.cpp.o
+                0x00000000                control::SuperBlock::updateParams()
+
+.text._ZN7control10SuperBlock24updateChildSubscriptionsEv
+                0x00000000       0x38
+ .text._ZN7control10SuperBlock24updateChildSubscriptionsEv
+                0x00000000       0x38 block/Block.cpp.o
+                0x00000000                control::SuperBlock::updateChildSubscriptions()
+
+.text._ZN7control10SuperBlock19updateSubscriptionsEv
+                0x00000000       0x18
+ .text._ZN7control10SuperBlock19updateSubscriptionsEv
+                0x00000000       0x18 block/Block.cpp.o
+                0x00000000                control::SuperBlock::updateSubscriptions()
+
+.text._ZN7control10SuperBlock23updateChildPublicationsEv
+                0x00000000       0x38
+ .text._ZN7control10SuperBlock23updateChildPublicationsEv
+                0x00000000       0x38 block/Block.cpp.o
+                0x00000000                control::SuperBlock::updateChildPublications()
+
+.text._ZN7control10SuperBlock18updatePublicationsEv
+                0x00000000       0x18
+ .text._ZN7control10SuperBlock18updatePublicationsEv
+                0x00000000       0x18 block/Block.cpp.o
+                0x00000000                control::SuperBlock::updatePublications()
+
+.text._ZN7control14BlockParamBaseD2Ev
+                0x00000000        0xc
+ .text._ZN7control14BlockParamBaseD2Ev
+                0x00000000        0xc block/BlockParam.cpp.o
+                0x00000000                control::BlockParamBase::~BlockParamBase()
+                0x00000000                control::BlockParamBase::~BlockParamBase()
+
+.text._ZN7control10BlockParamIfED2Ev
+                0x00000000        0xc
+ .text._ZN7control10BlockParamIfED2Ev
+                0x00000000        0xc block/BlockParam.cpp.o
+                0x00000000                control::BlockParam<float>::~BlockParam()
+                0x00000000                control::BlockParam<float>::~BlockParam()
+
+.text._ZN7control10BlockParamIiED2Ev
+                0x00000000        0xc
+ .text._ZN7control10BlockParamIiED2Ev
+                0x00000000        0xc block/BlockParam.cpp.o
+                0x00000000                control::BlockParam<int>::~BlockParam()
+                0x00000000                control::BlockParam<int>::~BlockParam()
+
+.text._ZN7control10BlockParamIiED0Ev
+                0x00000000       0x12
+ .text._ZN7control10BlockParamIiED0Ev
+                0x00000000       0x12 block/BlockParam.cpp.o
+                0x00000000                control::BlockParam<int>::~BlockParam()
+
+.text._ZN7control10BlockParamIfED0Ev
+                0x00000000       0x12
+ .text._ZN7control10BlockParamIfED0Ev
+                0x00000000       0x12 block/BlockParam.cpp.o
+                0x00000000                control::BlockParam<float>::~BlockParam()
+
+.text._ZN7control14BlockParamBaseD0Ev
+                0x00000000       0x14
+ .text._ZN7control14BlockParamBaseD0Ev
+                0x00000000       0x14 block/BlockParam.cpp.o
+                0x00000000                control::BlockParamBase::~BlockParamBase()
+
+.text._ZN7control10BlockParamIiE6updateEv
+                0x00000000       0x10
+ .text._ZN7control10BlockParamIiE6updateEv
+                0x00000000       0x10 block/BlockParam.cpp.o
+                0x00000000                control::BlockParam<int>::update()
+
+.text._ZN7control10BlockParamIfE6updateEv
+                0x00000000       0x10
+ .text._ZN7control10BlockParamIfE6updateEv
+                0x00000000       0x10 block/BlockParam.cpp.o
+                0x00000000                control::BlockParam<float>::update()
+
+.text._ZN7control14BlockParamBaseC2EPNS_5BlockEPKcb
+                0x00000000       0x84
+ .text._ZN7control14BlockParamBaseC2EPNS_5BlockEPKcb
+                0x00000000       0x84 block/BlockParam.cpp.o
+                0x00000000                control::BlockParamBase::BlockParamBase(control::Block*, char const*, bool)
+                0x00000000                control::BlockParamBase::BlockParamBase(control::Block*, char const*, bool)
+
+.text._ZN7control10BlockParamIfEC2EPNS_5BlockEPKcb
+                0x00000000       0x20
+ .text._ZN7control10BlockParamIfEC2EPNS_5BlockEPKcb
+                0x00000000       0x20 block/BlockParam.cpp.o
+                0x00000000                control::BlockParam<float>::BlockParam(control::Block*, char const*, bool)
+                0x00000000                control::BlockParam<float>::BlockParam(control::Block*, char const*, bool)
+
+.text._ZN7control10BlockParamIfE3getEv
+                0x00000000        0x6
+ .text._ZN7control10BlockParamIfE3getEv
+                0x00000000        0x6 block/BlockParam.cpp.o
+                0x00000000                control::BlockParam<float>::get()
+
+.text._ZN7control10BlockParamIfE3setEf
+                0x00000000        0x6
+ .text._ZN7control10BlockParamIfE3setEf
+                0x00000000        0x6 block/BlockParam.cpp.o
+                0x00000000                control::BlockParam<float>::set(float)
+
+.text._ZN7control10BlockParamIiEC2EPNS_5BlockEPKcb
+                0x00000000       0x20
+ .text._ZN7control10BlockParamIiEC2EPNS_5BlockEPKcb
+                0x00000000       0x20 block/BlockParam.cpp.o
+                0x00000000                control::BlockParam<int>::BlockParam(control::Block*, char const*, bool)
+                0x00000000                control::BlockParam<int>::BlockParam(control::Block*, char const*, bool)
+
+.text._ZN7control10BlockParamIiE3getEv
+                0x00000000        0x4
+ .text._ZN7control10BlockParamIiE3getEv
+                0x00000000        0x4 block/BlockParam.cpp.o
+                0x00000000                control::BlockParam<int>::get()
+
+.text._ZN7control10BlockParamIiE3setEi
+                0x00000000        0x4
+ .text._ZN7control10BlockParamIiE3setEi
+                0x00000000        0x4 block/BlockParam.cpp.o
+                0x00000000                control::BlockParam<int>::set(int)
+
+.text._ZN7control21BlockWaypointGuidanceC2EPNS_10SuperBlockEPKc
+                0x00000000       0x74
+ .text._ZN7control21BlockWaypointGuidanceC2EPNS_10SuperBlockEPKc
+                0x00000000       0x74 uorb/blocks.cpp.o
+                0x00000000                control::BlockWaypointGuidance::BlockWaypointGuidance(control::SuperBlock*, char const*)
+                0x00000000                control::BlockWaypointGuidance::BlockWaypointGuidance(control::SuperBlock*, char const*)
+
+.text._ZN7control21BlockWaypointGuidance6updateER25vehicle_global_position_sR18vehicle_attitude_sR19position_setpoint_sS6_
+                0x00000000       0xc0
+ .text._ZN7control21BlockWaypointGuidance6updateER25vehicle_global_position_sR18vehicle_attitude_sR19position_setpoint_sS6_
+                0x00000000       0xc0 uorb/blocks.cpp.o
+                0x00000000                control::BlockWaypointGuidance::update(vehicle_global_position_s&, vehicle_attitude_s&, position_setpoint_s&, position_setpoint_s&)
+
+.text._ZN7control25BlockUorbEnabledAutopilotC2EPNS_10SuperBlockEPKc
+                0x00000000       0xc0
+ .text._ZN7control25BlockUorbEnabledAutopilotC2EPNS_10SuperBlockEPKc
+                0x00000000       0xc0 uorb/blocks.cpp.o
+                0x00000000                control::BlockUorbEnabledAutopilot::BlockUorbEnabledAutopilot(control::SuperBlock*, char const*)
+                0x00000000                control::BlockUorbEnabledAutopilot::BlockUorbEnabledAutopilot(control::SuperBlock*, char const*)
+
+.text._ZN7control25BlockUorbEnabledAutopilotD2Ev
+                0x00000000       0x60
+ .text._ZN7control25BlockUorbEnabledAutopilotD2Ev
+                0x00000000       0x60 uorb/blocks.cpp.o
+                0x00000000                control::BlockUorbEnabledAutopilot::~BlockUorbEnabledAutopilot()
+                0x00000000                control::BlockUorbEnabledAutopilot::~BlockUorbEnabledAutopilot()
+
+.text._ZN7control25BlockUorbEnabledAutopilotD0Ev
+                0x00000000       0x12
+ .text._ZN7control25BlockUorbEnabledAutopilotD0Ev
+                0x00000000       0x12 uorb/blocks.cpp.o
+                0x00000000                control::BlockUorbEnabledAutopilot::~BlockUorbEnabledAutopilot()
+
+.text._ZN7control6BlockPD2Ev
+                0x00000000       0x20
+ .text._ZN7control6BlockPD2Ev
+                0x00000000       0x20 uorb/blocks.cpp.o
+                0x00000000                control::BlockP::~BlockP()
+                0x00000000                control::BlockP::~BlockP()
+
+.text._ZN7control6BlockPD0Ev
+                0x00000000       0x12
+ .text._ZN7control6BlockPD0Ev
+                0x00000000       0x12 uorb/blocks.cpp.o
+                0x00000000                control::BlockP::~BlockP()
+
+.text._ZN7control13BlockLimitSymD2Ev
+                0x00000000       0x20
+ .text._ZN7control13BlockLimitSymD2Ev
+                0x00000000       0x20 uorb/blocks.cpp.o
+                0x00000000                control::BlockLimitSym::~BlockLimitSym()
+                0x00000000                control::BlockLimitSym::~BlockLimitSym()
+
+.text._ZN7control21BlockWaypointGuidanceD2Ev
+                0x00000000       0x28
+ .text._ZN7control21BlockWaypointGuidanceD2Ev
+                0x00000000       0x28 uorb/blocks.cpp.o
+                0x00000000                control::BlockWaypointGuidance::~BlockWaypointGuidance()
+                0x00000000                control::BlockWaypointGuidance::~BlockWaypointGuidance()
+
+.text._ZN7control21BlockWaypointGuidanceD0Ev
+                0x00000000       0x12
+ .text._ZN7control21BlockWaypointGuidanceD0Ev
+                0x00000000       0x12 uorb/blocks.cpp.o
+                0x00000000                control::BlockWaypointGuidance::~BlockWaypointGuidance()
+
+.text._ZN7control13BlockLimitSymD0Ev
+                0x00000000       0x12
+ .text._ZN7control13BlockLimitSymD0Ev
+                0x00000000       0x12 uorb/blocks.cpp.o
+                0x00000000                control::BlockLimitSym::~BlockLimitSym()
+
+.text._ZN7control10SuperBlockC2EPS0_PKc
+                0x00000000       0x18
+ .text._ZN7control10SuperBlockC2EPS0_PKc
+                0x00000000       0x18 blocks.cpp.o
+                0x00000000                control::SuperBlock::SuperBlock(control::SuperBlock*, char const*)
+                0x00000000                control::SuperBlock::SuperBlock(control::SuperBlock*, char const*)
+
+.text._ZN7control10BlockLimitC2EPNS_10SuperBlockEPKc
+                0x00000000       0x38
+ .text._ZN7control10BlockLimitC2EPNS_10SuperBlockEPKc
+                0x00000000       0x38 blocks.cpp.o
+                0x00000000                control::BlockLimit::BlockLimit(control::SuperBlock*, char const*)
+                0x00000000                control::BlockLimit::BlockLimit(control::SuperBlock*, char const*)
+
+.text._ZN7control13BlockLimitSymC2EPNS_10SuperBlockEPKc
+                0x00000000       0x28
+ .text._ZN7control13BlockLimitSymC2EPNS_10SuperBlockEPKc
+                0x00000000       0x28 blocks.cpp.o
+                0x00000000                control::BlockLimitSym::BlockLimitSym(control::SuperBlock*, char const*)
+                0x00000000                control::BlockLimitSym::BlockLimitSym(control::SuperBlock*, char const*)
+
+.text._ZN7control13BlockLimitSym6getMaxEv
+                0x00000000        0x6
+ .text._ZN7control13BlockLimitSym6getMaxEv
+                0x00000000        0x6 blocks.cpp.o
+                0x00000000                control::BlockLimitSym::getMax()
+
+.text._ZN7control12BlockLowPassC2EPNS_10SuperBlockEPKc
+                0x00000000       0x30
+ .text._ZN7control12BlockLowPassC2EPNS_10SuperBlockEPKc
+                0x00000000       0x30 blocks.cpp.o
+                0x00000000                control::BlockLowPass::BlockLowPass(control::SuperBlock*, char const*)
+                0x00000000                control::BlockLowPass::BlockLowPass(control::SuperBlock*, char const*)
+
+.text._ZN7control13BlockIntegralC2EPNS_10SuperBlockEPKc
+                0x00000000       0x28
+ .text._ZN7control13BlockIntegralC2EPNS_10SuperBlockEPKc
+                0x00000000       0x28 blocks.cpp.o
+                0x00000000                control::BlockIntegral::BlockIntegral(control::SuperBlock*, char const*)
+                0x00000000                control::BlockIntegral::BlockIntegral(control::SuperBlock*, char const*)
+
+.text._ZN7control15BlockDerivativeC2EPNS_10SuperBlockEPKc
+                0x00000000       0x30
+ .text._ZN7control15BlockDerivativeC2EPNS_10SuperBlockEPKc
+                0x00000000       0x30 blocks.cpp.o
+                0x00000000                control::BlockDerivative::BlockDerivative(control::SuperBlock*, char const*)
+                0x00000000                control::BlockDerivative::BlockDerivative(control::SuperBlock*, char const*)
+
+.text._ZN7control8BlockPIDC2EPNS_10SuperBlockEPKc
+                0x00000000       0x68
+ .text._ZN7control8BlockPIDC2EPNS_10SuperBlockEPKc
+                0x00000000       0x68 blocks.cpp.o
+                0x00000000                control::BlockPID::BlockPID(control::SuperBlock*, char const*)
+                0x00000000                control::BlockPID::BlockPID(control::SuperBlock*, char const*)
+
+.text._ZN7control16BlockRandUniform6updateEv
+                0x00000000       0x50
+ .text._ZN7control16BlockRandUniform6updateEv
+                0x00000000       0x50 blocks.cpp.o
+                0x00000000                control::BlockRandUniform::update()
+
+.text._ZN7control14BlockRandGauss6updateEv
+                0x00000000      0x110
+ .text._ZN7control14BlockRandGauss6updateEv
+                0x00000000      0x110 blocks.cpp.o
+                0x00000000                control::BlockRandGauss::update()
+
+.text._ZN7control10BlockLimit6updateEf
+                0x00000000       0x4e
+ .text._ZN7control10BlockLimit6updateEf
+                0x00000000       0x4e blocks.cpp.o
+                0x00000000                control::BlockLimit::update(float)
+
+.text._ZN7control11BlockOutput6updateEf
+                0x00000000       0x2a
+ .text._ZN7control11BlockOutput6updateEf
+                0x00000000       0x2a blocks.cpp.o
+                0x00000000                control::BlockOutput::update(float)
+
+.text._ZN7control13BlockLimitSym6updateEf
+                0x00000000       0x52
+ .text._ZN7control13BlockLimitSym6updateEf
+                0x00000000       0x52 blocks.cpp.o
+                0x00000000                control::BlockLimitSym::update(float)
+
+.text._ZN7control12BlockLowPass6updateEf
+                0x00000000       0x60
+ .text._ZN7control12BlockLowPass6updateEf
+                0x00000000       0x60 blocks.cpp.o
+                0x00000000                control::BlockLowPass::update(float)
+
+.text._ZN7control13BlockHighPass6updateEf
+                0x00000000       0x58
+ .text._ZN7control13BlockHighPass6updateEf
+                0x00000000       0x58 blocks.cpp.o
+                0x00000000                control::BlockHighPass::update(float)
+
+.text._ZN7control13BlockIntegral6updateEf
+                0x00000000       0x22
+ .text._ZN7control13BlockIntegral6updateEf
+                0x00000000       0x22 blocks.cpp.o
+                0x00000000                control::BlockIntegral::update(float)
+
+.text._ZN7control17BlockIntegralTrap6updateEf
+                0x00000000       0x3e
+ .text._ZN7control17BlockIntegralTrap6updateEf
+                0x00000000       0x3e blocks.cpp.o
+                0x00000000                control::BlockIntegralTrap::update(float)
+
+.text._ZN7control15BlockDerivative6updateEf
+                0x00000000       0x44
+ .text._ZN7control15BlockDerivative6updateEf
+                0x00000000       0x44 blocks.cpp.o
+                0x00000000                control::BlockDerivative::update(float)
+
+.text._ZN7control14BlockRandGaussD2Ev
+                0x00000000       0x28
+ .text._ZN7control14BlockRandGaussD2Ev
+                0x00000000       0x28 blocks.cpp.o
+                0x00000000                control::BlockRandGauss::~BlockRandGauss()
+                0x00000000                control::BlockRandGauss::~BlockRandGauss()
+
+.text._ZN7control18blockRandGaussTestEv
+                0x00000000      0x17c
+ .text._ZN7control18blockRandGaussTestEv
+                0x00000000      0x17c blocks.cpp.o
+                0x00000000                control::blockRandGaussTest()
+
+.text._ZN7control14BlockRandGaussD0Ev
+                0x00000000       0x12
+ .text._ZN7control14BlockRandGaussD0Ev
+                0x00000000       0x12 blocks.cpp.o
+                0x00000000                control::BlockRandGauss::~BlockRandGauss()
+
+.text._ZN7control16BlockRandUniformD2Ev
+                0x00000000       0x28
+ .text._ZN7control16BlockRandUniformD2Ev
+                0x00000000       0x28 blocks.cpp.o
+                0x00000000                control::BlockRandUniform::~BlockRandUniform()
+                0x00000000                control::BlockRandUniform::~BlockRandUniform()
+
+.text._ZN7control20blockRandUniformTestEv
+                0x00000000      0x174
+ .text._ZN7control20blockRandUniformTestEv
+                0x00000000      0x174 blocks.cpp.o
+                0x00000000                control::blockRandUniformTest()
+
+.text._ZN7control16BlockRandUniformD0Ev
+                0x00000000       0x12
+ .text._ZN7control16BlockRandUniformD0Ev
+                0x00000000       0x12 blocks.cpp.o
+                0x00000000                control::BlockRandUniform::~BlockRandUniform()
+
+.text._ZN7control10blockPTestEv
+                0x00000000       0xe0
+ .text._ZN7control10blockPTestEv
+                0x00000000       0xe0 blocks.cpp.o
+                0x00000000                control::blockPTest()
+
+.text._ZN7control13BlockHighPassD2Ev
+                0x00000000       0x20
+ .text._ZN7control13BlockHighPassD2Ev
+                0x00000000       0x20 blocks.cpp.o
+                0x00000000                control::BlockHighPass::~BlockHighPass()
+                0x00000000                control::BlockHighPass::~BlockHighPass()
+
+.text._ZN7control17blockHighPassTestEv
+                0x00000000      0x1a0
+ .text._ZN7control17blockHighPassTestEv
+                0x00000000      0x1a0 blocks.cpp.o
+                0x00000000                control::blockHighPassTest()
+
+.text._ZN7control13BlockHighPassD0Ev
+                0x00000000       0x12
+ .text._ZN7control13BlockHighPassD0Ev
+                0x00000000       0x12 blocks.cpp.o
+                0x00000000                control::BlockHighPass::~BlockHighPass()
+
+.text._ZN7control12BlockLowPassD2Ev
+                0x00000000       0x20
+ .text._ZN7control12BlockLowPassD2Ev
+                0x00000000       0x20 blocks.cpp.o
+                0x00000000                control::BlockLowPass::~BlockLowPass()
+                0x00000000                control::BlockLowPass::~BlockLowPass()
+
+.text._ZN7control16blockLowPassTestEv
+                0x00000000      0x13c
+ .text._ZN7control16blockLowPassTestEv
+                0x00000000      0x13c blocks.cpp.o
+                0x00000000                control::blockLowPassTest()
+
+.text._ZN7control15BlockDerivativeD2Ev
+                0x00000000       0x20
+ .text._ZN7control15BlockDerivativeD2Ev
+                0x00000000       0x20 blocks.cpp.o
+                0x00000000                control::BlockDerivative::~BlockDerivative()
+                0x00000000                control::BlockDerivative::~BlockDerivative()
+
+.text._ZN7control19blockDerivativeTestEv
+                0x00000000      0x104
+ .text._ZN7control19blockDerivativeTestEv
+                0x00000000      0x104 blocks.cpp.o
+                0x00000000                control::blockDerivativeTest()
+
+.text._ZN7control15BlockDerivativeD0Ev
+                0x00000000       0x12
+ .text._ZN7control15BlockDerivativeD0Ev
+                0x00000000       0x12 blocks.cpp.o
+                0x00000000                control::BlockDerivative::~BlockDerivative()
+
+.text._ZN7control12BlockLowPassD0Ev
+                0x00000000       0x12
+ .text._ZN7control12BlockLowPassD0Ev
+                0x00000000       0x12 blocks.cpp.o
+                0x00000000                control::BlockLowPass::~BlockLowPass()
+
+.text._ZN7control7BlockPDD2Ev
+                0x00000000       0x30
+ .text._ZN7control7BlockPDD2Ev
+                0x00000000       0x30 blocks.cpp.o
+                0x00000000                control::BlockPD::~BlockPD()
+                0x00000000                control::BlockPD::~BlockPD()
+
+.text._ZN7control11blockPDTestEv
+                0x00000000      0x188
+ .text._ZN7control11blockPDTestEv
+                0x00000000      0x188 blocks.cpp.o
+                0x00000000                control::blockPDTest()
+
+.text._ZN7control7BlockPDD0Ev
+                0x00000000       0x12
+ .text._ZN7control7BlockPDD0Ev
+                0x00000000       0x12 blocks.cpp.o
+                0x00000000                control::BlockPD::~BlockPD()
+
+.text._ZN7control17blockLimitSymTestEv
+                0x00000000       0xdc
+ .text._ZN7control17blockLimitSymTestEv
+                0x00000000       0xdc blocks.cpp.o
+                0x00000000                control::blockLimitSymTest()
+
+.text._ZN7control17BlockIntegralTrapD2Ev
+                0x00000000       0x20
+ .text._ZN7control17BlockIntegralTrapD2Ev
+                0x00000000       0x20 blocks.cpp.o
+                0x00000000                control::BlockIntegralTrap::~BlockIntegralTrap()
+                0x00000000                control::BlockIntegralTrap::~BlockIntegralTrap()
+
+.text._ZN7control21blockIntegralTrapTestEv
+                0x00000000      0x20c
+ .text._ZN7control21blockIntegralTrapTestEv
+                0x00000000      0x20c blocks.cpp.o
+                0x00000000                control::blockIntegralTrapTest()
+
+.text._ZN7control17BlockIntegralTrapD0Ev
+                0x00000000       0x12
+ .text._ZN7control17BlockIntegralTrapD0Ev
+                0x00000000       0x12 blocks.cpp.o
+                0x00000000                control::BlockIntegralTrap::~BlockIntegralTrap()
+
+.text._ZN7control13BlockIntegralD2Ev
+                0x00000000       0x20
+ .text._ZN7control13BlockIntegralD2Ev
+                0x00000000       0x20 blocks.cpp.o
+                0x00000000                control::BlockIntegral::~BlockIntegral()
+                0x00000000                control::BlockIntegral::~BlockIntegral()
+
+.text._ZN7control17blockIntegralTestEv
+                0x00000000      0x188
+ .text._ZN7control17blockIntegralTestEv
+                0x00000000      0x188 blocks.cpp.o
+                0x00000000                control::blockIntegralTest()
+
+.text._ZN7control13BlockIntegralD0Ev
+                0x00000000       0x12
+ .text._ZN7control13BlockIntegralD0Ev
+                0x00000000       0x12 blocks.cpp.o
+                0x00000000                control::BlockIntegral::~BlockIntegral()
+
+.text._ZN7control8BlockPIDD2Ev
+                0x00000000       0x40
+ .text._ZN7control8BlockPIDD2Ev
+                0x00000000       0x40 blocks.cpp.o
+                0x00000000                control::BlockPID::~BlockPID()
+                0x00000000                control::BlockPID::~BlockPID()
+
+.text._ZN7control12blockPIDTestEv
+                0x00000000      0x1d8
+ .text._ZN7control12blockPIDTestEv
+                0x00000000      0x1d8 blocks.cpp.o
+                0x00000000                control::blockPIDTest()
+
+.text._ZN7control8BlockPIDD0Ev
+                0x00000000       0x12
+ .text._ZN7control8BlockPIDD0Ev
+                0x00000000       0x12 blocks.cpp.o
+                0x00000000                control::BlockPID::~BlockPID()
+
+.text._ZN7control7BlockPID2Ev
+                0x00000000       0x30
+ .text._ZN7control7BlockPID2Ev
+                0x00000000       0x30 blocks.cpp.o
+                0x00000000                control::BlockPI::~BlockPI()
+                0x00000000                control::BlockPI::~BlockPI()
+
+.text._ZN7control11blockPITestEv
+                0x00000000      0x188
+ .text._ZN7control11blockPITestEv
+                0x00000000      0x188 blocks.cpp.o
+                0x00000000                control::blockPITest()
+
+.text._ZN7control7BlockPID0Ev
+                0x00000000       0x12
+ .text._ZN7control7BlockPID0Ev
+                0x00000000       0x12 blocks.cpp.o
+                0x00000000                control::BlockPI::~BlockPI()
+
+.text._ZN7control10BlockLimitD2Ev
+                0x00000000       0x28
+ .text._ZN7control10BlockLimitD2Ev
+                0x00000000       0x28 blocks.cpp.o
+                0x00000000                control::BlockLimit::~BlockLimit()
+                0x00000000                control::BlockLimit::~BlockLimit()
+
+.text._ZN7control14blockLimitTestEv
+                0x00000000       0xfc
+ .text._ZN7control14blockLimitTestEv
+                0x00000000       0xfc blocks.cpp.o
+                0x00000000                control::blockLimitTest()
+
+.text._ZN7control10BlockLimitD0Ev
+                0x00000000       0x12
+ .text._ZN7control10BlockLimitD0Ev
+                0x00000000       0x12 blocks.cpp.o
+                0x00000000                control::BlockLimit::~BlockLimit()
+
+.text._ZN7control11BlockOutputD2Ev
+                0x00000000       0x28
+ .text._ZN7control11BlockOutputD2Ev
+                0x00000000       0x28 blocks.cpp.o
+                0x00000000                control::BlockOutput::~BlockOutput()
+                0x00000000                control::BlockOutput::~BlockOutput()
+
+.text._ZN7control15blockOutputTestEv
+                0x00000000      0x160
+ .text._ZN7control15blockOutputTestEv
+                0x00000000      0x160 blocks.cpp.o
+                0x00000000                control::blockOutputTest()
+
+.text._ZN7control15basicBlocksTestEv
+                0x00000000       0x3e
+ .text._ZN7control15basicBlocksTestEv
+                0x00000000       0x3e blocks.cpp.o
+                0x00000000                control::basicBlocksTest()
+
+.text._ZN7control11BlockOutputD0Ev
+                0x00000000       0x12
+ .text._ZN7control11BlockOutputD0Ev
+                0x00000000       0x12 blocks.cpp.o
+                0x00000000                control::BlockOutput::~BlockOutput()
+
+.fini
+ *(.fini)
+
+.rodata
+ *(.rodata)
+
+__param         0x00000000       0x90
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                PROVIDE (__start___param, ABSOLUTE (.))
+ __param        0x00000000       0x90 test_params.c.o
+                0x00000090                PROVIDE (__stop___param, .)
+
+.rodata.str1.1  0x00000000      0x300
+ .rodata.str1.1
+                0x00000000       0x69 test_params.c.o
+ .rodata.str1.1
+                0x00000069       0xa1 block/Block.cpp.o
+ .rodata.str1.1
+                0x0000010a       0x1f block/BlockParam.cpp.o
+ .rodata.str1.1
+                0x00000129        0xc uorb/blocks.cpp.o
+ .rodata.str1.1
+                0x00000135      0x1cb blocks.cpp.o
+
+.rodata._ZTVN7control10SuperBlockE
+                0x00000000       0x20
+ .rodata._ZTVN7control10SuperBlockE
+                0x00000000       0x20 block/Block.cpp.o
+                0x00000000                vtable for control::SuperBlock
+
+.rodata._ZTVN7control5BlockE
+                0x00000000       0x20
+ .rodata._ZTVN7control5BlockE
+                0x00000000       0x20 block/Block.cpp.o
+                0x00000000                vtable for control::Block
+
+.rodata._ZTVN7control10BlockParamIfEE
+                0x00000000       0x18
+ .rodata._ZTVN7control10BlockParamIfEE
+                0x00000000       0x18 block/BlockParam.cpp.o
+                0x00000000                vtable for control::BlockParam<float>
+
+.rodata._ZTVN7control10BlockParamIiEE
+                0x00000000       0x18
+ .rodata._ZTVN7control10BlockParamIiEE
+                0x00000000       0x18 block/BlockParam.cpp.o
+                0x00000000                vtable for control::BlockParam<int>
+
+.rodata._ZTVN7control14BlockParamBaseE
+                0x00000000       0x18
+ .rodata._ZTVN7control14BlockParamBaseE
+                0x00000000       0x18 block/BlockParam.cpp.o
+                0x00000000                vtable for control::BlockParamBase
+
+.rodata._ZTVN7control13BlockLimitSymE
+                0x00000000       0x20
+ .rodata._ZTVN7control13BlockLimitSymE
+                0x00000000       0x20 uorb/blocks.cpp.o
+                0x00000000                vtable for control::BlockLimitSym
+
+.rodata._ZTVN7control6BlockPE
+                0x00000000       0x20
+ .rodata._ZTVN7control6BlockPE
+                0x00000000       0x20 uorb/blocks.cpp.o
+                0x00000000                vtable for control::BlockP
+
+.rodata._ZTVN7control25BlockUorbEnabledAutopilotE
+                0x00000000       0x20
+ .rodata._ZTVN7control25BlockUorbEnabledAutopilotE
+                0x00000000       0x20 uorb/blocks.cpp.o
+                0x00000000                vtable for control::BlockUorbEnabledAutopilot
+
+.rodata._ZTVN7control21BlockWaypointGuidanceE
+                0x00000000       0x20
+ .rodata._ZTVN7control21BlockWaypointGuidanceE
+                0x00000000       0x20 uorb/blocks.cpp.o
+                0x00000000                vtable for control::BlockWaypointGuidance
+
+.rodata._ZTVN7control10BlockLimitE
+                0x00000000       0x20
+ .rodata._ZTVN7control10BlockLimitE
+                0x00000000       0x20 blocks.cpp.o
+                0x00000000                vtable for control::BlockLimit
+
+.rodata._ZTVN7control12BlockLowPassE
+                0x00000000       0x20
+ .rodata._ZTVN7control12BlockLowPassE
+                0x00000000       0x20 blocks.cpp.o
+                0x00000000                vtable for control::BlockLowPass
+
+.rodata._ZTVN7control13BlockHighPassE
+                0x00000000       0x20
+ .rodata._ZTVN7control13BlockHighPassE
+                0x00000000       0x20 blocks.cpp.o
+                0x00000000                vtable for control::BlockHighPass
+
+.rodata._ZTVN7control13BlockIntegralE
+                0x00000000       0x20
+ .rodata._ZTVN7control13BlockIntegralE
+                0x00000000       0x20 blocks.cpp.o
+                0x00000000                vtable for control::BlockIntegral
+
+.rodata._ZTVN7control17BlockIntegralTrapE
+                0x00000000       0x20
+ .rodata._ZTVN7control17BlockIntegralTrapE
+                0x00000000       0x20 blocks.cpp.o
+                0x00000000                vtable for control::BlockIntegralTrap
+
+.rodata._ZTVN7control15BlockDerivativeE
+                0x00000000       0x20
+ .rodata._ZTVN7control15BlockDerivativeE
+                0x00000000       0x20 blocks.cpp.o
+                0x00000000                vtable for control::BlockDerivative
+
+.rodata._ZTVN7control7BlockPIE
+                0x00000000       0x20
+ .rodata._ZTVN7control7BlockPIE
+                0x00000000       0x20 blocks.cpp.o
+                0x00000000                vtable for control::BlockPI
+
+.rodata._ZTVN7control7BlockPDE
+                0x00000000       0x20
+ .rodata._ZTVN7control7BlockPDE
+                0x00000000       0x20 blocks.cpp.o
+                0x00000000                vtable for control::BlockPD
+
+.rodata._ZTVN7control8BlockPIDE
+                0x00000000       0x20
+ .rodata._ZTVN7control8BlockPIDE
+                0x00000000       0x20 blocks.cpp.o
+                0x00000000                vtable for control::BlockPID
+
+.rodata._ZTVN7control11BlockOutputE
+                0x00000000       0x20
+ .rodata._ZTVN7control11BlockOutputE
+                0x00000000       0x20 blocks.cpp.o
+                0x00000000                vtable for control::BlockOutput
+
+.rodata._ZTVN7control16BlockRandUniformE
+                0x00000000       0x20
+ .rodata._ZTVN7control16BlockRandUniformE
+                0x00000000       0x20 blocks.cpp.o
+                0x00000000                vtable for control::BlockRandUniform
+
+.rodata._ZTVN7control14BlockRandGaussE
+                0x00000000       0x20
+ .rodata._ZTVN7control14BlockRandGaussE
+                0x00000000       0x20 blocks.cpp.o
+                0x00000000                vtable for control::BlockRandGauss
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab
+ *(.ARM.extab)
+
+.ARM.exidx
+ *(.ARM.exidx)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got.plt)
+ *(.igot.plt)
+ *(.got)
+ *(.igot)
+
+.data           0x00000000        0x0
+ *(.data)
+ .data          0x00000000        0x0 test_params.c.o
+ .data          0x00000000        0x0 block/Block.cpp.o
+ .data          0x00000000        0x0 block/BlockParam.cpp.o
+ .data          0x00000000        0x0 uorb/blocks.cpp.o
+ .data          0x00000000        0x0 blocks.cpp.o
+
+.data._ZZN7control16BlockRandUniform6updateEvE8rand_max
+                0x00000000        0x4
+ .data._ZZN7control16BlockRandUniform6updateEvE8rand_max
+                0x00000000        0x4 blocks.cpp.o
+                0x00000000                control::BlockRandUniform::update()::rand_max
+
+.data1
+ *(.data1)
+
+.bss            0x00000000        0x0
+ *(.dynbss)
+ *(.bss)
+ .bss           0x00000000        0x0 test_params.c.o
+ .bss           0x00000000        0x0 block/Block.cpp.o
+ .bss           0x00000000        0x0 block/BlockParam.cpp.o
+ .bss           0x00000000        0x0 uorb/blocks.cpp.o
+ .bss           0x00000000        0x0 blocks.cpp.o
+ *(COMMON)
+
+.bss._ZZN7control14BlockRandGauss6updateEvE5phase
+                0x00000000        0x4
+ .bss._ZZN7control14BlockRandGauss6updateEvE5phase
+                0x00000000        0x4 blocks.cpp.o
+                0x00000000                control::BlockRandGauss::update()::phase
+
+.bss._ZZN7control14BlockRandGauss6updateEvE2V1
+                0x00000000        0x4
+ .bss._ZZN7control14BlockRandGauss6updateEvE2V1
+                0x00000000        0x4 blocks.cpp.o
+                0x00000000                control::BlockRandGauss::update()::V1
+
+.bss._ZZN7control14BlockRandGauss6updateEvE2V2
+                0x00000000        0x4
+ .bss._ZZN7control14BlockRandGauss6updateEvE2V2
+                0x00000000        0x4 blocks.cpp.o
+                0x00000000                control::BlockRandGauss::update()::V2
+
+.bss._ZZN7control14BlockRandGauss6updateEvE1S
+                0x00000000        0x4
+ .bss._ZZN7control14BlockRandGauss6updateEvE1S
+                0x00000000        0x4 blocks.cpp.o
+                0x00000000                control::BlockRandGauss::update()::S
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000      0x235
+ *(.comment)
+ .comment       0x00000000       0x71 test_params.c.o
+ .comment       0x00000071       0x71 block/Block.cpp.o
+ .comment       0x000000e2       0x71 block/BlockParam.cpp.o
+ .comment       0x00000153       0x71 uorb/blocks.cpp.o
+ .comment       0x000001c4       0x71 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 test_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 test_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 test_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 test_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 test_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 test_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 test_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 test_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 test_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 test_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 test_params.c.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/Block.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc block/BlockParam.cpp.o
+
+.group          0x00000000        0xc
+ .group         0x00000000        0xc block/BlockParam.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 block/BlockParam.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 uorb/blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.group          0x00000000        0x8
+ .group         0x00000000        0x8 blocks.cpp.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x3f8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x18 test_params.c.o
+ .debug_aranges
+                0x00000018       0xa0 block/Block.cpp.o
+ .debug_aranges
+                0x000000b8       0x90 block/BlockParam.cpp.o
+ .debug_aranges
+                0x00000148       0x90 uorb/blocks.cpp.o
+ .debug_aranges
+                0x000001d8      0x220 blocks.cpp.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xfa55
+ *(.debug_info)
+ .debug_info    0x00000000      0x201 test_params.c.o
+ .debug_info    0x00000201     0x2046 block/Block.cpp.o
+ .debug_info    0x00002247     0x102c block/BlockParam.cpp.o
+ .debug_info    0x00003273     0x601b uorb/blocks.cpp.o
+ .debug_info    0x0000928e     0x67c7 blocks.cpp.o
+
+.debug_abbrev   0x00000000     0x15df
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0xbb test_params.c.o
+ .debug_abbrev  0x000000bb      0x486 block/Block.cpp.o
+ .debug_abbrev  0x00000541      0x3dc block/BlockParam.cpp.o
+ .debug_abbrev  0x0000091d      0x600 uorb/blocks.cpp.o
+ .debug_abbrev  0x00000f1d      0x6c2 blocks.cpp.o
+
+.debug_line     0x00000000     0x42fa
+ *(.debug_line)
+ .debug_line    0x00000000      0x2cf test_params.c.o
+ .debug_line    0x000002cf      0xbcd block/Block.cpp.o
+ .debug_line    0x00000e9c      0x9e7 block/BlockParam.cpp.o
+ .debug_line    0x00001883     0x1298 uorb/blocks.cpp.o
+ .debug_line    0x00002b1b     0x17df blocks.cpp.o
+
+.debug_frame    0x00000000      0xb74
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x1d0 block/Block.cpp.o
+ .debug_frame   0x000001d0      0x13c block/BlockParam.cpp.o
+ .debug_frame   0x0000030c      0x18c uorb/blocks.cpp.o
+ .debug_frame   0x00000498      0x6dc blocks.cpp.o
+
+.debug_str      0x00000000    0x33939
+ *(.debug_str)
+ .debug_str     0x00000000     0x5838 test_params.c.o
+ .debug_str     0x00005838     0xaa4a block/Block.cpp.o
+ .debug_str     0x00010282     0xa0ba block/BlockParam.cpp.o
+ .debug_str     0x0001a33c     0xe2b5 uorb/blocks.cpp.o
+ .debug_str     0x000285f1     0xb348 blocks.cpp.o
+
+.debug_loc      0x00000000     0x31f3
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x7f1 block/Block.cpp.o
+ .debug_loc     0x000007f1      0x3ea block/BlockParam.cpp.o
+ .debug_loc     0x00000bdb      0x4e4 uorb/blocks.cpp.o
+ .debug_loc     0x000010bf     0x2134 blocks.cpp.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0xe38
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x1b8 block/Block.cpp.o
+ .debug_ranges  0x000001b8       0xb0 block/BlockParam.cpp.o
+ .debug_ranges  0x00000268      0x130 uorb/blocks.cpp.o
+ .debug_ranges  0x00000398      0xaa0 blocks.cpp.o
+
+.stack
+ *(.stack)
+
+.ARM.attributes
+                0x00000000       0x37
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x37 test_params.c.o
+ .ARM.attributes
+                0x00000037       0x37 block/Block.cpp.o
+ .ARM.attributes
+                0x0000006e       0x37 block/BlockParam.cpp.o
+ .ARM.attributes
+                0x000000a5       0x37 uorb/blocks.cpp.o
+ .ARM.attributes
+                0x000000dc       0x37 blocks.cpp.o
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+OUTPUT(/misc/shome/ex36/pixhawk/px4/Firmware/Build/px4fmu-v2_default.build//misc/shome/ex36/pixhawk/px4/Firmware/src/modules/controllib/module.pre.o elf32-littlearm)
+
+.debug_macro    0x00000000      0xa3d
+ .debug_macro   0x00000000       0x7d test_params.c.o
+ .debug_macro   0x0000007d      0x238 block/Block.cpp.o
+ .debug_macro   0x000002b5      0x21d block/BlockParam.cpp.o
+ .debug_macro   0x000004d2      0x346 uorb/blocks.cpp.o
+ .debug_macro   0x00000818      0x225 blocks.cpp.o
+
+.debug_macro    0x00000000      0x81a
+ .debug_macro   0x00000000      0x81a test_params.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 test_params.c.o
+
+.debug_macro    0x00000000      0x8a6
+ .debug_macro   0x00000000      0x8a6 test_params.c.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 test_params.c.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 test_params.c.o
+
+.debug_macro    0x00000000       0x88
+ .debug_macro   0x00000000       0x88 test_params.c.o
+
+.debug_macro    0x00000000      0x14e
+ .debug_macro   0x00000000      0x14e test_params.c.o
+
+.debug_macro    0x00000000      0x125
+ .debug_macro   0x00000000      0x125 test_params.c.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 test_params.c.o
+
+.debug_macro    0x00000000       0x6f
+ .debug_macro   0x00000000       0x6f test_params.c.o
+
+.debug_macro    0x00000000       0x25
+ .debug_macro   0x00000000       0x25 test_params.c.o
+
+.debug_macro    0x00000000      0x838
+ .debug_macro   0x00000000      0x838 block/Block.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 block/Block.cpp.o
+
+.debug_macro    0x00000000       0x3a
+ .debug_macro   0x00000000       0x3a block/Block.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 block/Block.cpp.o
+
+.debug_macro    0x00000000       0x27
+ .debug_macro   0x00000000       0x27 block/Block.cpp.o
+
+.debug_macro    0x00000000       0xa3
+ .debug_macro   0x00000000       0xa3 block/Block.cpp.o
+
+.debug_macro    0x00000000      0x281
+ .debug_macro   0x00000000      0x281 block/Block.cpp.o
+
+.debug_macro    0x00000000       0xc9
+ .debug_macro   0x00000000       0xc9 block/Block.cpp.o
+
+.debug_macro    0x00000000       0x5d
+ .debug_macro   0x00000000       0x5d block/Block.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 block/Block.cpp.o
+
+.debug_macro    0x00000000       0x58
+ .debug_macro   0x00000000       0x58 block/Block.cpp.o
+
+.debug_macro    0x00000000       0x4c
+ .debug_macro   0x00000000       0x4c block/Block.cpp.o
+
+.debug_macro    0x00000000       0x49
+ .debug_macro   0x00000000       0x49 block/Block.cpp.o
+
+.debug_macro    0x00000000      0x106
+ .debug_macro   0x00000000      0x106 block/Block.cpp.o
+
+.debug_macro    0x00000000       0x23
+ .debug_macro   0x00000000       0x23 block/Block.cpp.o
+
+.debug_macro    0x00000000       0x28
+ .debug_macro   0x00000000       0x28 block/Block.cpp.o
+
+.debug_macro    0x00000000       0xd1
+ .debug_macro   0x00000000       0xd1 block/Block.cpp.o
+
+.debug_macro    0x00000000       0x98
+ .debug_macro   0x00000000       0x98 block/Block.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 block/Block.cpp.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 block/Block.cpp.o
+
+.debug_macro    0x00000000      0x11b
+ .debug_macro   0x00000000      0x11b block/Block.cpp.o
+
+.debug_macro    0x00000000       0x46
+ .debug_macro   0x00000000       0x46 block/Block.cpp.o
+
+.debug_macro    0x00000000      0x27f
+ .debug_macro   0x00000000      0x27f block/Block.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 block/Block.cpp.o
+
+.debug_macro    0x00000000      0x195
+ .debug_macro   0x00000000      0x195 block/Block.cpp.o
+
+.debug_macro    0x00000000       0x8a
+ .debug_macro   0x00000000       0x8a block/Block.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 block/Block.cpp.o
+
+.debug_macro    0x00000000       0x10
+ .debug_macro   0x00000000       0x10 block/Block.cpp.o
+
+.debug_macro    0x00000000       0x39
+ .debug_macro   0x00000000       0x39 block/Block.cpp.o
+
+.debug_macro    0x00000000       0xb4
+ .debug_macro   0x00000000       0xb4 block/Block.cpp.o
+
+.debug_macro    0x00000000       0x41
+ .debug_macro   0x00000000       0x41 block/Block.cpp.o
+
+.debug_macro    0x00000000       0x4d
+ .debug_macro   0x00000000       0x4d block/Block.cpp.o
+
+.debug_macro    0x00000000       0x29
+ .debug_macro   0x00000000       0x29 block/Block.cpp.o
+
+.debug_macro    0x00000000       0x18
+ .debug_macro   0x00000000       0x18 block/Block.cpp.o
+
+.debug_macro    0x00000000       0x2b
+ .debug_macro   0x00000000       0x2b block/Block.cpp.o
+
+.debug_macro    0x00000000       0x63
+ .debug_macro   0x00000000       0x63 uorb/blocks.cpp.o
+
+.debug_macro    0x00000000       0x16
+ .debug_macro   0x00000000       0x16 uorb/blocks.cpp.o
+
+.debug_macro    0x00000000      0x168
+ .debug_macro   0x00000000      0x168 uorb/blocks.cpp.o
+
+.debug_macro    0x00000000       0x30
+ .debug_macro   0x00000000       0x30 uorb/blocks.cpp.o
+
+.debug_macro    0x00000000       0x53
+ .debug_macro   0x00000000       0x53 uorb/blocks.cpp.o
+
+.debug_macro    0x00000000       0x5e
+ .debug_macro   0x00000000       0x5e uorb/blocks.cpp.o
+
+.debug_macro    0x00000000       0x59
+ .debug_macro   0x00000000       0x59 uorb/blocks.cpp.o
+
+.debug_macro    0x00000000       0x22
+ .debug_macro   0x00000000       0x22 uorb/blocks.cpp.o
+
+.debug_macro    0x00000000       0x12
+ .debug_macro   0x00000000       0x12 blocks.cpp.o

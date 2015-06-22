@@ -1,0 +1,87 @@
+ms5611 start
+adc start
+if ver hwcmp PX4FMU_V2
+then
+	if hmc5883 -C -X start
+	then
+	fi
+	if hmc5883 -C -I -R 4 start
+	then
+	fi
+	if mpu6000 -X -R 4 start
+	then
+		set BOARD_FMUV3 true
+	else
+		set BOARD_FMUV3 false
+	fi
+	if [ $BOARD_FMUV3 == true ]
+	then
+		if l3gd20 -X -R 4 start
+		then
+		fi
+		if lsm303d -X -R 6 start
+		then
+		fi
+		if mpu6000 -R 14 start
+		then
+		fi
+		if hmc5883 -S -R 8 start
+		then
+		fi
+	else
+		if mpu6000 start
+		then
+		fi
+		if l3gd20 start
+		then
+		fi
+		if lsm303d start
+		then
+		fi
+	fi
+else
+	if mpu6000 start
+	then
+	fi
+	if l3gd20 start
+	then
+	fi
+	if param compare SENS_EXT_MAG 2
+	then
+		if hmc5883 -C -I start
+		then
+		fi
+	else
+		if param compare SENS_EXT_MAG 1
+		then
+			if hmc5883 -C -X start
+			then
+			fi
+		else
+			if hmc5883 start
+			then
+			fi
+		fi
+	fi
+fi
+if meas_airspeed start
+then
+else
+	if ets_airspeed start
+	then
+	else
+		if ets_airspeed start -b 1
+		then
+		fi
+	fi
+fi
+if px4flow start
+then
+fi
+if ll40ls start
+then
+fi
+if sensors start
+then
+	preflight_check &
+fi
